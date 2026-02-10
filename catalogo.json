@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T20:09:29.432Z",
+  "generated_at": "2026-02-10T21:22:53.604Z",
   "stores": {
     "CASTFER": {
       "name": "CASTFER",
@@ -535,7 +535,7 @@
       "brand": "GUANTU",
       "style": "Liso",
       "material": "Cire secado rapido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702_01.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1Nv3m.jpg",
       "carpeta_id": "1qBHELpt796sb_N7bAmPQs15VRJxX22Ug",
       "woo_id": "",
       "variations": [
@@ -6890,9 +6890,9 @@
       "brand": "YD",
       "style": "Liso",
       "material": "Cire",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP6076%2FCAMP6076_01.jpeg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP6076%2FCAMP6076-1iC9Q.jpg",
       "carpeta_id": "1b1H5BJESn_kry3EeD1o_tLb6md2dRwG1",
-      "woo_id": "",
+      "woo_id": 38217,
       "variations": [
         {
           "color": "Surtido",
