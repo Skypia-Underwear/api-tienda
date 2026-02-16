@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T23:16:15.894Z",
+  "generated_at": "2026-02-16T23:21:14.483Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5516,17 +5516,17 @@
     },
     {
       "id": "BUZO2589",
-      "model": "PRUEBA",
+      "model": "Puffer",
       "price": 8000,
       "minor_surcharge": 0,
-      "category_id": "Buzo",
-      "categoryName": "Buzo",
+      "category_id": "Campera",
+      "categoryName": "Campera",
       "parentCategory": "",
       "season": "SIN-TEMPORADA",
-      "gender": "Hombre",
-      "brand": "SKYPIA UNDERWEAR",
-      "style": "",
-      "material": "",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Puffer",
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBUZO2589%2FBUZO2589-1svSO.jpg",
       "carpeta_id": "1ZPajO1KtL0NKY1oi8prxMThnB8ms9db-",
       "woo_id": "",
