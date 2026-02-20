@@ -44,6 +44,8 @@
   },
   "contentagencia": [
     {
+      "codigo": "",
+      "descripcion": "",
       "cuit": "",
       "ubicacion": "Flores CABA",
       "moneda": "$",
@@ -51,6 +53,8 @@
       "hora_entrega": ""
     },
     {
+      "codigo": "",
+      "descripcion": "",
       "cuit": 238546411351,
       "ubicacion": "Flores CABA",
       "moneda": "$",
