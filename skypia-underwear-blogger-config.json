@@ -44,22 +44,22 @@
   },
   "contentagencia": [
     {
-      "codigo": "",
-      "descripcion": "",
+      "codigo": "RETIRO TIENDA",
+      "descripcion": "RETIRO TIENDA",
       "cuit": "",
       "ubicacion": "Flores CABA",
       "moneda": "$",
       "costo_envio": 0,
-      "hora_entrega": ""
+      "hora_entrega": "1899-12-30T16:16:48.000Z"
     },
     {
-      "codigo": "",
-      "descripcion": "",
+      "codigo": "Correo Argentino",
+      "descripcion": "Correo Argentino",
       "cuit": 238546411351,
       "ubicacion": "Flores CABA",
       "moneda": "$",
-      "costo_envio": 0,
-      "hora_entrega": ""
+      "costo_envio": 3000,
+      "hora_entrega": "1899-12-30T18:16:48.000Z"
     }
   ],
   "pagina_carrusel": [
