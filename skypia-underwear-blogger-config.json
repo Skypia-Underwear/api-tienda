@@ -3065,7 +3065,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1u9hn.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1u9hn.jpg",
                   "archivo_id": "1u9hny--n3njg1JQuEk3cFkT9pkFQdvis",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-02-09T23:45:32.820Z"
                 },
@@ -3121,7 +3121,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1YFck.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1YFck.jpg",
                   "archivo_id": "1YFckWKif81dcMCpOx2dB_qNAt6IJHZFF",
-                  "portada": false,
+                  "portada": true,
                   "orden": 20,
                   "fecha_carga": "2026-02-10T15:44:06.663Z"
                 }
