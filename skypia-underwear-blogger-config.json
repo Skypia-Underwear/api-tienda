@@ -3928,9 +3928,9 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
                   "archivo_id": "1ZN0-6ek1o52T7GftlO79PHl3Wc9EDrTI",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-02-24T23:38:43.596Z"
+                  "fecha_carga": "2026-02-25T00:14:06.128Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1SCT9.jpg",
@@ -3938,7 +3938,7 @@
                   "archivo_id": "1SCT9t9uNrQC_aCSvw19_ddLEyprTc51F",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-02-24T23:38:43.596Z"
+                  "fecha_carga": "2026-02-25T00:14:06.128Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1JzGd.jpg",
@@ -3946,7 +3946,7 @@
                   "archivo_id": "1JzGd4fGqCAwyKt3RAarlDhVuo-1CYUFx",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-02-24T23:38:43.596Z"
+                  "fecha_carga": "2026-02-25T00:14:06.128Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1PcIB.jpg",
@@ -3954,15 +3954,15 @@
                   "archivo_id": "1PcIB1-GLI8WREf9BNHKaNlyWW7j6PRO_",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-02-24T23:38:43.596Z"
+                  "fecha_carga": "2026-02-25T00:14:06.128Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1Yuk5.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1Yuk5.jpg",
                   "archivo_id": "1Yuk5IlbkMZNJ5jdEeBCAKZSv9lB5od3-",
-                  "portada": false,
+                  "portada": true,
                   "orden": 10,
-                  "fecha_carga": "2026-02-24T23:38:43.596Z"
+                  "fecha_carga": "2026-02-25T00:14:06.128Z"
                 }
               ],
               "variedad": [
@@ -4065,7 +4065,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
                   "archivo_id": "1_9dxMXbiaXtsvoTm2xgvfe9J2MwPwM95",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-02-24T23:38:43.596Z"
                 },
@@ -4081,7 +4081,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1ye_m.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1ye_m.jpg",
                   "archivo_id": "1ye_m3MgeAv6iHGZitBSLMqOOHi_CZxbX",
-                  "portada": false,
+                  "portada": true,
                   "orden": 6,
                   "fecha_carga": "2026-02-24T23:38:43.596Z"
                 }
