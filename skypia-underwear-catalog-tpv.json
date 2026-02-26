@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T17:19:38.927Z",
+  "generated_at": "2026-02-26T17:35:01.919Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -10168,6 +10168,241 @@
           "size": "2XL",
           "store_id": "Danahi Indumentaria",
           "variation_id": "JOGG2303-Amarillo mostaza-2XL-Danahi Indumentaria"
+        }
+      ]
+    },
+    {
+      "id": "CAMP1583",
+      "model": "MOTORS",
+      "price": 45000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Bordado",
+      "material": "Cuero",
+      "image": "",
+      "carpeta_id": "1BT7z93wDlsepsJdLPjofyL5r3lRPOby8",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-S-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-M-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-L-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1583-Blanco-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Surtido-3XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Negro-3XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMP1583-Blanco-3XL-Danahi Indumentaria"
         }
       ]
     }
