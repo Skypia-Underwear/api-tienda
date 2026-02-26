@@ -393,8 +393,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-1mjWi.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-1mjWi.jpg",
+                  "archivo_id": "1mjWigroTqv8cQmEiHBrPOWg8Wsfsf_Py",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-02-26T14:20:48.540Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-1D9OM.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-1D9OM.jpg",
+                  "archivo_id": "1D9OMJ0xzuyTQgl-iAle8-g4EZw19bIRt",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-02-26T14:20:48.540Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-13ChQ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-13ChQ.jpg",
+                  "archivo_id": "13ChQ4uI7t2FlgJHOVP4MAixIPF02VnzX",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-02-26T14:20:48.540Z"
                 }
               ],
               "variedad": [
