@@ -3726,21 +3726,27 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido"
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL",
+                    "3XL"
                   ]
                 },
                 "colores": {
                   "label": "Colores",
                   "valores": [
                     {
-                      "nombre": "Surtido",
+                      "nombre": "Azul",
                       "hex": "#cccccc"
                     }
                   ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "457",
+                  "valor": "7550",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3750,7 +3756,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE5991%0A%F0%9F%94%B9%20Modelo%3A%20BATMAN%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE5991%0A%F0%9F%94%B9%20Modelo%3A%20BATMAN%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL"
                 }
               },
               "imagen": [
@@ -3826,12 +3832,36 @@
                   "variedad": "Mayor",
                   "minima": 6,
                   "sub_variedad": {
-                    "Surtido": {
+                    "Azul": {
                       "color": "#cccccc",
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "457"
+                          "stock": "5000"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "500"
                         }
                       ]
                     }
@@ -3843,12 +3873,36 @@
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
-                    "Surtido": {
+                    "Azul": {
                       "color": "#cccccc",
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "457"
+                          "stock": "5000"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "500"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "500"
                         }
                       ]
                     }
