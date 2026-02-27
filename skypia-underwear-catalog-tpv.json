@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T04:49:38.003Z",
+  "generated_at": "2026-02-27T05:04:37.060Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -10403,6 +10403,313 @@
           "size": "3XL",
           "store_id": "Danahi Indumentaria",
           "variation_id": "CAMP1583-Blanco-3XL-Danahi Indumentaria"
+        }
+      ]
+    },
+    {
+      "id": "PANT2139",
+      "model": "CLASICO",
+      "price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "WRANGLER",
+      "style": "Liso",
+      "material": "Jeans rigido",
+      "image": "",
+      "carpeta_id": "15LN_PWKWBwbP8pFeUX08wyqr2O6IUFA4",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-S-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-M-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-L-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul pizarra-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-S-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-M-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-L-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul acero",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Azul acero-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT2139-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Surtido-2XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "2XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul pizarra-2XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Azul acero",
+          "size": "2XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Azul acero-2XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-S-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-M-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-L-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-XL-Danahi Indumentaria"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT2139-Negro-2XL-Danahi Indumentaria"
         }
       ]
     }
