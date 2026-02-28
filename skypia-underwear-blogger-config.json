@@ -3746,7 +3746,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "7550",
+                  "valor": "7050",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3837,7 +3837,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "5000"
+                          "stock": "4500"
                         },
                         {
                           "talle": "S",
@@ -3878,7 +3878,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "5000"
+                          "stock": "4500"
                         },
                         {
                           "talle": "S",
