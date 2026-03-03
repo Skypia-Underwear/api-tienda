@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T14:04:39.115Z",
+  "generated_at": "2026-02-27T21:34:30.247Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -269,6 +269,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BOXE5991-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE5991-Surtido-S-Skypia Underwear"
@@ -512,12 +518,6 @@
           "size": "3XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE5991-Azul marino-3XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BOXE5991-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -792,6 +792,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BOXE2481-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE2481-Surtido-S-Skypia Underwear"
@@ -999,12 +1005,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE2481-Azul marino-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BOXE2481-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -1240,6 +1240,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE8663-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BOXE8663-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -1522,12 +1528,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE8663-Azul marino-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BOXE8663-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -1838,6 +1838,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "SUET9001-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "M",
           "store_id": "Skypia Underwear",
           "variation_id": "SUET9001-Surtido-M-Skypia Underwear"
@@ -1949,12 +1955,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "SUET9001-Beige-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "SUET9001-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -2097,6 +2097,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG5430-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "M",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG5430-Surtido-M-Skypia Underwear"
@@ -2214,12 +2220,6 @@
           "size": "4XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG5430-Gris-4XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG5430-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -2365,6 +2365,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG5876-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG5876-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -2539,12 +2545,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG5876-Azul marino-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG5876-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -2744,6 +2744,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG8597-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG8597-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -2990,12 +2996,6 @@
           "size": "3XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG8597-Verde Militar-3XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG8597-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -3270,6 +3270,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMI9176-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "CAMI9176-Surtido-S-Skypia Underwear"
@@ -3441,12 +3447,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "CAMI9176-Arena-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "CAMI9176-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -3646,6 +3646,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "CAMI1911-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "CAMI1911-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -3856,12 +3862,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "CAMI1911-Blanco-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "CAMI1911-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -4100,6 +4100,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG7718-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG7718-Surtido-S-Skypia Underwear"
@@ -4271,12 +4277,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG7718-Violeta-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG7718-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -4479,6 +4479,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG2923-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG2923-Surtido-S-Skypia Underwear"
@@ -4578,12 +4584,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG2923-Gris-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG2923-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -4711,6 +4711,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE3444-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BOXE3444-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -4921,12 +4927,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BOXE3444-Azul acero-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BOXE3444-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -5165,6 +5165,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "REME2829-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "REME2829-Surtido-S-Skypia Underwear"
@@ -5336,12 +5342,6 @@
           "size": "XL",
           "store_id": "Skypia Underwear",
           "variation_id": "REME2829-Morado-XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "REME2829-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -5544,6 +5544,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BUZO2589-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BUZO2589-Surtido-S-Skypia Underwear"
@@ -5715,12 +5721,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BUZO2589-Verde-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BUZO2589-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -5923,6 +5923,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BUZO1772-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BUZO1772-Surtido-S-Skypia Underwear"
@@ -6022,12 +6028,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "BUZO1772-Negro-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BUZO1772-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -6155,6 +6155,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "PANT9413-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "PANT9413-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -6293,12 +6299,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "PANT9413-Lavanda-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "PANT9413-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -6462,6 +6462,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG4694-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "JOGG4694-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -6636,12 +6642,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "JOGG4694-Verde-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "JOGG4694-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -7103,6 +7103,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BERM4756-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BERM4756-Surtido-S-Skypia Underwear"
@@ -7130,12 +7136,6 @@
           "size": "M",
           "store_id": "Skypia Underwear",
           "variation_id": "BERM4756-Azul acero-M-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BERM4756-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -7194,6 +7194,12 @@
         },
         {
           "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "BERM2366-Surtido-Surtido-Danahi Indumentaria"
+        },
+        {
+          "color": "Surtido",
           "size": "S",
           "store_id": "Skypia Underwear",
           "variation_id": "BERM2366-Surtido-S-Skypia Underwear"
@@ -7239,12 +7245,6 @@
           "size": "M",
           "store_id": "Skypia Underwear",
           "variation_id": "BERM2366-Verde Militar-M-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "BERM2366-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -7318,6 +7318,12 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "REME4949-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Danahi Indumentaria",
+          "variation_id": "REME4949-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
@@ -7420,12 +7426,6 @@
           "size": "2XL",
           "store_id": "Skypia Underwear",
           "variation_id": "REME4949-Blanco-2XL-Skypia Underwear"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Danahi Indumentaria",
-          "variation_id": "REME4949-Surtido-Surtido-Danahi Indumentaria"
         },
         {
           "color": "Surtido",
