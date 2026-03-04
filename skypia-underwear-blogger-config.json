@@ -1613,7 +1613,7 @@
                   "archivo_id": "1dIB0_Z3KVdMeea1fXKoEMo2hUOgmWWV3",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1Uemr.jpg",
@@ -1621,7 +1621,7 @@
                   "archivo_id": "1UemrPNJ7oT7woCqu-HjI67zNRdUNzjWq",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-12Z10.jpg",
@@ -1629,7 +1629,7 @@
                   "archivo_id": "12Z10N7TsCzAuoKXoGqWzImmAYHj2IBhE",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1wGkE.jpg",
@@ -1637,7 +1637,7 @@
                   "archivo_id": "1wGkEuMrCzmpNFd4vqYjv2x7jns4Zr2eq",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1jAt8.jpg",
@@ -1645,7 +1645,7 @@
                   "archivo_id": "1jAt8JN7em-Di5H2_nu1zzx7xMgkyhk5q",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1DhFW.jpg",
@@ -1653,7 +1653,7 @@
                   "archivo_id": "1DhFWS8q3rIldqA0zM2c45wBeIgteYHpP",
                   "portada": false,
                   "orden": 16,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-15Hxe.jpg",
@@ -1661,7 +1661,15 @@
                   "archivo_id": "15HxeeVlnMqFwxNgSEZEc4XhkCnLkRcPA",
                   "portada": false,
                   "orden": 18,
-                  "fecha_carga": "2026-03-03T02:44:07.459Z"
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1NV1A.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1NV1A.jpg",
+                  "archivo_id": "1NV1A8WlQxlccvBhiTxrik4lwAZdiuX1h",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-03-04T05:43:36.269Z"
                 }
               ],
               "variedad": [
