@@ -4366,5 +4366,6 @@
     "cbu": "93242292312",
     "banco": "Mercado Pago"
   },
-  "aplicar_marca_agua": false
+  "aplicar_marca_agua": false,
+  "timestamp_ms": 1772738730255
 }
