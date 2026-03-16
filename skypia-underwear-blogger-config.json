@@ -129,33 +129,16 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M"
-                  ]
+                  "valores": []
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Verde Militar",
-                      "hex": "#cccccc"
-                    }
-                  ]
+                  "valores": []
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "900",
-                  "estado": "Alta"
+                  "valor": "0",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -169,7 +152,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2366%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2366%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
                 }
               },
               "imagen": [
@@ -260,118 +243,14 @@
                   "precio": 28000,
                   "variedad": "Mayor",
                   "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
                   "precio": 40000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#cccccc",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "100"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 }
               ],
               "upd": "2026-01-06T03:00:00.000Z"
@@ -10509,7 +10388,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "3000",
+                  "valor": "2990",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10662,7 +10541,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "M",
@@ -10674,11 +10553,11 @@
                         },
                         {
                           "talle": "XL",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "2XL",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     },
@@ -10695,7 +10574,7 @@
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
@@ -10703,7 +10582,7 @@
                         },
                         {
                           "talle": "XL",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "2XL",
@@ -10720,11 +10599,11 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
@@ -10736,7 +10615,7 @@
                         },
                         {
                           "talle": "2XL",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     },
@@ -10757,7 +10636,7 @@
                         },
                         {
                           "talle": "L",
-                          "stock": "100"
+                          "stock": "98"
                         },
                         {
                           "talle": "XL",
@@ -11752,5 +11631,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773701874530
+  "timestamp_ms": 1773702479832
 }
