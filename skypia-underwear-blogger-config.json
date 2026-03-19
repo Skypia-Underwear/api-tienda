@@ -3491,7 +3491,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "4200",
+                  "valor": "4188",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3657,7 +3657,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "88"
                         },
                         {
                           "talle": "M",
@@ -7465,7 +7465,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "3600",
+                  "valor": "3595",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7610,7 +7610,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "95"
                         },
                         {
                           "talle": "M",
@@ -7792,7 +7792,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "95"
                         },
                         {
                           "talle": "M",
@@ -9364,7 +9364,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "4800",
+                  "valor": "4794",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9620,15 +9620,15 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "XL",
@@ -9653,15 +9653,15 @@
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "XL",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "2XL",
@@ -9860,15 +9860,15 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "XL",
@@ -9893,15 +9893,15 @@
                         },
                         {
                           "talle": "M",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "L",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "XL",
-                          "stock": "100"
+                          "stock": "99"
                         },
                         {
                           "talle": "2XL",
@@ -11631,5 +11631,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1773888173572
+  "timestamp_ms": 1773889071078
 }
