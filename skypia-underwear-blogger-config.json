@@ -104,57 +104,7 @@
               "codigo": 1,
               "categoria": "Bermuda",
               "nombre": "BERM2366",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Cargo"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "-"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-01-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2366%2FBERM2366-1A12g.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2366%2FBERM2366-1A12g_thumb.jpg&v=1Q3WGWBbnSQwPfjIjcyr-1IiHOsZI6N9c"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2366%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2366%2FBERM2366-1dbL0.jpg",
@@ -259,65 +209,7 @@
               "codigo": 3,
               "categoria": "Bermuda",
               "nombre": "BERM4756",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Cintura Elastico"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "-"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "VERANO",
-                  "icono": "☀️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "600",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "10-12-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM4756%0A%F0%9F%94%B9%20Modelo%3A%20Cintura%20Elastico%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM4756%2FBERM4756-1bz_2.jpg",
@@ -428,76 +320,7 @@
               "codigo": 19,
               "categoria": "Joggers",
               "nombre": "JOGG2303",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Cargo Carpintero"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "YD"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Gabardina"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Beige",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Amarillo mostaza",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2400",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "26-02-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2303%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Carpintero%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2303%2FJOGG2303-1mjWi.jpg",
@@ -844,72 +667,7 @@
               "codigo": 21,
               "categoria": "Jogging",
               "nombre": "JOGG2923",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "CAMUFLADO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Acetato"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "23-11-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2923%0A%F0%9F%94%B9%20Modelo%3A%20CAMUFLADO%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2923%2FJOGG2923-1344K.jpg",
@@ -1366,80 +1124,7 @@
               "codigo": 27,
               "categoria": "Jogging",
               "nombre": "JOGG4694",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Zaplex"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "-"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Verde",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-08-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG4694%0A%F0%9F%94%B9%20Modelo%3A%20Zaplex%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG4694%2FJOGG4694-1gO9n.jpg",
@@ -1712,73 +1397,7 @@
               "codigo": 29,
               "categoria": "Jogging",
               "nombre": "JOGG5430",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Camuflado con corderito"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Acetato"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL",
-                    "3XL",
-                    "4XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "19-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG5430%0A%F0%9F%94%B9%20Modelo%3A%20Camuflado%20con%20corderito%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL%2C%204XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG5430%2FJOGG5430-1Wkvn.jpg",
@@ -1971,85 +1590,7 @@
               "codigo": 31,
               "categoria": "Jogging",
               "nombre": "JOGG5876",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "COMBINADO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris claro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "10-12-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG5876%2FJOGG5876-1wHsw.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG5876%0A%F0%9F%94%B9%20Modelo%3A%20COMBINADO%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG5876%2FJOGG5876-1izpn.jpg",
@@ -2706,85 +2247,7 @@
               "codigo": 37,
               "categoria": "Jogging",
               "nombre": "JOGG7718",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "PIEL"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Bison",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Violeta",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "23-11-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7718%2FJOGG7718-12gRw.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG7718%0A%F0%9F%94%B9%20Modelo%3A%20PIEL%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7718%2FJOGG7718-1XRZY.jpg",
@@ -3425,90 +2888,7 @@
               "codigo": 43,
               "categoria": "Jogging",
               "nombre": "JOGG8597",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "CARGO RECTO SOFSHELL"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "LIONESA"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprem"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL",
-                    "3XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Beige",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Amarillo mostaza",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Verde Militar",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "4188",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "16-07-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG8597%2FJOGG8597-13Nv-.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG8597%0A%F0%9F%94%B9%20Modelo%3A%20CARGO%20RECTO%20SOFSHELL%0A%F0%9F%94%B9%20Marca%3A%20LIONESA%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG8597%2FJOGG8597-1qn3m.jpg",
@@ -3830,81 +3210,7 @@
               "codigo": 45,
               "categoria": "Musculosa",
               "nombre": "MUSC9219",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Bosillo con Cierre Termosellado"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "FISHBONE"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "XXL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris claro",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2400",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "18-12-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMUSC9219%2FMUSC9219-13b6f.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMUSC9219%2FMUSC9219-13b6f_thumb.jpg&v=13iQIoqNXDGqu-CaT6sRGWUzktDXMsfWW"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MUSC9219%0A%F0%9F%94%B9%20Modelo%3A%20Bosillo%20con%20Cierre%20Termosellado%0A%F0%9F%94%B9%20Marca%3A%20FISHBONE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%20XXL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMUSC9219%2FMUSC9219-1CGG4.jpg",
@@ -4263,67 +3569,7 @@
               "codigo": 48,
               "categoria": "Pantalon",
               "nombre": "PANT1693",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Secado Rspido Desmontable 2 en 1"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "WRANGLER"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "300",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "02-03-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1693%0A%F0%9F%94%B9%20Modelo%3A%20Secado%20Rspido%20Desmontable%202%20en%201%0A%F0%9F%94%B9%20Marca%3A%20WRANGLER%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1693%2FPANT1693-1dIB0.jpg",
@@ -4485,76 +3731,7 @@
               "codigo": 51,
               "categoria": "Pantalon",
               "nombre": "PANT2139",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "CLASICO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "WRANGLER"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul pizarra",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2400",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "27-02-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2139%0A%F0%9F%94%B9%20Modelo%3A%20CLASICO%0A%F0%9F%94%B9%20Marca%3A%20WRANGLER%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2139%2FPANT2139-11Dpi.jpg",
@@ -4798,68 +3975,7 @@
               "codigo": 54,
               "categoria": "Pantalon",
               "nombre": "PANT4835",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Baggy"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1200",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "16-01-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4835%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
@@ -4983,69 +4099,7 @@
               "codigo": 57,
               "categoria": "Pantalon",
               "nombre": "PANT5062",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Baggy"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL",
-                    "3XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1400",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-01-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5062%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5062%2FPANT5062-1VoQJ.jpg",
@@ -5254,76 +4308,7 @@
               "codigo": 61,
               "categoria": "Pantalon",
               "nombre": "PANT9413",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "SECADO RAPIDO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SKYPIA UNDERWEAR"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "-"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Naranja",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Lavanda",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2400",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "31-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9413%0A%F0%9F%94%B9%20Modelo%3A%20SECADO%20RAPIDO%0A%F0%9F%94%B9%20Marca%3A%20SKYPIA%20UNDERWEAR%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9413%2FPANT9413-1-hER.jpg",
@@ -5624,88 +4609,7 @@
               "codigo": 65,
               "categoria": "Remera",
               "nombre": "REME2829",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "DEPORTIVA DRYFIT"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SSJ"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Amarillo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Morado",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "19-09-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME2829%2FREME2829-1VA_d.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME2829%0A%F0%9F%94%B9%20Modelo%3A%20DEPORTIVA%20DRYFIT%0A%F0%9F%94%B9%20Marca%3A%20SSJ%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME2829%2FREME2829-10iFV.jpg",
@@ -5954,77 +4858,7 @@
               "codigo": 66,
               "categoria": "Remera",
               "nombre": "REME6162",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "ARGENTINA CAMPEON"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ARGENTINA"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-01-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME6162%2FREME6162-1eZAu.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME6162%0A%F0%9F%94%B9%20Modelo%3A%20ARGENTINA%20CAMPEON%0A%F0%9F%94%B9%20Marca%3A%20ARGENTINA%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME6162%2FREME6162-1tkUJ.jpg",
@@ -6235,71 +5069,7 @@
               "codigo": 68,
               "categoria": "Short",
               "nombre": "SHOR2417",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "PLAYERO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "YD"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "VERANO",
-                  "icono": "☀️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1500",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "09-02-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR2417%0A%F0%9F%94%B9%20Modelo%3A%20PLAYERO%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR2417%2FSHOR2417-1rStr.jpg",
@@ -6573,80 +5343,7 @@
               "codigo": 71,
               "categoria": "Short",
               "nombre": "SHOR2420",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Cargo"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "I-RUN"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "-"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Arena",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Bison",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "10-12-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR2420%2FSHOR2420-1nnmA.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR2420%2FSHOR2420-1nnmA_thumb.jpg&v=1FzG6oS4cvUAt8yPuzfCIGv8b4ujJmVGT"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR2420%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR2420%2FSHOR2420-1hD1e.jpg",
@@ -6758,72 +5455,7 @@
               "codigo": 75,
               "categoria": "Short",
               "nombre": "SHOR8469",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Pollera Mini Cargo"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "VERANO",
-                  "icono": "☀️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "17-01-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR8469%2FSHOR8469-1vwGg.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR8469%0A%F0%9F%94%B9%20Modelo%3A%20Pollera%20Mini%20Cargo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSHOR8469%2FSHOR8469-11mg2.jpg",
@@ -7055,80 +5687,7 @@
               "codigo": 78,
               "categoria": "Sueter",
               "nombre": "SUET9001",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "TERMICO CUELLO REDONDO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SSJ"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Beige",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2000",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-01-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9001%2FSUET9001-1XXMs.mp4",
-                  "thumbnail": ""
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SUET9001%0A%F0%9F%94%B9%20Modelo%3A%20TERMICO%20CUELLO%20REDONDO%0A%F0%9F%94%B9%20Marca%3A%20SSJ%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9001%2FSUET9001-1kQ47.jpg",
@@ -7400,89 +5959,7 @@
               "codigo": 5,
               "categoria": "Boxer",
               "nombre": "BOXE2481",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "PARIS"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Naranja",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Bordo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3595",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-07-2025"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1Eru-.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1Eru-_thumb.jpg&v=1rycDOYNcfqSOdfvgyZPwKWP--y53CbDP"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE2481%0A%F0%9F%94%B9%20Modelo%3A%20PARIS%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE2481%2FBOXE2481-1YGo3.jpg",
@@ -7937,84 +6414,7 @@
               "codigo": 7,
               "categoria": "Boxer",
               "nombre": "BOXE3444",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "DRAGON BALL Z"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Verde",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3600",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE3444%0A%F0%9F%94%B9%20Modelo%3A%20DRAGON%20BALL%20Z%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE3444%2FBOXE3444-137IO.jpg",
@@ -8469,85 +6869,7 @@
               "codigo": 9,
               "categoria": "Boxer",
               "nombre": "BOXE5991",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "BATMAN"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL",
-                    "3XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "4200",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "20-09-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE5991%0A%F0%9F%94%B9%20Modelo%3A%20BATMAN%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE5991%2FBOXE5991-1cYm5.jpg",
@@ -9034,73 +7356,7 @@
               "codigo": 11,
               "categoria": "Boxer",
               "nombre": "BOXE8078",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "RACE"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul acero",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1200",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "07-02-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE8078%2FBOXE8078-12ZCH.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE8078%2FBOXE8078-12ZCH_thumb.jpg&v=15gD8kJDjzuf7ZwEpsuoe1eRk2yrpVdl_"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE8078%0A%F0%9F%94%B9%20Modelo%3A%20RACE%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE8078%2FBOXE8078-1XOVr.jpg",
@@ -9291,92 +7547,7 @@
               "codigo": 13,
               "categoria": "Boxer",
               "nombre": "BOXE8663",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "AVENGER"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul pizarra",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Bordo",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "4794",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE8663%0A%F0%9F%94%B9%20Modelo%3A%20AVENGER%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE8663%2FBOXE8663-1_Lh4.jpg",
@@ -9955,84 +8126,7 @@
               "codigo": 15,
               "categoria": "Camiseta",
               "nombre": "CAMI1911",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "TERMICA CON CUELLO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "QLING"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Rosa",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Lavanda",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Coral",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "3600",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "21-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI1911%0A%F0%9F%94%B9%20Modelo%3A%20TERMICA%20CON%20CUELLO%0A%F0%9F%94%B9%20Marca%3A%20QLING%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
@@ -10327,80 +8421,7 @@
               "codigo": 17,
               "categoria": "Camiseta",
               "nombre": "CAMI9176",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "TERMICO CUELLO O"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "QLING"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Arena",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2990",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "21-07-2025"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI9176%0A%F0%9F%94%B9%20Modelo%3A%20TERMICO%20CUELLO%20O%0A%F0%9F%94%B9%20Marca%3A%20QLING%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
@@ -10665,77 +8686,7 @@
               "codigo": 80,
               "categoria": "Top",
               "nombre": "TOP1838",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Reptil"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "FISHBONE"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "VERANO",
-                  "icono": "☀️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "09-02-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTOP1838%2FTOP1838-1zSMP.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTOP1838%2FTOP1838-1zSMP_thumb.jpg&v=19fw_gSXrYHhNLtCd77SkCzQCG7SirehL"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP1838%0A%F0%9F%94%B9%20Modelo%3A%20Reptil%0A%F0%9F%94%B9%20Marca%3A%20FISHBONE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTOP1838%2FTOP1838-1Qg9o.jpg",
@@ -10984,72 +8935,7 @@
               "codigo": 82,
               "categoria": "Top",
               "nombre": "TOP3965",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Oriental"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "FISHBONE"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Acetato"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "09-02-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP3965%0A%F0%9F%94%B9%20Modelo%3A%20Oriental%0A%F0%9F%94%B9%20Marca%3A%20FISHBONE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTOP3965%2FTOP3965-1kSGk.jpg",
@@ -11306,72 +9192,7 @@
               "codigo": 84,
               "categoria": "Top",
               "nombre": "TOP5653",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "BRETEL"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "FISHBONE"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "ZUPLEX"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#cccccc"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#cccccc"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "09-02-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP5653%0A%F0%9F%94%B9%20Modelo%3A%20BRETEL%0A%F0%9F%94%B9%20Marca%3A%20FISHBONE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
+              "descripcion": null,
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FTOP5653%2FTOP5653-1SiWj.jpg",
@@ -11631,5 +9452,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774394849068
+  "timestamp_ms": 1774395693489
 }
