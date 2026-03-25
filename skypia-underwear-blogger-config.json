@@ -144,27 +144,27 @@
                   "valores": [
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Bison",
-                      "hex": "#cccccc"
+                      "hex": "#847450"
                     },
                     {
                       "nombre": "Gris claro",
-                      "hex": "#cccccc"
+                      "hex": "#D3D3D3"
                     },
                     {
                       "nombre": "Gris",
-                      "hex": "#cccccc"
+                      "hex": "#808080"
                     },
                     {
                       "nombre": "Aguamarina medio",
-                      "hex": "#cccccc"
+                      "hex": "#66CDAA"
                     },
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     }
                   ]
                 },
@@ -274,7 +274,7 @@
                   "minima": 6,
                   "sub_variedad": {
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -283,7 +283,7 @@
                       ]
                     },
                     "Bison": {
-                      "color": "#cccccc",
+                      "color": "#847450",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -292,7 +292,7 @@
                       ]
                     },
                     "Gris claro": {
-                      "color": "#cccccc",
+                      "color": "#D3D3D3",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -301,7 +301,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -310,7 +310,7 @@
                       ]
                     },
                     "Aguamarina medio": {
-                      "color": "#cccccc",
+                      "color": "#66CDAA",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -319,7 +319,7 @@
                       ]
                     },
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -336,7 +336,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -369,7 +369,7 @@
                       ]
                     },
                     "Bison": {
-                      "color": "#cccccc",
+                      "color": "#847450",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -402,7 +402,7 @@
                       ]
                     },
                     "Gris claro": {
-                      "color": "#cccccc",
+                      "color": "#D3D3D3",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -435,7 +435,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -468,7 +468,7 @@
                       ]
                     },
                     "Aguamarina medio": {
-                      "color": "#cccccc",
+                      "color": "#66CDAA",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -501,7 +501,7 @@
                       ]
                     },
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -580,27 +580,27 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Blanco",
-                      "hex": "#cccccc"
+                      "hex": "#FFFFFF"
                     },
                     {
                       "nombre": "Bordo",
-                      "hex": "#cccccc"
+                      "hex": "#8B0000"
                     },
                     {
                       "nombre": "Naranja",
-                      "hex": "#cccccc"
+                      "hex": "#FFA500"
                     },
                     {
                       "nombre": "Salmon",
-                      "hex": "#cccccc"
+                      "hex": "#FA8072"
                     }
                   ]
                 },
@@ -678,7 +678,7 @@
                   "minima": 4,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -687,7 +687,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -696,7 +696,7 @@
                       ]
                     },
                     "Blanco": {
-                      "color": "#cccccc",
+                      "color": "#FFFFFF",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -705,7 +705,7 @@
                       ]
                     },
                     "Bordo": {
-                      "color": "#cccccc",
+                      "color": "#8B0000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -714,7 +714,7 @@
                       ]
                     },
                     "Naranja": {
-                      "color": "#cccccc",
+                      "color": "#FFA500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -723,7 +723,7 @@
                       ]
                     },
                     "Salmon": {
-                      "color": "#cccccc",
+                      "color": "#FA8072",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -740,7 +740,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -765,7 +765,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -790,7 +790,7 @@
                       ]
                     },
                     "Blanco": {
-                      "color": "#cccccc",
+                      "color": "#FFFFFF",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -815,7 +815,7 @@
                       ]
                     },
                     "Bordo": {
-                      "color": "#cccccc",
+                      "color": "#8B0000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -840,7 +840,7 @@
                       ]
                     },
                     "Naranja": {
-                      "color": "#cccccc",
+                      "color": "#FFA500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -865,7 +865,7 @@
                       ]
                     },
                     "Salmon": {
-                      "color": "#cccccc",
+                      "color": "#FA8072",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -935,19 +935,19 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Turquesa",
-                      "hex": "#cccccc"
+                      "hex": "#40E0D0"
                     },
                     {
                       "nombre": "Rojo anaranjado",
-                      "hex": "#cccccc"
+                      "hex": "#FF4500"
                     }
                   ]
                 },
@@ -1033,7 +1033,7 @@
                   "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1042,7 +1042,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1051,7 +1051,7 @@
                       ]
                     },
                     "Turquesa": {
-                      "color": "#cccccc",
+                      "color": "#40E0D0",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1060,7 +1060,7 @@
                       ]
                     },
                     "Rojo anaranjado": {
-                      "color": "#cccccc",
+                      "color": "#FF4500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1077,7 +1077,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1098,7 +1098,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1119,7 +1119,7 @@
                       ]
                     },
                     "Turquesa": {
-                      "color": "#cccccc",
+                      "color": "#40E0D0",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1140,7 +1140,7 @@
                       ]
                     },
                     "Rojo anaranjado": {
-                      "color": "#cccccc",
+                      "color": "#FF4500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1209,31 +1209,31 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Verde",
-                      "hex": "#cccccc"
+                      "hex": "#00FF00"
                     },
                     {
                       "nombre": "Azul marino",
-                      "hex": "#cccccc"
+                      "hex": "#00008A"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Verde Militar",
-                      "hex": "#cccccc"
+                      "hex": "#4B5320"
                     },
                     {
                       "nombre": "Arena",
-                      "hex": "#cccccc"
+                      "hex": "#C2B280"
                     },
                     {
                       "nombre": "Gris",
-                      "hex": "#cccccc"
+                      "hex": "#808080"
                     }
                   ]
                 },
@@ -1311,7 +1311,7 @@
                   "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1320,7 +1320,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1329,7 +1329,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1338,7 +1338,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1347,7 +1347,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1356,7 +1356,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1365,7 +1365,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1382,7 +1382,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1415,7 +1415,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1448,7 +1448,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1481,7 +1481,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1514,7 +1514,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1547,7 +1547,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1580,7 +1580,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1669,31 +1669,31 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Azul marino",
-                      "hex": "#cccccc"
+                      "hex": "#00008A"
                     },
                     {
                       "nombre": "Gris",
-                      "hex": "#cccccc"
+                      "hex": "#808080"
                     },
                     {
                       "nombre": "Verde Militar",
-                      "hex": "#cccccc"
+                      "hex": "#4B5320"
                     },
                     {
                       "nombre": "Bison",
-                      "hex": "#cccccc"
+                      "hex": "#847450"
                     },
                     {
                       "nombre": "Arena",
-                      "hex": "#cccccc"
+                      "hex": "#C2B280"
                     }
                   ]
                 },
@@ -1771,7 +1771,7 @@
                   "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1780,7 +1780,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1789,7 +1789,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1798,7 +1798,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1807,7 +1807,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1816,7 +1816,7 @@
                       ]
                     },
                     "Bison": {
-                      "color": "#cccccc",
+                      "color": "#847450",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1825,7 +1825,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1842,7 +1842,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1875,7 +1875,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1908,7 +1908,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1941,7 +1941,7 @@
                       ]
                     },
                     "Gris": {
-                      "color": "#cccccc",
+                      "color": "#808080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -1974,7 +1974,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2007,7 +2007,7 @@
                       ]
                     },
                     "Bison": {
-                      "color": "#cccccc",
+                      "color": "#847450",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2040,7 +2040,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2128,19 +2128,19 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Beige",
-                      "hex": "#cccccc"
+                      "hex": "#F5F5DC"
                     },
                     {
                       "nombre": "Verde",
-                      "hex": "#cccccc"
+                      "hex": "#00FF00"
                     }
                   ]
                 },
@@ -2266,7 +2266,7 @@
                   "minima": 5,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2275,7 +2275,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2284,7 +2284,7 @@
                       ]
                     },
                     "Beige": {
-                      "color": "#cccccc",
+                      "color": "#F5F5DC",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2293,7 +2293,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2310,7 +2310,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2339,7 +2339,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2368,7 +2368,7 @@
                       ]
                     },
                     "Beige": {
-                      "color": "#cccccc",
+                      "color": "#F5F5DC",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2397,7 +2397,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2434,7 +2434,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2463,7 +2463,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2492,7 +2492,7 @@
                       ]
                     },
                     "Beige": {
-                      "color": "#cccccc",
+                      "color": "#F5F5DC",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2521,7 +2521,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2597,39 +2597,39 @@
                   "valores": [
                     {
                       "nombre": "Surtido",
-                      "hex": "#cccccc"
+                      "hex": "#FF69B4-800080"
                     },
                     {
                       "nombre": "Negro",
-                      "hex": "#cccccc"
+                      "hex": "#000000"
                     },
                     {
                       "nombre": "Verde Militar",
-                      "hex": "#cccccc"
+                      "hex": "#4B5320"
                     },
                     {
                       "nombre": "Amarillo Verde",
-                      "hex": "#cccccc"
+                      "hex": "#ADFF2F"
                     },
                     {
                       "nombre": "Naranja",
-                      "hex": "#cccccc"
+                      "hex": "#FFA500"
                     },
                     {
                       "nombre": "Azul marino",
-                      "hex": "#cccccc"
+                      "hex": "#00008A"
                     },
                     {
                       "nombre": "Arena",
-                      "hex": "#cccccc"
+                      "hex": "#C2B280"
                     },
                     {
                       "nombre": "Verde",
-                      "hex": "#cccccc"
+                      "hex": "#00FF00"
                     },
                     {
                       "nombre": "Amarillo",
-                      "hex": "#cccccc"
+                      "hex": "#FFFF00"
                     }
                   ]
                 },
@@ -2755,7 +2755,7 @@
                   "minima": 5,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2764,7 +2764,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2773,7 +2773,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2782,7 +2782,7 @@
                       ]
                     },
                     "Amarillo Verde": {
-                      "color": "#cccccc",
+                      "color": "#ADFF2F",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2791,7 +2791,7 @@
                       ]
                     },
                     "Naranja": {
-                      "color": "#cccccc",
+                      "color": "#FFA500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2800,7 +2800,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2809,7 +2809,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2818,7 +2818,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2827,7 +2827,7 @@
                       ]
                     },
                     "Amarillo": {
-                      "color": "#cccccc",
+                      "color": "#FFFF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2844,7 +2844,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2873,7 +2873,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2902,7 +2902,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2931,7 +2931,7 @@
                       ]
                     },
                     "Amarillo Verde": {
-                      "color": "#cccccc",
+                      "color": "#ADFF2F",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2960,7 +2960,7 @@
                       ]
                     },
                     "Naranja": {
-                      "color": "#cccccc",
+                      "color": "#FFA500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -2989,7 +2989,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3018,7 +3018,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3047,7 +3047,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3076,7 +3076,7 @@
                       ]
                     },
                     "Amarillo": {
-                      "color": "#cccccc",
+                      "color": "#FFFF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3113,7 +3113,7 @@
                   "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
-                      "color": "#cccccc",
+                      "color": "#FF69B4-800080",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3142,7 +3142,7 @@
                       ]
                     },
                     "Negro": {
-                      "color": "#cccccc",
+                      "color": "#000000",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3171,7 +3171,7 @@
                       ]
                     },
                     "Verde Militar": {
-                      "color": "#cccccc",
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3200,7 +3200,7 @@
                       ]
                     },
                     "Amarillo Verde": {
-                      "color": "#cccccc",
+                      "color": "#ADFF2F",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3229,7 +3229,7 @@
                       ]
                     },
                     "Naranja": {
-                      "color": "#cccccc",
+                      "color": "#FFA500",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3258,7 +3258,7 @@
                       ]
                     },
                     "Azul marino": {
-                      "color": "#cccccc",
+                      "color": "#00008A",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3287,7 +3287,7 @@
                       ]
                     },
                     "Arena": {
-                      "color": "#cccccc",
+                      "color": "#C2B280",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3316,7 +3316,7 @@
                       ]
                     },
                     "Verde": {
-                      "color": "#cccccc",
+                      "color": "#00FF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3345,7 +3345,7 @@
                       ]
                     },
                     "Amarillo": {
-                      "color": "#cccccc",
+                      "color": "#FFFF00",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -3417,5 +3417,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774401108880
+  "timestamp_ms": 1774429920554
 }
