@@ -537,6 +537,2846 @@
                 }
               ],
               "upd": "2026-03-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 4,
+              "categoria": "Bermuda",
+              "nombre": "BERM2695",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Corte Chino C/Cinturon"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "YD"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Gabardina"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    40,
+                    48,
+                    50,
+                    42
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Blanco",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Bordo",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Naranja",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Salmon",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1500",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2695%0A%F0%9F%94%B9%20Modelo%3A%20Corte%20Chino%20C%2FCinturon%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2048%2C%2050%2C%2042"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1oTxc.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1oTxc.jpg",
+                  "archivo_id": "1oTxcxMXfleYp3sH9vmMki_gw-EjwVtEU",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1wtdo.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1wtdo.jpg",
+                  "archivo_id": "1wtdoFwmx72zfmRpQJWJ73C45s3WrTvzt",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1Hmh0.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1Hmh0.jpg",
+                  "archivo_id": "1Hmh0s9w9CuFYbq_Pmg54NGOZceaUP_k2",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1Qn-c.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM2695%2FBERM2695-1Qn-c.jpg",
+                  "archivo_id": "1Qn-cJfOrHU9i0A9XcEgLtlb8qWw3DHlE",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "250"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Blanco": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Naranja": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Salmon": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Blanco": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Naranja": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Salmon": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 7,
+              "categoria": "Bermuda",
+              "nombre": "BERM3702",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Urban Multicargo"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GUANTU"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Cire secado rapido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    42,
+                    44,
+                    46
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Turquesa",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Rojo anaranjado",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "800",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3702%0A%F0%9F%94%B9%20Modelo%3A%20Urban%20Multicargo%0A%F0%9F%94%B9%20Marca%3A%20GUANTU%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1d0Mh.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1d0Mh.jpg",
+                  "archivo_id": "1d0MhxN3KCjRrnywy1HJz0TMuEMlnEwYK",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-12ual.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-12ual.jpg",
+                  "archivo_id": "12ualzNB6d_PtFMTPoAG2549oPM6HEEdQ",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1uAEB.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1uAEB.jpg",
+                  "archivo_id": "1uAEBlxns4_3qFsKX7wm-1e9UIfKI7dV3",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1Ommi.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1Ommi.jpg",
+                  "archivo_id": "1OmmimLITm23m76NamCKqzKoz_W6-oBcP",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1Nv3m.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3702%2FBERM3702-1Nv3m.jpg",
+                  "archivo_id": "1Nv3mzij5MBH0ADzB4DzfqgRixDGn8VSh",
+                  "portada": false,
+                  "orden": 5,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 27600,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "200"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27600,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Turquesa": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Rojo anaranjado": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 36800,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Turquesa": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Rojo anaranjado": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 10,
+              "categoria": "Bermuda",
+              "nombre": "BERM6079",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo Clasico"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "HENGLUMAO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Gabardina"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    40,
+                    42,
+                    44,
+                    46,
+                    48,
+                    50
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "2450",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM6079%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Clasico%0A%F0%9F%94%B9%20Marca%3A%20HENGLUMAO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1pDAN.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1pDAN.jpg",
+                  "archivo_id": "1pDAN5hojDFWxEXN9NjE1xVxJm5m_nLos",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1I0rK.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1I0rK.jpg",
+                  "archivo_id": "1I0rKj0ha63IdtFAe2MlmdQZfKWPtG901",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1SVl9.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1SVl9.jpg",
+                  "archivo_id": "1SVl97IDl0DmR7zSd_5r8jWrkgNfseSP5",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1rHgt.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM6079%2FBERM6079-1rHgt.jpg",
+                  "archivo_id": "1rHgtWol87zzwHUWj4ZNtdZQCFMVo8JGO",
+                  "portada": true,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 29220,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 29220,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 38960,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 2,
+          "nombre": "Camisa",
+          "url_categoria": "",
+          "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <path style=\"fill:#B4E1FA;\" d=\"M462.174,111.541c-0.572-21.167-14.09-39.809-34.031-46.931l-86.631-30.94H170.486L83.855,64.61 c-19.941,7.122-33.46,25.764-34.031,46.931l-7.437,275.181c-0.098,3.647,2.128,6.955,5.544,8.237l62.679,23.512l0.021-0.134v44.871 c0,3.875,2.605,7.264,6.348,8.263l121.919,32.511l17.103-128.267l17.101,128.267l121.925-32.514c3.74-0.997,6.344-4.384,6.348-8.254 l0.044-44.756l62.647-23.501c3.416-1.282,5.643-4.59,5.544-8.237L462.174,111.541z\"></path> <polygon style=\"fill:#91C5E6;\" points=\"324.41,8.017 187.591,8.017 256,67.875 \"></polygon> <path style=\"fill:#B4E1FA;\" d=\"M53.632,384.267l-2.499,45.057c-0.213,3.721,2.01,7.151,5.492,8.478l54.006,20.582v-74.117H53.632z\"></path> <g> <polygon style=\"fill:#A0D2F0;\" points=\"84.978,448.608 110.631,458.384 110.631,384.267 84.978,384.267 \"></polygon> <path style=\"fill:#A0D2F0;\" d=\"M196.142,230.347h-34.205c-9.446,0-17.102-7.656-17.102-17.102v-59.858h68.409v59.858 C213.245,222.69,205.588,230.347,196.142,230.347z\"></path> </g> <path style=\"fill:#91C5E6;\" d=\"M213.245,170.489c0,9.446-7.656,17.102-17.102,17.102h-34.205c-9.446,0-17.102-7.656-17.102-17.102 v42.756c0,9.446,7.656,17.102,17.102,17.102h34.205c9.446,0,17.102-7.656,17.102-17.102V170.489z\"></path> <path style=\"fill:#A0D2F0;\" d=\"M49.825,111.542l-7.437,275.18c-0.098,3.648,2.128,6.956,5.544,8.238l62.679,23.512l0.021-0.134 V153.994c0-11.34-4.504-22.215-12.523-30.233L58.652,84.305C53.319,92.215,50.094,101.571,49.825,111.542z\"></path> <path style=\"fill:#B4E1FA;\" d=\"M458.37,384.267l2.499,45.057c0.213,3.721-2.01,7.151-5.492,8.478l-54.007,20.582v-74.117H458.37z\"></path> <g> <path style=\"fill:#A0D2F0;\" d=\"M462.177,111.542l7.437,275.18c0.098,3.648-2.128,6.956-5.544,8.238l-62.679,23.511l-0.021-0.134 V153.994c0-11.34,4.504-22.215,12.523-30.233l39.456-39.456C458.682,92.215,461.908,101.571,462.177,111.542z\"></path> <path style=\"fill:#A0D2F0;\" d=\"M187.591,8.017L256,67.875l-35.254,28.203c-3.994,3.196-9.882,2.192-12.594-2.145L170.489,33.67 L187.591,8.017z\"></path> <path style=\"fill:#A0D2F0;\" d=\"M324.41,8.017L256,67.875l35.254,28.203c3.994,3.196,9.882,2.192,12.594-2.145l37.664-60.262 L324.41,8.017z\"></path> </g> <path style=\"fill:#91C5E6;\" d=\"M84.978,161.937v246.919l25.632,9.616l0.021-0.134V153.993c0-1.844-0.143-3.668-0.397-5.472 c-0.297-2.113-2.107-3.688-4.241-3.688h-3.913C92.635,144.835,84.978,152.492,84.978,161.937z\"></path> <polygon style=\"fill:#A0D2F0;\" points=\"427.023,448.608 401.37,458.384 401.37,384.267 427.023,384.267 \"></polygon> <path style=\"fill:#91C5E6;\" d=\"M427.023,161.937v246.919l-25.632,9.616l-0.021-0.134V153.993c0-1.844,0.143-3.668,0.397-5.472 c0.297-2.113,2.107-3.688,4.241-3.688h3.912C419.367,144.835,427.023,152.492,427.023,161.937z\"></path> <path d=\"M290.293,256.534h-0.086c-4.427,0-7.974,3.589-7.974,8.017c0,4.427,3.632,8.017,8.059,8.017 c4.427,0,8.017-3.589,8.017-8.017C298.309,260.124,294.72,256.534,290.293,256.534z\"></path> <path d=\"M290.378,376.251h-0.085c-4.427,0-7.974,3.589-7.974,8.017c0,4.427,3.632,8.017,8.059,8.017 c4.427,0,8.017-3.589,8.017-8.017C298.395,379.84,294.806,376.251,290.378,376.251z\"></path> <path d=\"M290.293,196.676h-0.086c-4.427,0-7.974,3.589-7.974,8.017s3.632,8.017,8.059,8.017c4.427,0,8.017-3.589,8.017-8.017 S294.72,196.676,290.293,196.676z\"></path> <path d=\"M290.293,332.426c4.427,0,8.017-3.589,8.017-8.017c0-4.427-3.589-8.017-8.017-8.017h-0.086 c-4.427,0-7.974,3.589-7.974,8.017C282.233,328.837,285.865,332.426,290.293,332.426z\"></path> <path d=\"M477.626,386.505l-7.437-275.179c-0.656-24.286-16.47-46.094-39.349-54.266L346.71,27.014L331.082,3.57 c-1.281-1.921-3.326-3.196-5.615-3.5c-0.352-0.047-0.703-0.062-1.055-0.062V0H187.593v0.007c-0.351,0-0.702,0.015-1.055,0.062 c-2.288,0.304-4.335,1.58-5.615,3.5l-15.628,23.443L81.16,57.061c-22.879,8.172-38.692,29.979-39.348,54.265l-7.437,275.179 c-0.186,6.894,3.927,13.158,10.275,15.764l-1.52,26.598c-0.415,7.243,3.862,13.844,10.641,16.428l48.875,18.625 c0.309,7.195,5.258,13.428,12.269,15.298l121.92,32.513c0.681,0.181,1.375,0.27,2.065,0.27c1.57,0,3.122-0.462,4.453-1.35 c1.917-1.281,3.19-3.323,3.494-5.607l9.156-68.669l9.155,68.669c0.305,2.284,1.578,4.327,3.494,5.607 c1.917,1.279,4.291,1.673,6.518,1.08l121.926-32.514c7.01-1.87,11.96-8.104,12.269-15.3l48.866-18.621 c6.779-2.584,11.056-9.185,10.641-16.427l-1.52-26.598C473.699,399.664,477.813,393.4,477.626,386.505z M331.972,33.81 L297.05,89.683c-0.034,0.056-0.127,0.203-0.362,0.244c-0.237,0.042-0.372-0.068-0.423-0.109l-27.773-22.219l54.32-47.53 L331.972,33.81z M189.194,20.068l54.32,47.53l-27.773,22.219c-0.051,0.041-0.186,0.151-0.423,0.109 c-0.236-0.041-0.328-0.187-0.363-0.244L180.033,33.81L189.194,20.068z M102.616,446.75l-43.135-16.437 c-0.219-0.083-0.357-0.296-0.343-0.53l1.234-21.594l42.245,15.846V446.75z M247.986,375.192l-15.827,118.696l-113.111-30.163 c-0.234-0.062-0.398-0.275-0.398-0.516V153.386c0-4.427-3.589-8.017-8.017-8.017c-4.427,0-8.017,3.589-8.017,8.017v253.524 l-51.867-19.457c-0.214-0.08-0.353-0.286-0.346-0.515l7.437-275.179c0.479-17.722,12.019-33.636,28.714-39.599l80.558-28.771 l34.245,54.793c2.503,4.006,6.61,6.759,11.267,7.552c0.924,0.157,1.852,0.235,2.778,0.235c3.736,0,7.398-1.264,10.354-3.63 l22.23-17.784v290.639H247.986z M256.003,57.222L208.93,16.033h94.146L256.003,57.222z M452.521,430.312l-43.11,16.428l0.022-22.724 l42.197-15.829l1.233,21.595C452.878,430.016,452.739,430.229,452.521,430.312z M461.253,387.454l-51.803,19.432l0.248-253.492 c0.004-4.427-3.582-8.02-8.009-8.024c-0.002,0-0.005,0-0.007,0c-4.424,0-8.012,3.584-8.017,8.009l-0.302,309.829 c0,0.242-0.164,0.454-0.397,0.515l-113.119,30.165l-15.827-118.711V84.554l22.23,17.784c2.957,2.365,6.619,3.63,10.354,3.63 c0.925,0,1.853-0.078,2.778-0.235c4.657-0.793,8.764-3.546,11.267-7.551l34.245-54.793l80.555,28.77 c16.696,5.963,28.235,21.877,28.714,39.599l7.437,275.179C461.605,387.167,461.466,387.373,461.253,387.454z\"></path> <path d=\"M213.247,145.37h-68.409c-4.427,0-8.017,3.589-8.017,8.017v59.858c0,13.851,11.268,25.119,25.119,25.119h34.205 c13.851,0,25.119-11.268,25.119-25.119v-59.858C221.264,148.959,217.674,145.37,213.247,145.37z M205.23,213.244 c0,5.01-4.076,9.086-9.086,9.086H161.94c-5.01,0-9.086-4.076-9.086-9.086v-19.345c2.82,1.099,5.882,1.708,9.086,1.708h34.205 c3.203,0,6.266-0.609,9.086-1.708V213.244z M205.23,170.489c0,5.01-4.076,9.086-9.086,9.086H161.94c-5.01,0-9.086-4.076-9.086-9.086 v-9.086h52.376V170.489z\"></path> <circle cx=\"290.205\" cy=\"144.835\" r=\"8.017\"></circle> </g></svg>",
+          "producto": [
+            {
+              "codigo": 13,
+              "categoria": "Camisa",
+              "nombre": "CAMI6359",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Secado Rapido Manga Larga"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Cire secado rapido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Bison",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "2450",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI6359%0A%F0%9F%94%B9%20Modelo%3A%20Secado%20Rapido%20Manga%20Larga%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%20XXL%2C%203XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1CRqE.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1CRqE.jpg",
+                  "archivo_id": "1CRqEyeie9U_KIYkoMnSPPV6ywKabZhiE",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1MU2A.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1MU2A.jpg",
+                  "archivo_id": "1MU2ASC5w_gfGEKz3ln-Ds9AyT-IiUmxl",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1SmKA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1SmKA.jpg",
+                  "archivo_id": "1SmKA2Wgn4J6Iiv422Q_kbfM9sPwFlDfw",
+                  "portada": true,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1r1k1.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI6359%2FCAMI6359-1r1k1.jpg",
+                  "archivo_id": "1r1k1WyZrFJkRjXVMU94koHn4igoI9181",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 31500,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 31500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bison": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 42000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bison": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
+          "nombre": "Campera",
+          "url_categoria": "",
+          "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <path style=\"fill:#959CB5;\" d=\"M453.18,401.37l1.114,40.091c0.168,3.533-1.856,6.803-5.091,8.23l-64.922,28.634l-0.013,0.005 l0.503-76.96H453.18z\"></path> <g> <polygon style=\"fill:#7F8499;\" points=\"427.482,459.27 384.242,478.33 384.771,401.37 425.749,401.37 \"></polygon> <path style=\"fill:#7F8499;\" d=\"M392.818,76.426l-37.732-60.371c-3.125-5-8.606-8.038-14.503-8.038H171.416 c-5.897,0-11.377,3.038-14.503,8.038l-37.732,60.371L256,127.733L392.818,76.426z\"></path> <path style=\"fill:#7F8499;\" d=\"M136.284,469.779v25.653c0,4.722,3.829,8.551,8.551,8.551h222.33c4.722,0,8.551-3.829,8.551-8.551 v-25.653H136.284z\"></path> </g> <path style=\"fill:#959CB5;\" d=\"M59.324,401.37l-1.114,40.091c-0.168,3.533,1.856,6.803,5.091,8.23l64.406,28.639l0,0l0.026-76.96 H59.324z\"></path> <polygon style=\"fill:#7F8499;\" points=\"85.022,459.27 127.733,478.33 127.733,401.37 86.755,401.37 \"></polygon> <path style=\"fill:#959CB5;\" d=\"M453.794,126.47c-0.681-20.07-13.007-37.897-31.544-45.62l-63.954-26.648 c-5.16-2.15-11.044-1.643-15.76,1.359l-72.764,46.304c-8.404,5.348-19.143,5.348-27.546,0l-72.764-46.304 c-4.716-3.001-10.6-3.508-15.76-1.359L89.75,80.851c-18.536,7.724-30.863,25.551-31.544,45.62l-9.128,268.983 c-0.121,3.559,1.977,6.821,5.265,8.187l56.288,23.382h1.198l-0.748,25.215c-0.247,9.614,7.48,17.541,17.097,17.541h255.646 c9.617,0,17.344-7.927,17.097-17.541l-0.748-25.215h1.198l56.287-23.382c3.289-1.366,5.387-4.628,5.265-8.187L453.794,126.47z\"></path> <g> <path style=\"fill:#7F8499;\" d=\"M462.923,395.453l-9.127-268.983c-0.388-11.415-4.643-22.028-11.563-30.546l-33.883,33.882 c-9.622,9.622-15.028,22.672-15.028,36.279v12.954l8.048,247.983l56.288-23.382C460.945,402.274,463.044,399.013,462.923,395.453z\"></path> <path style=\"fill:#7F8499;\" d=\"M104.155,129.808L69.994,95.647c-7.059,8.562-11.397,19.285-11.788,30.824l-9.128,268.983 c-0.12,3.559,1.977,6.821,5.266,8.187l56.286,23.383h1.198l7.353-247.983v-12.953C119.182,152.48,113.777,139.43,104.155,129.808z\"></path> </g> <g> <path style=\"fill:#707487;\" d=\"M256,80.372L347.822,9.74c-2.245-1.056-4.681-1.723-7.239-1.723H171.416 c-2.559,0-4.995,0.668-7.239,1.723L256,80.372z\"></path> <path style=\"fill:#707487;\" d=\"M114.906,170.489h-4.563c-9.244,0-16.815,7.345-17.095,16.586l-6.947,229.842l24.329,10.106h1.031 l7.52-248.866v-3.393C119.182,172.403,117.267,170.489,114.906,170.489z\"></path> <path style=\"fill:#707487;\" d=\"M397.597,170.489h4.563c9.244,0,16.815,7.345,17.095,16.586l6.947,229.842l-24.857,10.106l0,0 l-8.022-248.866v-3.393C393.322,172.403,395.236,170.489,397.597,170.489z\"></path> </g> <g> <polygon style=\"fill:#F5DCB4;\" points=\"394.453,213.244 118.121,213.244 117.088,247.449 395.556,247.449 \"></polygon> <path style=\"fill:#F5DCB4;\" d=\"M57.868,136.43l-1.725,50.84c1.054,0.133,2.092,0.321,3.181,0.321 c14.168,0,25.653-11.485,25.653-25.653c0-14.168-11.485-25.653-25.653-25.653C58.824,136.284,58.359,136.403,57.868,136.43z\"></path> </g> <path d=\"M470.734,389.266L461.807,126.2c-0.785-23.138-15.101-43.845-36.473-52.749l-35.185-14.66l-28.236-46.674 C357.391,4.643,349.156,0,340.42,0H171.58c-8.735,0-16.971,4.643-21.492,12.117l-28.236,46.674l-35.186,14.66 c-21.371,8.904-35.687,29.609-36.473,52.749l-8.927,263.066c-0.278,8.212,3.555,15.957,9.909,20.82l-1.226,25.744 c-0.471,9.913,4.955,19.195,13.828,23.647l64.491,32.351v3.603c0,9.136,7.432,16.568,16.568,16.568h222.33 c9.136,0,16.568-7.432,16.568-16.568v-3.603l64.491-32.352c8.872-4.451,14.299-13.733,13.827-23.646l-1.226-25.744 C467.179,405.223,471.012,397.479,470.734,389.266z M445.782,126.743l8.927,263.065c0.127,3.76-2.121,7.256-5.596,8.7 l-41.316,17.163l-6.967-236.868c-0.13-4.426-3.838-7.873-8.249-7.777c-4.425,0.13-7.908,3.823-7.777,8.25l0.764,25.952H264.017 v-90.196l82.824-52.706c2.503-1.593,5.633-1.863,8.372-0.722l63.954,26.648C434.762,94.749,445.209,109.858,445.782,126.743z M386.575,239.432H264.017v-18.171h122.024L386.575,239.432z M247.983,239.432H125.425l0.534-18.171h122.024V239.432z M137.049,461.762c-4.81,0-9.304-1.899-12.654-5.351c-3.35-3.45-5.118-7.997-4.976-12.804l5.534-188.141h123.03v206.296H137.049z M264.017,255.466h123.03l5.534,188.141c0.141,4.807-1.626,9.355-4.976,12.804c-3.35,3.451-7.844,5.351-12.654,5.351H264.017 V255.466z M365.096,48.351l-3.714-1.548c-7.573-3.158-16.226-2.411-23.147,1.995L256,101.128l-7.571-4.819l99.38-76.446 c0.13,0.183,0.268,0.358,0.386,0.552L365.096,48.351z M258.502,68.333l-71.912-52.3h139.903L258.502,68.333z M163.806,20.416 c0.158-0.262,0.34-0.506,0.523-0.747l80.927,58.856l-11.217,8.629L173.768,48.8c-6.922-4.405-15.574-5.152-23.147-1.995 l-3.715,1.548L163.806,20.416z M92.833,88.251l63.955-26.648c2.738-1.142,5.867-0.872,8.372,0.722l82.823,52.706v90.196H126.431 l0.763-25.952c0.13-4.426-3.352-8.119-7.777-8.25c-4.416-0.087-8.119,3.352-8.249,7.777l-6.966,236.868l-41.316-17.163 c-3.474-1.444-5.723-4.939-5.596-8.7l6.601-194.519c16.411-2.237,29.102-16.336,29.102-33.352c0-16.23-11.544-29.815-26.852-32.975 l0.075-2.219C66.791,109.858,77.238,94.749,92.833,88.251z M65.582,145.469c6.64,2.532,11.378,8.95,11.378,16.468 c0,7.941-5.278,14.669-12.509,16.871L65.582,145.469z M65.965,436.592l0.907-19.066l36.824,15.297l-0.304,10.312 c-0.237,8.053,2.333,15.724,7.288,21.935l-39.716-19.923C67.757,443.535,65.795,440.179,65.965,436.592z M144.301,495.432v-17.637 h103.683v18.171H144.835C144.54,495.967,144.301,495.726,144.301,495.432z M367.165,495.967H264.017v-18.171h103.683v17.637 C367.699,495.726,367.46,495.967,367.165,495.967z M441.034,445.145l-39.716,19.923c4.954-6.21,7.525-13.881,7.288-21.934 l-0.304-10.312l36.824-15.297l0.908,19.066C446.205,440.179,444.243,443.535,441.034,445.145z\"></path> <path d=\"M181.575,342.457c-4.199-1.397-8.74,0.87-10.141,5.07l-25.653,76.96c-1.4,4.201,0.87,8.741,5.071,10.141 c0.841,0.28,1.695,0.414,2.536,0.414c3.356,0,6.484-2.124,7.604-5.483l25.653-76.96 C188.045,348.397,185.775,343.857,181.575,342.457z\"></path> <path d=\"M340.565,347.527c-1.401-4.2-5.941-6.468-10.141-5.07c-4.201,1.4-6.47,5.941-5.071,10.141l25.653,76.96 c1.12,3.36,4.248,5.483,7.604,5.483c0.84,0,1.695-0.134,2.536-0.414c4.201-1.4,6.47-5.941,5.071-10.141L340.565,347.527z\"></path> </g></svg>",
+          "producto": [
+            {
+              "codigo": 16,
+              "categoria": "Campera",
+              "nombre": "CAMP1025",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Puffer Classic THE YOUN NIGH"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "YD"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Cire tornasolado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL",
+                    "3XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Beige",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1200",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP1025%0A%F0%9F%94%B9%20Modelo%3A%20Puffer%20Classic%20THE%20YOUN%20NIGH%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL%2C%203XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1VesV.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1VesV.jpg",
+                  "archivo_id": "1VesVqvKOFQPo4As3Tz5hJQwJzAOWvtJd",
+                  "portada": true,
+                  "orden": 134,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1icOK.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1icOK.jpg",
+                  "archivo_id": "1icOKwVNFOoJ3PFCojnSAPW_iGJxGnGhb",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-125JT.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-125JT.jpg",
+                  "archivo_id": "125JTeD4ljAdrMIx2H_K-g18OkQEVe7Ol",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1Cdpp.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1Cdpp.jpg",
+                  "archivo_id": "1CdppH6xnYmEn7NC08sgNvr7fLtFJDTLo",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1yhol.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1yhol.jpg",
+                  "archivo_id": "1yholCeJwDEZD7cpxkhbRmTBY7-G3Ddk9",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1ut9z.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1ut9z.jpg",
+                  "archivo_id": "1ut9zgSxfEnnlyXsCw3-H202jCVtmssQO",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1Ew9X.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1Ew9X.jpg",
+                  "archivo_id": "1Ew9XpIfM9tkNcw2Yk2NdncMUdJ1UBhE-",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1a2W1.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1a2W1.jpg",
+                  "archivo_id": "1a2W1WadpNo_-jkoOpW7G716Z86qIz2e8",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-16IFd.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-16IFd.jpg",
+                  "archivo_id": "16IFdVgAx4AujRVG52RFQrmFQiDfLqr9c",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1kvBb.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1025%2FCAMP1025-1kvBb.jpg",
+                  "archivo_id": "1kvBbS2JSNmy8Jh9j54e1_JW5TBIiL2gW",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 51000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 51000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Beige": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 51000,
+                  "variedad": "Combo",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Beige": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 68000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Beige": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 20,
+              "categoria": "Campera",
+              "nombre": "CAMP1639",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Rompeviento BOXY"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "YD"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Cire"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Amarillo Verde",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Naranja",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Amarillo",
+                      "hex": "#cccccc"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "2700",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP1639%0A%F0%9F%94%B9%20Modelo%3A%20Rompeviento%20BOXY%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1oKAR.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1oKAR.jpg",
+                  "archivo_id": "1oKARXAzgZeSLJzIBjJPPBw1WwUpMyW5P",
+                  "portada": true,
+                  "orden": 18,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1TEbX.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1TEbX.jpg",
+                  "archivo_id": "1TEbXoYVzLq11YERpaJdseQoL5JdjMtZv",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1z7pM.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1z7pM.jpg",
+                  "archivo_id": "1z7pML0bePG2KhGlmcBpvNkPgL9XtryEY",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-14tmH.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-14tmH.jpg",
+                  "archivo_id": "14tmHICYn9TqM-cw-poPm_w5iMyPbpOB8",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1LFxm.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1LFxm.jpg",
+                  "archivo_id": "1LFxmaSG8qyB9Aeu0qcB50ucuDBBVwNSz",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1e0uK.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1e0uK.jpg",
+                  "archivo_id": "1e0uKVIj0T0asDte2L7rLusfXh_lqKP4A",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1wvX7.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1wvX7.jpg",
+                  "archivo_id": "1wvX7q6ZBhJlRIIxJuCF1-lNtu2lx9pk8",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-14o2w.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-14o2w.jpg",
+                  "archivo_id": "14o2wU2MjRyr1tDsB6juozNKlgRk08kH2",
+                  "portada": false,
+                  "orden": 26,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1ifVA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1ifVA.jpg",
+                  "archivo_id": "1ifVAMf90H7AftFE9iRrn-6usUSFc6Gd7",
+                  "portada": false,
+                  "orden": 28,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1-K8w.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP1639%2FCAMP1639-1-K8w.jpg",
+                  "archivo_id": "1-K8w2JeDkodR9YQtwUig2ojWOwc0sa-t",
+                  "portada": false,
+                  "orden": 30,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 41550,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 41550,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Naranja": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 41550,
+                  "variedad": "Combo",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Naranja": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 55400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Naranja": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-24T03:00:00.000Z"
             }
           ]
         }
@@ -577,5 +3417,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774399307928
+  "timestamp_ms": 1774400201333
 }
