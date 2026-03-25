@@ -7,16 +7,16 @@
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
     "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=CARLOS%20ANGEL&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1132264462&address=Bacacay%202946&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%2C%22LinkText%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
-    "direccion": "Bacacay 2946",
-    "coordenadas": "-34.626916, -58.471478",
+    "direccion": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
+    "coordenadas": "-34.646943, -58.692333",
     "horario": {
-      "apertura": "07:00:00",
+      "apertura": "10:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "4",
+    "compra_minima": "3",
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -27,7 +27,7 @@
       "catalogo_drive": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link"
     },
     "google_review": {
-      "place_id": "ChIJqRVNNA7JvJURQxU7WrDOz4o"
+      "place_id": ""
     },
     "metodos_pago": [
       "Efectivo ",
@@ -129,16 +129,49 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    40,
+                    42,
+                    44,
+                    46,
+                    48,
+                    50
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Negro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Bison",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Gris claro",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Aguamarina medio",
+                      "hex": "#cccccc"
+                    },
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#cccccc"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "2100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -147,7 +180,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2040%0A%F0%9F%94%B9%20Modelo%3A%20Chino%20C%2Fcintura%20elastizada%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM2040%0A%F0%9F%94%B9%20Modelo%3A%20Chino%20C%2Fcintura%20elastizada%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048%2C%2050"
                 }
               },
               "imagen": [
@@ -222,21 +255,285 @@
                   "precio": 25800,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 25800,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bison": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Aguamarina medio": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 34400,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Negro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bison": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Aguamarina medio": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Surtido": {
+                      "color": "#cccccc",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 46,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 50,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-03-24T03:00:00.000Z"
@@ -280,5 +577,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774398658567
+  "timestamp_ms": 1774399231671
 }
