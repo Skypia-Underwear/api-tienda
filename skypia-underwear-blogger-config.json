@@ -2984,6 +2984,410 @@
                 }
               ],
               "upd": "2026-03-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 22,
+              "categoria": "Campera",
+              "nombre": "CAMP2179",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Conjunto con jogging recto"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SSJ"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon Premium"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Verde",
+                      "hex": "#00FF00"
+                    },
+                    {
+                      "nombre": "Amarillo Verde",
+                      "hex": "#ADFF2F"
+                    },
+                    {
+                      "nombre": "Amarillo mostaza",
+                      "hex": "#E3B439"
+                    },
+                    {
+                      "nombre": "Gris claro",
+                      "hex": "#D3D3D3"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1500",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "27-03-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP2179%0A%F0%9F%94%B9%20Modelo%3A%20Conjunto%20con%20jogging%20recto%0A%F0%9F%94%B9%20Marca%3A%20SSJ%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1WNXA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1WNXA.jpg",
+                  "archivo_id": "1WNXA6KR4L14G5WVeOeWP6My9ELIAR8th",
+                  "portada": true,
+                  "orden": 88,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1UCOx.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1UCOx.jpg",
+                  "archivo_id": "1UCOxu3XNd_iBmH58PzBupweRSElTebq5",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1shpn.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1shpn.jpg",
+                  "archivo_id": "1shpni6gpddMY57z1Igx9ZB1_81XcSeYF",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-19sdp.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-19sdp.jpg",
+                  "archivo_id": "19sdpS3zvo-0eWS_bCJojCcxlx9kghemh",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1CCKY.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1CCKY.jpg",
+                  "archivo_id": "1CCKYjViaX52R5Xo8-BLcRpZZBpzrqmnS",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1tWMl.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1tWMl.jpg",
+                  "archivo_id": "1tWMlKmzfA_UbsHlKFoW0CdmJG3dIw-Hd",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1pnaY.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1pnaY.jpg",
+                  "archivo_id": "1pnaYn2ObEGpqtbB1YNh6_4lXycZE_977",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1b3u2.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1b3u2.jpg",
+                  "archivo_id": "1b3u2DtyUkJ61NUD8KU8n8NtdUlgTbHkQ",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1bV0f.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1bV0f.jpg",
+                  "archivo_id": "1bV0fThaFQ6QzBobYp9JiSliI9q0Hfz2p",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1bmoC.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2179%2FCAMP2179-1bmoC.jpg",
+                  "archivo_id": "1bmoCoVs86mdrL-LN4F4IcstiL2UiwoV5",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-03-18T13:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 36000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "250"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 36000,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#00FF00",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo Verde": {
+                      "color": "#ADFF2F",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#D3D3D3",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 48000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde": {
+                      "color": "#00FF00",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo Verde": {
+                      "color": "#ADFF2F",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#D3D3D3",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-03-27T03:00:00.000Z"
             }
           ]
         },
@@ -2994,7 +3398,7 @@
           "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <polygon style=\"fill:#64C1DF;\" points=\"111.804,504.163 184.947,504.163 189.952,472.294 238.028,166.139 273.972,166.139 322.048,472.294 327.053,504.163 400.196,504.163 400.196,51.722 111.804,51.722 \"></polygon> <g> <polygon style=\"fill:#37A0BD;\" points=\"169.054,472.294 164.049,504.163 184.947,504.163 189.952,472.294 238.028,166.139 217.13,166.139 \"></polygon> <polygon style=\"fill:#37A0BD;\" points=\"342.946,472.294 347.951,504.163 327.053,504.163 322.048,472.294 273.972,166.139 294.87,166.139 \"></polygon> </g> <g> <polygon style=\"fill:#FFFFFF;\" points=\"400.196,472.294 400.196,504.163 327.053,504.163 322.048,472.294 \"></polygon> <polygon style=\"fill:#FFFFFF;\" points=\"189.952,472.294 184.947,504.163 111.804,504.163 111.804,472.294 \"></polygon> <path style=\"fill:#FFFFFF;\" d=\"M183.902,51.722c0,39.852-32.246,72.098-72.098,72.098V51.722H183.902z\"></path> <path style=\"fill:#FFFFFF;\" d=\"M328.098,51.722c0,39.852,32.246,72.098,72.098,72.098V51.722H328.098z\"></path> </g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#DDB92E;\" width=\"288.392\" height=\"43.886\"></rect> <g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"288.392\" height=\"21.943\"></rect> <rect x=\"219.429\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"73.143\" height=\"43.886\"></rect> </g> <path d=\"M103.967,0v51.722v7.837V512h87.682l53.081-338.024h22.541L320.351,512h87.682V59.559v-7.837V0H103.967z M300.408,43.886 V15.673h91.951v28.212H300.408z M227.265,43.886V15.673h57.469v28.212H227.265z M119.641,15.673h91.951v28.212h-91.951V15.673z M175.57,59.559c-3.566,29.178-26.753,52.364-55.929,55.929V59.559H175.57z M119.641,496.327v-16.196h61.147l-2.543,16.196H119.641z M183.249,464.457h-63.608V131.268c37.832-3.699,68.01-33.878,71.709-71.709h72.487v59.559c0,4.322-3.515,7.837-7.837,7.837h-7.837 v31.347h-33.959v15.673h14.66L183.249,464.457z M283.136,173.976h14.66v-15.673h-33.959v-17.016 c9.122-3.234,15.673-11.951,15.673-22.168V59.559h41.14c3.699,37.832,33.878,68.01,71.709,71.709v333.189h-63.608L283.136,173.976z M333.755,496.327l-2.543-16.196h61.147v16.196H333.755z M392.359,115.488c-29.178-3.566-52.364-26.753-55.929-55.929h55.929 V115.488z\"></path> </g></svg>",
           "producto": [
             {
-              "codigo": 22,
+              "codigo": 25,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -3500,5 +3904,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1774483004676
+  "timestamp_ms": 1774602752125
 }
