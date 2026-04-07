@@ -499,42 +499,6 @@
             {
               "codigo": 7,
               "categoria": "Pantalon",
-              "nombre": "PANT4700",
-              "descripcion": null,
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 11200,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 12000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 14400,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-04-07T03:00:00.000Z"
-            },
-            {
-              "codigo": 10,
-              "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
                 "modelo": {
@@ -728,5 +692,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775601691921
+  "timestamp_ms": 1775602534843
 }
