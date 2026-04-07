@@ -1,47 +1,9 @@
 {
   "status": "0",
   "message": "Éxito (Bridge V3)",
-  "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
-  "pagina_tienda": {
-    "tienda_id": "Skypia Underwear",
-    "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%2C%22LinkText%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
-    "correo": "skypia.underwear@gmail.com",
-    "telefono": "1123890659",
-    "direccion": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
-    "coordenadas": "-34.646943, -58.692333",
-    "horario": {
-      "apertura": "10:00:00",
-      "cierre": "17:00:00"
-    },
-    "compra_minima": "3",
-    "redes_sociales": {
-      "facebook": "https://facebook.com/100038029245417",
-      "instagram": "https://Instagram.com/cf.castfer",
-      "tiktok": "https://tiktok.com/cf.castfer"
-    },
-    "formularios": {
-      "cliente": "https://script.google.com/macros/s/AKfycbwJijUC0Nbbd91i3ERB9T_kyKkgsKgns_CGtaOHCGcK2tdqByX56XwzmoViqUK6RO6m/exec",
-      "catalogo_drive": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link"
-    },
-    "google_review": {
-      "place_id": ""
-    },
-    "metodos_pago": [
-      "Efectivo ",
-      " Transferencia +10% ",
-      " Tarjeta Debito +10% ",
-      " Tarjeta Credito +23% ",
-      " Factura IVA +21% ",
-      " Presupuesto"
-    ],
-    "formas_entrega": [
-      "RETIRO TIENDA ",
-      " Correo Argentino"
-    ]
-  },
+  "pagina_url": "",
+  "pagina_logo": "",
+  "pagina_tienda": {},
   "contentagencia": [
     {
       "codigo": "RETIRO TIENDA",
@@ -62,34 +24,8 @@
       "hora_entrega": "1899-12-30T18:16:48.000Z"
     }
   ],
-  "pagina_carrusel": [
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%201.191720.jpg",
-      "titulo": "Skypia Underwear",
-      "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%202.191736.jpg",
-      "titulo": "Informacion",
-      "descripcion": "Datos importante de la tienda"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%203.191747.jpg",
-      "titulo": "Nuevo Producto",
-      "descripcion": "Producto destacado disponible para reservar"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%204.191758.jpg",
-      "titulo": "Oferta 1",
-      "descripcion": "Disponible hasta agotar stock"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%205.191816.jpg",
-      "titulo": "Oferta 1",
-      "descripcion": "Disponible hasta agotar stock"
-    }
-  ],
-  "contactabilidad": "541123890659",
+  "pagina_carrusel": {},
+  "contactabilidad": "",
   "content": [
     {
       "nombre_padre": "GENERAL",
@@ -489,43 +425,213 @@
               "upd": "2026-04-06T03:00:00.000Z"
             }
           ]
+        },
+        {
+          "codigo": 2,
+          "nombre": "Pantalon",
+          "url_categoria": "",
+          "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <polygon style=\"fill:#64C1DF;\" points=\"111.804,504.163 184.947,504.163 189.952,472.294 238.028,166.139 273.972,166.139 322.048,472.294 327.053,504.163 400.196,504.163 400.196,51.722 111.804,51.722 \"></polygon> <g> <polygon style=\"fill:#37A0BD;\" points=\"169.054,472.294 164.049,504.163 184.947,504.163 189.952,472.294 238.028,166.139 217.13,166.139 \"></polygon> <polygon style=\"fill:#37A0BD;\" points=\"342.946,472.294 347.951,504.163 327.053,504.163 322.048,472.294 273.972,166.139 294.87,166.139 \"></polygon> </g> <g> <polygon style=\"fill:#FFFFFF;\" points=\"400.196,472.294 400.196,504.163 327.053,504.163 322.048,472.294 \"></polygon> <polygon style=\"fill:#FFFFFF;\" points=\"189.952,472.294 184.947,504.163 111.804,504.163 111.804,472.294 \"></polygon> <path style=\"fill:#FFFFFF;\" d=\"M183.902,51.722c0,39.852-32.246,72.098-72.098,72.098V51.722H183.902z\"></path> <path style=\"fill:#FFFFFF;\" d=\"M328.098,51.722c0,39.852,32.246,72.098,72.098,72.098V51.722H328.098z\"></path> </g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#DDB92E;\" width=\"288.392\" height=\"43.886\"></rect> <g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"288.392\" height=\"21.943\"></rect> <rect x=\"219.429\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"73.143\" height=\"43.886\"></rect> </g> <path d=\"M103.967,0v51.722v7.837V512h87.682l53.081-338.024h22.541L320.351,512h87.682V59.559v-7.837V0H103.967z M300.408,43.886 V15.673h91.951v28.212H300.408z M227.265,43.886V15.673h57.469v28.212H227.265z M119.641,15.673h91.951v28.212h-91.951V15.673z M175.57,59.559c-3.566,29.178-26.753,52.364-55.929,55.929V59.559H175.57z M119.641,496.327v-16.196h61.147l-2.543,16.196H119.641z M183.249,464.457h-63.608V131.268c37.832-3.699,68.01-33.878,71.709-71.709h72.487v59.559c0,4.322-3.515,7.837-7.837,7.837h-7.837 v31.347h-33.959v15.673h14.66L183.249,464.457z M283.136,173.976h14.66v-15.673h-33.959v-17.016 c9.122-3.234,15.673-11.951,15.673-22.168V59.559h41.14c3.699,37.832,33.878,68.01,71.709,71.709v333.189h-63.608L283.136,173.976z M333.755,496.327l-2.543-16.196h61.147v16.196H333.755z M392.359,115.488c-29.178-3.566-52.364-26.753-55.929-55.929h55.929 V115.488z\"></path> </g></svg>",
+          "producto": [
+            {
+              "codigo": 7,
+              "categoria": "Pantalon",
+              "nombre": "PANT4700",
+              "descripcion": null,
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-07T03:00:00.000Z"
+            },
+            {
+              "codigo": 10,
+              "categoria": "Pantalon",
+              "nombre": "PANT7095",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "PALAZO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Plush"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "07-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7095%0A%F0%9F%94%B9%20Modelo%3A%20PALAZO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
+                  "archivo_id": "1Ws0wQxMHTpbkKxFyorscCFbRdpYDpv3s",
+                  "portada": true,
+                  "orden": 18,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
+                  "archivo_id": "1tlUQvygUqZd57VY7bc8lor6XE5WaUhsI",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
+                  "archivo_id": "1QZ9a-P7Zczfpe4tpD3wtnNmkE1--loNf",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
+                  "archivo_id": "1O1zQeQuD8NHaV4LBEQqS2lnfsTm7oql9",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
+                  "archivo_id": "1otnv5e4tnLU21yJOpuTKRzI7n_FGRrKY",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
+                  "archivo_id": "1kp5aFILoLGvUurE6HbAAuA10P2u5SNQh",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
+                  "archivo_id": "18qmlaAOWzDsg38Vuc8m918KNCzBP_1xX",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
+                  "archivo_id": "19oBfXuxlgaPwPV5aUdvrNfJ8hThYy64l",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
+                  "archivo_id": "1igBDhhuPxKXc_0FUEKLXR9sGvwziXxiL",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
+                  "archivo_id": "1KBtogiRL7a8g00VmKOMHD0BQFtaioa4e",
+                  "portada": false,
+                  "orden": 22,
+                  "fecha_carga": "2026-04-07T04:40:53.111Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-07T03:00:00.000Z"
+            }
+          ]
         }
       ]
     }
   ],
-  "formas_pago": [
-    {
-      "nombre": "Efectivo",
-      "recargo": 0
-    },
-    {
-      "nombre": "Transferencia",
-      "recargo": 10
-    },
-    {
-      "nombre": "Tarjeta Debito",
-      "recargo": 10
-    },
-    {
-      "nombre": "Tarjeta Credito",
-      "recargo": 23
-    },
-    {
-      "nombre": "Factura IVA",
-      "recargo": 21
-    },
-    {
-      "nombre": "Presupuesto",
-      "recargo": 0
-    }
-  ],
-  "cuenta_transferencia_dia": {
-    "id": "0535c0a7",
-    "cuenta": "Juan Diego Ricaldi SImon",
-    "alias": "Ricaldisimo",
-    "cbu": "93242292312",
-    "banco": "Mercado Pago"
-  },
+  "formas_pago": [],
+  "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775463933659
+  "timestamp_ms": 1775549450066
 }
