@@ -1,9 +1,47 @@
 {
   "status": "0",
   "message": "Éxito (Bridge V3)",
-  "pagina_url": "",
-  "pagina_logo": "",
-  "pagina_tienda": {},
+  "pagina_url": "https://skypia-underwear.blogspot.com/",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_tienda": {
+    "tienda_id": "Skypia Underwear",
+    "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%2C%22LinkText%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "correo": "skypia.underwear@gmail.com",
+    "telefono": "1123890659",
+    "direccion": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
+    "coordenadas": "-34.646943, -58.692333",
+    "horario": {
+      "apertura": "10:00:00",
+      "cierre": "17:00:00"
+    },
+    "compra_minima": "3",
+    "redes_sociales": {
+      "facebook": "https://facebook.com/100038029245417",
+      "instagram": "https://Instagram.com/cf.castfer",
+      "tiktok": "https://tiktok.com/cf.castfer"
+    },
+    "formularios": {
+      "cliente": "https://script.google.com/macros/s/AKfycbwJijUC0Nbbd91i3ERB9T_kyKkgsKgns_CGtaOHCGcK2tdqByX56XwzmoViqUK6RO6m/exec",
+      "catalogo_drive": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link"
+    },
+    "google_review": {
+      "place_id": ""
+    },
+    "metodos_pago": [
+      "Efectivo ",
+      " Transferencia +10% ",
+      " Tarjeta Debito +10% ",
+      " Tarjeta Credito +23% ",
+      " Factura IVA +21% ",
+      " Presupuesto"
+    ],
+    "formas_entrega": [
+      "RETIRO TIENDA ",
+      " Correo Argentino"
+    ]
+  },
   "contentagencia": [
     {
       "codigo": "RETIRO TIENDA",
@@ -24,8 +62,34 @@
       "hora_entrega": "1899-12-30T18:16:48.000Z"
     }
   ],
-  "pagina_carrusel": {},
-  "contactabilidad": "",
+  "pagina_carrusel": [
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%201.191720.jpg",
+      "titulo": "Skypia Underwear",
+      "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad"
+    },
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%202.191736.jpg",
+      "titulo": "Informacion",
+      "descripcion": "Datos importante de la tienda"
+    },
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%203.191747.jpg",
+      "titulo": "Nuevo Producto",
+      "descripcion": "Producto destacado disponible para reservar"
+    },
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%204.191758.jpg",
+      "titulo": "Oferta 1",
+      "descripcion": "Disponible hasta agotar stock"
+    },
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%205.191816.jpg",
+      "titulo": "Oferta 1",
+      "descripcion": "Disponible hasta agotar stock"
+    }
+  ],
+  "contactabilidad": "541123890659",
   "content": [
     {
       "nombre_padre": "GENERAL",
@@ -630,8 +694,39 @@
       ]
     }
   ],
-  "formas_pago": [],
-  "cuenta_transferencia_dia": {},
+  "formas_pago": [
+    {
+      "nombre": "Efectivo",
+      "recargo": 0
+    },
+    {
+      "nombre": "Transferencia",
+      "recargo": 10
+    },
+    {
+      "nombre": "Tarjeta Debito",
+      "recargo": 10
+    },
+    {
+      "nombre": "Tarjeta Credito",
+      "recargo": 23
+    },
+    {
+      "nombre": "Factura IVA",
+      "recargo": 21
+    },
+    {
+      "nombre": "Presupuesto",
+      "recargo": 0
+    }
+  ],
+  "cuenta_transferencia_dia": {
+    "id": "0535c0a7",
+    "cuenta": "Juan Diego Ricaldi SImon",
+    "alias": "Ricaldisimo",
+    "cbu": "93242292312",
+    "banco": "Mercado Pago"
+  },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775549450066
+  "timestamp_ms": 1775601691921
 }
