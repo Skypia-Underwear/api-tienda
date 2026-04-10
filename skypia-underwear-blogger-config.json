@@ -152,8 +152,52 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1A_I3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1A_I3.jpg",
+                  "archivo_id": "1A_I3I_7Vuvu_mII3s6vyutqMU5Do30ZF",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
+                  "archivo_id": "1LUp35AkBK00ViftCXyM48ZJeVoQVa4PV",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1qXG-.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1qXG-.jpg",
+                  "archivo_id": "1qXG-nMCwbb0UG640sO9MmZER33CsGFxM",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1_g_-.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1_g_-.jpg",
+                  "archivo_id": "1_g_-RuUakd5pmhW1esq0mb02DrgQRCMq",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1NUOC.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1NUOC.jpg",
+                  "archivo_id": "1NUOCFb0fkFqaI8G6azpeibstvh8ZQhpM",
+                  "portada": false,
+                  "orden": 5,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1GdNH.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1GdNH.jpg",
+                  "archivo_id": "1GdNHC0adMo5mlML8AUZw6hdWO5w4XWwe",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-10T22:32:17.825Z"
                 }
               ],
               "variedad": [
@@ -930,5 +974,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775859933375
+  "timestamp_ms": 1775860851187
 }
