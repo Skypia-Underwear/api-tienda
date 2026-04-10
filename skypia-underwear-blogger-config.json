@@ -103,6 +103,87 @@
             {
               "codigo": 1,
               "categoria": "Boxer",
+              "nombre": "BOXE4793",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Dragónball"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "UOMO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon y poliester"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "10-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4793%0A%F0%9F%94%B9%20Modelo%3A%20Drag%C3%B3nball%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 3500,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 4250,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 4500,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-10T03:00:00.000Z"
+            },
+            {
+              "codigo": 4,
+              "categoria": "Boxer",
               "nombre": "BOXE4797",
               "descripcion": {
                 "modelo": {
@@ -157,7 +238,7 @@
                   "archivo_id": "1aFaNXilm9W1BneXeQ2Wy90MqAeZ_KpSY",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1u1F7.jpg",
@@ -165,7 +246,7 @@
                   "archivo_id": "1u1F7Pzz7aNhYYb17taNHZ6ttfeXrde2i",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1a1PE.jpg",
@@ -173,7 +254,7 @@
                   "archivo_id": "1a1PEjWR0vtJMV8aMCYc65yydpKT2GoMt",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1kwv3.jpg",
@@ -181,7 +262,7 @@
                   "archivo_id": "1kwv3fozXyShjb-HdHPkCW_AXrQNbtWBP",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-18fO5.jpg",
@@ -189,7 +270,7 @@
                   "archivo_id": "18fO58oxWTaFO6KUZBAkCVRYdkFR0k0oj",
                   "portada": false,
                   "orden": 10,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1-yMN.jpg",
@@ -197,7 +278,7 @@
                   "archivo_id": "1-yMNE6Kj-KWNJ6B7D5AYClz_XldHnRGC",
                   "portada": false,
                   "orden": 12,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-110FH.jpg",
@@ -205,7 +286,7 @@
                   "archivo_id": "110FHpqHNLYxxdhkS6Saps4dvZP2M7zuU",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1iHM6.jpg",
@@ -213,7 +294,15 @@
                   "archivo_id": "1iHM6v8WNMtSa7LfYfNvynVcQWH6r2qJw",
                   "portada": false,
                   "orden": 16,
-                  "fecha_carga": "2026-04-10T06:49:27.788Z"
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1AapV.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1AapV.jpg",
+                  "archivo_id": "1AapVUHg0kMcYyJlT3B_SfEc3hL8cAAin",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-04-10T22:18:41.022Z"
                 }
               ],
               "variedad": [
@@ -250,7 +339,7 @@
           "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <g> <path style=\"fill:#657070;\" d=\"M370.759,35.31H141.242V8.828c0-4.873,3.955-8.828,8.828-8.828h211.862 c4.873,0,8.828,3.955,8.828,8.828V35.31z\"></path> <path style=\"fill:#95A5A5;\" d=\"M370.214,35.31H256.002H141.791c-5.085,0-9.119,4.281-8.819,9.357l25.423,423.724 c0.282,4.661,4.149,8.298,8.819,8.298h53.734c4.776,0,8.678-3.796,8.828-8.563l8.104-273.929 c0.256-9.816,8.298-17.646,18.123-17.646s17.858,7.83,18.114,17.646l8.113,273.929c0.141,4.767,4.052,8.563,8.828,8.563h53.734 c4.67,0,8.527-3.637,8.81-8.298l25.423-423.724C379.332,39.592,375.298,35.31,370.214,35.31\"></path> <g> <path style=\"fill:#7F8C8D;\" d=\"M211.863,512h-35.31c-4.873,0-8.828-3.955-8.828-8.828V476.69h52.966v26.483 C220.69,508.045,216.735,512,211.863,512\"></path> <path style=\"fill:#7F8C8D;\" d=\"M335.449,512h-35.31c-4.873,0-8.828-3.955-8.828-8.828V476.69h52.966v26.483 C344.276,508.045,340.322,512,335.449,512\"></path> <path style=\"fill:#7F8C8D;\" d=\"M211.863,88.276c-4.829,0-8.766-3.884-8.828-8.722c-0.238-19.994,36.917-44.659,48.305-51.738 c2.022-1.262,4.458-1.651,6.771-1.077c2.313,0.574,4.299,2.057,5.5,4.105c6.418,10.911,23.411,32.759,35.187,31.055 c4.89-0.742,9.322,2.569,10.063,7.38c0.742,4.82-2.56,9.322-7.38,10.063c-20.674,3.098-39.256-19.218-48.066-31.806 c-17.938,12.244-32.786,26.456-32.724,31.806c0.062,4.882-3.849,8.872-8.722,8.934H211.863z\"></path> <path style=\"fill:#7F8C8D;\" d=\"M373.705,133.343l5.323-88.673c0.3-5.076-3.734-9.357-8.819-9.357h-34.763v35.31 C335.446,97.945,351,121.603,373.705,133.343\"></path> <path style=\"fill:#7F8C8D;\" d=\"M138.296,133.343l-5.323-88.673c-0.3-5.076,3.734-9.357,8.819-9.357h34.763v35.31 C176.555,97.945,161.001,121.603,138.296,133.343\"></path> </g> </g> </g></svg>",
           "producto": [
             {
-              "codigo": 4,
+              "codigo": 7,
               "categoria": "Jogging",
               "nombre": "JOGG1168",
               "descripcion": {
@@ -444,7 +533,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 7,
+              "codigo": 10,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -646,7 +735,7 @@
           "icono": "<svg height=\"256px\" width=\"256px\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"-51.2 -51.2 614.40 614.40\" xml:space=\"preserve\" fill=\"#000000\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <polygon style=\"fill:#64C1DF;\" points=\"111.804,504.163 184.947,504.163 189.952,472.294 238.028,166.139 273.972,166.139 322.048,472.294 327.053,504.163 400.196,504.163 400.196,51.722 111.804,51.722 \"></polygon> <g> <polygon style=\"fill:#37A0BD;\" points=\"169.054,472.294 164.049,504.163 184.947,504.163 189.952,472.294 238.028,166.139 217.13,166.139 \"></polygon> <polygon style=\"fill:#37A0BD;\" points=\"342.946,472.294 347.951,504.163 327.053,504.163 322.048,472.294 273.972,166.139 294.87,166.139 \"></polygon> </g> <g> <polygon style=\"fill:#FFFFFF;\" points=\"400.196,472.294 400.196,504.163 327.053,504.163 322.048,472.294 \"></polygon> <polygon style=\"fill:#FFFFFF;\" points=\"189.952,472.294 184.947,504.163 111.804,504.163 111.804,472.294 \"></polygon> <path style=\"fill:#FFFFFF;\" d=\"M183.902,51.722c0,39.852-32.246,72.098-72.098,72.098V51.722H183.902z\"></path> <path style=\"fill:#FFFFFF;\" d=\"M328.098,51.722c0,39.852,32.246,72.098,72.098,72.098V51.722H328.098z\"></path> </g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#DDB92E;\" width=\"288.392\" height=\"43.886\"></rect> <g> <rect x=\"111.804\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"288.392\" height=\"21.943\"></rect> <rect x=\"219.429\" y=\"7.837\" style=\"fill:#F9D85C;\" width=\"73.143\" height=\"43.886\"></rect> </g> <path d=\"M103.967,0v51.722v7.837V512h87.682l53.081-338.024h22.541L320.351,512h87.682V59.559v-7.837V0H103.967z M300.408,43.886 V15.673h91.951v28.212H300.408z M227.265,43.886V15.673h57.469v28.212H227.265z M119.641,15.673h91.951v28.212h-91.951V15.673z M175.57,59.559c-3.566,29.178-26.753,52.364-55.929,55.929V59.559H175.57z M119.641,496.327v-16.196h61.147l-2.543,16.196H119.641z M183.249,464.457h-63.608V131.268c37.832-3.699,68.01-33.878,71.709-71.709h72.487v59.559c0,4.322-3.515,7.837-7.837,7.837h-7.837 v31.347h-33.959v15.673h14.66L183.249,464.457z M283.136,173.976h14.66v-15.673h-33.959v-17.016 c9.122-3.234,15.673-11.951,15.673-22.168V59.559h41.14c3.699,37.832,33.878,68.01,71.709,71.709v333.189h-63.608L283.136,173.976z M333.755,496.327l-2.543-16.196h61.147v16.196H333.755z M392.359,115.488c-29.178-3.566-52.364-26.753-55.929-55.929h55.929 V115.488z\"></path> </g></svg>",
           "producto": [
             {
-              "codigo": 10,
+              "codigo": 13,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -841,5 +930,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775808659336
+  "timestamp_ms": 1775859933375
 }
