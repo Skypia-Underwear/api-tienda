@@ -129,16 +129,29 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "350",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -147,7 +160,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4793%0A%F0%9F%94%B9%20Modelo%3A%20Drag%C3%B3nball%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4793%0A%F0%9F%94%B9%20Modelo%3A%20Drag%C3%B3nball%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%20XXL%2C%203XL"
                 }
               },
               "imagen": [
@@ -214,21 +227,99 @@
                   "precio": 3500,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4250,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-10T03:00:00.000Z"
@@ -262,16 +353,30 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL",
+                    "4XL"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "400",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -280,7 +385,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4797%0A%F0%9F%94%B9%20Modelo%3A%20Batman%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4797%0A%F0%9F%94%B9%20Modelo%3A%20Batman%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%20XXL%2C%203XL%2C%204XL"
                 }
               },
               "imagen": [
@@ -363,21 +468,107 @@
                   "precio": 3500,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "400"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4250,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-09T03:00:00.000Z"
@@ -420,7 +611,13 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido"
+                    "Surtido",
+                    40,
+                    44,
+                    48,
+                    "XL",
+                    "2XL",
+                    "3XL"
                   ]
                 },
                 "colores": {
@@ -429,12 +626,20 @@
                     {
                       "nombre": "Surtido",
                       "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Gris claro",
+                      "hex": "#D3D3D3"
                     }
                   ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "50",
+                  "valor": "1050",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -444,7 +649,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2044%2C%2048%2C%20XL%2C%202XL%2C%203XL"
                 }
               },
               "imagen": [
@@ -541,7 +746,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "50"
+                          "stock": "350"
                         }
                       ]
                     }
@@ -555,6 +760,24 @@
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#D3D3D3",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -575,6 +798,96 @@
                       "talles": [
                         {
                           "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris claro": {
+                      "color": "#D3D3D3",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "3XL",
                           "stock": "50"
                         }
                       ]
@@ -614,7 +927,10 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido"
+                    "Surtido",
+                    40,
+                    44,
+                    48
                   ]
                 },
                 "colores": {
@@ -623,12 +939,20 @@
                     {
                       "nombre": "Surtido",
                       "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#4B5320"
                     }
                   ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "50",
+                  "valor": "600",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -638,7 +962,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2883%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20camuflado%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2883%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20camuflado%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2044%2C%2048"
                 }
               },
               "imagen": [
@@ -735,7 +1059,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "50"
+                          "stock": "200"
                         }
                       ]
                     }
@@ -749,6 +1073,24 @@
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -769,6 +1111,60 @@
                       "talles": [
                         {
                           "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
                           "stock": "50"
                         }
                       ]
@@ -815,16 +1211,52 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Marron",
+                      "hex": "#8B4513"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#00008A"
+                    },
+                    {
+                      "nombre": "Bordo",
+                      "hex": "#8B0000"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#4B5320"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "2100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -833,7 +1265,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7095%0A%F0%9F%94%B9%20Modelo%3A%20PALAZO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7095%0A%F0%9F%94%B9%20Modelo%3A%20PALAZO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
                 }
               },
               "imagen": [
@@ -924,21 +1356,299 @@
                   "precio": 11200,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 12000,
                   "variedad": "Curva",
                   "minima": 5,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Marron": {
+                      "color": "#8B4513",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#00008A",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#8B0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 14400,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Marron": {
+                      "color": "#8B4513",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#00008A",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#8B0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-07T03:00:00.000Z"
@@ -982,5 +1692,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775871671388
+  "timestamp_ms": 1775877757286
 }
