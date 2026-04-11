@@ -157,6 +157,11 @@
                   "label": "UPD",
                   "valor": "10-04-2026"
                 },
+                "video": {
+                  "label": "Video",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-12ZCH.mp4",
+                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-12ZCH_thumb.jpg&v=1ARo2iKJKbaL0tdG1TIkBfkV0HiDRSlfD"
+                },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
@@ -170,7 +175,7 @@
                   "archivo_id": "1A_I3I_7Vuvu_mII3s6vyutqMU5Do30ZF",
                   "portada": true,
                   "orden": 1,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
@@ -178,7 +183,7 @@
                   "archivo_id": "1LUp35AkBK00ViftCXyM48ZJeVoQVa4PV",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1qXG-.jpg",
@@ -186,7 +191,7 @@
                   "archivo_id": "1qXG-nMCwbb0UG640sO9MmZER33CsGFxM",
                   "portada": false,
                   "orden": 3,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1_g_-.jpg",
@@ -194,7 +199,7 @@
                   "archivo_id": "1_g_-RuUakd5pmhW1esq0mb02DrgQRCMq",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1NUOC.jpg",
@@ -202,7 +207,7 @@
                   "archivo_id": "1NUOCFb0fkFqaI8G6azpeibstvh8ZQhpM",
                   "portada": false,
                   "orden": 5,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1GdNH.jpg",
@@ -210,7 +215,7 @@
                   "archivo_id": "1GdNHC0adMo5mlML8AUZw6hdWO5w4XWwe",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1PKgF.jpg",
@@ -218,7 +223,7 @@
                   "archivo_id": "1PKgFTlF0-bJ1hyyGh7AshMkeyx1H5GNb",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-04-11T01:35:25.012Z"
+                  "fecha_carga": "2026-04-11T04:09:37.202Z"
                 }
               ],
               "variedad": [
@@ -1692,5 +1697,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1775877757286
+  "timestamp_ms": 1775880690015
 }
