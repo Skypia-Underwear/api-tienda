@@ -1198,6 +1198,115 @@
             {
               "codigo": 13,
               "categoria": "Pantalon",
+              "nombre": "PANT2685",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo con cintura Elastizado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "I-RUN"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Gabardina"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "15-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20con%20cintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
+                  "archivo_id": "1G4TO6V5wdkM8c-7K5Vylq5GxT9GpCPFx",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
+                  "archivo_id": "192VUlZ_oeoY8Q8cqjuWX8jB6Q5R9B1D1",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
+                  "archivo_id": "1IC04y3rd_-f2a9ZjYEhogpAuYB-Gq2Xc",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
+                  "archivo_id": "125Q46GmvHSMUwtr2JQ8_dbeT25N4aM50",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 35000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 37500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 45000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-15T03:00:00.000Z"
+            },
+            {
+              "codigo": 16,
+              "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
                 "modelo": {
@@ -1705,5 +1814,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776203772556
+  "timestamp_ms": 1776222660454
 }
