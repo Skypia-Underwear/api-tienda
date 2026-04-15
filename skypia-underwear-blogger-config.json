@@ -1224,16 +1224,35 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    38,
+                    40,
+                    42,
+                    44
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#C2B280"
+                    },
+                    {
+                      "nombre": "Amarillo mostaza",
+                      "hex": "#E3B439"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "1055",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1242,7 +1261,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20con%20cintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20con%20cintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
               "imagen": [
@@ -1292,14 +1311,118 @@
                   "precio": 37500,
                   "variedad": "Curva",
                   "minima": 4,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "30"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#C2B280",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 45000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "40"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "450"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "40"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "40"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#C2B280",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "5"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-15T03:00:00.000Z"
@@ -1814,5 +1937,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776222660454
+  "timestamp_ms": 1776223591070
 }
