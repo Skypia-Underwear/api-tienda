@@ -1388,8 +1388,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-1BJj3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-1BJj3.jpg",
+                  "archivo_id": "1BJj3NOJmzUyQD2u2UsFzgh6eKGfC6YQ_",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-21T11:45:33.193Z"
                 }
               ],
               "variedad": [
@@ -2167,5 +2171,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776771681836
+  "timestamp_ms": 1776772546547
 }
