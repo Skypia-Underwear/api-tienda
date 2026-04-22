@@ -765,13 +765,7 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido",
-                    40,
-                    44,
-                    48,
-                    "XL",
-                    "2XL",
-                    "3XL"
+                    "Surtido"
                   ]
                 },
                 "colores": {
@@ -780,20 +774,12 @@
                     {
                       "nombre": "Surtido",
                       "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    },
-                    {
-                      "nombre": "Gris claro",
-                      "hex": "#D3D3D3"
                     }
                   ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1050",
+                  "valor": "50",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -803,7 +789,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2044%2C%2048%2C%20XL%2C%202XL%2C%203XL"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -900,7 +886,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "350"
+                          "stock": "50"
                         }
                       ]
                     }
@@ -914,24 +900,6 @@
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Gris claro": {
-                      "color": "#D3D3D3",
                       "talles": [
                         {
                           "talle": "Surtido",
@@ -952,96 +920,6 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Gris claro": {
-                      "color": "#D3D3D3",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "3XL",
                           "stock": "50"
                         }
                       ]
@@ -2187,5 +2065,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776825668957
+  "timestamp_ms": 1776864352094
 }
