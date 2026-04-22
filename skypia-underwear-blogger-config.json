@@ -1558,6 +1558,87 @@
             {
               "codigo": 22,
               "categoria": "Pantalon",
+              "nombre": "PANT5529",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "MOM"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jean"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5529%0A%F0%9F%94%B9%20Modelo%3A%20MOM%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 25,
+              "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
                 "modelo": {
@@ -2065,5 +2146,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776864352094
+  "timestamp_ms": 1776875168223
 }
