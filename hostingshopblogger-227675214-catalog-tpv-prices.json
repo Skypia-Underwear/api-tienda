@@ -1,0 +1,214 @@
+{
+  "generated_at": "2026-04-23T20:56:41.173Z",
+  "allVarieties": {
+    "JOGG1168": [
+      {
+        "variedad_id": "JOGG1168-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG1168-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "JOGG1168-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1
+      }
+    ],
+    "JOGG2883": [
+      {
+        "variedad_id": "JOGG2883-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 14000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG2883-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 15000,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "JOGG2883-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT7095": [
+      {
+        "variedad_id": "PANT7095-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT7095-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 12000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT7095-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
+    ],
+    "BOXE4797": [
+      {
+        "variedad_id": "BOXE4797-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "BOXE4797-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "BOXE4797-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1
+      }
+    ],
+    "BOXE4793": [
+      {
+        "variedad_id": "BOXE4793-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "BOXE4793-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "BOXE4793-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT2685": [
+      {
+        "variedad_id": "PANT2685-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 35000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT2685-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 37500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "PANT2685-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 45000,
+        "cantidad_minima": 1
+      }
+    ],
+    "BOXE5151": [
+      {
+        "variedad_id": "BOXE5151-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3640,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "BOXE5151-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4420,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "BOXE5151-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4680,
+        "cantidad_minima": 1
+      }
+    ],
+    "MEDI4227": [
+      {
+        "variedad_id": "MEDI4227-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2800,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "MEDI4227-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 3400,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "MEDI4227-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 3600,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT5529": [
+      {
+        "variedad_id": "PANT5529-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 18200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT5529-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "PANT5529-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 23400,
+        "cantidad_minima": 1
+      }
+    ]
+  },
+  "flatPrices": {
+    "JOGG1168-Docena": 21000,
+    "JOGG1168-Curva": 22500,
+    "JOGG1168-Menor": 27000,
+    "JOGG2883-Docena": 14000,
+    "JOGG2883-Curva": 15000,
+    "JOGG2883-Menor": 18000,
+    "PANT7095-Docena": 11200,
+    "PANT7095-Curva": 12000,
+    "PANT7095-Menor": 14400,
+    "BOXE4797-Docena": 3500,
+    "BOXE4797-Pack x3": 4250,
+    "BOXE4797-Menor": 4500,
+    "BOXE4793-Docena": 3500,
+    "BOXE4793-Pack x3": 4250,
+    "BOXE4793-Menor": 4500,
+    "PANT2685-Docena": 35000,
+    "PANT2685-Curva": 37500,
+    "PANT2685-Menor": 45000,
+    "BOXE5151-Docena": 3640,
+    "BOXE5151-Pack x3": 4420,
+    "BOXE5151-Menor": 4680,
+    "MEDI4227-Docena": 2800,
+    "MEDI4227-Pack x3": 3400,
+    "MEDI4227-Menor": 3600,
+    "PANT5529-Docena": 18200,
+    "PANT5529-Curva": 19500,
+    "PANT5529-Menor": 23400
+  }
+}
