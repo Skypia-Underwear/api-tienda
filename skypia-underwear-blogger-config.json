@@ -1293,7 +1293,7 @@
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
-                  "valor": "Cargo con cintura Elastizado"
+                  "valor": "Cargo C/cintura Elastizado"
                 },
                 "marca": {
                   "label": "Marca",
@@ -1347,12 +1347,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "15-04-2026"
+                  "valor": "23-04-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20con%20cintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042%2C%2044"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20C%2Fcintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
               "imagen": [
@@ -2109,5 +2109,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1776902147047
+  "timestamp_ms": 1776978019613
 }
