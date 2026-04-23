@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T15:03:45.942Z",
+  "generated_at": "2026-04-23T15:10:38.664Z",
   "stores": {},
   "colors": {},
   "categories": [
@@ -361,10 +361,10 @@
     "TIPOREGISTROPRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
     "EXCLUIRSURTIDOSVARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1395",
-    "DOLARBLUEVENTA": "1395",
-    "DOLAR_BLUE_COMPRA": "1415",
-    "DOLARBLUECOMPRA": "1415",
+    "DOLAR_BLUE_VENTA": "1400",
+    "DOLARBLUEVENTA": "1400",
+    "DOLAR_BLUE_COMPRA": "1420",
+    "DOLARBLUECOMPRA": "1420",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "CLAVEFILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "CLAVE": "Auk3AeOUQ8GjiLOL1WBvkz",
