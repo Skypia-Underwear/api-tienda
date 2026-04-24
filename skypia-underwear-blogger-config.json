@@ -98,7 +98,7 @@
           "codigo": 1,
           "nombre": "Boxer",
           "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/1ee65a31.svg",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boxer.svg",
           "producto": [
             {
               "codigo": 1,
@@ -741,7 +741,7 @@
           "codigo": 2,
           "nombre": "Jogging",
           "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/4033ba86.svg",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
               "codigo": 10,
@@ -1183,7 +1183,7 @@
           "codigo": 3,
           "nombre": "Medias",
           "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/20d9019a.svg",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
               "codigo": 16,
@@ -1329,7 +1329,7 @@
           "codigo": 4,
           "nombre": "Pantalon",
           "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/83211421.svg",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
               "codigo": 19,
@@ -2154,5 +2154,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777052325666
+  "timestamp_ms": 1777052704755
 }
