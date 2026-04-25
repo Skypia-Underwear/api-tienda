@@ -27,7 +27,7 @@
       "catalogo_drive": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link"
     },
     "google_review": {
-      "place_id": ""
+      "place_id": "ChIJqRVNNA7JvJURQxU7WrDOz4o"
     },
     "metodos_pago": [
       "Efectivo ",
@@ -2154,5 +2154,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777078021188
+  "timestamp_ms": 1777078443842
 }
