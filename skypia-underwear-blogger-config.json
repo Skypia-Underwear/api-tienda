@@ -16,7 +16,7 @@
       "apertura": "10:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -2154,5 +2154,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777100262046
+  "timestamp_ms": 1777168681367
 }
