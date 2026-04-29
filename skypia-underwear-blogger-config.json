@@ -623,16 +623,46 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL",
+                    "4XL"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Rojo",
+                      "hex": "#FF0000"
+                    },
+                    {
+                      "nombre": "Azul",
+                      "hex": "#0000FF"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#00008A"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "1815",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -641,7 +671,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE5151%0A%F0%9F%94%B9%20Modelo%3A%20Sodapop%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE5151%0A%F0%9F%94%B9%20Modelo%3A%20Sodapop%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%20XXL%2C%203XL%2C%204XL"
                 }
               },
               "imagen": [
@@ -716,21 +746,255 @@
                   "precio": 3640,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "220"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4420,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "20"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "5"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "5"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 4680,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "20"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "5"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "5"
+                        }
+                      ]
+                    },
+                    "Rojo": {
+                      "color": "#FF0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "90"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "80"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "70"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "40"
+                        }
+                      ]
+                    },
+                    "Azul": {
+                      "color": "#0000FF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "70"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "5"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "20"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "10"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "90"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "80"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "70"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "20"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "30"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#00008A",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "80"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "70"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": "3XL",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "20"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-21T03:00:00.000Z"
@@ -2154,5 +2418,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777168681367
+  "timestamp_ms": 1777436253360
 }
