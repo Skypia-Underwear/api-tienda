@@ -1094,13 +1094,6 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
                   "precio": 22500,
                   "variedad": "Curva",
                   "minima": 6,
@@ -1117,7 +1110,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 13,
+              "codigo": 12,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -1402,7 +1395,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 16,
+              "codigo": 15,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "descripcion": {
@@ -1548,7 +1541,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 19,
+              "codigo": 18,
               "categoria": "Pantalon",
               "nombre": "PANT2685",
               "descripcion": {
@@ -1780,7 +1773,7 @@
               "upd": "2026-04-15T03:00:00.000Z"
             },
             {
-              "codigo": 22,
+              "codigo": 21,
               "categoria": "Pantalon",
               "nombre": "PANT5529",
               "descripcion": {
@@ -1861,7 +1854,7 @@
               "upd": "2026-04-22T03:00:00.000Z"
             },
             {
-              "codigo": 25,
+              "codigo": 24,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -2370,5 +2363,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1777608766564
+  "timestamp_ms": 1778258543498
 }
