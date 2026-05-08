@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T16:25:52.672Z",
+  "generated_at": "2026-05-08T16:40:51.342Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -380,7 +380,7 @@
       "id": "JOGG1168",
       "model": "Joggin Cargo con piel",
       "price": 15000,
-      "display_price": 21000,
+      "display_price": 22500,
       "minor_surcharge": 0,
       "category_id": "Jogging",
       "categoryName": "Jogging",
@@ -394,12 +394,6 @@
       "carpeta_id": "1UVA--F2jo5WpaffDiE6QZfaTnQs2bGf3",
       "woo_id": "",
       "varieties": [
-        {
-          "variedad_id": "JOGG1168-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 21000,
-          "cantidad_minima": 12
-        },
         {
           "variedad_id": "JOGG1168-Curva",
           "nombre": "Curva",
@@ -12569,12 +12563,6 @@
   "allVarieties": {
     "JOGG1168": [
       {
-        "variedad_id": "JOGG1168-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 21000,
-        "cantidad_minima": 12
-      },
-      {
         "variedad_id": "JOGG1168-Curva",
         "nombre": "Curva",
         "precio_unitario": 22500,
@@ -12896,5 +12884,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778257692839
+  "timestamp_ms": 1778258547222
 }
