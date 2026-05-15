@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T14:46:23.345Z",
+  "generated_at": "2026-05-15T15:01:15.416Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12551,8 +12551,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1400",
-    "DOLAR_BLUE_COMPRA": "1420",
+    "DOLAR_BLUE_VENTA": "1405",
+    "DOLAR_BLUE_COMPRA": "1425",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -12884,5 +12884,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778856490752
+  "timestamp_ms": 1778857390832
 }
