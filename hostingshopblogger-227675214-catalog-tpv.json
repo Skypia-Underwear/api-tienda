@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T03:01:13.503Z",
+  "generated_at": "2026-05-22T23:27:54.684Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -285,9 +285,9 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg"
     },
     {
-      "id": "CONJUNTOO",
-      "name": "CONJUNTOO",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg"
+      "id": "Conjunto 2",
+      "name": "Conjunto 2",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg"
     },
     {
       "id": "Sacoo Blazer",
@@ -2096,7 +2096,7 @@
       "brand": "SSJ",
       "style": "Liso",
       "material": "PIQUE",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHOM6398%2FCHOM6398-1ni7p.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHOM6398%2FCHOM6398-1ni7p.jpg",
       "carpeta_id": "1vCKzjH6eFfvvSnU2Vc-0BVgNei9BJExO",
       "woo_id": "",
       "varieties": [],
@@ -12488,6 +12488,106 @@
       "woo_id": "",
       "varieties": [],
       "variations": []
+    },
+    {
+      "id": "CONJ6330",
+      "model": "Neoprem",
+      "price": 45000,
+      "display_price": 63000,
+      "minor_surcharge": 0,
+      "category_id": "Conjunto 2",
+      "categoryName": "Conjunto 2",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
+      "woo_id": 39381,
+      "varieties": [
+        {
+          "variedad_id": "CONJ6330-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 63000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CONJ6330-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 67500,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CONJ6330-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 70000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CONJ6330-Negro-2XL-Skypia Underwear"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -12514,7 +12614,7 @@
     "SHORT": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
     "SUETER": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
     "TAPADO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tapado.svg",
-    "CONJUNTOO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjuntoo.svg",
+    "CONJUNTO 2": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
     "SACOO BLAZER": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sacoo_blazer.svg",
     "BOMBACHA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bombacha.svg",
     "BOXER": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boxer.svg",
@@ -12551,8 +12651,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1395",
-    "DOLAR_BLUE_COMPRA": "1415",
+    "DOLAR_BLUE_VENTA": "1405",
+    "DOLAR_BLUE_COMPRA": "1425",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -12734,6 +12834,26 @@
         "precio_unitario": 23400,
         "cantidad_minima": 1
       }
+    ],
+    "CONJ6330": [
+      {
+        "variedad_id": "CONJ6330-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 63000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CONJ6330-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 67500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CONJ6330-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 70000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -12884,5 +13004,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1778986966412
+  "timestamp_ms": 1779492571246
 }
