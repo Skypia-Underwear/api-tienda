@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:37:48.706Z",
+  "generated_at": "2026-05-22T23:42:54.649Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12503,7 +12503,7 @@
       "brand": "ELT",
       "style": "Liso",
       "material": "Neoprem",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-17pOc.webp",
       "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
       "woo_id": 39381,
       "varieties": [
@@ -13004,5 +13004,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779493201206
+  "timestamp_ms": 1779493464534
 }
