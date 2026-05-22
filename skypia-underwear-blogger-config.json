@@ -232,6 +232,22 @@
                   "portada": false,
                   "orden": 18,
                   "fecha_carga": "2026-04-14T21:46:54.768Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1Vrgj.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1Vrgj.png",
+                  "archivo_id": "1Vrgj8AE1B_8oU4Rwc5S8_7zgeQ6qT7pQ",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-05-21T17:07:31.304Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
+                  "archivo_id": "1UnN25mJQXFJw4QqmVmQpssJrMbg0r2WL",
+                  "portada": false,
+                  "orden": 22,
+                  "fecha_carga": "2026-05-21T17:07:31.304Z"
                 }
               ],
               "variedad": [
@@ -681,7 +697,7 @@
                   "archivo_id": "1htxOiha_ezNVYDQjJCsiKsMrGvHswfEl",
                   "portada": true,
                   "orden": 22,
-                  "fecha_carga": "2026-05-01T04:07:48.828Z"
+                  "fecha_carga": "2026-05-17T18:50:17.406Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE5151%2FBOXE5151-1mhXr.webp",
@@ -689,7 +705,7 @@
                   "archivo_id": "1mhXrGfC2z9d_S2Zi38cMHNUe8dS9nPFU",
                   "portada": false,
                   "orden": 24,
-                  "fecha_carga": "2026-05-01T04:07:48.828Z"
+                  "fecha_carga": "2026-05-17T18:50:17.406Z"
                 }
               ],
               "variedad": [
@@ -955,12 +971,180 @@
         },
         {
           "codigo": 2,
+          "nombre": "Conjunto 2",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
+          "producto": [
+            {
+              "codigo": 10,
+              "categoria": "Conjunto 2",
+              "nombre": "CONJ6330",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprem"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprem"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "48",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ6330%0A%F0%9F%94%B9%20Modelo%3A%20Neoprem%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 63000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 67500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 70000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "6"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-22T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
           "nombre": "Jogging",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 10,
+              "codigo": 13,
               "categoria": "Jogging",
               "nombre": "JOGG1168",
               "descripcion": {
@@ -1110,7 +1294,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 12,
+              "codigo": 15,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -1389,13 +1573,13 @@
           ]
         },
         {
-          "codigo": 3,
+          "codigo": 4,
           "nombre": "Medias",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 15,
+              "codigo": 18,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "descripcion": {
@@ -1475,6 +1659,22 @@
                   "portada": false,
                   "orden": 6,
                   "fecha_carga": "2026-04-22T02:38:34.728Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-157rr.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-157rr.png",
+                  "archivo_id": "157rrfDUR09PaIp5peFhKCoqM2GI9vFQl",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-05-18T12:55:51.494Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-1wyy4.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-1wyy4.png",
+                  "archivo_id": "1wyy4j7jNQBQa9OvxeCHl6Hp05S7nz0mO",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-05-18T12:55:51.494Z"
                 }
               ],
               "variedad": [
@@ -1535,13 +1735,13 @@
           ]
         },
         {
-          "codigo": 4,
+          "codigo": 5,
           "nombre": "Pantalon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 18,
+              "codigo": 21,
               "categoria": "Pantalon",
               "nombre": "PANT2685",
               "descripcion": {
@@ -1773,7 +1973,7 @@
               "upd": "2026-04-15T03:00:00.000Z"
             },
             {
-              "codigo": 21,
+              "codigo": 24,
               "categoria": "Pantalon",
               "nombre": "PANT5529",
               "descripcion": {
@@ -1854,7 +2054,7 @@
               "upd": "2026-04-22T03:00:00.000Z"
             },
             {
-              "codigo": 24,
+              "codigo": 27,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -2363,5 +2563,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1778258543498
+  "timestamp_ms": 1779492602295
 }
