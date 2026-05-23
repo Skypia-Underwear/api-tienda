@@ -1047,7 +1047,7 @@
                   "archivo_id": "17pOcF2GNwuKnjh7b4DqIBcWrKqpg4j-c",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1SAue.webp",
@@ -1055,7 +1055,7 @@
                   "archivo_id": "1SAuexRQ3xsmFsoB4R-ENzCjHI0ehT4Qj",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1K5eC.png",
@@ -1063,7 +1063,7 @@
                   "archivo_id": "1K5eCuJC0VRNFU2cyoOKKRnmm-J696xTd",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1eyRc.png",
@@ -1071,7 +1071,7 @@
                   "archivo_id": "1eyRcZ4gVpqkCiHPNApTbC84YfYZ5l8Fo",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1AIZY.png",
@@ -1079,7 +1079,7 @@
                   "archivo_id": "1AIZYBRi2ym1wUm1FVzVv74kt3gIdWWU2",
                   "portada": false,
                   "orden": 10,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-12jeD.png",
@@ -1087,7 +1087,23 @@
                   "archivo_id": "12jeDDJVE7--z5tFuY_Dl5RGJ723igDI-",
                   "portada": false,
                   "orden": 12,
-                  "fecha_carga": "2026-05-23T00:27:42.995Z"
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
+                  "archivo_id": "18whurp2AgOqypAVHH_NWlDhD1s6x5qYz",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
+                  "archivo_id": "15fb7hSSKEIWeHQand8n10odPrHs1YVZG",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-05-23T00:37:22.927Z"
                 }
               ],
               "variedad": [
@@ -2607,5 +2623,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779496213876
+  "timestamp_ms": 1779497062337
 }
