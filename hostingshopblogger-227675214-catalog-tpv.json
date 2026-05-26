@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T02:51:25.799Z",
+  "generated_at": "2026-05-26T06:06:39.253Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12936,7 +12936,7 @@
     "SITIO_WEB": "https://castfer.com.ar/",
     "CATALOGO_DRIVE": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
     "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk",
-    "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbwJijUC0Nbbd91i3ERB9T_kyKkgsKgns_CGtaOHCGcK2tdqByX56XwzmoViqUK6RO6m/exec",
+    "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=form",
     "FACEBOOK": "https://facebook.com/100038029245417",
     "INSTAGRAM": "https://Instagram.com/cf.castfer",
     "TIKTOK": "https://tiktok.com/cf.castfer",
@@ -13316,5 +13316,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1779764027519
+  "timestamp_ms": 1779775720451
 }
