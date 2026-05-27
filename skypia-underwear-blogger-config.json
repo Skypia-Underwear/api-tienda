@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%2C%22LinkText%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
@@ -16,7 +16,7 @@
       "apertura": "10:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": 3,
+    "compra_minima": "3",
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -92,7 +92,1483 @@
   "contactabilidad": "541123890659",
   "content": [
     {
-      "nombre_padre": "GENERAL",
+      "nombre_padre": "INDUMENTARIA",
+      "categorias": [
+        {
+          "codigo": 2,
+          "nombre": "Conjunto 2",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
+          "producto": [
+            {
+              "codigo": 13,
+              "categoria": "Conjunto 2",
+              "nombre": "CONJ6330",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprem"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprem"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "48",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ6330%0A%F0%9F%94%B9%20Modelo%3A%20Neoprem%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1K5eC.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1K5eC.png",
+                  "archivo_id": "1K5eCuJC0VRNFU2cyoOKKRnmm-J696xTd",
+                  "portada": true,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1eyRc.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1eyRc.png",
+                  "archivo_id": "1eyRcZ4gVpqkCiHPNApTbC84YfYZ5l8Fo",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1AIZY.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1AIZY.png",
+                  "archivo_id": "1AIZYBRi2ym1wUm1FVzVv74kt3gIdWWU2",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-12jeD.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-12jeD.png",
+                  "archivo_id": "12jeDDJVE7--z5tFuY_Dl5RGJ723igDI-",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
+                  "archivo_id": "18whurp2AgOqypAVHH_NWlDhD1s6x5qYz",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
+                  "archivo_id": "15fb7hSSKEIWeHQand8n10odPrHs1YVZG",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1VYVP.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1VYVP.png",
+                  "archivo_id": "1VYVP-UuUJh9unllKZQqsPN7jSKPdQJ65",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1Tm3o.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1Tm3o.png",
+                  "archivo_id": "1Tm3o38wV5DVTsPT6wc3h9WJ90-YrSKIB",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-19ImL.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-19ImL.png",
+                  "archivo_id": "19ImLYP4IfF7n2S-kv3VPqxNp4Fkq5NXs",
+                  "portada": false,
+                  "orden": 22,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1spVs.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1spVs.png",
+                  "archivo_id": "1spVsdj0zGmWvaEIN4UaqsY9Xf-rIghYF",
+                  "portada": false,
+                  "orden": 24,
+                  "fecha_carga": "2026-05-24T06:37:36.335Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 63000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 67500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 70000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "6"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "6"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-22T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
+          "nombre": "Jogging",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
+          "producto": [
+            {
+              "codigo": 16,
+              "categoria": "Jogging",
+              "nombre": "JOGG1168",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Joggin Cargo con piel"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GELUFEI"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Acetato"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "06-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17CfL.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17CfL.jpg",
+                  "archivo_id": "17CfLgxMEPL2sZWPu4aWtPobQNOw334OF",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1b2f1.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1b2f1.jpg",
+                  "archivo_id": "1b2f1-YCDgk25IK1abozakk3LE4wuIjGF",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1aFTf.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1aFTf.jpg",
+                  "archivo_id": "1aFTfKLt7XNpGgMqorldBrJdNFuQqxd-v",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-13lTo.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-13lTo.jpg",
+                  "archivo_id": "13lToo5CJJ_CpR3pznnUjknaSwW_WLNMU",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1Adt6.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1Adt6.jpg",
+                  "archivo_id": "1Adt6nxqSiP8O0HFLvqLzkAJO6rtQaDlf",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17ENS.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17ENS.jpg",
+                  "archivo_id": "17ENS-m9ahCzCisbDDF2VnhKfbXD-uxsE",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-12aFb.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-12aFb.jpg",
+                  "archivo_id": "12aFbFJAiok7UhG2Ol5TPhhlTgW5s1qq8",
+                  "portada": true,
+                  "orden": 28,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1BtUU.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1BtUU.jpg",
+                  "archivo_id": "1BtUUQfZUrmuGiIMehlOzZMW3qCZyU03k",
+                  "portada": false,
+                  "orden": 36,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-10xZz.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-10xZz.jpg",
+                  "archivo_id": "10xZz0tgyEVMBQBkj9usxrujbk3DYfVWX",
+                  "portada": false,
+                  "orden": 40,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-11d_2.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-11d_2.jpg",
+                  "archivo_id": "11d_2OP-VXbgmuzJ5n0_T_5_M7M4DkDD7",
+                  "portada": false,
+                  "orden": 46,
+                  "fecha_carga": "2026-03-18T17:52:02.398Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 22500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-06T03:00:00.000Z"
+            },
+            {
+              "codigo": 18,
+              "categoria": "Jogging",
+              "nombre": "JOGG2883",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Joggin Cargo camuflado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GELUFEI"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Acetato"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    40,
+                    44,
+                    48
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#4B5320"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "552",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "06-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2883%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20camuflado%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2044%2C%2048"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
+                  "archivo_id": "12LZeZLlwG5JAk9wXwZHh9qxNO6c56oMA",
+                  "portada": true,
+                  "orden": 10,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1xuyk.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1xuyk.jpg",
+                  "archivo_id": "1xuykKnJjdRpZaKMVmtUr7Sx3CNqynXPM",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1RBpW.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1RBpW.jpg",
+                  "archivo_id": "1RBpW9DcG-8Z46YePJOVxNP7U8vmBbg8u",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Vgco.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Vgco.jpg",
+                  "archivo_id": "1Vgco-j_ZSo7ZWbtGig37HB3Oct-H08h0",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Ge6J.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Ge6J.jpg",
+                  "archivo_id": "1Ge6JcFFne5TP_SnhQ9-UvPwy5TJMp6ct",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1bi_D.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1bi_D.jpg",
+                  "archivo_id": "1bi_DahiE7YQIysHEH7eHTJ_9nm6T3QQ-",
+                  "portada": false,
+                  "orden": 26,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1jcD5.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1jcD5.jpg",
+                  "archivo_id": "1jcD5UoKUhqNbKAaAJIKA9UlxxQgL8Zey",
+                  "portada": false,
+                  "orden": 28,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1dy3T.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1dy3T.jpg",
+                  "archivo_id": "1dy3TVfzhK7KYUOtU_bH0fVdIDmiOnXdx",
+                  "portada": false,
+                  "orden": 36,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1XFXT.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1XFXT.jpg",
+                  "archivo_id": "1XFXTruDp0uExv55y37qj6x-XQvLo5Z91",
+                  "portada": false,
+                  "orden": 38,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-17Xyl.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-17Xyl.jpg",
+                  "archivo_id": "17XylqdlbepYC-Nsn3eNYpoCrs2FR359o",
+                  "portada": false,
+                  "orden": 40,
+                  "fecha_carga": "2026-03-26T01:23:01.424Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 14000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "152"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "2"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "2"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 48,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-04-06T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 5,
+          "nombre": "Pantalon",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
+          "producto": [
+            {
+              "codigo": 24,
+              "categoria": "Pantalon",
+              "nombre": "PANT2685",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo C/cintura Elastizado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "I-RUN"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Gabardina"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    38,
+                    40,
+                    42,
+                    44
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Arena",
+                      "hex": "#C2B280"
+                    },
+                    {
+                      "nombre": "Amarillo mostaza",
+                      "hex": "#E3B439"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1055",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "23-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20C%2Fcintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
+                  "archivo_id": "1G4TO6V5wdkM8c-7K5Vylq5GxT9GpCPFx",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
+                  "archivo_id": "192VUlZ_oeoY8Q8cqjuWX8jB6Q5R9B1D1",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
+                  "archivo_id": "1IC04y3rd_-f2a9ZjYEhogpAuYB-Gq2Xc",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
+                  "archivo_id": "125Q46GmvHSMUwtr2JQ8_dbeT25N4aM50",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-03-18T17:56:02.718Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 35000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 37500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "30"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#C2B280",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 45000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "40"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "450"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "40"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "40"
+                        }
+                      ]
+                    },
+                    "Arena": {
+                      "color": "#C2B280",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 38,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 40,
+                          "stock": "50"
+                        },
+                        {
+                          "talle": 42,
+                          "stock": "5"
+                        },
+                        {
+                          "talle": 44,
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-04-15T03:00:00.000Z"
+            },
+            {
+              "codigo": 27,
+              "categoria": "Pantalon",
+              "nombre": "PANT5529",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "MOM"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jean"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5529%0A%F0%9F%94%B9%20Modelo%3A%20MOM%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19500,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-04-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 30,
+              "categoria": "Pantalon",
+              "nombre": "PANT7095",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "PALAZO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Plush"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "2XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Marron",
+                      "hex": "#8B4513"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    },
+                    {
+                      "nombre": "Azul marino",
+                      "hex": "#00008A"
+                    },
+                    {
+                      "nombre": "Bordo",
+                      "hex": "#8B0000"
+                    },
+                    {
+                      "nombre": "Verde Militar",
+                      "hex": "#4B5320"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "2100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "07-04-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7095%0A%F0%9F%94%B9%20Modelo%3A%20PALAZO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
+                  "archivo_id": "1Ws0wQxMHTpbkKxFyorscCFbRdpYDpv3s",
+                  "portada": true,
+                  "orden": 18,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
+                  "archivo_id": "1tlUQvygUqZd57VY7bc8lor6XE5WaUhsI",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
+                  "archivo_id": "1QZ9a-P7Zczfpe4tpD3wtnNmkE1--loNf",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
+                  "archivo_id": "1O1zQeQuD8NHaV4LBEQqS2lnfsTm7oql9",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
+                  "archivo_id": "1otnv5e4tnLU21yJOpuTKRzI7n_FGRrKY",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
+                  "archivo_id": "1kp5aFILoLGvUurE6HbAAuA10P2u5SNQh",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
+                  "archivo_id": "18qmlaAOWzDsg38Vuc8m918KNCzBP_1xX",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
+                  "archivo_id": "19oBfXuxlgaPwPV5aUdvrNfJ8hThYy64l",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
+                  "archivo_id": "1igBDhhuPxKXc_0FUEKLXR9sGvwziXxiL",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
+                  "archivo_id": "1KBtogiRL7a8g00VmKOMHD0BQFtaioa4e",
+                  "portada": false,
+                  "orden": 22,
+                  "fecha_carga": "2026-04-09T23:47:39.941Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Marron": {
+                      "color": "#8B4513",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#00008A",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#8B0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Marron": {
+                      "color": "#8B4513",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Gris": {
+                      "color": "#808080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Azul marino": {
+                      "color": "#00008A",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Bordo": {
+                      "color": "#8B0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Verde Militar": {
+                      "color": "#4B5320",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-04-07T03:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre_padre": "ROPA INTERIOR",
       "categorias": [
         {
           "codigo": 1,
@@ -1083,685 +2559,6 @@
           ]
         },
         {
-          "codigo": 2,
-          "nombre": "Conjunto 2",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
-          "producto": [
-            {
-              "codigo": 13,
-              "categoria": "Conjunto 2",
-              "nombre": "CONJ6330",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Neoprem"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELT"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Neoprem"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "48",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "22-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CONJ6330%0A%F0%9F%94%B9%20Modelo%3A%20Neoprem%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1K5eC.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1K5eC.png",
-                  "archivo_id": "1K5eCuJC0VRNFU2cyoOKKRnmm-J696xTd",
-                  "portada": true,
-                  "orden": 6,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1eyRc.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1eyRc.png",
-                  "archivo_id": "1eyRcZ4gVpqkCiHPNApTbC84YfYZ5l8Fo",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1AIZY.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1AIZY.png",
-                  "archivo_id": "1AIZYBRi2ym1wUm1FVzVv74kt3gIdWWU2",
-                  "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-12jeD.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-12jeD.png",
-                  "archivo_id": "12jeDDJVE7--z5tFuY_Dl5RGJ723igDI-",
-                  "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-18whu.png",
-                  "archivo_id": "18whurp2AgOqypAVHH_NWlDhD1s6x5qYz",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-15fb7.png",
-                  "archivo_id": "15fb7hSSKEIWeHQand8n10odPrHs1YVZG",
-                  "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1VYVP.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1VYVP.png",
-                  "archivo_id": "1VYVP-UuUJh9unllKZQqsPN7jSKPdQJ65",
-                  "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1Tm3o.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1Tm3o.png",
-                  "archivo_id": "1Tm3o38wV5DVTsPT6wc3h9WJ90-YrSKIB",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-19ImL.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-19ImL.png",
-                  "archivo_id": "19ImLYP4IfF7n2S-kv3VPqxNp4Fkq5NXs",
-                  "portada": false,
-                  "orden": 22,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1spVs.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-1spVs.png",
-                  "archivo_id": "1spVsdj0zGmWvaEIN4UaqsY9Xf-rIghYF",
-                  "portada": false,
-                  "orden": 24,
-                  "fecha_carga": "2026-05-24T06:37:36.335Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 63000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 67500,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 70000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "6"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "6"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "6"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "6"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-05-22T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 3,
-          "nombre": "Jogging",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
-          "producto": [
-            {
-              "codigo": 16,
-              "categoria": "Jogging",
-              "nombre": "JOGG1168",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Joggin Cargo con piel"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Acetato"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1168%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17CfL.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17CfL.jpg",
-                  "archivo_id": "17CfLgxMEPL2sZWPu4aWtPobQNOw334OF",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1b2f1.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1b2f1.jpg",
-                  "archivo_id": "1b2f1-YCDgk25IK1abozakk3LE4wuIjGF",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1aFTf.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1aFTf.jpg",
-                  "archivo_id": "1aFTfKLt7XNpGgMqorldBrJdNFuQqxd-v",
-                  "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-13lTo.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-13lTo.jpg",
-                  "archivo_id": "13lToo5CJJ_CpR3pznnUjknaSwW_WLNMU",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1Adt6.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1Adt6.jpg",
-                  "archivo_id": "1Adt6nxqSiP8O0HFLvqLzkAJO6rtQaDlf",
-                  "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17ENS.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-17ENS.jpg",
-                  "archivo_id": "17ENS-m9ahCzCisbDDF2VnhKfbXD-uxsE",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-12aFb.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-12aFb.jpg",
-                  "archivo_id": "12aFbFJAiok7UhG2Ol5TPhhlTgW5s1qq8",
-                  "portada": true,
-                  "orden": 28,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1BtUU.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-1BtUU.jpg",
-                  "archivo_id": "1BtUUQfZUrmuGiIMehlOzZMW3qCZyU03k",
-                  "portada": false,
-                  "orden": 36,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-10xZz.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-10xZz.jpg",
-                  "archivo_id": "10xZz0tgyEVMBQBkj9usxrujbk3DYfVWX",
-                  "portada": false,
-                  "orden": 40,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-11d_2.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG1168%2FJOGG1168-11d_2.jpg",
-                  "archivo_id": "11d_2OP-VXbgmuzJ5n0_T_5_M7M4DkDD7",
-                  "portada": false,
-                  "orden": 46,
-                  "fecha_carga": "2026-03-18T17:52:02.398Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 22500,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-04-06T03:00:00.000Z"
-            },
-            {
-              "codigo": 18,
-              "categoria": "Jogging",
-              "nombre": "JOGG2883",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Joggin Cargo camuflado"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "GELUFEI"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Acetato"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    40,
-                    44,
-                    48
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#808080"
-                    },
-                    {
-                      "nombre": "Verde Militar",
-                      "hex": "#4B5320"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "552",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2883%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20Cargo%20camuflado%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2044%2C%2048"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
-                  "archivo_id": "12LZeZLlwG5JAk9wXwZHh9qxNO6c56oMA",
-                  "portada": true,
-                  "orden": 10,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1xuyk.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1xuyk.jpg",
-                  "archivo_id": "1xuykKnJjdRpZaKMVmtUr7Sx3CNqynXPM",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1RBpW.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1RBpW.jpg",
-                  "archivo_id": "1RBpW9DcG-8Z46YePJOVxNP7U8vmBbg8u",
-                  "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Vgco.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Vgco.jpg",
-                  "archivo_id": "1Vgco-j_ZSo7ZWbtGig37HB3Oct-H08h0",
-                  "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Ge6J.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1Ge6J.jpg",
-                  "archivo_id": "1Ge6JcFFne5TP_SnhQ9-UvPwy5TJMp6ct",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1bi_D.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1bi_D.jpg",
-                  "archivo_id": "1bi_DahiE7YQIysHEH7eHTJ_9nm6T3QQ-",
-                  "portada": false,
-                  "orden": 26,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1jcD5.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1jcD5.jpg",
-                  "archivo_id": "1jcD5UoKUhqNbKAaAJIKA9UlxxQgL8Zey",
-                  "portada": false,
-                  "orden": 28,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1dy3T.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1dy3T.jpg",
-                  "archivo_id": "1dy3TVfzhK7KYUOtU_bH0fVdIDmiOnXdx",
-                  "portada": false,
-                  "orden": 36,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1XFXT.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-1XFXT.jpg",
-                  "archivo_id": "1XFXTruDp0uExv55y37qj6x-XQvLo5Z91",
-                  "portada": false,
-                  "orden": 38,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-17Xyl.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-17Xyl.jpg",
-                  "archivo_id": "17XylqdlbepYC-Nsn3eNYpoCrs2FR359o",
-                  "portada": false,
-                  "orden": 40,
-                  "fecha_carga": "2026-03-26T01:23:01.424Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 14000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "152"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 15000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "2"
-                        }
-                      ]
-                    },
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#4B5320",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 18000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "2"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#4B5320",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 48,
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-04-06T03:00:00.000Z"
-            }
-          ]
-        },
-        {
           "codigo": 4,
           "nombre": "Medias",
           "url_categoria": "",
@@ -1922,798 +2719,6 @@
               "upd": "2026-04-21T03:00:00.000Z"
             }
           ]
-        },
-        {
-          "codigo": 5,
-          "nombre": "Pantalon",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
-          "producto": [
-            {
-              "codigo": 24,
-              "categoria": "Pantalon",
-              "nombre": "PANT2685",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Cargo C/cintura Elastizado"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "I-RUN"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Gabardina"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    38,
-                    40,
-                    42,
-                    44
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Gris",
-                      "hex": "#808080"
-                    },
-                    {
-                      "nombre": "Arena",
-                      "hex": "#C2B280"
-                    },
-                    {
-                      "nombre": "Amarillo mostaza",
-                      "hex": "#E3B439"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1055",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "23-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2685%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20C%2Fcintura%20Elastizado%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1G4TO.jpg",
-                  "archivo_id": "1G4TO6V5wdkM8c-7K5Vylq5GxT9GpCPFx",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-192VU.jpg",
-                  "archivo_id": "192VUlZ_oeoY8Q8cqjuWX8jB6Q5R9B1D1",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-1IC04.jpg",
-                  "archivo_id": "1IC04y3rd_-f2a9ZjYEhogpAuYB-Gq2Xc",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2685%2FPANT2685-125Q4.jpg",
-                  "archivo_id": "125Q46GmvHSMUwtr2JQ8_dbeT25N4aM50",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-03-18T17:56:02.718Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 35000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 37500,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "30"
-                        }
-                      ]
-                    },
-                    "Arena": {
-                      "color": "#C2B280",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Amarillo mostaza": {
-                      "color": "#E3B439",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 45000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "30"
-                        },
-                        {
-                          "talle": 38,
-                          "stock": "40"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "450"
-                        },
-                        {
-                          "talle": 42,
-                          "stock": "40"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "40"
-                        }
-                      ]
-                    },
-                    "Arena": {
-                      "color": "#C2B280",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 38,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 42,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Amarillo mostaza": {
-                      "color": "#E3B439",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 38,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 40,
-                          "stock": "50"
-                        },
-                        {
-                          "talle": 42,
-                          "stock": "5"
-                        },
-                        {
-                          "talle": 44,
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-04-15T03:00:00.000Z"
-            },
-            {
-              "codigo": 27,
-              "categoria": "Pantalon",
-              "nombre": "PANT5529",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "MOM"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jean"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "22-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5529%0A%F0%9F%94%B9%20Modelo%3A%20MOM%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 18200,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 19500,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 23400,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-04-22T03:00:00.000Z"
-            },
-            {
-              "codigo": 30,
-              "categoria": "Pantalon",
-              "nombre": "PANT7095",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "PALAZO"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Plush"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "S",
-                    "M",
-                    "L",
-                    "XL",
-                    "2XL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    },
-                    {
-                      "nombre": "Marron",
-                      "hex": "#8B4513"
-                    },
-                    {
-                      "nombre": "Gris",
-                      "hex": "#808080"
-                    },
-                    {
-                      "nombre": "Azul marino",
-                      "hex": "#00008A"
-                    },
-                    {
-                      "nombre": "Bordo",
-                      "hex": "#8B0000"
-                    },
-                    {
-                      "nombre": "Verde Militar",
-                      "hex": "#4B5320"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "2100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "07-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7095%0A%F0%9F%94%B9%20Modelo%3A%20PALAZO%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20S%2C%20M%2C%20L%2C%20XL%2C%202XL"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
-                  "archivo_id": "1Ws0wQxMHTpbkKxFyorscCFbRdpYDpv3s",
-                  "portada": true,
-                  "orden": 18,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1tlUQ.jpg",
-                  "archivo_id": "1tlUQvygUqZd57VY7bc8lor6XE5WaUhsI",
-                  "portada": false,
-                  "orden": 2,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1QZ9a.jpg",
-                  "archivo_id": "1QZ9a-P7Zczfpe4tpD3wtnNmkE1--loNf",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1O1zQ.jpg",
-                  "archivo_id": "1O1zQeQuD8NHaV4LBEQqS2lnfsTm7oql9",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1otnv.jpg",
-                  "archivo_id": "1otnv5e4tnLU21yJOpuTKRzI7n_FGRrKY",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1kp5a.jpg",
-                  "archivo_id": "1kp5aFILoLGvUurE6HbAAuA10P2u5SNQh",
-                  "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-18qml.jpg",
-                  "archivo_id": "18qmlaAOWzDsg38Vuc8m918KNCzBP_1xX",
-                  "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-19oBf.jpg",
-                  "archivo_id": "19oBfXuxlgaPwPV5aUdvrNfJ8hThYy64l",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1igBD.jpg",
-                  "archivo_id": "1igBDhhuPxKXc_0FUEKLXR9sGvwziXxiL",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1KBto.jpg",
-                  "archivo_id": "1KBtogiRL7a8g00VmKOMHD0BQFtaioa4e",
-                  "portada": false,
-                  "orden": 22,
-                  "fecha_carga": "2026-04-09T23:47:39.941Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 11200,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "300"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 12000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Marron": {
-                      "color": "#8B4513",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Azul marino": {
-                      "color": "#00008A",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Bordo": {
-                      "color": "#8B0000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#4B5320",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 14400,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Marron": {
-                      "color": "#8B4513",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Gris": {
-                      "color": "#808080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Azul marino": {
-                      "color": "#00008A",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Bordo": {
-                      "color": "#8B0000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    },
-                    "Verde Militar": {
-                      "color": "#4B5320",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "2XL",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-04-07T03:00:00.000Z"
-            }
-          ]
         }
       ]
     }
@@ -2752,5 +2757,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779775735600
+  "timestamp_ms": 1779862168393
 }
