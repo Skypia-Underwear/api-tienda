@@ -23,7 +23,7 @@
       "tiktok": "https://tiktok.com/cf.castfer"
     },
     "formularios": {
-      "cliente": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=form",
+      "cliente": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=client_form",
       "catalogo_drive": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link"
     },
     "google_review": {
@@ -2757,5 +2757,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779862168393
+  "timestamp_ms": 1779878264398
 }
