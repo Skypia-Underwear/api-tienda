@@ -96,12 +96,94 @@
       "categorias": [
         {
           "codigo": 2,
+          "nombre": "Campera",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
+          "producto": [
+            {
+              "codigo": 13,
+              "categoria": "Campera",
+              "nombre": "CAMP8564",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Universitario Conderoy"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "RAW VOGUE"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Corderoy"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "08-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP8564%0A%F0%9F%94%B9%20Modelo%3A%20Universitario%20Conderoy%0A%F0%9F%94%B9%20Marca%3A%20RAW%20VOGUE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-08T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
           "nombre": "Conjunto 2",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 13,
+              "codigo": 15,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "descripcion": {
@@ -339,13 +421,13 @@
           ]
         },
         {
-          "codigo": 3,
+          "codigo": 4,
           "nombre": "Jogging",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 16,
+              "codigo": 18,
               "categoria": "Jogging",
               "nombre": "JOGG1168",
               "descripcion": {
@@ -495,7 +577,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 18,
+              "codigo": 20,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -774,13 +856,13 @@
           ]
         },
         {
-          "codigo": 5,
+          "codigo": 6,
           "nombre": "Pantalon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 24,
+              "codigo": 26,
               "categoria": "Pantalon",
               "nombre": "PANT2685",
               "descripcion": {
@@ -1012,7 +1094,7 @@
               "upd": "2026-04-15T03:00:00.000Z"
             },
             {
-              "codigo": 27,
+              "codigo": 29,
               "categoria": "Pantalon",
               "nombre": "PANT5529",
               "descripcion": {
@@ -1093,7 +1175,7 @@
               "upd": "2026-04-22T03:00:00.000Z"
             },
             {
-              "codigo": 30,
+              "codigo": 32,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -2559,13 +2641,13 @@
           ]
         },
         {
-          "codigo": 4,
+          "codigo": 5,
           "nombre": "Medias",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 21,
+              "codigo": 23,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "descripcion": {
@@ -2757,5 +2839,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780933976341
+  "timestamp_ms": 1780943737701
 }
