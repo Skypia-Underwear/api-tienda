@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T18:36:26.612Z",
+  "generated_at": "2026-06-08T18:51:26.408Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12883,7 +12883,7 @@
     },
     {
       "id": "CAMP8564",
-      "model": "Universitario Conderoy",
+      "model": "Universitario Peluche",
       "price": 15000,
       "display_price": 21000,
       "minor_surcharge": 0,
@@ -12895,7 +12895,7 @@
       "brand": "RAW VOGUE",
       "style": "Combinado",
       "material": "Corderoy",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1FkBU.webp",
       "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
       "woo_id": 39612,
       "varieties": [
@@ -13514,5 +13514,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780943907043
+  "timestamp_ms": 1780944809007
 }
