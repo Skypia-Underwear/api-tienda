@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T18:21:26.126Z",
+  "generated_at": "2026-06-08T18:33:46.267Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12880,6 +12880,190 @@
           "variation_id": "BOXE7915-Azul acero-3XL-Skypia Underwear"
         }
       ]
+    },
+    {
+      "id": "CAMP8564",
+      "model": "Universitario Conderoy",
+      "price": 15000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "RAW VOGUE",
+      "style": "Combinado",
+      "material": "Corderoy",
+      "image": "",
+      "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
+      "woo_id": 39612,
+      "varieties": [
+        {
+          "variedad_id": "CAMP8564-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 21000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP8564-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Arena-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Arena-L-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Arena-XL-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Arena-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Arena-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Verde Militar-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Verde Militar-L-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Verde Militar-XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Verde Militar-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Verde Militar-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Amarillo mostaza-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Amarillo mostaza-L-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Amarillo mostaza-XL-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Amarillo mostaza-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP8564-Amarillo mostaza-3XL-Skypia Underwear"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -13166,6 +13350,20 @@
         "precio_unitario": 4500,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP8564": [
+      {
+        "variedad_id": "CAMP8564-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP8564-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -13316,5 +13514,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780943019971
+  "timestamp_ms": 1780943718785
 }
