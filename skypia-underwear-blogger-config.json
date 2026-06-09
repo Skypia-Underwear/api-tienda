@@ -104,6 +104,7 @@
               "codigo": 13,
               "categoria": "Campera",
               "nombre": "CAMP2546",
+              "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -117,6 +118,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "-"
                 },
                 "material": {
                   "label": "Material",
@@ -281,6 +286,7 @@
               "codigo": 15,
               "categoria": "Campera",
               "nombre": "CAMP8564",
+              "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -294,6 +300,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Combinado"
                 },
                 "material": {
                   "label": "Material",
@@ -375,6 +385,7 @@
               "codigo": 17,
               "categoria": "Campera",
               "nombre": "CAMP9305",
+              "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -388,6 +399,10 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "-"
                 },
                 "material": {
                   "label": "Material",
@@ -504,6 +519,7 @@
               "codigo": 19,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
+              "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -517,6 +533,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
                 },
                 "material": {
                   "label": "Material",
@@ -748,6 +768,7 @@
               "codigo": 22,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
+              "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -761,6 +782,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Camuflado"
                 },
                 "material": {
                   "label": "Material",
@@ -1033,6 +1058,7 @@
               "codigo": 28,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
+              "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -1046,6 +1072,10 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
                 },
                 "material": {
                   "label": "Material",
@@ -1512,6 +1542,7 @@
               "codigo": 31,
               "categoria": "Sueter",
               "nombre": "SUET1224",
+              "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -1525,6 +1556,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "-"
                 },
                 "material": {
                   "label": "Material",
@@ -1666,6 +1701,7 @@
               "codigo": 34,
               "categoria": "Sueter",
               "nombre": "SUET9180",
+              "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -1679,6 +1715,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "-"
                 },
                 "material": {
                   "label": "Material",
@@ -1833,6 +1873,7 @@
               "codigo": 1,
               "categoria": "Boxer",
               "nombre": "BOXE4793",
+              "carpeta_id": "1A6VcDb2ZGSWoumeDwyKzBa7HWNB140AT",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -1846,6 +1887,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Estampado"
                 },
                 "material": {
                   "label": "Material",
@@ -2086,6 +2131,7 @@
               "codigo": 4,
               "categoria": "Boxer",
               "nombre": "BOXE4797",
+              "carpeta_id": "1BM2SS2bnUQgsUsnlx8QEruw_C8fcCZ7H",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -2099,6 +2145,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Estampado"
                 },
                 "material": {
                   "label": "Material",
@@ -2343,6 +2393,7 @@
               "codigo": 7,
               "categoria": "Boxer",
               "nombre": "BOXE5151",
+              "carpeta_id": "1f1Eq6eVXpjmh7_FsoXqWmV13Ymaqiai3",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -2356,6 +2407,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Estampado"
                 },
                 "material": {
                   "label": "Material",
@@ -2732,6 +2787,7 @@
               "codigo": 10,
               "categoria": "Boxer",
               "nombre": "BOXE7915",
+              "carpeta_id": "1zGudRnzM_JCz9ji9LhL121A9OtH7AcLU",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -2745,6 +2801,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Estampado"
                 },
                 "material": {
                   "label": "Material",
@@ -2821,6 +2881,7 @@
               "codigo": 25,
               "categoria": "Medias",
               "nombre": "MEDI4227",
+              "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -2834,6 +2895,10 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
                 },
                 "material": {
                   "label": "Material",
@@ -3010,5 +3075,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781006891903
+  "timestamp_ms": 1781007798832
 }
