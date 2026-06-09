@@ -129,16 +129,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "50",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -147,7 +154,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP2546%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20NASA%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20URUS%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP2546%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20NASA%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20URUS%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -155,7 +162,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
                   "archivo_id": "1xcS45DS47iYraRgRzunDN0NvmahgL6Sl",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-06-09T01:20:33.631Z"
                 },
@@ -187,7 +194,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-12FOd.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-12FOd.png",
                   "archivo_id": "12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV",
-                  "portada": true,
+                  "portada": false,
                   "orden": 10,
                   "fecha_carga": "2026-06-09T01:20:33.631Z"
                 },
@@ -238,14 +245,34 @@
                   "precio": 50400,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 64800,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-06-08T03:00:00.000Z"
@@ -2546,5 +2573,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780969091810
+  "timestamp_ms": 1780969277713
 }
