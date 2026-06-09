@@ -103,6 +103,156 @@
             {
               "codigo": 13,
               "categoria": "Campera",
+              "nombre": "156",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Bomber NASA con piel"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "URUS"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "CIRE"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "08-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20156%0A%F0%9F%94%B9%20Modelo%3A%20Bomber%20NASA%20con%20piel%0A%F0%9F%94%B9%20Marca%3A%20URUS%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1HKBa.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1HKBa.png",
+                  "archivo_id": "1HKBaPHks4CtHycSxLIl0vItzSsq96xy4",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1NmYk.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1NmYk.png",
+                  "archivo_id": "1NmYkcS2Fh5mn_Bsnfrh4IjRC8vAaLFz_",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1m7sh.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1m7sh.png",
+                  "archivo_id": "1m7shqD0PA2x4mHY6hD5Pc1yRAkGf8JzA",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1KYHO.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1KYHO.png",
+                  "archivo_id": "1KYHO_7IyJ3NVbzgYuipn-kRNI9SFwlrO",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1dZdv.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1dZdv.png",
+                  "archivo_id": "1dZdvzPA619fOavU2GqUu7RY-Utatq8V7",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-18ISQ.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-18ISQ.png",
+                  "archivo_id": "18ISQ7gv-HRpkhEsjM3TUFJ97YI77KACs",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1PUhJ.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1PUhJ.png",
+                  "archivo_id": "1PUhJejUA5bsmqVQlm7xwiPoDP1CvbTQY",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1fe9q.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1fe9q.png",
+                  "archivo_id": "1fe9qDFG9yn_yA8ZQ77nnDceoYfL3IQRu",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1mYBH.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1mYBH.png",
+                  "archivo_id": "1mYBHWUAcpqkcIh8iu3m3gDtBghqnNUA4",
+                  "portada": false,
+                  "orden": 18,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1Jbdw.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1Jbdw.png",
+                  "archivo_id": "1JbdwoyjdDyliRH_MX8ZL2M0agTAO1bOP",
+                  "portada": false,
+                  "orden": 20,
+                  "fecha_carga": "2026-06-09T00:53:42.594Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 50400,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 64800,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-08T03:00:00.000Z"
+            },
+            {
+              "codigo": 15,
+              "categoria": "Campera",
               "nombre": "CAMP8564",
               "descripcion": {
                 "modelo": {
@@ -203,7 +353,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 15,
+              "codigo": 17,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "descripcion": {
@@ -447,7 +597,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 18,
+              "codigo": 20,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "descripcion": {
@@ -732,7 +882,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 24,
+              "codigo": 26,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "descripcion": {
@@ -2204,7 +2354,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 21,
+              "codigo": 23,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "descripcion": {
@@ -2396,5 +2546,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780956497287
+  "timestamp_ms": 1780967301034
 }
