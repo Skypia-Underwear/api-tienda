@@ -1866,7 +1866,7 @@
         {
           "codigo": 1,
           "nombre": "Boxer",
-          "url_categoria": "",
+          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FHOSTINGSHOPBLOGGER-227675214%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FROPA-INTERIOR%252FBoxer.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boxer.svg",
           "producto": [
             {
@@ -3075,5 +3075,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781021029377
+  "timestamp_ms": 1781036287323
 }
