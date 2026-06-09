@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:21:26.775Z",
+  "generated_at": "2026-06-09T01:36:27.142Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -2226,7 +2226,7 @@
       "brand": "URUS",
       "style": "",
       "material": "CIRE",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-12FOd.png",
       "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
       "woo_id": 39579,
       "varieties": [
@@ -2835,5 +2835,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780968224088
+  "timestamp_ms": 1780969075060
 }
