@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T20:16:25.155Z",
+  "generated_at": "2026-06-09T20:31:25.480Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -390,7 +390,7 @@
       "brand": "UOMO",
       "style": "Estampado",
       "material": "Algodon y poliester",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
       "carpeta_id": "1A6VcDb2ZGSWoumeDwyKzBa7HWNB140AT",
       "woo_id": 39040,
       "varieties": [
@@ -473,7 +473,7 @@
       "brand": "UOMO",
       "style": "Estampado",
       "material": "Algodon",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1aFaN.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1hiee.jpg",
       "carpeta_id": "1BM2SS2bnUQgsUsnlx8QEruw_C8fcCZ7H",
       "woo_id": 39025,
       "varieties": [
@@ -562,7 +562,7 @@
       "brand": "UOMO",
       "style": "Estampado",
       "material": "Algodon",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE5151%2FBOXE5151-1uRmg.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE5151%2FBOXE5151-1Haox.jpg",
       "carpeta_id": "1f1Eq6eVXpjmh7_FsoXqWmV13Ymaqiai3",
       "woo_id": 39206,
       "varieties": [
@@ -3570,5 +3570,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781036300826
+  "timestamp_ms": 1781037221950
 }
