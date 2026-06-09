@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:51:26.523Z",
+  "generated_at": "2026-06-09T01:06:26.300Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -2211,6 +2211,220 @@
           "variation_id": "PANT7095-Verde Militar-2XL-Skypia Underwear"
         }
       ]
+    },
+    {
+      "id": "156",
+      "model": "Bomber NASA con piel",
+      "price": 36000,
+      "display_price": 50400,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "URUS",
+      "style": "",
+      "material": "CIRE",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2F156%2F156-1HKBa.png",
+      "carpeta_id": "1et961gycy6svkvCmmMTB_B2rsFHPcWJd",
+      "woo_id": 39615,
+      "varieties": [
+        {
+          "variedad_id": "156-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 50400,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "156-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 64800,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Azul marino-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Azul marino-M-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Azul marino-L-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Azul marino-XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Azul marino-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bison-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bison-M-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bison-L-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bison-XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bison-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bordo-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bordo-M-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bordo-L-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bordo-XL-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Bordo-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Amarillo mostaza-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Amarillo mostaza-M-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Amarillo mostaza-L-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Amarillo mostaza-XL-Skypia Underwear"
+        },
+        {
+          "color": "Amarillo mostaza",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "156-Amarillo mostaza-2XL-Skypia Underwear"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -2284,6 +2498,20 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
+    "156": [
+      {
+        "variedad_id": "156-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 50400,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "156-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 64800,
+        "cantidad_minima": 1
+      }
+    ],
     "JOGG2883": [
       {
         "variedad_id": "JOGG2883-Docena",
@@ -2607,5 +2835,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1780966412624
+  "timestamp_ms": 1780967322622
 }
