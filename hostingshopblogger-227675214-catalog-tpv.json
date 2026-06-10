@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:46:26.317Z",
+  "generated_at": "2026-06-10T11:01:25.418Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3106,6 +3106,77 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP5784",
+      "model": "MOCHILERO",
+      "price": 50000,
+      "display_price": 70000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1q-Vb.png",
+      "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CAMP5784-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 70000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMP5784-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 90000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP5784-Surtido-3XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3420,6 +3491,20 @@
         "precio_unitario": 68400,
         "cantidad_minima": 1
       }
+    ],
+    "CAMP5784": [
+      {
+        "variedad_id": "CAMP5784-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 70000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMP5784-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 90000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3570,5 +3655,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781088522492
+  "timestamp_ms": 1781089370681
 }
