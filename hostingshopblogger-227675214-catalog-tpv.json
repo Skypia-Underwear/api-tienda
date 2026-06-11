@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T14:01:51.775Z",
+  "generated_at": "2026-06-11T14:16:53.859Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3592,9 +3592,9 @@
     "CATALOGO_DRIVE": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
     "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk",
     "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=client_form",
-    "FACEBOOK": "https://facebook.com/100038029245417",
-    "INSTAGRAM": "https://Instagram.com/cf.castfer",
-    "TIKTOK": "https://tiktok.com/cf.castfer",
+    "FACEBOOK": "https://www.facebook.com/RicaldiSimo",
+    "INSTAGRAM": "https://www.instagram.com/hostingsh0p/",
+    "TIKTOK": "https://tiktok.com/hostingshop",
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
@@ -4047,5 +4047,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781186622881
+  "timestamp_ms": 1781187568174
 }
