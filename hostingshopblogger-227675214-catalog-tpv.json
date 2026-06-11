@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T02:31:50.401Z",
+  "generated_at": "2026-06-11T02:46:49.735Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3192,7 +3192,7 @@
       "brand": "GELUFEI",
       "style": "Bordado",
       "material": "Piel de Durazno",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1rlO2.webp",
       "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
       "woo_id": "",
       "varieties": [
@@ -3281,6 +3281,257 @@
           "size": "XL",
           "store_id": "Skypia Underwear",
           "variation_id": "CALZ3504-Beige-XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4725",
+      "model": "BDLAR",
+      "price": 8000,
+      "display_price": 11200,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "GELUFEI",
+      "style": "Bordado",
+      "material": "Morley Frizado con Piel",
+      "image": "",
+      "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4725-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 11200,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "PANT4725-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 12000,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "PANT4725-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 14400,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Gris-S-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Gris-M-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Gris-L-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Gris-XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bison-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bison-S-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bison-M-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bison-L-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bison-XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Verde Militar-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Verde Militar-S-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Verde Militar-M-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Verde Militar-L-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Verde Militar-XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Azul marino-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Azul marino-S-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Azul marino-M-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Azul marino-L-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Azul marino-XL-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bordo-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bordo-S-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bordo-M-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bordo-L-Skypia Underwear"
+        },
+        {
+          "color": "Bordo",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT4725-Bordo-XL-Skypia Underwear"
         }
       ],
       "fecha_creacion": ""
@@ -3626,6 +3877,26 @@
         "precio_unitario": 14400,
         "cantidad_minima": 1
       }
+    ],
+    "PANT4725": [
+      {
+        "variedad_id": "PANT4725-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT4725-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 12000,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "PANT4725-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3776,5 +4047,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781145206090
+  "timestamp_ms": 1781146132821
 }
