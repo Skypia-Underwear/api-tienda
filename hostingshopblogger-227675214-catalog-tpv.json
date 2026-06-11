@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T02:16:49.997Z",
+  "generated_at": "2026-06-11T02:31:50.401Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3177,6 +3177,113 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CALZ3504",
+      "model": "Cintura Ancha",
+      "price": 8000,
+      "display_price": 11200,
+      "minor_surcharge": 0,
+      "category_id": "Calza",
+      "categoryName": "Calza",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "GELUFEI",
+      "style": "Bordado",
+      "material": "Piel de Durazno",
+      "image": "",
+      "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CALZ3504-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 11200,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CALZ3504-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 14400,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Gris-L-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Gris-XL-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Beige-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Beige-L-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CALZ3504-Beige-XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3505,6 +3612,20 @@
         "precio_unitario": 90000,
         "cantidad_minima": 1
       }
+    ],
+    "CALZ3504": [
+      {
+        "variedad_id": "CALZ3504-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CALZ3504-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3655,5 +3776,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781144296323
+  "timestamp_ms": 1781145206090
 }
