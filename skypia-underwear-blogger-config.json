@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%2C%22LinkText%22%3A%22https%3A%2F%2Fcastfer.com.ar%2F%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
     "direccion": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
@@ -16,7 +16,7 @@
       "apertura": "10:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://facebook.com/100038029245417",
       "instagram": "https://Instagram.com/cf.castfer",
@@ -1408,44 +1408,60 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1h284.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1h284.png",
-                  "archivo_id": "1h284wirXkTYr_aI2G5-GPLzTAFOX5pCc",
-                  "portada": true,
-                  "orden": 8,
-                  "fecha_carga": "2026-06-11T03:48:08.909Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1o2Ng.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1o2Ng.png",
                   "archivo_id": "1o2Ng8PFExmvGgfjD_kJINue_tVCjttNF",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1h284.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1h284.png",
+                  "archivo_id": "1h284wirXkTYr_aI2G5-GPLzTAFOX5pCc",
                   "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-06-11T03:48:08.909Z"
+                  "orden": 3,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1IvzU.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1IvzU.png",
+                  "archivo_id": "1IvzUmmm94TRZIp6Ee2lLtqlgJT_K1W05",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1NhUQ.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1NhUQ.png",
                   "archivo_id": "1NhUQ4Vlipm1UGfPPOmaz6nhFuLxfVhGq",
                   "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-06-11T03:48:08.909Z"
+                  "orden": 5,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1wbG_.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1wbG_.png",
                   "archivo_id": "1wbG_dtGkVc3ouIgJiAnqSCUJ7Zl9ERcH",
                   "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-06-11T03:48:08.909Z"
+                  "orden": 6,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1lDZ-.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1lDZ-.png",
                   "archivo_id": "1lDZ-6IBt9H0RaFRos60292cCoOcDWRF8",
                   "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-06-11T03:48:08.909Z"
+                  "orden": 7,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1JFEb.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1JFEb.png",
+                  "archivo_id": "1JFEbs2i30Rxg2sCLuvhS6maGcx1Pa9dR",
+                  "portada": false,
+                  "orden": 22,
+                  "fecha_carga": "2026-06-11T04:31:10.277Z"
                 }
               ],
               "variedad": [
@@ -3494,5 +3510,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781150320577
+  "timestamp_ms": 1781152426723
 }
