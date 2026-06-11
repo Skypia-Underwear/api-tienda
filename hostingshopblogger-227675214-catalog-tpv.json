@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T02:46:49.735Z",
+  "generated_at": "2026-06-11T03:55:40.935Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3299,7 +3299,7 @@
       "brand": "GELUFEI",
       "style": "Bordado",
       "material": "Morley Frizado con Piel",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1GtxX.webp",
       "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
       "woo_id": "",
       "varieties": [
@@ -4047,5 +4047,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781146132821
+  "timestamp_ms": 1781150271635
 }
