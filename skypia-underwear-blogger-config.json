@@ -96,12 +96,99 @@
       "categorias": [
         {
           "codigo": 2,
+          "nombre": "Calza",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
+          "producto": [
+            {
+              "codigo": 13,
+              "categoria": "Calza",
+              "nombre": "CALZ3504",
+              "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cintura Ancha"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GELUFEI"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Bordado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Piel de Durazno"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "10-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CALZ3504%0A%F0%9F%94%B9%20Modelo%3A%20Cintura%20Ancha%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-10T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
           "nombre": "Campera",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 13,
+              "codigo": 15,
               "categoria": "Campera",
               "nombre": "CAMP2546",
               "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -283,7 +370,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 15,
+              "codigo": 17,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -449,7 +536,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 17,
+              "codigo": 19,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -548,7 +635,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 19,
+              "codigo": 21,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -676,13 +763,13 @@
           ]
         },
         {
-          "codigo": 3,
+          "codigo": 4,
           "nombre": "Conjunto 2",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 21,
+              "codigo": 23,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -925,13 +1012,13 @@
           ]
         },
         {
-          "codigo": 4,
+          "codigo": 5,
           "nombre": "Jogging",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 24,
+              "codigo": 26,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
@@ -1215,13 +1302,13 @@
           ]
         },
         {
-          "codigo": 6,
+          "codigo": 7,
           "nombre": "Pantalon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 30,
+              "codigo": 32,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -1699,13 +1786,13 @@
           ]
         },
         {
-          "codigo": 7,
+          "codigo": 8,
           "nombre": "Sueter",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 33,
+              "codigo": 35,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -1864,7 +1951,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 36,
+              "codigo": 38,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -3038,13 +3125,13 @@
           ]
         },
         {
-          "codigo": 5,
+          "codigo": 6,
           "nombre": "Medias",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 27,
+              "codigo": 29,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -3241,5 +3328,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781129920246
+  "timestamp_ms": 1781145206785
 }
