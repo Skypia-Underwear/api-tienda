@@ -13,14 +13,14 @@
     "direccion": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
     "coordenadas": "-34.646943, -58.692333",
     "horario": {
-      "apertura": "10:00:00",
-      "cierre": "17:00:00"
+      "apertura": "07:00:00",
+      "cierre": "22:00:00"
     },
     "compra_minima": "3",
     "redes_sociales": {
-      "facebook": "https://facebook.com/100038029245417",
-      "instagram": "https://Instagram.com/cf.castfer",
-      "tiktok": "https://tiktok.com/cf.castfer"
+      "facebook": "https://www.facebook.com/RicaldiSimo",
+      "instagram": "https://www.instagram.com/hostingsh0p/",
+      "tiktok": "https://tiktok.com/hostingshop"
     },
     "formularios": {
       "cliente": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=client_form",
@@ -3510,5 +3510,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781174062155
+  "timestamp_ms": 1781187555814
 }
