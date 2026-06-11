@@ -101,7 +101,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
           "producto": [
             {
-              "codigo": 13,
+              "codigo": 4,
               "categoria": "Calza",
               "nombre": "CALZ3504",
               "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
@@ -232,7 +232,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 15,
+              "codigo": 6,
               "categoria": "Campera",
               "nombre": "CAMP2546",
               "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -414,7 +414,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 17,
+              "codigo": 8,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -580,7 +580,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 19,
+              "codigo": 10,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -679,7 +679,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 21,
+              "codigo": 12,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -813,7 +813,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 23,
+              "codigo": 14,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -1062,7 +1062,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 26,
+              "codigo": 17,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
@@ -1352,7 +1352,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 32,
+              "codigo": 23,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -1490,7 +1490,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 35,
+              "codigo": 26,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -1974,7 +1974,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 38,
+              "codigo": 29,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -2133,7 +2133,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 41,
+              "codigo": 32,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -2306,526 +2306,6 @@
           "producto": [
             {
               "codigo": 1,
-              "categoria": "Boxer",
-              "nombre": "BOXE4793",
-              "carpeta_id": "1A6VcDb2ZGSWoumeDwyKzBa7HWNB140AT",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Dragónball"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Estampado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "3XL",
-                    "L",
-                    "M",
-                    "S",
-                    "Surtido",
-                    "XL",
-                    "XXL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "338",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "10-04-2026"
-                },
-                "video": {
-                  "label": "Video",
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-12ZCH.mp4",
-                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-12ZCH_thumb.jpg&v=1ARo2iKJKbaL0tdG1TIkBfkV0HiDRSlfD"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4793%0A%F0%9F%94%B9%20Modelo%3A%20Drag%C3%B3nball%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%203XL%2C%20L%2C%20M%2C%20S%2C%20Surtido%2C%20XL%2C%20XXL"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
-                  "archivo_id": "1UnN25mJQXFJw4QqmVmQpssJrMbg0r2WL",
-                  "portada": true,
-                  "orden": 22,
-                  "fecha_carga": "2026-05-21T17:07:31.304Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1A_I3.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1A_I3.jpg",
-                  "archivo_id": "1A_I3I_7Vuvu_mII3s6vyutqMU5Do30ZF",
-                  "portada": false,
-                  "orden": 1,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1LUp3.jpg",
-                  "archivo_id": "1LUp35AkBK00ViftCXyM48ZJeVoQVa4PV",
-                  "portada": false,
-                  "orden": 2,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1qXG-.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1qXG-.jpg",
-                  "archivo_id": "1qXG-nMCwbb0UG640sO9MmZER33CsGFxM",
-                  "portada": false,
-                  "orden": 3,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1_g_-.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1_g_-.jpg",
-                  "archivo_id": "1_g_-RuUakd5pmhW1esq0mb02DrgQRCMq",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1NUOC.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1NUOC.jpg",
-                  "archivo_id": "1NUOCFb0fkFqaI8G6azpeibstvh8ZQhpM",
-                  "portada": false,
-                  "orden": 5,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1GdNH.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1GdNH.jpg",
-                  "archivo_id": "1GdNHC0adMo5mlML8AUZw6hdWO5w4XWwe",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1PKgF.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1PKgF.jpg",
-                  "archivo_id": "1PKgFTlF0-bJ1hyyGh7AshMkeyx1H5GNb",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1vTFz.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1vTFz.jpg",
-                  "archivo_id": "1vTFz1QwrFYm8aJ30ol8rdBAbBOCEWETt",
-                  "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-04-14T21:46:54.768Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1Vrgj.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1Vrgj.png",
-                  "archivo_id": "1Vrgj8AE1B_8oU4Rwc5S8_7zgeQ6qT7pQ",
-                  "portada": false,
-                  "orden": 20,
-                  "fecha_carga": "2026-05-21T17:07:31.304Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "338"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "Surtido",
-                          "stock": "38"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XXL",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "Surtido",
-                          "stock": "38"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XXL",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-04-10T03:00:00.000Z"
-            },
-            {
-              "codigo": 4,
-              "categoria": "Boxer",
-              "nombre": "BOXE4797",
-              "carpeta_id": "1BM2SS2bnUQgsUsnlx8QEruw_C8fcCZ7H",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Batman"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Estampado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "3XL",
-                    "4XL",
-                    "L",
-                    "M",
-                    "S",
-                    "Surtido",
-                    "XL",
-                    "XXL"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "385",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "09-04-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE4797%0A%F0%9F%94%B9%20Modelo%3A%20Batman%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%203XL%2C%204XL%2C%20L%2C%20M%2C%20S%2C%20Surtido%2C%20XL%2C%20XXL"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1hiee.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1hiee.jpg",
-                  "archivo_id": "1hieeSpNQmyaJrc3ZsRB0HqKykVZqduPN",
-                  "portada": true,
-                  "orden": 20,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1aFaN.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1aFaN.jpg",
-                  "archivo_id": "1aFaNXilm9W1BneXeQ2Wy90MqAeZ_KpSY",
-                  "portada": false,
-                  "orden": 2,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1u1F7.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1u1F7.jpg",
-                  "archivo_id": "1u1F7Pzz7aNhYYb17taNHZ6ttfeXrde2i",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1a1PE.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1a1PE.jpg",
-                  "archivo_id": "1a1PEjWR0vtJMV8aMCYc65yydpKT2GoMt",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1kwv3.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1kwv3.jpg",
-                  "archivo_id": "1kwv3fozXyShjb-HdHPkCW_AXrQNbtWBP",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-18fO5.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-18fO5.jpg",
-                  "archivo_id": "18fO58oxWTaFO6KUZBAkCVRYdkFR0k0oj",
-                  "portada": false,
-                  "orden": 10,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1-yMN.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1-yMN.jpg",
-                  "archivo_id": "1-yMNE6Kj-KWNJ6B7D5AYClz_XldHnRGC",
-                  "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-110FH.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-110FH.jpg",
-                  "archivo_id": "110FHpqHNLYxxdhkS6Saps4dvZP2M7zuU",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1iHM6.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1iHM6.jpg",
-                  "archivo_id": "1iHM6v8WNMtSa7LfYfNvynVcQWH6r2qJw",
-                  "portada": false,
-                  "orden": 16,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1AapV.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1AapV.jpg",
-                  "archivo_id": "1AapVUHg0kMcYyJlT3B_SfEc3hL8cAAin",
-                  "portada": false,
-                  "orden": 18,
-                  "fecha_carga": "2026-05-24T07:00:30.659Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "385"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "4XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "Surtido",
-                          "stock": "35"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XXL",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "3XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "4XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "Surtido",
-                          "stock": "35"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "50"
-                        },
-                        {
-                          "talle": "XXL",
-                          "stock": "50"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-04-09T03:00:00.000Z"
-            },
-            {
-              "codigo": 7,
               "categoria": "Boxer",
               "nombre": "BOXE5151",
               "carpeta_id": "1f1Eq6eVXpjmh7_FsoXqWmV13Ymaqiai3",
@@ -3217,92 +2697,6 @@
                 }
               ],
               "upd": "2026-04-21T03:00:00.000Z"
-            },
-            {
-              "codigo": 10,
-              "categoria": "Boxer",
-              "nombre": "BOXE7915",
-              "carpeta_id": "1zGudRnzM_JCz9ji9LhL121A9OtH7AcLU",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Avengers"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "UOMO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Estampado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon Premium"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "24-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE7915%0A%F0%9F%94%B9%20Modelo%3A%20Avengers%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-05-24T03:00:00.000Z"
             }
           ]
         },
@@ -3313,7 +2707,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 29,
+              "codigo": 20,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -3510,5 +2904,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781196488114
+  "timestamp_ms": 1781200145371
 }
