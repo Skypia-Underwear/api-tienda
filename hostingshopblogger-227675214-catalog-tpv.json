@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:31:48.197Z",
+  "generated_at": "2026-06-14T00:46:48.803Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3535,6 +3535,191 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG7126",
+      "model": "Neopren",
+      "price": 15000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "GELUFEI",
+      "style": "Liso",
+      "material": "Neoprem",
+      "image": "",
+      "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "JOGG7126-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 21000,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "JOGG7126-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 22500,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "JOGG7126-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-46-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-48-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Surtido-50-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-42-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-44-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-46-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-48-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Negro-50-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-42-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-44-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-46-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-48-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Gris-50-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-42-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-44-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-46-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-48-Skypia Underwear"
+        },
+        {
+          "color": "Azul marino",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG7126-Azul marino-50-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3837,6 +4022,26 @@
         "precio_unitario": 14400,
         "cantidad_minima": 1
       }
+    ],
+    "JOGG7126": [
+      {
+        "variedad_id": "JOGG7126-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG7126-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "JOGG7126-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3987,5 +4192,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781397239020
+  "timestamp_ms": 1781398131744
 }
