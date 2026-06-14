@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:46:48.803Z",
+  "generated_at": "2026-06-14T01:01:51.700Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3550,7 +3550,7 @@
       "brand": "GELUFEI",
       "style": "Liso",
       "material": "Neoprem",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1ayhQ.webp",
       "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
       "woo_id": "",
       "varieties": [
@@ -4192,5 +4192,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781398131744
+  "timestamp_ms": 1781399010604
 }
