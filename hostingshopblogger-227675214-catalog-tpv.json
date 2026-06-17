@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T03:31:48.639Z",
+  "generated_at": "2026-06-17T03:46:48.975Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -378,6 +378,7 @@
   "products": [
     {
       "id": "BOXE4793",
+      "sku": "Boxe002",
       "model": "Dragónball",
       "price": 2500,
       "display_price": 3500,
@@ -461,6 +462,7 @@
     },
     {
       "id": "BOXE4797",
+      "sku": "Boxe001",
       "model": "Batman",
       "price": 2500,
       "display_price": 3500,
@@ -550,6 +552,7 @@
     },
     {
       "id": "BOXE5151",
+      "sku": "Boxe003",
       "model": "Sodapop",
       "price": 2600,
       "display_price": 3640,
@@ -831,6 +834,7 @@
     },
     {
       "id": "BOXE7915",
+      "sku": "Boxe004",
       "model": "Avengers",
       "price": 2500,
       "display_price": 3500,
@@ -1124,6 +1128,7 @@
     },
     {
       "id": "CAMP8564",
+      "sku": "Camp001",
       "model": "Universitario Peluche",
       "price": 15000,
       "display_price": 21000,
@@ -1309,6 +1314,7 @@
     },
     {
       "id": "CONJ6330",
+      "sku": "Conj001",
       "model": "Neoprem",
       "price": 45000,
       "display_price": 63000,
@@ -1410,6 +1416,7 @@
     },
     {
       "id": "JOGG2883",
+      "sku": "367",
       "model": "Joggin Cargo camuflado",
       "price": 10000,
       "display_price": 14000,
@@ -1523,6 +1530,7 @@
     },
     {
       "id": "JOGG9403",
+      "sku": 9584,
       "model": "Joggin con piel COMBINADO 84",
       "price": 13000,
       "display_price": 13000,
@@ -1617,6 +1625,7 @@
     },
     {
       "id": "MEDI4227",
+      "sku": "Medi001",
       "model": "Clásico 3/4",
       "price": 2000,
       "display_price": 2800,
@@ -1670,6 +1679,7 @@
     },
     {
       "id": "PANT5330",
+      "sku": "",
       "model": "Cargo Termico Recto Neoprene",
       "price": 26000,
       "display_price": 26000,
@@ -1932,6 +1942,7 @@
     },
     {
       "id": "PANT7095",
+      "sku": "Pant001",
       "model": "PALAZO",
       "price": 8000,
       "display_price": 11200,
@@ -2225,6 +2236,7 @@
     },
     {
       "id": "CAMP2546",
+      "sku": "CAMP2546",
       "model": "Bomber NASA con piel",
       "price": 36000,
       "display_price": 50400,
@@ -2440,6 +2452,7 @@
     },
     {
       "id": "SUET1224",
+      "sku": "620",
       "model": "CUELLO O TERMICO",
       "price": 22000,
       "display_price": 30800,
@@ -2631,6 +2644,7 @@
     },
     {
       "id": "SUET9180",
+      "sku": "622",
       "model": "con polar  Talle especial",
       "price": 25000,
       "display_price": 35000,
@@ -2822,6 +2836,7 @@
     },
     {
       "id": "CAMP9305",
+      "sku": "257",
       "model": "3 EN 1 Desmontable",
       "price": 38000,
       "display_price": 53200,
@@ -3109,6 +3124,7 @@
     },
     {
       "id": "CAMP5784",
+      "sku": "197",
       "model": "MOCHILERO",
       "price": 50000,
       "display_price": 70000,
@@ -3180,6 +3196,7 @@
     },
     {
       "id": "CALZ3504",
+      "sku": "Calz001",
       "model": "Cintura Ancha",
       "price": 8000,
       "display_price": 11200,
@@ -3287,6 +3304,7 @@
     },
     {
       "id": "PANT4725",
+      "sku": "Pant003",
       "model": "BDLAR",
       "price": 8000,
       "display_price": 11200,
@@ -3538,6 +3556,7 @@
     },
     {
       "id": "JOGG7126",
+      "sku": "Jogg001",
       "model": "Neopren",
       "price": 15000,
       "display_price": 21000,
@@ -4192,5 +4211,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1781667197296
+  "timestamp_ms": 1781668095934
 }
