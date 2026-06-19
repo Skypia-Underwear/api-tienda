@@ -300,19 +300,11 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
-                  "archivo_id": "1xcS45DS47iYraRgRzunDN0NvmahgL6Sl",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-06-13T05:15:54.890Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1j5sf.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1j5sf.png",
                   "archivo_id": "1j5sfGbv8EJSwfQXK7zNasPelxgUON7vl",
-                  "portada": false,
-                  "orden": 4,
+                  "portada": true,
+                  "orden": 1,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -320,7 +312,7 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1WWEk.png",
                   "archivo_id": "1WWEkHfjiNstN3LjEgef2BSxbeGlE9dRy",
                   "portada": false,
-                  "orden": 6,
+                  "orden": 2,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -328,7 +320,15 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1QsVw.png",
                   "archivo_id": "1QsVwAxhQd1tDg-rb6GuG6ed2IzZz1umG",
                   "portada": false,
-                  "orden": 8,
+                  "orden": 3,
+                  "fecha_carga": "2026-06-13T05:15:54.890Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1xcS4.png",
+                  "archivo_id": "1xcS45DS47iYraRgRzunDN0NvmahgL6Sl",
+                  "portada": false,
+                  "orden": 4,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -336,7 +336,7 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-12FOd.png",
                   "archivo_id": "12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV",
                   "portada": false,
-                  "orden": 10,
+                  "orden": 5,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -344,23 +344,7 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1zQx1.png",
                   "archivo_id": "1zQx1CnNxmcryTzbxPqCEdJnOFfUgoAN7",
                   "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-06-13T05:15:54.890Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1avPb.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1avPb.png",
-                  "archivo_id": "1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO",
-                  "portada": false,
-                  "orden": 14,
-                  "fecha_carga": "2026-06-13T05:15:54.890Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1p_OB.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1p_OB.png",
-                  "archivo_id": "1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu",
-                  "portada": false,
-                  "orden": 16,
+                  "orden": 6,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -368,7 +352,7 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1c5P9.png",
                   "archivo_id": "1c5P9a3wN1R1tY-bDseuXLZ6KPRRz4G66",
                   "portada": false,
-                  "orden": 18,
+                  "orden": 7,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 },
                 {
@@ -376,7 +360,23 @@
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-18mjI.png",
                   "archivo_id": "18mjI2ezIcRms2AQI6OPwXV4URw7ZlnZa",
                   "portada": false,
-                  "orden": 20,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-13T05:15:54.890Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1avPb.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1avPb.png",
+                  "archivo_id": "1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO",
+                  "portada": false,
+                  "orden": 9,
+                  "fecha_carga": "2026-06-13T05:15:54.890Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1p_OB.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1p_OB.png",
+                  "archivo_id": "1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu",
+                  "portada": false,
+                  "orden": 10,
                   "fecha_carga": "2026-06-13T05:15:54.890Z"
                 }
               ],
@@ -3080,5 +3080,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781828306644
+  "timestamp_ms": 1781837313307
 }
