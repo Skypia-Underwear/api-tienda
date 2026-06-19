@@ -2372,11 +2372,27 @@
               },
               "imagen": [
                 {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1pFpA.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1pFpA.png",
+                  "archivo_id": "1pFpAXsxXd4fTbCoBUZHKe8LqvIMAJSiJ",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-13T18:54:45.235Z"
+                },
+                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-14-lB.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-14-lB.png",
                   "archivo_id": "14-lBwV9HBwD_aFHWAXHOZr3MHSffXUZD",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
+                  "fecha_carga": "2026-06-13T18:54:45.235Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1xd1i.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1xd1i.png",
+                  "archivo_id": "1xd1iUckSo4mWmU3JI3M-bvmcRBNlRstk",
+                  "portada": false,
+                  "orden": 3,
                   "fecha_carga": "2026-06-13T18:54:45.235Z"
                 },
                 {
@@ -2388,27 +2404,11 @@
                   "fecha_carga": "2026-06-13T18:54:45.235Z"
                 },
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1xd1i.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1xd1i.png",
-                  "archivo_id": "1xd1iUckSo4mWmU3JI3M-bvmcRBNlRstk",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-06-13T18:54:45.235Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1pFpA.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1pFpA.png",
-                  "archivo_id": "1pFpAXsxXd4fTbCoBUZHKe8LqvIMAJSiJ",
-                  "portada": false,
-                  "orden": 8,
-                  "fecha_carga": "2026-06-13T18:54:45.235Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1HkJl.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-1HkJl.png",
                   "archivo_id": "1HkJl1E-VOncDF0S9BaULWNADOyXaELmL",
                   "portada": false,
-                  "orden": 10,
+                  "orden": 5,
                   "fecha_carga": "2026-06-13T18:54:45.235Z"
                 }
               ],
@@ -3080,5 +3080,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781837313307
+  "timestamp_ms": 1781838219246
 }
