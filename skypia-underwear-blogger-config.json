@@ -955,23 +955,6 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 63000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "12"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 67500,
                   "variedad": "Curva",
                   "minima": 4,
@@ -985,6 +968,23 @@
                         }
                       ]
                     },
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "12"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 63000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
                       "talles": [
@@ -1170,16 +1170,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 22500,
+                  "variedad": "Curva",
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22500,
-                  "variedad": "Curva",
-                  "minima": 5,
+                  "precio": 21000,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
@@ -1358,23 +1358,6 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 14000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "140"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 15000,
                   "variedad": "Curva",
                   "minima": 3,
@@ -1403,6 +1386,23 @@
                         {
                           "talle": "Surtido",
                           "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "140"
                         }
                       ]
                     }
@@ -1611,16 +1611,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 11200,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 4,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 12000,
-                  "variedad": "Curva",
-                  "minima": 4,
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {}
                 },
                 {
@@ -1809,23 +1809,6 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 11200,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "299"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 12000,
                   "variedad": "Curva",
                   "minima": 5,
@@ -1890,6 +1873,23 @@
                         {
                           "talle": "Surtido",
                           "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "299"
                         }
                       ]
                     }
@@ -2224,9 +2224,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 30800,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 33000,
+                  "variedad": "Curva",
+                  "minima": 4,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -2241,9 +2241,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 33000,
-                  "variedad": "Curva",
-                  "minima": 4,
+                  "precio": 30800,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -2388,9 +2388,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 35000,
-                  "variedad": "Docena",
-                  "minima": 12,
+                  "precio": 37500,
+                  "variedad": "Curva",
+                  "minima": 4,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -2405,9 +2405,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 37500,
-                  "variedad": "Curva",
-                  "minima": 4,
+                  "precio": 35000,
+                  "variedad": "Docena",
+                  "minima": 12,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -2608,51 +2608,6 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 4420,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "3XL",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": "4XL",
-                          "stock": "5"
-                        },
-                        {
-                          "talle": "L",
-                          "stock": "30"
-                        },
-                        {
-                          "talle": "M",
-                          "stock": "40"
-                        },
-                        {
-                          "talle": "S",
-                          "stock": "47"
-                        },
-                        {
-                          "talle": "Surtido",
-                          "stock": "60"
-                        },
-                        {
-                          "talle": "XL",
-                          "stock": "20"
-                        },
-                        {
-                          "talle": "XXL",
-                          "stock": "5"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 4680,
                   "variedad": "Menor",
                   "minima": 1,
@@ -2843,6 +2798,51 @@
                       ]
                     }
                   }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 4420,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "3XL",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": "4XL",
+                          "stock": "5"
+                        },
+                        {
+                          "talle": "L",
+                          "stock": "30"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "40"
+                        },
+                        {
+                          "talle": "S",
+                          "stock": "47"
+                        },
+                        {
+                          "talle": "Surtido",
+                          "stock": "60"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "20"
+                        },
+                        {
+                          "talle": "XXL",
+                          "stock": "5"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-04-21T03:00:00.000Z"
@@ -2979,9 +2979,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 3400,
-                  "variedad": "Pack x3",
-                  "minima": 3,
+                  "precio": 3600,
+                  "variedad": "Menor",
+                  "minima": 1,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -2996,9 +2996,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 3600,
-                  "variedad": "Menor",
-                  "minima": 1,
+                  "precio": 3400,
+                  "variedad": "Pack x3",
+                  "minima": 3,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -3053,5 +3053,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782395354127
+  "timestamp_ms": 1782416017217
 }
