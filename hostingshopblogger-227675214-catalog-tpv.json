@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:16:50.162Z",
+  "generated_at": "2026-06-25T19:31:50.699Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -402,16 +402,16 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "BOXE4793-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        },
-        {
           "variedad_id": "BOXE4793-Menor",
           "nombre": "Menor",
           "precio_unitario": 4500,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "BOXE4793-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 4250,
+          "cantidad_minima": 3
         }
       ],
       "variations": [
@@ -486,16 +486,16 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "BOXE4797-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        },
-        {
           "variedad_id": "BOXE4797-Menor",
           "nombre": "Menor",
           "precio_unitario": 4500,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "BOXE4797-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 4250,
+          "cantidad_minima": 3
         }
       ],
       "variations": [
@@ -576,16 +576,16 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "BOXE5151-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4420,
-          "cantidad_minima": 3
-        },
-        {
           "variedad_id": "BOXE5151-Menor",
           "nombre": "Menor",
           "precio_unitario": 4680,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "BOXE5151-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 4420,
+          "cantidad_minima": 3
         }
       ],
       "variations": [
@@ -858,16 +858,16 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "BOXE7915-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        },
-        {
           "variedad_id": "BOXE7915-Menor",
           "nombre": "Menor",
           "precio_unitario": 4500,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "BOXE7915-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 4250,
+          "cantidad_minima": 3
         }
       ],
       "variations": [
@@ -1332,16 +1332,16 @@
       "woo_id": 39381,
       "varieties": [
         {
-          "variedad_id": "CONJ6330-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 63000,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "CONJ6330-Curva",
           "nombre": "Curva",
           "precio_unitario": 67500,
           "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "CONJ6330-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 63000,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "CONJ6330-Menor",
@@ -1434,16 +1434,16 @@
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "JOGG2883-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 14000,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "JOGG2883-Curva",
           "nombre": "Curva",
           "precio_unitario": 15000,
           "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "JOGG2883-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 14000,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "JOGG2883-Menor",
@@ -1649,16 +1649,16 @@
           "cantidad_minima": 12
         },
         {
-          "variedad_id": "MEDI4227-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 3400,
-          "cantidad_minima": 3
-        },
-        {
           "variedad_id": "MEDI4227-Menor",
           "nombre": "Menor",
           "precio_unitario": 3600,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "MEDI4227-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 3400,
+          "cantidad_minima": 3
         }
       ],
       "variations": [
@@ -1960,16 +1960,16 @@
       "woo_id": 38995,
       "varieties": [
         {
-          "variedad_id": "PANT7095-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 11200,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "PANT7095-Curva",
           "nombre": "Curva",
           "precio_unitario": 12000,
           "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT7095-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 11200,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "PANT7095-Menor",
@@ -2470,16 +2470,16 @@
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "SUET1224-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 30800,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "SUET1224-Curva",
           "nombre": "Curva",
           "precio_unitario": 33000,
           "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "SUET1224-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 30800,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "SUET1224-Menor",
@@ -2662,16 +2662,16 @@
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "SUET9180-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 35000,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "SUET9180-Curva",
           "nombre": "Curva",
           "precio_unitario": 37500,
           "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "SUET9180-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 35000,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "SUET9180-Menor",
@@ -3322,16 +3322,16 @@
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "PANT4725-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 11200,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "PANT4725-Curva",
           "nombre": "Curva",
           "precio_unitario": 12000,
           "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "PANT4725-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 11200,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "PANT4725-Menor",
@@ -3574,16 +3574,16 @@
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "JOGG7126-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 21000,
-          "cantidad_minima": 12
-        },
-        {
           "variedad_id": "JOGG7126-Curva",
           "nombre": "Curva",
           "precio_unitario": 22500,
           "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "JOGG7126-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 21000,
+          "cantidad_minima": 12
         },
         {
           "variedad_id": "JOGG7126-Menor",
@@ -3812,46 +3812,6 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
-    "JOGG2883": [
-      {
-        "variedad_id": "JOGG2883-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 14000,
-        "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "JOGG2883-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 15000,
-        "cantidad_minima": 3
-      },
-      {
-        "variedad_id": "JOGG2883-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 18000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT7095": [
-      {
-        "variedad_id": "PANT7095-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 11200,
-        "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "PANT7095-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 12000,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "PANT7095-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 14400,
-        "cantidad_minima": 1
-      }
-    ],
     "BOXE5151": [
       {
         "variedad_id": "BOXE5151-Docena",
@@ -3860,69 +3820,29 @@
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "BOXE5151-Pack x3",
-        "nombre": "Pack x3",
-        "precio_unitario": 4420,
-        "cantidad_minima": 3
-      },
-      {
         "variedad_id": "BOXE5151-Menor",
         "nombre": "Menor",
         "precio_unitario": 4680,
         "cantidad_minima": 1
-      }
-    ],
-    "MEDI4227": [
-      {
-        "variedad_id": "MEDI4227-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 2800,
-        "cantidad_minima": 12
       },
       {
-        "variedad_id": "MEDI4227-Pack x3",
+        "variedad_id": "BOXE5151-Pack x3",
         "nombre": "Pack x3",
-        "precio_unitario": 3400,
+        "precio_unitario": 4420,
         "cantidad_minima": 3
-      },
-      {
-        "variedad_id": "MEDI4227-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 3600,
-        "cantidad_minima": 1
       }
     ],
-    "CONJ6330": [
+    "CALZ3504": [
       {
-        "variedad_id": "CONJ6330-Docena",
+        "variedad_id": "CALZ3504-Docena",
         "nombre": "Docena",
-        "precio_unitario": 63000,
+        "precio_unitario": 11200,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CONJ6330-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 67500,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "CONJ6330-Menor",
+        "variedad_id": "CALZ3504-Menor",
         "nombre": "Menor",
-        "precio_unitario": 70000,
-        "cantidad_minima": 1
-      }
-    ],
-    "CAMP8564": [
-      {
-        "variedad_id": "CAMP8564-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 21000,
-        "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "CAMP8564-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 27000,
+        "precio_unitario": 14400,
         "cantidad_minima": 1
       }
     ],
@@ -3940,43 +3860,31 @@
         "cantidad_minima": 1
       }
     ],
-    "SUET1224": [
+    "CAMP5784": [
       {
-        "variedad_id": "SUET1224-Docena",
+        "variedad_id": "CAMP5784-Docena",
         "nombre": "Docena",
-        "precio_unitario": 30800,
+        "precio_unitario": 70000,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "SUET1224-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 33000,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "SUET1224-Menor",
+        "variedad_id": "CAMP5784-Menor",
         "nombre": "Menor",
-        "precio_unitario": 39600,
+        "precio_unitario": 90000,
         "cantidad_minima": 1
       }
     ],
-    "SUET9180": [
+    "CAMP8564": [
       {
-        "variedad_id": "SUET9180-Docena",
+        "variedad_id": "CAMP8564-Docena",
         "nombre": "Docena",
-        "precio_unitario": 35000,
+        "precio_unitario": 21000,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "SUET9180-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 37500,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "SUET9180-Menor",
+        "variedad_id": "CAMP8564-Menor",
         "nombre": "Menor",
-        "precio_unitario": 45000,
+        "precio_unitario": 27000,
         "cantidad_minima": 1
       }
     ],
@@ -3994,46 +3902,98 @@
         "cantidad_minima": 1
       }
     ],
-    "CAMP5784": [
+    "CONJ6330": [
       {
-        "variedad_id": "CAMP5784-Docena",
+        "variedad_id": "CONJ6330-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 67500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "CONJ6330-Docena",
         "nombre": "Docena",
-        "precio_unitario": 70000,
+        "precio_unitario": 63000,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CAMP5784-Menor",
+        "variedad_id": "CONJ6330-Menor",
         "nombre": "Menor",
-        "precio_unitario": 90000,
+        "precio_unitario": 70000,
         "cantidad_minima": 1
       }
     ],
-    "CALZ3504": [
+    "JOGG2883": [
       {
-        "variedad_id": "CALZ3504-Docena",
+        "variedad_id": "JOGG2883-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 15000,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "JOGG2883-Docena",
         "nombre": "Docena",
-        "precio_unitario": 11200,
+        "precio_unitario": 14000,
         "cantidad_minima": 12
       },
       {
-        "variedad_id": "CALZ3504-Menor",
+        "variedad_id": "JOGG2883-Menor",
         "nombre": "Menor",
-        "precio_unitario": 14400,
+        "precio_unitario": 18000,
         "cantidad_minima": 1
+      }
+    ],
+    "JOGG7126": [
+      {
+        "variedad_id": "JOGG7126-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22500,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "JOGG7126-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "JOGG7126-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1
+      }
+    ],
+    "MEDI4227": [
+      {
+        "variedad_id": "MEDI4227-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2800,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "MEDI4227-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 3600,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "MEDI4227-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 3400,
+        "cantidad_minima": 3
       }
     ],
     "PANT4725": [
-      {
-        "variedad_id": "PANT4725-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 11200,
-        "cantidad_minima": 12
-      },
       {
         "variedad_id": "PANT4725-Curva",
         "nombre": "Curva",
         "precio_unitario": 12000,
         "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "PANT4725-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
       },
       {
         "variedad_id": "PANT4725-Menor",
@@ -4042,23 +4002,63 @@
         "cantidad_minima": 1
       }
     ],
-    "JOGG7126": [
+    "PANT7095": [
       {
-        "variedad_id": "JOGG7126-Docena",
-        "nombre": "Docena",
-        "precio_unitario": 21000,
-        "cantidad_minima": 12
-      },
-      {
-        "variedad_id": "JOGG7126-Curva",
+        "variedad_id": "PANT7095-Curva",
         "nombre": "Curva",
-        "precio_unitario": 22500,
+        "precio_unitario": 12000,
         "cantidad_minima": 5
       },
       {
-        "variedad_id": "JOGG7126-Menor",
+        "variedad_id": "PANT7095-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "PANT7095-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27000,
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
+    ],
+    "SUET1224": [
+      {
+        "variedad_id": "SUET1224-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 33000,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "SUET1224-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30800,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "SUET1224-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 39600,
+        "cantidad_minima": 1
+      }
+    ],
+    "SUET9180": [
+      {
+        "variedad_id": "SUET9180-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 37500,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "SUET9180-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 35000,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "SUET9180-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 45000,
         "cantidad_minima": 1
       }
     ]
@@ -4211,5 +4211,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782415134302
+  "timestamp_ms": 1782416035754
 }
