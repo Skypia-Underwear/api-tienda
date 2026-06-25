@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:46:49.159Z",
+  "generated_at": "2026-06-25T20:01:49.123Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3755,7 +3755,7 @@
       "brand": "QLING",
       "style": "Liso",
       "material": "Poliester",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
       "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
       "woo_id": "",
       "varieties": [
@@ -4369,5 +4369,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782416925619
+  "timestamp_ms": 1782417827935
 }
