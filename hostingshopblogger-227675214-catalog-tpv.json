@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:31:50.699Z",
+  "generated_at": "2026-06-25T19:46:49.159Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3739,6 +3739,144 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI9176",
+      "sku": "Cami001",
+      "model": "CON CUELLO",
+      "price": 9000,
+      "display_price": 12600,
+      "minor_surcharge": 0,
+      "category_id": "Camiseta",
+      "categoryName": "Camiseta",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "QLING",
+      "style": "Liso",
+      "material": "Poliester",
+      "image": "",
+      "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CAMI9176-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 12600,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CAMI9176-Pack x3",
+          "nombre": "Pack x3",
+          "precio_unitario": 15300,
+          "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "CAMI9176-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 16200,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Bison-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Bison-XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Bison-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Bison-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Gris-XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Gris-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI9176-Gris-3XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4061,6 +4199,26 @@
         "precio_unitario": 45000,
         "cantidad_minima": 1
       }
+    ],
+    "CAMI9176": [
+      {
+        "variedad_id": "CAMI9176-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 12600,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CAMI9176-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 15300,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "CAMI9176-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 16200,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -4211,5 +4369,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782416035754
+  "timestamp_ms": 1782416925619
 }
