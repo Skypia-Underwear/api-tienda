@@ -119,6 +119,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Bordado"
@@ -249,6 +254,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -409,6 +419,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -581,6 +596,11 @@
                   "valor": "Hombre",
                   "icono": "♂️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Combinado"
@@ -684,6 +704,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -796,127 +821,12 @@
         },
         {
           "codigo": 5,
-          "nombre": "Chaleco",
-          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FChaleco.html",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
-          "producto": [
-            {
-              "codigo": 17,
-              "categoria": "Chaleco",
-              "nombre": "CHAL3346",
-              "carpeta_id": "165pXRY-TaRYQDMRtp_cjYb9JivlUhJ3i",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Argentina Campeón"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Sublimado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Microfibra con Guata"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "25-06-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CHAL3346%0A%F0%9F%94%B9%20Modelo%3A%20Argentina%20Campe%C3%B3n%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-17njG.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-17njG.jpg",
-                  "archivo_id": "17njG78RG_T35CvMlk-_ULHY6RzugTO2V",
-                  "portada": true,
-                  "orden": 1,
-                  "fecha_carga": "2026-06-26T02:13:04.473Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1KRT6.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1KRT6.jpg",
-                  "archivo_id": "1KRT6zOxrcYAqqHvlcOQOhgk-S42w_yda",
-                  "portada": false,
-                  "orden": 2,
-                  "fecha_carga": "2026-06-26T02:13:04.473Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1q2Q1.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1q2Q1.jpg",
-                  "archivo_id": "1q2Q1DZHS7HsN8oZ46zPBmQ81kELBc_yw",
-                  "portada": false,
-                  "orden": 3,
-                  "fecha_carga": "2026-06-26T02:13:04.473Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1bx_2.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3346%2FCHAL3346-1bx_2.jpg",
-                  "archivo_id": "1bx_2TM-aN_aIJM4Wy_UNmkemnxuU0qrC",
-                  "portada": false,
-                  "orden": 4,
-                  "fecha_carga": "2026-06-26T02:13:04.473Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 12000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 14400,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-06-25T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 6,
           "nombre": "Conjunto 2",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 19,
+              "codigo": 17,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -933,6 +843,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1159,13 +1074,13 @@
           ]
         },
         {
-          "codigo": 7,
+          "codigo": 6,
           "nombre": "Joggers",
           "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FJoggers.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 22,
+              "codigo": 20,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -1182,6 +1097,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1310,13 +1230,13 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 7,
           "nombre": "Jogging",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 25,
+              "codigo": 23,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
@@ -1333,6 +1253,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1600,13 +1525,13 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 9,
           "nombre": "Pantalon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 31,
+              "codigo": 29,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -1623,6 +1548,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1749,7 +1679,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 34,
+              "codigo": 32,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -1766,6 +1696,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2227,13 +2162,13 @@
           ]
         },
         {
-          "codigo": 11,
+          "codigo": 10,
           "nombre": "Sueter",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 37,
+              "codigo": 35,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -2250,6 +2185,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2392,7 +2332,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 40,
+              "codigo": 38,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -2409,6 +2349,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2586,6 +2531,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2989,6 +2939,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Liso"
@@ -3095,13 +3050,13 @@
           ]
         },
         {
-          "codigo": 9,
+          "codigo": 8,
           "nombre": "Medias",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 28,
+              "codigo": 26,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -3118,6 +3073,11 @@
                   "label": "Género",
                   "valor": "Hombre",
                   "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -3298,5 +3258,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782440310093
+  "timestamp_ms": 1782444837203
 }
