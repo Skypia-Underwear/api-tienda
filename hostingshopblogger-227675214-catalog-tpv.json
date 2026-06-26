@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:46:50.889Z",
+  "generated_at": "2026-06-26T04:01:52.722Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3879,35 +3879,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "7663",
-      "sku": "001",
-      "model": "",
-      "price": 0,
-      "display_price": 0,
-      "minor_surcharge": 0,
-      "category_id": "",
-      "categoryName": "",
-      "parentCategory": "",
-      "season": "SIN-TEMPORADA",
-      "gender": "",
-      "brand": "Skypia Underwear",
-      "style": "",
-      "material": "",
-      "image": "",
-      "carpeta_id": "1k9QU-_U3p7exw9pyDiAHNZhscaQAq7yW",
-      "woo_id": "",
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "Skypia Underwear",
-          "variation_id": "7663-Surtido-Surtido-Skypia Underwear"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "CHAL3702",
       "sku": "Chal001",
       "model": "Argentina Campeón",
@@ -4532,5 +4503,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782445715070
+  "timestamp_ms": 1782446655580
 }
