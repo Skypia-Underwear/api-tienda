@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T05:01:49.806Z",
+  "generated_at": "2026-06-26T05:16:49.096Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3893,7 +3893,7 @@
       "brand": "SM",
       "style": "Sublimado",
       "material": "Microfibra con Guata",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL1354%2FCHAL1354-1F-nQ.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL1354%2FCHAL1354-1gqgP.png",
       "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
       "woo_id": "",
       "varieties": [
@@ -4503,5 +4503,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782450229377
+  "timestamp_ms": 1782451091656
 }
