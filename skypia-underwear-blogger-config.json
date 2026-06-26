@@ -796,12 +796,106 @@
         },
         {
           "codigo": 5,
+          "nombre": "Chaleco",
+          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FChaleco.html",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
+          "producto": [
+            {
+              "codigo": 17,
+              "categoria": "Chaleco",
+              "nombre": "CHAL6784",
+              "carpeta_id": "1scIlo1rvg5lS5xRdBJjS7EIPKSsYW8kx",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Argentina Campeón"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "SM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Sublimado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Microfibra con Guata"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CHAL6784%0A%F0%9F%94%B9%20Modelo%3A%20Argentina%20Campe%C3%B3n%0A%F0%9F%94%B9%20Marca%3A%20SM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-25T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 6,
           "nombre": "Conjunto 2",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 17,
+              "codigo": 20,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -1044,13 +1138,13 @@
           ]
         },
         {
-          "codigo": 6,
+          "codigo": 7,
           "nombre": "Joggers",
           "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FJoggers.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 20,
+              "codigo": 23,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -1195,13 +1289,13 @@
           ]
         },
         {
-          "codigo": 7,
+          "codigo": 8,
           "nombre": "Jogging",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 23,
+              "codigo": 26,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
@@ -1485,13 +1579,13 @@
           ]
         },
         {
-          "codigo": 9,
+          "codigo": 10,
           "nombre": "Pantalon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 29,
+              "codigo": 32,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -1634,7 +1728,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 32,
+              "codigo": 35,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -2112,13 +2206,13 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 11,
           "nombre": "Sueter",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 35,
+              "codigo": 38,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -2277,7 +2371,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 38,
+              "codigo": 41,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -2980,13 +3074,13 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 9,
           "nombre": "Medias",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 26,
+              "codigo": 29,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -3183,5 +3277,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782419627168
+  "timestamp_ms": 1782438550277
 }
