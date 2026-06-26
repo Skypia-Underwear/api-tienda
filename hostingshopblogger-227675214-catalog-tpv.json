@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:31:48.842Z",
+  "generated_at": "2026-06-26T03:46:50.889Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3877,6 +3877,155 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "7663",
+      "sku": "001",
+      "model": "",
+      "price": 0,
+      "display_price": 0,
+      "minor_surcharge": 0,
+      "category_id": "",
+      "categoryName": "",
+      "parentCategory": "",
+      "season": "SIN-TEMPORADA",
+      "gender": "",
+      "brand": "Skypia Underwear",
+      "style": "",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1k9QU-_U3p7exw9pyDiAHNZhscaQAq7yW",
+      "woo_id": "",
+      "varieties": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "7663-Surtido-Surtido-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CHAL3702",
+      "sku": "Chal001",
+      "model": "Argentina Campeón",
+      "price": 8000,
+      "display_price": 12000,
+      "minor_surcharge": 0,
+      "category_id": "Chaleco",
+      "categoryName": "Chaleco",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SM",
+      "style": "Sublimado",
+      "material": "Microfibra con Guata",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL3702%2FCHAL3702-1L5Ie.jpg",
+      "carpeta_id": "1ITgdknxnFB6DzX9VuBeC9bCgRvsStM8s",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CHAL3702-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 12000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "CHAL3702-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 14400,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-14-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-12-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-10-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-8-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-6-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-4-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-14-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-12-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-10-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-8-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-6-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-4-Skypia Underwear"
+        },
+        {
+          "color": "Azul celeste",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL3702-Azul celeste-Surtido-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4219,6 +4368,20 @@
         "precio_unitario": 16200,
         "cantidad_minima": 1
       }
+    ],
+    "CHAL3702": [
+      {
+        "variedad_id": "CHAL3702-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 12000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "CHAL3702-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -4369,5 +4532,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782444823567
+  "timestamp_ms": 1782445715070
 }
