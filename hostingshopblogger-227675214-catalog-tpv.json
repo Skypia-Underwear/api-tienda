@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:31:52.413Z",
+  "generated_at": "2026-06-26T01:46:50.108Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3877,6 +3877,54 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CHAL6784",
+      "sku": "Chal001",
+      "model": "Argentina Campeón",
+      "price": 8000,
+      "display_price": 11200,
+      "minor_surcharge": 0,
+      "category_id": "Chaleco",
+      "categoryName": "Chaleco",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SM",
+      "style": "Sublimado",
+      "material": "Microfibra con Guata",
+      "image": "",
+      "carpeta_id": "1scIlo1rvg5lS5xRdBJjS7EIPKSsYW8kx",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "CHAL6784-Docena",
+          "nombre": "Docena",
+          "precio_unitario": 11200,
+          "cantidad_minima": 12
+        },
+        {
+          "variedad_id": "CHAL6784-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 12000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "CHAL6784-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 14400,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL6784-Surtido-Surtido-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4219,6 +4267,26 @@
         "precio_unitario": 16200,
         "cantidad_minima": 1
       }
+    ],
+    "CHAL6784": [
+      {
+        "variedad_id": "CHAL6784-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 11200,
+        "cantidad_minima": 12
+      },
+      {
+        "variedad_id": "CHAL6784-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "CHAL6784-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14400,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -4369,5 +4437,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782437633986
+  "timestamp_ms": 1782438549193
 }
