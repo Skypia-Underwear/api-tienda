@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:31:48.758Z",
+  "generated_at": "2026-06-27T04:46:51.820Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -394,26 +394,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4793%2FBOXE4793-1UnN2.png",
       "carpeta_id": "1A6VcDb2ZGSWoumeDwyKzBa7HWNB140AT",
       "woo_id": 39040,
-      "varieties": [
-        {
-          "variedad_id": "BOXE4793-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 3500,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "BOXE4793-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 4500,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BOXE4793-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -478,26 +458,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE4797%2FBOXE4797-1hiee.jpg",
       "carpeta_id": "1BM2SS2bnUQgsUsnlx8QEruw_C8fcCZ7H",
       "woo_id": 39025,
-      "varieties": [
-        {
-          "variedad_id": "BOXE4797-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 3500,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "BOXE4797-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 4500,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BOXE4797-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -568,26 +528,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBOXE5151%2FBOXE5151-1Haox.jpg",
       "carpeta_id": "1f1Eq6eVXpjmh7_FsoXqWmV13Ymaqiai3",
       "woo_id": 39206,
-      "varieties": [
-        {
-          "variedad_id": "BOXE5151-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 3640,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "BOXE5151-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 4680,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BOXE5151-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4420,
-          "cantidad_minima": 3
-        }
-      ],
       "variations": [
         {
           "color": "Azul marino",
@@ -850,26 +790,6 @@
       "image": "",
       "carpeta_id": "1zGudRnzM_JCz9ji9LhL121A9OtH7AcLU",
       "woo_id": 39435,
-      "varieties": [
-        {
-          "variedad_id": "BOXE7915-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 3500,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "BOXE7915-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 4500,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BOXE7915-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 4250,
-          "cantidad_minima": 3
-        }
-      ],
       "variations": [
         {
           "color": "Azul acero",
@@ -1144,20 +1064,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1rxp9.png",
       "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
       "woo_id": 39612,
-      "varieties": [
-        {
-          "variedad_id": "CAMP8564-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 21000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP8564-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Amarillo mostaza",
@@ -1330,26 +1236,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCONJ6330%2FCONJ6330-17pOc.webp",
       "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
       "woo_id": 39381,
-      "varieties": [
-        {
-          "variedad_id": "CONJ6330-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 67500,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "CONJ6330-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 63000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CONJ6330-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 70000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Negro",
@@ -1432,26 +1318,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG2883%2FJOGG2883-12LZe.jpg",
       "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "JOGG2883-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 15000,
-          "cantidad_minima": 3
-        },
-        {
-          "variedad_id": "JOGG2883-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 14000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "JOGG2883-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 18000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Gris",
@@ -1546,7 +1412,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG9403%2FJOGG9403-1B7Cm.jpg",
       "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
       "woo_id": "",
-      "varieties": [],
       "variations": [
         {
           "color": "Gris claro",
@@ -1641,26 +1506,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FMEDI4227%2FMEDI4227-1BJj3.jpg",
       "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
       "woo_id": 39210,
-      "varieties": [
-        {
-          "variedad_id": "MEDI4227-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 2800,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "MEDI4227-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 3600,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "MEDI4227-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 3400,
-          "cantidad_minima": 3
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1695,7 +1540,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=CASTFERSYSTEMV1-201513855&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5330%2FPANT5330-1uc_b.jpg",
       "carpeta_id": "1GmTwXEgeOjfJdI7sICCf7PnJe_Zle2r_",
       "woo_id": "",
-      "varieties": [],
       "variations": [
         {
           "color": "Azul marino",
@@ -1958,26 +1802,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7095%2FPANT7095-1Ws0w.jpg",
       "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
       "woo_id": 38995,
-      "varieties": [
-        {
-          "variedad_id": "PANT7095-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 12000,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "PANT7095-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 11200,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "PANT7095-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 14400,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Azul marino",
@@ -2252,20 +2076,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP2546%2FCAMP2546-1j5sf.png",
       "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
       "woo_id": 39579,
-      "varieties": [
-        {
-          "variedad_id": "CAMP2546-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 50400,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP2546-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 64800,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Amarillo mostaza",
@@ -2468,26 +2278,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET1224%2FSUET1224-1u8bf.webp",
       "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "SUET1224-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 33000,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "SUET1224-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 30800,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "SUET1224-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 39600,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2660,26 +2450,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSUET9180%2FSUET9180-14-lB.png",
       "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "SUET9180-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 37500,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "SUET9180-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 35000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "SUET9180-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 45000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2852,20 +2622,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP9305%2FCAMP9305-1TrhC.png",
       "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "CAMP9305-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 53200,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP9305-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 68400,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3140,20 +2896,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP5784%2FCAMP5784-1q-Vb.png",
       "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "CAMP5784-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 70000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMP5784-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 90000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3212,20 +2954,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1m9Gi.png",
       "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "CALZ3504-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 11200,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CALZ3504-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 14400,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3320,26 +3048,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4725%2FPANT4725-1GtxX.webp",
       "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4725-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 12000,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "PANT4725-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 11200,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "PANT4725-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 14400,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3572,26 +3280,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1ayhQ.webp",
       "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "JOGG7126-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 22500,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "JOGG7126-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 21000,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "JOGG7126-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3758,26 +3446,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
       "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "CAMI9176-Docena",
-          "nombre": "Docena",
-          "precio_unitario": 12600,
-          "cantidad_minima": 12
-        },
-        {
-          "variedad_id": "CAMI9176-Pack x3",
-          "nombre": "Pack x3",
-          "precio_unitario": 15300,
-          "cantidad_minima": 3
-        },
-        {
-          "variedad_id": "CAMI9176-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 16200,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3896,20 +3564,6 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCHAL1354%2FCHAL1354-1gqgP.png",
       "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "CHAL1354-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 12000,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "CHAL1354-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 14400,
-          "cantidad_minima": 1
-        }
-      ],
       "variations": [
         {
           "color": "Surtido",
@@ -4070,24 +3724,96 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
+    "BOXE4793": [
+      {
+        "variedad_id": "BOXE4793-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE4793-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE4793-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3,
+        "visible": false
+      }
+    ],
+    "BOXE4797": [
+      {
+        "variedad_id": "BOXE4797-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE4797-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE4797-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3,
+        "visible": false
+      }
+    ],
     "BOXE5151": [
       {
         "variedad_id": "BOXE5151-Docena",
         "nombre": "Docena",
         "precio_unitario": 3640,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "BOXE5151-Menor",
         "nombre": "Menor",
         "precio_unitario": 4680,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       },
       {
         "variedad_id": "BOXE5151-Pack x3",
         "nombre": "Pack x3",
         "precio_unitario": 4420,
-        "cantidad_minima": 3
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "BOXE7915": [
+      {
+        "variedad_id": "BOXE7915-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE7915-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "variedad_id": "BOXE7915-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3,
+        "visible": false
       }
     ],
     "CALZ3504": [
@@ -4095,13 +3821,15 @@
         "variedad_id": "CALZ3504-Docena",
         "nombre": "Docena",
         "precio_unitario": 11200,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CALZ3504-Menor",
         "nombre": "Menor",
         "precio_unitario": 14400,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CAMP2546": [
@@ -4109,13 +3837,15 @@
         "variedad_id": "CAMP2546-Docena",
         "nombre": "Docena",
         "precio_unitario": 50400,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CAMP2546-Menor",
         "nombre": "Menor",
         "precio_unitario": 64800,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CAMP5784": [
@@ -4123,13 +3853,15 @@
         "variedad_id": "CAMP5784-Docena",
         "nombre": "Docena",
         "precio_unitario": 70000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CAMP5784-Menor",
         "nombre": "Menor",
         "precio_unitario": 90000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CAMP8564": [
@@ -4137,13 +3869,15 @@
         "variedad_id": "CAMP8564-Docena",
         "nombre": "Docena",
         "precio_unitario": 21000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CAMP8564-Menor",
         "nombre": "Menor",
         "precio_unitario": 27000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CAMP9305": [
@@ -4151,13 +3885,15 @@
         "variedad_id": "CAMP9305-Docena",
         "nombre": "Docena",
         "precio_unitario": 53200,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CAMP9305-Menor",
         "nombre": "Menor",
         "precio_unitario": 68400,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CONJ6330": [
@@ -4165,19 +3901,22 @@
         "variedad_id": "CONJ6330-Curva",
         "nombre": "Curva",
         "precio_unitario": 67500,
-        "cantidad_minima": 4
+        "cantidad_minima": 4,
+        "visible": true
       },
       {
         "variedad_id": "CONJ6330-Docena",
         "nombre": "Docena",
         "precio_unitario": 63000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CONJ6330-Menor",
         "nombre": "Menor",
         "precio_unitario": 70000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "JOGG2883": [
@@ -4185,19 +3924,22 @@
         "variedad_id": "JOGG2883-Curva",
         "nombre": "Curva",
         "precio_unitario": 15000,
-        "cantidad_minima": 3
+        "cantidad_minima": 3,
+        "visible": true
       },
       {
         "variedad_id": "JOGG2883-Docena",
         "nombre": "Docena",
         "precio_unitario": 14000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "JOGG2883-Menor",
         "nombre": "Menor",
         "precio_unitario": 18000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "JOGG7126": [
@@ -4205,19 +3947,22 @@
         "variedad_id": "JOGG7126-Curva",
         "nombre": "Curva",
         "precio_unitario": 22500,
-        "cantidad_minima": 5
+        "cantidad_minima": 5,
+        "visible": true
       },
       {
         "variedad_id": "JOGG7126-Docena",
         "nombre": "Docena",
         "precio_unitario": 21000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "JOGG7126-Menor",
         "nombre": "Menor",
         "precio_unitario": 27000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "MEDI4227": [
@@ -4225,19 +3970,22 @@
         "variedad_id": "MEDI4227-Docena",
         "nombre": "Docena",
         "precio_unitario": 2800,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "MEDI4227-Menor",
         "nombre": "Menor",
         "precio_unitario": 3600,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       },
       {
         "variedad_id": "MEDI4227-Pack x3",
         "nombre": "Pack x3",
         "precio_unitario": 3400,
-        "cantidad_minima": 3
+        "cantidad_minima": 3,
+        "visible": true
       }
     ],
     "PANT4725": [
@@ -4245,19 +3993,22 @@
         "variedad_id": "PANT4725-Curva",
         "nombre": "Curva",
         "precio_unitario": 12000,
-        "cantidad_minima": 4
+        "cantidad_minima": 4,
+        "visible": true
       },
       {
         "variedad_id": "PANT4725-Docena",
         "nombre": "Docena",
         "precio_unitario": 11200,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "PANT4725-Menor",
         "nombre": "Menor",
         "precio_unitario": 14400,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "PANT7095": [
@@ -4265,19 +4016,22 @@
         "variedad_id": "PANT7095-Curva",
         "nombre": "Curva",
         "precio_unitario": 12000,
-        "cantidad_minima": 5
+        "cantidad_minima": 5,
+        "visible": true
       },
       {
         "variedad_id": "PANT7095-Docena",
         "nombre": "Docena",
         "precio_unitario": 11200,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "PANT7095-Menor",
         "nombre": "Menor",
         "precio_unitario": 14400,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "SUET1224": [
@@ -4285,19 +4039,22 @@
         "variedad_id": "SUET1224-Curva",
         "nombre": "Curva",
         "precio_unitario": 33000,
-        "cantidad_minima": 4
+        "cantidad_minima": 4,
+        "visible": true
       },
       {
         "variedad_id": "SUET1224-Docena",
         "nombre": "Docena",
         "precio_unitario": 30800,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "SUET1224-Menor",
         "nombre": "Menor",
         "precio_unitario": 39600,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "SUET9180": [
@@ -4305,19 +4062,22 @@
         "variedad_id": "SUET9180-Curva",
         "nombre": "Curva",
         "precio_unitario": 37500,
-        "cantidad_minima": 4
+        "cantidad_minima": 4,
+        "visible": true
       },
       {
         "variedad_id": "SUET9180-Docena",
         "nombre": "Docena",
         "precio_unitario": 35000,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "SUET9180-Menor",
         "nombre": "Menor",
         "precio_unitario": 45000,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CAMI9176": [
@@ -4325,19 +4085,22 @@
         "variedad_id": "CAMI9176-Docena",
         "nombre": "Docena",
         "precio_unitario": 12600,
-        "cantidad_minima": 12
+        "cantidad_minima": 12,
+        "visible": true
       },
       {
         "variedad_id": "CAMI9176-Pack x3",
         "nombre": "Pack x3",
         "precio_unitario": 15300,
-        "cantidad_minima": 3
+        "cantidad_minima": 3,
+        "visible": true
       },
       {
         "variedad_id": "CAMI9176-Menor",
         "nombre": "Menor",
         "precio_unitario": 16200,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ],
     "CHAL1354": [
@@ -4345,13 +4108,15 @@
         "variedad_id": "CHAL1354-Curva",
         "nombre": "Curva",
         "precio_unitario": 12000,
-        "cantidad_minima": 6
+        "cantidad_minima": 6,
+        "visible": true
       },
       {
         "variedad_id": "CHAL1354-Menor",
         "nombre": "Menor",
         "precio_unitario": 14400,
-        "cantidad_minima": 1
+        "cantidad_minima": 1,
+        "visible": true
       }
     ]
   },
@@ -4503,5 +4268,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782534815106
+  "timestamp_ms": 1782535732340
 }
