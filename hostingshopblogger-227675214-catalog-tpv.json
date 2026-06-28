@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:13:55.156Z",
+  "generated_at": "2026-06-28T18:28:54.048Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3911,6 +3911,316 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "REME4798",
+      "sku": "581",
+      "model": "Basica Algodon T.Especial",
+      "price": 14000,
+      "display_price": 19600,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Algodon Premium",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-16lym.jpg",
+      "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Surtido-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Negro-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Blanco-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Rojo-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Verde-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Azul-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris-6XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "5XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-5XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "6XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "REME4798-Gris claro-6XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4424,6 +4734,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME4798": [
+      {
+        "variedad_id": "REME4798-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 19600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4798-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME4798-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25200,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4574,5 +4907,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782670533366
+  "timestamp_ms": 1782671415281
 }
