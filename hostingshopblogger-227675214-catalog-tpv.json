@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:16:48.702Z",
+  "generated_at": "2026-06-28T17:31:48.789Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1516,8 +1516,8 @@
         {
           "color": "Surtido",
           "size": "T Unico 38",
-          "store_id": "42-Skypia Underwear",
-          "variation_id": "MEDI4227-Surtido-T Unico 38-42-Skypia Underwear"
+          "store_id": "Skypia Underwear",
+          "variation_id": "MEDI4227-Surtido-T Unico 38-Skypia Underwear"
         }
       ],
       "fecha_creacion": ""
@@ -4433,5 +4433,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782667107795
+  "timestamp_ms": 1782668022606
 }
