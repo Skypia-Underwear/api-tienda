@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:46:49.449Z",
+  "generated_at": "2026-06-28T16:01:48.934Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -2951,7 +2951,7 @@
       "brand": "GELUFEI",
       "style": "Bordado",
       "material": "Piel de Durazno",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1m9Gi.png",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1KJae.png",
       "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
       "woo_id": "",
       "variations": [
@@ -3667,7 +3667,7 @@
       "brand": "QLING",
       "style": "Liso",
       "material": "Fibra de Lana",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1JzGd.jpg",
       "carpeta_id": "1Q5b7wPHt69aVJZ1fEurBypqmZZcR786V",
       "woo_id": "",
       "variations": [
@@ -4433,5 +4433,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782661724251
+  "timestamp_ms": 1782662607414
 }
