@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:46:52.198Z",
+  "generated_at": "2026-06-28T18:01:48.659Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3793,6 +3793,124 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5738",
+      "sku": "539",
+      "model": "Cargo Tactico BLACK Termico Neoprene",
+      "price": 26000,
+      "display_price": 36400,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "Neoprene",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-11LD4.png",
+      "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-46-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-48-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-50-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "52",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Surtido-52-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-40-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-42-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-44-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-46-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-48-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-50-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "52",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT5738-Negro-52-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4283,6 +4401,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT5738": [
+      {
+        "variedad_id": "PANT5738-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 36400,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5738-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 39000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5738-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 46800,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4433,5 +4574,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782668905207
+  "timestamp_ms": 1782669828540
 }
