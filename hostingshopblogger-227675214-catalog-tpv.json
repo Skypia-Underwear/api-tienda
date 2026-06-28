@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:31:51.620Z",
+  "generated_at": "2026-06-28T15:46:49.449Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3443,7 +3443,7 @@
       "brand": "QLING",
       "style": "Liso",
       "material": "Poliester",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1_9dx.jpg",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI9176%2FCAMI9176-1ye_m.jpg",
       "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
       "woo_id": "",
       "variations": [
@@ -3648,6 +3648,148 @@
           "size": "14",
           "store_id": "Skypia Underwear",
           "variation_id": "CHAL1354-Celeste-14-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI1911",
+      "sku": "Cami002",
+      "model": "Termico",
+      "price": 9000,
+      "display_price": 12600,
+      "minor_surcharge": 0,
+      "category_id": "Camiseta",
+      "categoryName": "Camiseta",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "QLING",
+      "style": "Liso",
+      "material": "Fibra de Lana",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
+      "carpeta_id": "1Q5b7wPHt69aVJZ1fEurBypqmZZcR786V",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Gris-S-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Gris-M-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Gris-L-Skypia Underwear"
+        },
+        {
+          "color": "Rosa",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Rosa-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Rosa",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Rosa-S-Skypia Underwear"
+        },
+        {
+          "color": "Rosa",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Rosa-M-Skypia Underwear"
+        },
+        {
+          "color": "Rosa",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Rosa-L-Skypia Underwear"
+        },
+        {
+          "color": "Turquesa",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Turquesa-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Turquesa",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Turquesa-S-Skypia Underwear"
+        },
+        {
+          "color": "Turquesa",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Turquesa-M-Skypia Underwear"
+        },
+        {
+          "color": "Turquesa",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI1911-Turquesa-L-Skypia Underwear"
         }
       ],
       "fecha_creacion": ""
@@ -4118,6 +4260,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMI1911": [
+      {
+        "variedad_id": "CAMI1911-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 12600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMI1911-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 15300,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMI1911-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 16200,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4268,5 +4433,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1782660852682
+  "timestamp_ms": 1782661724251
 }
