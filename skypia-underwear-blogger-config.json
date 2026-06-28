@@ -2523,20 +2523,28 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-16lym.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-16lym.jpg",
-                  "archivo_id": "16lymNNBVaq6m9dv94n0-uKg1EL8nVvhd",
-                  "portada": true,
-                  "orden": 1,
-                  "fecha_carga": "2026-06-28T18:18:42.644Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-1mFkU.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-1mFkU.jpg",
                   "archivo_id": "1mFkU_P2F3a9t8pFLgp5nO0r6LNuA9nj4",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-06-28T18:18:42.644Z"
+                  "fecha_carga": "2026-06-28T18:40:36.197Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-1W2BL.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-1W2BL.png",
+                  "archivo_id": "1W2BLmkIXozkXUZeJoYUOkwX4U40v58Va",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-06-28T18:40:36.197Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-16mHm.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FREME4798%2FREME4798-16mHm.png",
+                  "archivo_id": "16mHmpaSsOCvhKJNRBmQJKdVFKReqRqHS",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-28T18:40:36.197Z"
                 }
               ],
               "variedad": [
@@ -3894,5 +3902,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782671467290
+  "timestamp_ms": 1782672339721
 }
