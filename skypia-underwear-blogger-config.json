@@ -165,7 +165,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1GOry.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1GOry.png",
                   "archivo_id": "1GOry0c1qQlvOkh-O_apu0W7qJZ1M69v6",
-                  "portada": true,
+                  "portada": false,
                   "orden": 1,
                   "fecha_carga": "2026-06-11T23:56:01.905Z"
                 },
@@ -173,7 +173,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1KJae.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCALZ3504%2FCALZ3504-1KJae.png",
                   "archivo_id": "1KJae5c9eaYzPxRw6bkBTgm6lilz8dWJc",
-                  "portada": false,
+                  "portada": true,
                   "orden": 2,
                   "fecha_carga": "2026-06-11T23:56:01.905Z"
                 },
@@ -3090,16 +3090,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "144",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3108,7 +3115,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI1911%0A%F0%9F%94%B9%20Modelo%3A%20Termico%0A%F0%9F%94%B9%20Marca%3A%20QLING%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI1911%0A%F0%9F%94%B9%20Modelo%3A%20Termico%0A%F0%9F%94%B9%20Marca%3A%20QLING%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3116,9 +3123,9 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1ZN0-.jpg",
                   "archivo_id": "1ZN0-6ek1o52T7GftlO79PHl3Wc9EDrTI",
-                  "portada": true,
+                  "portada": false,
                   "orden": 1,
-                  "fecha_carga": "2026-06-28T15:46:40.914Z"
+                  "fecha_carga": "2026-06-28T15:49:05.972Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1SCT9.jpg",
@@ -3126,15 +3133,15 @@
                   "archivo_id": "1SCT9t9uNrQC_aCSvw19_ddLEyprTc51F",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-06-28T15:46:40.914Z"
+                  "fecha_carga": "2026-06-28T15:49:05.972Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1JzGd.jpg",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1JzGd.jpg",
                   "archivo_id": "1JzGd4fGqCAwyKt3RAarlDhVuo-1CYUFx",
-                  "portada": false,
+                  "portada": true,
                   "orden": 3,
-                  "fecha_carga": "2026-06-28T15:46:40.914Z"
+                  "fecha_carga": "2026-06-28T15:49:05.972Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1PcIB.jpg",
@@ -3142,7 +3149,7 @@
                   "archivo_id": "1PcIB1-GLI8WREf9BNHKaNlyWW7j6PRO_",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-06-28T15:46:40.914Z"
+                  "fecha_carga": "2026-06-28T15:49:05.972Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1Yuk5.jpg",
@@ -3150,7 +3157,7 @@
                   "archivo_id": "1Yuk5IlbkMZNJ5jdEeBCAKZSv9lB5od3-",
                   "portada": false,
                   "orden": 5,
-                  "fecha_carga": "2026-06-28T15:46:40.914Z"
+                  "fecha_carga": "2026-06-28T15:49:05.972Z"
                 }
               ],
               "variedad": [
@@ -3159,21 +3166,51 @@
                   "precio": 12600,
                   "variedad": "Docena",
                   "minima": 12,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 15300,
                   "variedad": "Pack x3",
                   "minima": 3,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 16200,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-06-28T03:00:00.000Z"
@@ -3553,5 +3590,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782661736323
+  "timestamp_ms": 1782662601485
 }
