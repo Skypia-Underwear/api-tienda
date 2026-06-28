@@ -1812,6 +1812,162 @@
             {
               "codigo": 37,
               "categoria": "Pantalon",
+              "nombre": "PANT5738",
+              "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo Tactico BLACK Termico Neoprene"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens , Adulto",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "28-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5738%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20Tactico%20BLACK%20Termico%20Neoprene%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-11LD4.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-11LD4.png",
+                  "archivo_id": "11LD4qABUt0FLOcaZ68oXnSw_hT4YNt2o",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-06-28T17:59:31.201Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1JMPL.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1JMPL.png",
+                  "archivo_id": "1JMPLUku5uA0mMx26uALPOwzef5zxI82F",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-28T17:59:31.201Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1Ne0G.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1Ne0G.png",
+                  "archivo_id": "1Ne0G7VHJ9W8Ds3mI96unXm9941xmV5kc",
+                  "portada": false,
+                  "orden": 3,
+                  "fecha_carga": "2026-06-28T17:59:31.201Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1aulB.jpeg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1aulB.jpeg",
+                  "archivo_id": "1aulBMtFdDL2nsHu-zSGiHYuTq-8RTuN9",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-28T17:59:31.201Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 36400,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 39000,
+                  "variedad": "Curva",
+                  "minima": 7,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 46800,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-06-28T03:00:00.000Z"
+            },
+            {
+              "codigo": 40,
+              "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
               "descripcion": {
@@ -2299,7 +2455,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 40,
+              "codigo": 43,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -2463,7 +2619,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 46,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -3590,5 +3746,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782666242331
+  "timestamp_ms": 1782669807298
 }
