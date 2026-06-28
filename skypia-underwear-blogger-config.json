@@ -3125,7 +3125,7 @@
                   "archivo_id": "1ZN0-6ek1o52T7GftlO79PHl3Wc9EDrTI",
                   "portada": false,
                   "orden": 1,
-                  "fecha_carga": "2026-06-28T15:49:05.972Z"
+                  "fecha_carga": "2026-06-28T16:32:47.981Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1SCT9.jpg",
@@ -3133,7 +3133,7 @@
                   "archivo_id": "1SCT9t9uNrQC_aCSvw19_ddLEyprTc51F",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-06-28T15:49:05.972Z"
+                  "fecha_carga": "2026-06-28T16:32:47.981Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1JzGd.jpg",
@@ -3141,7 +3141,7 @@
                   "archivo_id": "1JzGd4fGqCAwyKt3RAarlDhVuo-1CYUFx",
                   "portada": true,
                   "orden": 3,
-                  "fecha_carga": "2026-06-28T15:49:05.972Z"
+                  "fecha_carga": "2026-06-28T16:32:47.981Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1PcIB.jpg",
@@ -3149,7 +3149,7 @@
                   "archivo_id": "1PcIB1-GLI8WREf9BNHKaNlyWW7j6PRO_",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-06-28T15:49:05.972Z"
+                  "fecha_carga": "2026-06-28T16:32:47.981Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMI1911%2FCAMI1911-1Yuk5.jpg",
@@ -3157,7 +3157,7 @@
                   "archivo_id": "1Yuk5IlbkMZNJ5jdEeBCAKZSv9lB5od3-",
                   "portada": false,
                   "orden": 5,
-                  "fecha_carga": "2026-06-28T15:49:05.972Z"
+                  "fecha_carga": "2026-06-28T16:32:47.981Z"
                 }
               ],
               "variedad": [
@@ -3590,5 +3590,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782662601485
+  "timestamp_ms": 1782665359524
 }
