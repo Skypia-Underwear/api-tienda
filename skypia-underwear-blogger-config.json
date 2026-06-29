@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "22:00:00"
     },
-    "compra_minima": 3,
+    "compra_minima": "3",
     "redes_sociales": {
       "facebook": "https://www.facebook.com/RicaldiSimo",
       "instagram": "https://www.instagram.com/hostingsh0p/",
@@ -879,7 +879,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "144",
+                  "valor": "143",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -922,7 +922,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "144"
+                          "stock": "143"
                         }
                       ]
                     }
@@ -939,7 +939,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "144"
+                          "stock": "143"
                         }
                       ]
                     }
@@ -1431,7 +1431,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "472",
+                  "valor": "441",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1573,7 +1573,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "97"
+                          "stock": "78"
                         }
                       ]
                     }
@@ -1590,15 +1590,15 @@
                       "talles": [
                         {
                           "talle": 40,
-                          "stock": "48"
+                          "stock": "46"
                         },
                         {
                           "talle": 44,
-                          "stock": "48"
+                          "stock": "46"
                         },
                         {
                           "talle": 48,
-                          "stock": "48"
+                          "stock": "46"
                         },
                         {
                           "talle": "Surtido",
@@ -1611,15 +1611,15 @@
                       "talles": [
                         {
                           "talle": 40,
-                          "stock": "36"
+                          "stock": "21"
                         },
                         {
                           "talle": 44,
-                          "stock": "47"
+                          "stock": "45"
                         },
                         {
                           "talle": 48,
-                          "stock": "12"
+                          "stock": "10"
                         },
                         {
                           "talle": "Surtido",
@@ -1632,15 +1632,15 @@
                       "talles": [
                         {
                           "talle": 40,
-                          "stock": "48"
+                          "stock": "46"
                         },
                         {
                           "talle": 44,
-                          "stock": "48"
+                          "stock": "46"
                         },
                         {
                           "talle": 48,
-                          "stock": "47"
+                          "stock": "45"
                         },
                         {
                           "talle": "Surtido",
@@ -2048,7 +2048,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2099",
+                  "valor": "2087",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2200,7 +2200,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "49"
+                          "stock": "37"
                         }
                       ]
                     },
@@ -2226,7 +2226,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "299"
+                          "stock": "287"
                         }
                       ]
                     }
@@ -2404,7 +2404,7 @@
                         },
                         {
                           "talle": "Surtido",
-                          "stock": "49"
+                          "stock": "37"
                         },
                         {
                           "talle": "XL",
@@ -3033,7 +3033,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1799",
+                  "valor": "1787",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3108,7 +3108,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "204"
+                          "stock": "192"
                         }
                       ]
                     }
@@ -3293,7 +3293,7 @@
                         },
                         {
                           "talle": "Surtido",
-                          "stock": "48"
+                          "stock": "36"
                         },
                         {
                           "talle": "XL",
@@ -3338,7 +3338,7 @@
                         },
                         {
                           "talle": "Surtido",
-                          "stock": "48"
+                          "stock": "36"
                         },
                         {
                           "talle": "XL",
@@ -3581,7 +3581,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "118",
+                  "valor": "106",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3648,7 +3648,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "118"
+                          "stock": "106"
                         }
                       ]
                     }
@@ -3665,7 +3665,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "118"
+                          "stock": "106"
                         }
                       ]
                     }
@@ -3682,7 +3682,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "118"
+                          "stock": "106"
                         }
                       ]
                     }
@@ -3753,7 +3753,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "397",
+                  "valor": "384",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3820,7 +3820,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "397"
+                          "stock": "384"
                         }
                       ]
                     }
@@ -3837,7 +3837,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "397"
+                          "stock": "384"
                         }
                       ]
                     }
@@ -3854,7 +3854,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "397"
+                          "stock": "384"
                         }
                       ]
                     }
@@ -3902,5 +3902,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782701157994
+  "timestamp_ms": 1782702063944
 }
