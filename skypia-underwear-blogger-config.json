@@ -684,14 +684,6 @@
                   "fecha_carga": "2026-06-30T01:13:28.843Z"
                 },
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1m9PF.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1m9PF.png",
-                  "archivo_id": "1m9PFyQ78fzvItZ2sqhFcHHy5FPx5bc1x",
-                  "portada": false,
-                  "orden": 12,
-                  "fecha_carga": "2026-06-30T01:13:28.843Z"
-                },
-                {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1pywc.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FCAMP8564%2FCAMP8564-1pywc.png",
                   "archivo_id": "1pywcFfOwkkGN_YrW4HHoVc2ylrce8Vnu",
@@ -3942,5 +3934,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782782150635
+  "timestamp_ms": 1782783083031
 }
