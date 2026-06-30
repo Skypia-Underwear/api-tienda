@@ -1868,6 +1868,14 @@
                   "portada": false,
                   "orden": 4,
                   "fecha_carga": "2026-06-28T17:59:31.201Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1gXd7.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5738%2FPANT5738-1gXd7.png",
+                  "archivo_id": "1gXd7J9RwoDw_FKQHBCHmGUHaMCzsqe30",
+                  "portada": false,
+                  "orden": 5,
+                  "fecha_carga": "2026-06-30T03:11:43.704Z"
                 }
               ],
               "variedad": [
@@ -3862,5 +3870,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782788444009
+  "timestamp_ms": 1782789334194
 }
