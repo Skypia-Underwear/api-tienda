@@ -1299,7 +1299,7 @@
                 "video": {
                   "label": "Video",
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1tn1W.mp4",
-                  "thumbnail": ""
+                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1tn1W_thumb.jpg&v=16oMYOeLwuv_DNk9Z1C3wbmPPwp9739K2"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1347,6 +1347,14 @@
                   "portada": false,
                   "orden": 9,
                   "fecha_carga": "2026-06-14T18:12:56.001Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1XN1h.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1XN1h.png",
+                  "archivo_id": "1XN1hvugIY3G1XRSZ3uc7qEWZMnZwbFi5",
+                  "portada": false,
+                  "orden": 14,
+                  "fecha_carga": "2026-06-30T06:35:12.529Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FJOGG7126%2FJOGG7126-1hwD1.png",
@@ -3870,5 +3878,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782790258737
+  "timestamp_ms": 1782801941540
 }
