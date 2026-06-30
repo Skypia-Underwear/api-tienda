@@ -1402,7 +1402,7 @@
               "codigo": 28,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
-              "carpeta_id": "16dStkw4OTXX-f0v2dgvNFG30LXA0e87A",
+              "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -3939,5 +3939,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782784814629
+  "timestamp_ms": 1782785039577
 }
