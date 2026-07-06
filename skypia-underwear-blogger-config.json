@@ -475,7 +475,7 @@
                   "archivo_id": "1d6c-Gez97mBM1alGYriT7_fOzZUyuezw",
                   "portada": true,
                   "orden": 1,
-                  "fecha_carga": "2026-07-06T08:13:33.573Z"
+                  "fecha_carga": "2026-07-06T17:14:43.154Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8&sz=s1600-rw",
@@ -483,7 +483,7 @@
                   "archivo_id": "1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-07-06T08:13:33.573Z"
+                  "fecha_carga": "2026-07-06T17:14:43.154Z"
                 }
               ],
               "variedad": [
@@ -4073,5 +4073,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783358134781
+  "timestamp_ms": 1783359035009
 }
