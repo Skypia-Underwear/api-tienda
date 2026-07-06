@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "22:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://www.facebook.com/RicaldiSimo",
       "instagram": "https://www.instagram.com/hostingsh0p/",
@@ -404,6 +404,129 @@
             {
               "codigo": 14,
               "categoria": "Campera",
+              "nombre": "CAMP5671",
+              "carpeta_id": "1gc2wDVDGDyEeeAYEercM0Be8Pl4qmSc3",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Neoprene termica Talles Especiales"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprene"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "06-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP5671%0A%F0%9F%94%B9%20Modelo%3A%20Neoprene%20termica%20Talles%20Especiales%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1d6c-Gez97mBM1alGYriT7_fOzZUyuezw&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1d6c-Gez97mBM1alGYriT7_fOzZUyuezw&sz=s600-rw",
+                  "archivo_id": "1d6c-Gez97mBM1alGYriT7_fOzZUyuezw",
+                  "portada": true,
+                  "orden": 1,
+                  "fecha_carga": "2026-07-06T08:13:33.573Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8&sz=s600-rw",
+                  "archivo_id": "1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8",
+                  "portada": false,
+                  "orden": 2,
+                  "fecha_carga": "2026-07-06T08:13:33.573Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 53200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 68400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-07-06T03:00:00.000Z"
+            },
+            {
+              "codigo": 16,
+              "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
               "descripcion": {
@@ -578,7 +701,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 16,
+              "codigo": 18,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -711,7 +834,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 18,
+              "codigo": 20,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -850,7 +973,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 20,
+              "codigo": 22,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -989,7 +1112,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 22,
+              "codigo": 24,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -1243,7 +1366,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 25,
+              "codigo": 27,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -1407,7 +1530,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 28,
+              "codigo": 30,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -1670,7 +1793,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 34,
+              "codigo": 36,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -1818,7 +1941,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 37,
+              "codigo": 39,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -1982,7 +2105,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 40,
+              "codigo": 42,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -2471,7 +2594,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 43,
+              "codigo": 45,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -2627,7 +2750,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 48,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -2791,7 +2914,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 51,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -3748,7 +3871,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 31,
+              "codigo": 33,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -3949,6 +4072,6 @@
     "cbu": "93242292312",
     "banco": "Mercado Pago"
   },
-  "aplicar_marca_agua": true,
-  "timestamp_ms": 1783288836573
+  "aplicar_marca_agua": false,
+  "timestamp_ms": 1783329333163
 }
