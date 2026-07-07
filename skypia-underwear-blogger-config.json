@@ -97,7 +97,6 @@
         {
           "codigo": 2,
           "nombre": "Calza",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
           "producto": [
             {
@@ -233,7 +232,6 @@
         {
           "codigo": 4,
           "nombre": "Campera",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
@@ -969,7 +967,6 @@
         {
           "codigo": 5,
           "nombre": "Chaleco",
-          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FChaleco.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
@@ -1108,7 +1105,6 @@
         {
           "codigo": 6,
           "nombre": "Conjunto 2",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
@@ -1330,7 +1326,6 @@
         {
           "codigo": 7,
           "nombre": "Joggers",
-          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FCASTFERSYSTEMV1-201513855%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FINDUMENTARIA%252FJoggers.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
@@ -1494,7 +1489,6 @@
         {
           "codigo": 8,
           "nombre": "Jogging",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
@@ -1757,7 +1751,6 @@
         {
           "codigo": 10,
           "nombre": "Pantalon",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
@@ -2558,7 +2551,6 @@
         {
           "codigo": 11,
           "nombre": "Remera",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
@@ -2714,7 +2706,6 @@
         {
           "codigo": 12,
           "nombre": "Sueter",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
@@ -3060,7 +3051,6 @@
         {
           "codigo": 1,
           "nombre": "Boxer",
-          "url_categoria": "https://wa.me/?text=Mir%C3%A1%20mi%20cat%C3%A1logo%3A%20https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26tableName%3DBD_CATEGORIAS%26fileName%3Dappsheet%252Fdata%252FHOSTINGSHOPBLOGGER-227675214%252FDOCUMENTOS-PDF%252FCATALOGO-AGRUPADO%252FROPA-INTERIOR%252FBoxer.html",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boxer.svg",
           "producto": [
             {
@@ -3499,7 +3489,6 @@
         {
           "codigo": 3,
           "nombre": "Camiseta",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg",
           "producto": [
             {
@@ -3835,7 +3824,6 @@
         {
           "codigo": 9,
           "nombre": "Medias",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
@@ -4041,5 +4029,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783453548067
+  "timestamp_ms": 1783460810401
 }
