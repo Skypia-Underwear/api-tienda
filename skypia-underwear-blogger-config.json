@@ -2155,7 +2155,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "2081",
+                  "valor": "2075",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2262,7 +2262,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "49"
+                          "stock": "48"
                         }
                       ]
                     },
@@ -2350,27 +2350,27 @@
                       "talles": [
                         {
                           "talle": "2XL",
-                          "stock": "49"
+                          "stock": "48"
                         },
                         {
                           "talle": "L",
-                          "stock": "49"
+                          "stock": "48"
                         },
                         {
                           "talle": "M",
-                          "stock": "49"
+                          "stock": "48"
                         },
                         {
                           "talle": "S",
-                          "stock": "49"
+                          "stock": "48"
                         },
                         {
                           "talle": "Surtido",
-                          "stock": "49"
+                          "stock": "48"
                         },
                         {
                           "talle": "XL",
-                          "stock": "49"
+                          "stock": "48"
                         }
                       ]
                     },
@@ -4041,5 +4041,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783440972917
+  "timestamp_ms": 1783452653611
 }
