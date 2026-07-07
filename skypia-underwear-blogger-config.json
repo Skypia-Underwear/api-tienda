@@ -1562,7 +1562,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "410",
+                  "valor": "409",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1672,7 +1672,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "59"
+                          "stock": "58"
                         }
                       ]
                     }
@@ -1710,7 +1710,7 @@
                       "talles": [
                         {
                           "talle": 40,
-                          "stock": "18"
+                          "stock": "17"
                         },
                         {
                           "talle": 44,
@@ -4041,5 +4041,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783419346902
+  "timestamp_ms": 1783440060425
 }
