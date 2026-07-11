@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T20:13:54.035Z",
+  "generated_at": "2026-07-11T20:28:53.761Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -2071,7 +2071,7 @@
       "season": "SIN-TEMPORADA",
       "gender": "Hombre",
       "brand": "URUS",
-      "style": "",
+      "style": "Liso",
       "material": "CIRE",
       "image": "https://drive.google.com/thumbnail?id=1j5sfGbv8EJSwfQXK7zNasPelxgUON7vl&sz=s600-rw",
       "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -5125,5 +5125,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783800932820
+  "timestamp_ms": 1783801817409
 }
