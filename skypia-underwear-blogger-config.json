@@ -260,7 +260,7 @@
                 },
                 "estilo": {
                   "label": "Estilo",
-                  "valor": "-"
+                  "valor": "Liso"
                 },
                 "material": {
                   "label": "Material",
@@ -4037,5 +4037,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783792853742
+  "timestamp_ms": 1783801864306
 }
