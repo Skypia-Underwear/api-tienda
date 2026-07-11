@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T02:58:54.903Z",
+  "generated_at": "2026-07-11T09:13:54.463Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -2951,7 +2951,7 @@
       "brand": "GELUFEI",
       "style": "Bordado",
       "material": "Piel de Durazno",
-      "image": "https://drive.google.com/thumbnail?id=1m9GijjRC6ixScu2Uj1jn58aM5-VMVFrF&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1hGZKOQKhcwRkkvhuw39Tu4jWhMfaDl-H&sz=s600-rw",
       "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
       "woo_id": "",
       "variations": [
@@ -5125,5 +5125,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783738852633
+  "timestamp_ms": 1783761370007
 }
