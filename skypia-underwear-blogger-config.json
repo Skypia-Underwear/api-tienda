@@ -167,7 +167,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1GOry0c1qQlvOkh-O_apu0W7qJZ1M69v6&sz=s600-rw",
                   "archivo_id": "1GOry0c1qQlvOkh-O_apu0W7qJZ1M69v6",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -176,7 +176,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1KJae5c9eaYzPxRw6bkBTgm6lilz8dWJc&sz=s600-rw",
                   "archivo_id": "1KJae5c9eaYzPxRw6bkBTgm6lilz8dWJc",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -185,7 +185,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1hGZKOQKhcwRkkvhuw39Tu4jWhMfaDl-H&sz=s600-rw",
                   "archivo_id": "1hGZKOQKhcwRkkvhuw39Tu4jWhMfaDl-H",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -194,7 +194,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZOeiC8PH53qyVtgExB8nPd8psAtg7Del&sz=s600-rw",
                   "archivo_id": "1ZOeiC8PH53qyVtgExB8nPd8psAtg7Del",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -203,7 +203,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1NQG6wEeDgcvWn2NX-bGIBEb7ldEJLMt9&sz=s600-rw",
                   "archivo_id": "1NQG6wEeDgcvWn2NX-bGIBEb7ldEJLMt9",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -212,7 +212,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1m9GijjRC6ixScu2Uj1jn58aM5-VMVFrF&sz=s600-rw",
                   "archivo_id": "1m9GijjRC6ixScu2Uj1jn58aM5-VMVFrF",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -315,7 +315,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1j5sfGbv8EJSwfQXK7zNasPelxgUON7vl&sz=s600-rw",
                   "archivo_id": "1j5sfGbv8EJSwfQXK7zNasPelxgUON7vl",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -324,7 +324,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1WWEkHfjiNstN3LjEgef2BSxbeGlE9dRy&sz=s600-rw",
                   "archivo_id": "1WWEkHfjiNstN3LjEgef2BSxbeGlE9dRy",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -333,7 +333,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1QsVwAxhQd1tDg-rb6GuG6ed2IzZz1umG&sz=s600-rw",
                   "archivo_id": "1QsVwAxhQd1tDg-rb6GuG6ed2IzZz1umG",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -342,7 +342,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1xcS45DS47iYraRgRzunDN0NvmahgL6Sl&sz=s600-rw",
                   "archivo_id": "1xcS45DS47iYraRgRzunDN0NvmahgL6Sl",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -351,7 +351,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV&sz=s600-rw",
                   "archivo_id": "12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -360,7 +360,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1zQx1CnNxmcryTzbxPqCEdJnOFfUgoAN7&sz=s600-rw",
                   "archivo_id": "1zQx1CnNxmcryTzbxPqCEdJnOFfUgoAN7",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -369,7 +369,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1c5P9a3wN1R1tY-bDseuXLZ6KPRRz4G66&sz=s600-rw",
                   "archivo_id": "1c5P9a3wN1R1tY-bDseuXLZ6KPRRz4G66",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 7,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -378,7 +378,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18mjI2ezIcRms2AQI6OPwXV4URw7ZlnZa&sz=s600-rw",
                   "archivo_id": "18mjI2ezIcRms2AQI6OPwXV4URw7ZlnZa",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -387,7 +387,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO&sz=s600-rw",
                   "archivo_id": "1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 9,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 },
@@ -396,7 +396,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu&sz=s600-rw",
                   "archivo_id": "1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-12T00:06:09.134Z"
                 }
@@ -494,7 +494,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1d6c-Gez97mBM1alGYriT7_fOzZUyuezw&sz=s600-rw",
                   "archivo_id": "1d6c-Gez97mBM1alGYriT7_fOzZUyuezw",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-06T17:14:43.154Z"
                 },
@@ -503,7 +503,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8&sz=s600-rw",
                   "archivo_id": "1Qg5x92QpxB6p0mzG9RcacVLYyoUx8FX8",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-06T17:14:43.154Z"
                 }
@@ -626,7 +626,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1q-Vbno74vypD2ah3wZgjy-W5oI88Avg4&sz=s600-rw",
                   "archivo_id": "1q-Vbno74vypD2ah3wZgjy-W5oI88Avg4",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -635,7 +635,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1r6pL5AWrY49sp9va8J1FoQu4gk3cJlA5&sz=s600-rw",
                   "archivo_id": "1r6pL5AWrY49sp9va8J1FoQu4gk3cJlA5",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -644,7 +644,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1aIeQa5ZgDT6uuIdUSpyDCHVsyBM-0PkY&sz=s600-rw",
                   "archivo_id": "1aIeQa5ZgDT6uuIdUSpyDCHVsyBM-0PkY",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -653,7 +653,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1_sqB0bso0d-bTSm08s2f9MuS1jmbK4Jz&sz=s600-rw",
                   "archivo_id": "1_sqB0bso0d-bTSm08s2f9MuS1jmbK4Jz",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -662,7 +662,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1yMV71X7TSeoufeZDCuyBE7OnH6QcBJe1&sz=s600-rw",
                   "archivo_id": "1yMV71X7TSeoufeZDCuyBE7OnH6QcBJe1",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -671,7 +671,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=17T2OdlLiGPP9qi8EXJ4Iq8rGqsHzwGuc&sz=s600-rw",
                   "archivo_id": "17T2OdlLiGPP9qi8EXJ4Iq8rGqsHzwGuc",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 12,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -680,7 +680,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1rBhz_gtZMoqSRea1taCDk8D3XA0hp_MF&sz=s600-rw",
                   "archivo_id": "1rBhz_gtZMoqSRea1taCDk8D3XA0hp_MF",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 14,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -689,7 +689,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1uyxQEtXaJX7Vd-YLlcoa4ZWyEtjcGofZ&sz=s600-rw",
                   "archivo_id": "1uyxQEtXaJX7Vd-YLlcoa4ZWyEtjcGofZ",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 16,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -805,7 +805,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1JNeyqdDZ8aVkkzE6PI3JoRlN-6uLKEsQ&sz=s600-rw",
                   "archivo_id": "1JNeyqdDZ8aVkkzE6PI3JoRlN-6uLKEsQ",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -814,7 +814,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1nxNfzJT6hgwCwXxgYxY8zd2n8NDM1ODM&sz=s600-rw",
                   "archivo_id": "1nxNfzJT6hgwCwXxgYxY8zd2n8NDM1ODM",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -823,7 +823,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1lJcPFe-ycteFCCxpMnR9oycW_7aC55ad&sz=s600-rw",
                   "archivo_id": "1lJcPFe-ycteFCCxpMnR9oycW_7aC55ad",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -832,7 +832,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1rxp90YH2HnCo1EyiH2ID4E7fQo5WpRTg&sz=s600-rw",
                   "archivo_id": "1rxp90YH2HnCo1EyiH2ID4E7fQo5WpRTg",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 4,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -841,7 +841,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1-6134tVRVE8IaapbOnjdVF0JCV9lAIJp&sz=s600-rw",
                   "archivo_id": "1-6134tVRVE8IaapbOnjdVF0JCV9lAIJp",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -850,7 +850,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1j7BBXRu8vRlhYTAb54Rp3E6hZ0L9zNKs&sz=s600-rw",
                   "archivo_id": "1j7BBXRu8vRlhYTAb54Rp3E6hZ0L9zNKs",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -859,7 +859,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1pywcFfOwkkGN_YrW4HHoVc2ylrce8Vnu&sz=s600-rw",
                   "archivo_id": "1pywcFfOwkkGN_YrW4HHoVc2ylrce8Vnu",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 13,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 }
@@ -957,7 +957,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1SiBMFXW8MFYBVhi7Nlj74lzJBpd7f5vT&sz=s600-rw",
                   "archivo_id": "1SiBMFXW8MFYBVhi7Nlj74lzJBpd7f5vT",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -966,7 +966,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Jd8eFRKbnRF1HBVnou_gpYAqCjsKZL5a&sz=s600-rw",
                   "archivo_id": "1Jd8eFRKbnRF1HBVnou_gpYAqCjsKZL5a",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -975,7 +975,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1TrhCXQOIKwZdYeQvvJBH4WgvIWnwQn9x&sz=s600-rw",
                   "archivo_id": "1TrhCXQOIKwZdYeQvvJBH4WgvIWnwQn9x",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -1100,7 +1100,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1gqgPWXqr3TmbxLEjxn3Kw_kJ_hifRxXl&sz=s600-rw",
                   "archivo_id": "1gqgPWXqr3TmbxLEjxn3Kw_kJ_hifRxXl",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-12T00:32:39.449Z"
                 },
@@ -1109,7 +1109,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym&sz=s600-rw",
                   "archivo_id": "1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-12T00:32:39.449Z"
                 },
@@ -1118,7 +1118,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18-0GvH3Kr19IPmQgG6bgjB4kv6CVBcOE&sz=s600-rw",
                   "archivo_id": "18-0GvH3Kr19IPmQgG6bgjB4kv6CVBcOE",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 9,
                   "fecha_carga": "2026-07-12T00:32:39.449Z"
                 }
@@ -1247,7 +1247,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1K5eCuJC0VRNFU2cyoOKKRnmm-J696xTd&sz=s600-rw",
                   "archivo_id": "1K5eCuJC0VRNFU2cyoOKKRnmm-J696xTd",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1256,7 +1256,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1eyRcZ4gVpqkCiHPNApTbC84YfYZ5l8Fo&sz=s600-rw",
                   "archivo_id": "1eyRcZ4gVpqkCiHPNApTbC84YfYZ5l8Fo",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1265,7 +1265,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1AIZYBRi2ym1wUm1FVzVv74kt3gIdWWU2&sz=s600-rw",
                   "archivo_id": "1AIZYBRi2ym1wUm1FVzVv74kt3gIdWWU2",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1274,7 +1274,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=12jeDDJVE7--z5tFuY_Dl5RGJ723igDI-&sz=s600-rw",
                   "archivo_id": "12jeDDJVE7--z5tFuY_Dl5RGJ723igDI-",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 12,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1283,7 +1283,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18whurp2AgOqypAVHH_NWlDhD1s6x5qYz&sz=s600-rw",
                   "archivo_id": "18whurp2AgOqypAVHH_NWlDhD1s6x5qYz",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 14,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1292,7 +1292,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=15fb7hSSKEIWeHQand8n10odPrHs1YVZG&sz=s600-rw",
                   "archivo_id": "15fb7hSSKEIWeHQand8n10odPrHs1YVZG",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 16,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1301,7 +1301,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1VYVP-UuUJh9unllKZQqsPN7jSKPdQJ65&sz=s600-rw",
                   "archivo_id": "1VYVP-UuUJh9unllKZQqsPN7jSKPdQJ65",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 18,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1310,7 +1310,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Tm3o38wV5DVTsPT6wc3h9WJ90-YrSKIB&sz=s600-rw",
                   "archivo_id": "1Tm3o38wV5DVTsPT6wc3h9WJ90-YrSKIB",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 20,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1319,7 +1319,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=19ImLYP4IfF7n2S-kv3VPqxNp4Fkq5NXs&sz=s600-rw",
                   "archivo_id": "19ImLYP4IfF7n2S-kv3VPqxNp4Fkq5NXs",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 22,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1328,7 +1328,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1spVsdj0zGmWvaEIN4UaqsY9Xf-rIghYF&sz=s600-rw",
                   "archivo_id": "1spVsdj0zGmWvaEIN4UaqsY9Xf-rIghYF",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 24,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -1474,7 +1474,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG&sz=s600-rw",
                   "archivo_id": "1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1483,7 +1483,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3&sz=s600-rw",
                   "archivo_id": "1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1492,7 +1492,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA&sz=s600-rw",
                   "archivo_id": "1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 7,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1501,7 +1501,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1fS3CkguGUlCTkMq0dsSAcNkOnyovX_sz&sz=s600-rw",
                   "archivo_id": "1fS3CkguGUlCTkMq0dsSAcNkOnyovX_sz",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1510,7 +1510,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1qf3SpR-LZLm30foZoie6ySHf4ks2NQPM&sz=s600-rw",
                   "archivo_id": "1qf3SpR-LZLm30foZoie6ySHf4ks2NQPM",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 9,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1519,7 +1519,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1XN1hvugIY3G1XRSZ3uc7qEWZMnZwbFi5&sz=s600-rw",
                   "archivo_id": "1XN1hvugIY3G1XRSZ3uc7qEWZMnZwbFi5",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 14,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1528,7 +1528,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1qQfw-TmAFVY8W9ADrvzA6mOdFechmdZ0&sz=s600-rw",
                   "archivo_id": "1qQfw-TmAFVY8W9ADrvzA6mOdFechmdZ0",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 15,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1537,7 +1537,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1hwD15HxjUa1hKmqPlRpmsyu14tQVwZeM&sz=s600-rw",
                   "archivo_id": "1hwD15HxjUa1hKmqPlRpmsyu14tQVwZeM",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 22,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -1546,7 +1546,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1RNMDGVvIYNKTzTmi3RbXGb0uu8ISFhP5&sz=s600-rw",
                   "archivo_id": "1RNMDGVvIYNKTzTmi3RbXGb0uu8ISFhP5",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 24,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 }
@@ -1669,7 +1669,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1WLDqnEAoxultZ3_ZhSaB6CNRecv-6Q05&sz=s600-rw",
                   "archivo_id": "1WLDqnEAoxultZ3_ZhSaB6CNRecv-6Q05",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1678,7 +1678,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1udEJEaGrPvzex1Qgoltmd62mXTzFWDp5&sz=s600-rw",
                   "archivo_id": "1udEJEaGrPvzex1Qgoltmd62mXTzFWDp5",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1687,7 +1687,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1uccagQd9n7SSQA1o_rQowSLYQ4Y0UM5s&sz=s600-rw",
                   "archivo_id": "1uccagQd9n7SSQA1o_rQowSLYQ4Y0UM5s",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1696,7 +1696,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1WkvnbPizl04ad817Cp1LZj3aVPT-Qdg2&sz=s600-rw",
                   "archivo_id": "1WkvnbPizl04ad817Cp1LZj3aVPT-Qdg2",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1705,7 +1705,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1o8EzOnZS_ofN3VVDFKSMP4uPr-MA-9yY&sz=s600-rw",
                   "archivo_id": "1o8EzOnZS_ofN3VVDFKSMP4uPr-MA-9yY",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -1714,7 +1714,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1DRCA2CQjhg9FT_3hkm_A1UiMCKrIdRRz&sz=s600-rw",
                   "archivo_id": "1DRCA2CQjhg9FT_3hkm_A1UiMCKrIdRRz",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -1957,7 +1957,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1o2Ng8PFExmvGgfjD_kJINue_tVCjttNF&sz=s600-rw",
                   "archivo_id": "1o2Ng8PFExmvGgfjD_kJINue_tVCjttNF",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -1966,7 +1966,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1h284wirXkTYr_aI2G5-GPLzTAFOX5pCc&sz=s600-rw",
                   "archivo_id": "1h284wirXkTYr_aI2G5-GPLzTAFOX5pCc",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -1975,7 +1975,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1IvzUmmm94TRZIp6Ee2lLtqlgJT_K1W05&sz=s600-rw",
                   "archivo_id": "1IvzUmmm94TRZIp6Ee2lLtqlgJT_K1W05",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -1984,7 +1984,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1JFEbs2i30Rxg2sCLuvhS6maGcx1Pa9dR&sz=s600-rw",
                   "archivo_id": "1JFEbs2i30Rxg2sCLuvhS6maGcx1Pa9dR",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -1993,7 +1993,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1NhUQ4Vlipm1UGfPPOmaz6nhFuLxfVhGq&sz=s600-rw",
                   "archivo_id": "1NhUQ4Vlipm1UGfPPOmaz6nhFuLxfVhGq",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -2002,7 +2002,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1wbG_dtGkVc3ouIgJiAnqSCUJ7Zl9ERcH&sz=s600-rw",
                   "archivo_id": "1wbG_dtGkVc3ouIgJiAnqSCUJ7Zl9ERcH",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -2011,7 +2011,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1lDZ-6IBt9H0RaFRos60292cCoOcDWRF8&sz=s600-rw",
                   "archivo_id": "1lDZ-6IBt9H0RaFRos60292cCoOcDWRF8",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 7,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 },
@@ -2263,7 +2263,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=11LD4qABUt0FLOcaZ68oXnSw_hT4YNt2o&sz=s600-rw",
                   "archivo_id": "11LD4qABUt0FLOcaZ68oXnSw_hT4YNt2o",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2272,7 +2272,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1JMPLUku5uA0mMx26uALPOwzef5zxI82F&sz=s600-rw",
                   "archivo_id": "1JMPLUku5uA0mMx26uALPOwzef5zxI82F",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2281,7 +2281,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Ne0G7VHJ9W8Ds3mI96unXm9941xmV5kc&sz=s600-rw",
                   "archivo_id": "1Ne0G7VHJ9W8Ds3mI96unXm9941xmV5kc",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2290,7 +2290,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1aulBMtFdDL2nsHu-zSGiHYuTq-8RTuN9&sz=s600-rw",
                   "archivo_id": "1aulBMtFdDL2nsHu-zSGiHYuTq-8RTuN9",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2299,7 +2299,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1gXd7J9RwoDw_FKQHBCHmGUHaMCzsqe30&sz=s600-rw",
                   "archivo_id": "1gXd7J9RwoDw_FKQHBCHmGUHaMCzsqe30",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -2463,7 +2463,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Ws0wQxMHTpbkKxFyorscCFbRdpYDpv3s&sz=s600-rw",
                   "archivo_id": "1Ws0wQxMHTpbkKxFyorscCFbRdpYDpv3s",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 18,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2472,7 +2472,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1tlUQvygUqZd57VY7bc8lor6XE5WaUhsI&sz=s600-rw",
                   "archivo_id": "1tlUQvygUqZd57VY7bc8lor6XE5WaUhsI",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2481,7 +2481,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1QZ9a-P7Zczfpe4tpD3wtnNmkE1--loNf&sz=s600-rw",
                   "archivo_id": "1QZ9a-P7Zczfpe4tpD3wtnNmkE1--loNf",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2490,7 +2490,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1O1zQeQuD8NHaV4LBEQqS2lnfsTm7oql9&sz=s600-rw",
                   "archivo_id": "1O1zQeQuD8NHaV4LBEQqS2lnfsTm7oql9",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2499,7 +2499,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1otnv5e4tnLU21yJOpuTKRzI7n_FGRrKY&sz=s600-rw",
                   "archivo_id": "1otnv5e4tnLU21yJOpuTKRzI7n_FGRrKY",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2508,7 +2508,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1kp5aFILoLGvUurE6HbAAuA10P2u5SNQh&sz=s600-rw",
                   "archivo_id": "1kp5aFILoLGvUurE6HbAAuA10P2u5SNQh",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2517,7 +2517,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18qmlaAOWzDsg38Vuc8m918KNCzBP_1xX&sz=s600-rw",
                   "archivo_id": "18qmlaAOWzDsg38Vuc8m918KNCzBP_1xX",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 12,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2526,7 +2526,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=19oBfXuxlgaPwPV5aUdvrNfJ8hThYy64l&sz=s600-rw",
                   "archivo_id": "19oBfXuxlgaPwPV5aUdvrNfJ8hThYy64l",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 14,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2535,7 +2535,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1igBDhhuPxKXc_0FUEKLXR9sGvwziXxiL&sz=s600-rw",
                   "archivo_id": "1igBDhhuPxKXc_0FUEKLXR9sGvwziXxiL",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 20,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2544,7 +2544,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1KBtogiRL7a8g00VmKOMHD0BQFtaioa4e&sz=s600-rw",
                   "archivo_id": "1KBtogiRL7a8g00VmKOMHD0BQFtaioa4e",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 22,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -2934,7 +2934,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1mFkU_P2F3a9t8pFLgp5nO0r6LNuA9nj4&sz=s600-rw",
                   "archivo_id": "1mFkU_P2F3a9t8pFLgp5nO0r6LNuA9nj4",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2943,7 +2943,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1W2BLmkIXozkXUZeJoYUOkwX4U40v58Va&sz=s600-rw",
                   "archivo_id": "1W2BLmkIXozkXUZeJoYUOkwX4U40v58Va",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -2952,7 +2952,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=16mHmpaSsOCvhKJNRBmQJKdVFKReqRqHS&sz=s600-rw",
                   "archivo_id": "16mHmpaSsOCvhKJNRBmQJKdVFKReqRqHS",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -3094,7 +3094,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1u8bfvgV5Dd0Q95SAb-Se2ntSbR43zmz9&sz=s600-rw",
                   "archivo_id": "1u8bfvgV5Dd0Q95SAb-Se2ntSbR43zmz9",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3103,7 +3103,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1aio9Io_F-iHwwt0TuGDh0VbCezTaiwaU&sz=s600-rw",
                   "archivo_id": "1aio9Io_F-iHwwt0TuGDh0VbCezTaiwaU",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3112,7 +3112,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1EmuSmgcleav7mouoQMxzmk7jq8ec2oct&sz=s600-rw",
                   "archivo_id": "1EmuSmgcleav7mouoQMxzmk7jq8ec2oct",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3121,7 +3121,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1sCWP3xm3j162adJcMiUpeJoKFUogv0YM&sz=s600-rw",
                   "archivo_id": "1sCWP3xm3j162adJcMiUpeJoKFUogv0YM",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3130,7 +3130,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=164L9NzssFmraOmH4gEcQ_O5ywWimQ6uC&sz=s600-rw",
                   "archivo_id": "164L9NzssFmraOmH4gEcQ_O5ywWimQ6uC",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -3270,7 +3270,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=14-lBwV9HBwD_aFHWAXHOZr3MHSffXUZD&sz=s600-rw",
                   "archivo_id": "14-lBwV9HBwD_aFHWAXHOZr3MHSffXUZD",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 },
@@ -3279,7 +3279,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1pFpAXsxXd4fTbCoBUZHKe8LqvIMAJSiJ&sz=s600-rw",
                   "archivo_id": "1pFpAXsxXd4fTbCoBUZHKe8LqvIMAJSiJ",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 },
@@ -3288,7 +3288,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1xd1iUckSo4mWmU3JI3M-bvmcRBNlRstk&sz=s600-rw",
                   "archivo_id": "1xd1iUckSo4mWmU3JI3M-bvmcRBNlRstk",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 },
@@ -3297,7 +3297,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1oENx2CdlaK_044d8IpJZ2z5l4XtPGZ8T&sz=s600-rw",
                   "archivo_id": "1oENx2CdlaK_044d8IpJZ2z5l4XtPGZ8T",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 },
@@ -3306,7 +3306,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1HkJl1E-VOncDF0S9BaULWNADOyXaELmL&sz=s600-rw",
                   "archivo_id": "1HkJl1E-VOncDF0S9BaULWNADOyXaELmL",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 },
@@ -3315,7 +3315,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1zEO2HnATzeSNKvkSGC6G960DlGD7cx4r&sz=s600-rw",
                   "archivo_id": "1zEO2HnATzeSNKvkSGC6G960DlGD7cx4r",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-12T01:35:22.131Z"
                 }
@@ -3485,7 +3485,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1HaoxkVucMEL737YAygIPNuDQ8dzHRrMY&sz=s600-rw",
                   "archivo_id": "1HaoxkVucMEL737YAygIPNuDQ8dzHRrMY",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 18,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3494,7 +3494,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ar60Mzaq2m2BTGmjM7E2ln_pUxCh0LZq&sz=s600-rw",
                   "archivo_id": "1ar60Mzaq2m2BTGmjM7E2ln_pUxCh0LZq",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3503,7 +3503,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=10RDOmRheZsw9LeZQdOVL3uF1IwQrjk3z&sz=s600-rw",
                   "archivo_id": "10RDOmRheZsw9LeZQdOVL3uF1IwQrjk3z",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3512,7 +3512,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1h2-VoJjAFC6MyVLfhkAHUo1svAxr9BDF&sz=s600-rw",
                   "archivo_id": "1h2-VoJjAFC6MyVLfhkAHUo1svAxr9BDF",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3521,7 +3521,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=12pvU6jAGd7Daw_JhC4zQJeuq0e2QyClE&sz=s600-rw",
                   "archivo_id": "12pvU6jAGd7Daw_JhC4zQJeuq0e2QyClE",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3530,7 +3530,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1g9IV2hlXtDm7ZfaaCuD-ohPDReGFTlnK&sz=s600-rw",
                   "archivo_id": "1g9IV2hlXtDm7ZfaaCuD-ohPDReGFTlnK",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 12,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3539,7 +3539,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1LRsFe6dWi1O832A2nks860n2StsuMe5H&sz=s600-rw",
                   "archivo_id": "1LRsFe6dWi1O832A2nks860n2StsuMe5H",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 14,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3548,7 +3548,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1kHVhdJm3xu7UglDW-WHW7s2687t2LOc6&sz=s600-rw",
                   "archivo_id": "1kHVhdJm3xu7UglDW-WHW7s2687t2LOc6",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 16,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3557,7 +3557,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1k1gMMehhbWJ2bInyghQkXYy-rqz0g54M&sz=s600-rw",
                   "archivo_id": "1k1gMMehhbWJ2bInyghQkXYy-rqz0g54M",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 18,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 },
@@ -3566,7 +3566,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1NMt6poA2CE5yXiVbHNMcTbjD_OhbOUP_&sz=s600-rw",
                   "archivo_id": "1NMt6poA2CE5yXiVbHNMcTbjD_OhbOUP_",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 20,
                   "fecha_carga": "2026-07-12T01:48:21.130Z"
                 }
@@ -3912,7 +3912,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZN0-6ek1o52T7GftlO79PHl3Wc9EDrTI&sz=s600-rw",
                   "archivo_id": "1ZN0-6ek1o52T7GftlO79PHl3Wc9EDrTI",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3921,7 +3921,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1SCT9t9uNrQC_aCSvw19_ddLEyprTc51F&sz=s600-rw",
                   "archivo_id": "1SCT9t9uNrQC_aCSvw19_ddLEyprTc51F",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3930,7 +3930,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1JzGd4fGqCAwyKt3RAarlDhVuo-1CYUFx&sz=s600-rw",
                   "archivo_id": "1JzGd4fGqCAwyKt3RAarlDhVuo-1CYUFx",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3939,7 +3939,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1PcIB1-GLI8WREf9BNHKaNlyWW7j6PRO_&sz=s600-rw",
                   "archivo_id": "1PcIB1-GLI8WREf9BNHKaNlyWW7j6PRO_",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -3948,7 +3948,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Yuk5IlbkMZNJ5jdEeBCAKZSv9lB5od3-&sz=s600-rw",
                   "archivo_id": "1Yuk5IlbkMZNJ5jdEeBCAKZSv9lB5od3-",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -4083,7 +4083,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1_9dxMXbiaXtsvoTm2xgvfe9J2MwPwM95&sz=s600-rw",
                   "archivo_id": "1_9dxMXbiaXtsvoTm2xgvfe9J2MwPwM95",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4092,7 +4092,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1dhjWDhmzJiPpTr9eyhscMn_NpjwapUcM&sz=s600-rw",
                   "archivo_id": "1dhjWDhmzJiPpTr9eyhscMn_NpjwapUcM",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4101,7 +4101,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ye_m3MgeAv6iHGZitBSLMqOOHi_CZxbX&sz=s600-rw",
                   "archivo_id": "1ye_m3MgeAv6iHGZitBSLMqOOHi_CZxbX",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4110,7 +4110,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1mpiXq9Y41PR0PH1U4CQT4pPDoC2qTcnD&sz=s600-rw",
                   "archivo_id": "1mpiXq9Y41PR0PH1U4CQT4pPDoC2qTcnD",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4119,7 +4119,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1m4zVzMN9ZkyP9-NHua39pkMHCtPeWGwh&sz=s600-rw",
                   "archivo_id": "1m4zVzMN9ZkyP9-NHua39pkMHCtPeWGwh",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -4261,7 +4261,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1BJj3NOJmzUyQD2u2UsFzgh6eKGfC6YQ_&sz=s600-rw",
                   "archivo_id": "1BJj3NOJmzUyQD2u2UsFzgh6eKGfC6YQ_",
                   "portada": true,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4270,7 +4270,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1W0Wed4Rz9mjViIYkzUbcf548-cplPS4f&sz=s600-rw",
                   "archivo_id": "1W0Wed4Rz9mjViIYkzUbcf548-cplPS4f",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4279,7 +4279,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1lCds8gIz60yay5bN-TSf7v1mqa0LzBJ4&sz=s600-rw",
                   "archivo_id": "1lCds8gIz60yay5bN-TSf7v1mqa0LzBJ4",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4288,7 +4288,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=157rrfDUR09PaIp5peFhKCoqM2GI9vFQl&sz=s600-rw",
                   "archivo_id": "157rrfDUR09PaIp5peFhKCoqM2GI9vFQl",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
@@ -4297,7 +4297,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1wyy4j7jNQBQa9OvxeCHl6Hp05S7nz0mO&sz=s600-rw",
                   "archivo_id": "1wyy4j7jNQBQa9OvxeCHl6Hp05S7nz0mO",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 }
@@ -4396,5 +4396,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783827953364
+  "timestamp_ms": 1783828850636
 }
