@@ -329,7 +329,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WWEkHfjiNstN3LjEgef2BSxbeGlE9dRy&sz=s1600-rw",
@@ -340,7 +340,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1QsVwAxhQd1tDg-rb6GuG6ed2IzZz1umG&sz=s1600-rw",
@@ -351,7 +351,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1xcS45DS47iYraRgRzunDN0NvmahgL6Sl&sz=s1600-rw",
@@ -362,7 +362,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV&sz=s1600-rw",
@@ -373,7 +373,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1zQx1CnNxmcryTzbxPqCEdJnOFfUgoAN7&sz=s1600-rw",
@@ -384,7 +384,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1c5P9a3wN1R1tY-bDseuXLZ6KPRRz4G66&sz=s1600-rw",
@@ -395,7 +395,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=18mjI2ezIcRms2AQI6OPwXV4URw7ZlnZa&sz=s1600-rw",
@@ -406,7 +406,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 8,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO&sz=s1600-rw",
@@ -417,7 +417,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 9,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu&sz=s1600-rw",
@@ -428,7 +428,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 10,
-                  "fecha_carga": "2026-07-12T00:06:09.134Z"
+                  "fecha_carga": "2026-07-12T05:19:15.059Z"
                 }
               ],
               "variedad": [
@@ -845,7 +845,7 @@
                   "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP8564%0A%F0%9F%94%B9%20Modelo%3A%20Universitario%20Peluche%0A%F0%9F%94%B9%20Marca%3A%20RAW%20VOGUE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1j7BBXRu8vRlhYTAb54Rp3E6hZ0L9zNKs&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1JNeyqdDZ8aVkkzE6PI3JoRlN-6uLKEsQ&sz=s1600-rw",
@@ -908,8 +908,8 @@
                   "archivo_id": "1j7BBXRu8vRlhYTAb54Rp3E6hZ0L9zNKs",
                   "portada": false,
                   "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
                   "orden": 10,
                   "fecha_carga": "2026-07-11T23:39:20.612Z"
                 },
@@ -4628,5 +4628,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783830649722
+  "timestamp_ms": 1783834252080
 }
