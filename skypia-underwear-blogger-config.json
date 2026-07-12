@@ -1054,14 +1054,6 @@
                   "fecha_carga": "2026-07-12T00:32:39.449Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1F-nQyQgcqpuD2opuFXASrOdyXcOYqm5t&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1F-nQyQgcqpuD2opuFXASrOdyXcOYqm5t&sz=s600-rw",
-                  "archivo_id": "1F-nQyQgcqpuD2opuFXASrOdyXcOYqm5t",
-                  "portada": false,
-                  "orden": 2,
-                  "fecha_carga": "2026-07-12T00:32:39.449Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym&sz=s600-rw",
                   "archivo_id": "1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym",
@@ -1075,14 +1067,6 @@
                   "archivo_id": "18-0GvH3Kr19IPmQgG6bgjB4kv6CVBcOE",
                   "portada": false,
                   "orden": 9,
-                  "fecha_carga": "2026-07-12T00:32:39.449Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1bLouLux4Vefo4eqtGpsju0cqzqfk4W1Z&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1bLouLux4Vefo4eqtGpsju0cqzqfk4W1Z&sz=s600-rw",
-                  "archivo_id": "1bLouLux4Vefo4eqtGpsju0cqzqfk4W1Z",
-                  "portada": false,
-                  "orden": 10,
                   "fecha_carga": "2026-07-12T00:32:39.449Z"
                 }
               ],
@@ -1424,7 +1408,7 @@
                   "archivo_id": "1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG",
                   "portada": true,
                   "orden": 5,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3&sz=s1600-rw",
@@ -1432,7 +1416,7 @@
                   "archivo_id": "1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3",
                   "portada": false,
                   "orden": 6,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA&sz=s1600-rw",
@@ -1440,7 +1424,7 @@
                   "archivo_id": "1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA",
                   "portada": false,
                   "orden": 7,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1fS3CkguGUlCTkMq0dsSAcNkOnyovX_sz&sz=s1600-rw",
@@ -1448,7 +1432,7 @@
                   "archivo_id": "1fS3CkguGUlCTkMq0dsSAcNkOnyovX_sz",
                   "portada": false,
                   "orden": 8,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1qf3SpR-LZLm30foZoie6ySHf4ks2NQPM&sz=s1600-rw",
@@ -1456,7 +1440,7 @@
                   "archivo_id": "1qf3SpR-LZLm30foZoie6ySHf4ks2NQPM",
                   "portada": false,
                   "orden": 9,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1XN1hvugIY3G1XRSZ3uc7qEWZMnZwbFi5&sz=s1600-rw",
@@ -1464,7 +1448,15 @@
                   "archivo_id": "1XN1hvugIY3G1XRSZ3uc7qEWZMnZwbFi5",
                   "portada": false,
                   "orden": 14,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1qQfw-TmAFVY8W9ADrvzA6mOdFechmdZ0&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qQfw-TmAFVY8W9ADrvzA6mOdFechmdZ0&sz=s600-rw",
+                  "archivo_id": "1qQfw-TmAFVY8W9ADrvzA6mOdFechmdZ0",
+                  "portada": false,
+                  "orden": 15,
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1hwD15HxjUa1hKmqPlRpmsyu14tQVwZeM&sz=s1600-rw",
@@ -1472,7 +1464,7 @@
                   "archivo_id": "1hwD15HxjUa1hKmqPlRpmsyu14tQVwZeM",
                   "portada": false,
                   "orden": 22,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1RNMDGVvIYNKTzTmi3RbXGb0uu8ISFhP5&sz=s1600-rw",
@@ -1480,7 +1472,7 @@
                   "archivo_id": "1RNMDGVvIYNKTzTmi3RbXGb0uu8ISFhP5",
                   "portada": false,
                   "orden": 24,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
+                  "fecha_carga": "2026-07-12T01:05:13.189Z"
                 }
               ],
               "variedad": [
@@ -4053,5 +4045,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783817105960
+  "timestamp_ms": 1783818938402
 }
