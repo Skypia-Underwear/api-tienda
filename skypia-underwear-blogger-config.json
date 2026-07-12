@@ -1950,7 +1950,7 @@
                 }
               },
               "descripcion_ia": "<p style=\"font-size:1.1em; font-weight:bold; color:#222; margin-bottom:15px;\">Sofisticación relajada: el pantalón de pana soft que redefine el confort premium diario.</p>\n<div style=\"font-family: Arial, sans-serif; color: #333; max-width: 800px; margin: 0 auto;\">\n  <h3 style=\"font-size: 1.5em; margin-bottom: 15px; color: #222; border-bottom: 2px solid #eee; padding-bottom: 8px;\">Ficha Técnica y Tabla de Talles</h3>\n  <p style=\"margin-bottom: 15px; line-height: 1.6; text-align: justify;\">\n    Este pantalón redefine el concepto de lujo casual. Confeccionado en una suntuosa pana soft acanalada de tacto aterciopelado, ofrece una caída impecable y un confort inigualable. Su diseño de corte <em>tapered</em> relajado se adapta orgánicamente a la silueta, complementado por una cintura elástica con cordón de ajuste tonal que garantiza un calce perfecto. Presenta prácticos bolsillos laterales y un sutil bordado de alta definición en el muslo, consolidando una estética minimalista y sofisticada ideal tanto para el tiempo de relax como para un look urbano elevado.\n  </p>\n  \n  <table style=\"width:100%; border-collapse: collapse; margin-top: 25px; border: 1px solid #ddd; font-size: 0.95em;\">\n    <thead>\n      <tr style=\"background-color: #f8f8f8; text-align: left; border-bottom: 2px solid #ddd;\">\n        <th style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold; color: #222;\">Talle</th>\n        <th style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold; color: #222;\">Cintura (Plano / Estirado)</th>\n        <th style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold; color: #222;\">Cadera (Plano)</th>\n        <th style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold; color: #222;\">Largo Total</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold;\">S</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">34 - 44 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">50 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">96 cm</td>\n      </tr>\n      <tr style=\"background-color: #fafafa;\">\n        <td style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold;\">M</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">36 - 46 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">52 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">98 cm</td>\n      </tr>\n      <tr>\n        <td style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold;\">L</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">38 - 48 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">54 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">100 cm</td>\n      </tr>\n      <tr style=\"background-color: #fafafa;\">\n        <td style=\"padding: 12px; border: 1px solid #ddd; font-weight: bold;\">XL</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">40 - 50 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">56 cm</td>\n        <td style=\"padding: 12px; border: 1px solid #ddd;\">102 cm</td>\n      </tr>\n    </tbody>\n  </table>\n  \n  <p style=\"margin-top: 20px; font-size: 0.9em; color: #666; font-style: italic;\">\n    *Las medidas son aproximadas y pueden variar ligeramente. Se recomienda comparar con una prenda similar que te quede bien.\n  </p>\n</div>",
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1srAcys335L8-bjy2wOz1M6GGEtgkW4y5&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1o2Ng8PFExmvGgfjD_kJINue_tVCjttNF&sz=s1600-rw",
@@ -2020,7 +2020,7 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1srAcys335L8-bjy2wOz1M6GGEtgkW4y5&sz=s600-rw",
                   "archivo_id": "1srAcys335L8-bjy2wOz1M6GGEtgkW4y5",
                   "portada": false,
-                  "tipo": "",
+                  "tipo": "GUIA_TALLES",
                   "orden": 13,
                   "fecha_carga": "2026-07-12T02:39:16.739Z"
                 }
@@ -4396,5 +4396,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783826129990
+  "timestamp_ms": 1783827953364
 }
