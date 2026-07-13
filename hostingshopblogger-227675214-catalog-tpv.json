@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:58:57.616Z",
+  "generated_at": "2026-07-13T10:13:54.092Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -20,7 +20,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "192.168.1.35",
+        "printerIp": "10.114.33.209",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -5125,5 +5125,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783936898011
+  "timestamp_ms": 1783937741336
 }
