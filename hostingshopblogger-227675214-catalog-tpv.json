@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:43:54.278Z",
+  "generated_at": "2026-07-13T19:58:55.680Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -4423,6 +4423,280 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG2618",
+      "sku": "390",
+      "model": "Cargo clasic",
+      "price": 22000,
+      "display_price": 30800,
+      "minor_surcharge": 0,
+      "category_id": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Gabardina",
+      "image": "https://drive.google.com/thumbnail?id=1lw9_MEeJnpbtztX0RI9PpWjOn57n3tDD&sz=s600-rw",
+      "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-46-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-48-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Surtido-50-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-40-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-42-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-44-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-46-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-48-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Negro-50-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-40-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-42-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-44-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-46-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-48-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Verde Militar-50-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-40-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-42-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-44-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-46-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-48-Skypia Underwear"
+        },
+        {
+          "color": "Bison",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Bison-50-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-40-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-42-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-44-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-46-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-48-Skypia Underwear"
+        },
+        {
+          "color": "Arena",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Arena-50-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-40-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-42-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-44-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-46-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-48-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "50",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG2618-Gris-50-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4975,6 +5249,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "JOGG2618": [
+      {
+        "variedad_id": "JOGG2618-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30800,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 33000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG2618-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 39600,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5125,5 +5422,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1783971956470
+  "timestamp_ms": 1783972858174
 }
