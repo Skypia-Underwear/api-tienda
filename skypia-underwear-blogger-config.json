@@ -1569,18 +1569,18 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-13T19:57:25.770Z"
+                  "fecha_carga": "2026-07-13T20:12:54.000Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR&sz=s600-rw",
                   "archivo_id": "1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-13T19:57:25.770Z"
+                  "fecha_carga": "2026-07-13T20:12:54.000Z"
                 }
               ],
               "variedad": [
@@ -4786,5 +4786,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783972844571
+  "timestamp_ms": 1783973768845
 }
