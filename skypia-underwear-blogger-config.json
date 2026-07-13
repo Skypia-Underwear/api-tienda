@@ -1494,6 +1494,153 @@
             {
               "codigo": 27,
               "categoria": "Joggers",
+              "nombre": "JOGG2618",
+              "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cargo clasic"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "I-RUN"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Gabardina"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "13-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG2618%0A%F0%9F%94%B9%20Modelo%3A%20Cargo%20clasic%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1lw9_MEeJnpbtztX0RI9PpWjOn57n3tDD&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lw9_MEeJnpbtztX0RI9PpWjOn57n3tDD&sz=s600-rw",
+                  "archivo_id": "1lw9_MEeJnpbtztX0RI9PpWjOn57n3tDD",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-13T19:57:25.770Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR&sz=s600-rw",
+                  "archivo_id": "1dlGodkM7CFR0A_ZC0OofogMiUdgqanKR",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-13T19:57:25.770Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 30800,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 33000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 39600,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-07-13T03:00:00.000Z"
+            },
+            {
+              "codigo": 30,
+              "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
               "descripcion": {
@@ -1691,7 +1838,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 30,
+              "codigo": 33,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -1972,7 +2119,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 36,
+              "codigo": 39,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -2322,7 +2469,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 39,
+              "codigo": 42,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -2502,7 +2649,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 42,
+              "codigo": 45,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -3021,7 +3168,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 45,
+              "codigo": 48,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -3197,7 +3344,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 48,
+              "codigo": 51,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -3377,7 +3524,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 51,
+              "codigo": 54,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -4421,7 +4568,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 33,
+              "codigo": 36,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -4639,5 +4786,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1783967434883
+  "timestamp_ms": 1783972844571
 }
