@@ -2143,6 +2143,324 @@
                 }
               ],
               "upd": "2026-04-06T03:00:00.000Z"
+            },
+            {
+              "codigo": 36,
+              "categoria": "Jogging",
+              "nombre": "JOGG9403",
+              "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Joggin con piel COMBINADO 84"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GELUFEI"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon Premium"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "L",
+                    "M",
+                    "Surtido",
+                    "XL"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Gris claro",
+                      "hex": "#D3D3D3"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "598",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "14-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG9403%0A%F0%9F%94%B9%20Modelo%3A%20Joggin%20con%20piel%20COMBINADO%2084%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20L%2C%20M%2C%20Surtido%2C%20XL"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1B7Cmj62RS4HDcdxvgZiLrpMVJnqXpHnY&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1B7Cmj62RS4HDcdxvgZiLrpMVJnqXpHnY&sz=s600-rw",
+                  "archivo_id": "1B7Cmj62RS4HDcdxvgZiLrpMVJnqXpHnY",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 54,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1921DZ30FuKCWtPlcOqa7EpvpDiQowl0b&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1921DZ30FuKCWtPlcOqa7EpvpDiQowl0b&sz=s600-rw",
+                  "archivo_id": "1921DZ30FuKCWtPlcOqa7EpvpDiQowl0b",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13ayKW-e8qmhnTQktuyilX0t1gHItPB22&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13ayKW-e8qmhnTQktuyilX0t1gHItPB22&sz=s600-rw",
+                  "archivo_id": "13ayKW-e8qmhnTQktuyilX0t1gHItPB22",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 8,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1p9CfwdAYlo1dq-HoGveF8mcPxe9QQRo_&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1p9CfwdAYlo1dq-HoGveF8mcPxe9QQRo_&sz=s600-rw",
+                  "archivo_id": "1p9CfwdAYlo1dq-HoGveF8mcPxe9QQRo_",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 11,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1cQlWG_yyIpG07wOV-susPm_jwKUASruo&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1cQlWG_yyIpG07wOV-susPm_jwKUASruo&sz=s600-rw",
+                  "archivo_id": "1cQlWG_yyIpG07wOV-susPm_jwKUASruo",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 12,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1sSxPzjtBBwpWoCmLNPpVsV7IBhl-sgGD&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1sSxPzjtBBwpWoCmLNPpVsV7IBhl-sgGD&sz=s600-rw",
+                  "archivo_id": "1sSxPzjtBBwpWoCmLNPpVsV7IBhl-sgGD",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 12,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UUhHvXs14pZv1D2f0DcoOX_bSL24annH&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UUhHvXs14pZv1D2f0DcoOX_bSL24annH&sz=s600-rw",
+                  "archivo_id": "1UUhHvXs14pZv1D2f0DcoOX_bSL24annH",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 13,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1doLyHPzn60L7VeHxonfawfIe-6B7vItU&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1doLyHPzn60L7VeHxonfawfIe-6B7vItU&sz=s600-rw",
+                  "archivo_id": "1doLyHPzn60L7VeHxonfawfIe-6B7vItU",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 14,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1tIjenzNDcAVHGdMakBBSYhfTInfOHJBM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1tIjenzNDcAVHGdMakBBSYhfTInfOHJBM&sz=s600-rw",
+                  "archivo_id": "1tIjenzNDcAVHGdMakBBSYhfTInfOHJBM",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 14,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Z4OVMZnA3q1Fc382hL3mYnmdZHijDqnO&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Z4OVMZnA3q1Fc382hL3mYnmdZHijDqnO&sz=s600-rw",
+                  "archivo_id": "1Z4OVMZnA3q1Fc382hL3mYnmdZHijDqnO",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 15,
+                  "fecha_carga": "2026-07-10T21:57:56.608Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "198"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19500,
+                  "variedad": "Curva",
+                  "minima": 7,
+                  "sub_variedad": {
+                    "Gris claro": {
+                      "color": "#D3D3D3",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Gris claro": {
+                      "color": "#D3D3D3",
+                      "talles": [
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "L",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "50"
+                        }
+                      ]
+                    },
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "L",
+                          "stock": "49"
+                        },
+                        {
+                          "talle": "M",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "Surtido",
+                          "stock": "50"
+                        },
+                        {
+                          "talle": "XL",
+                          "stock": "49"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-07-14T03:00:00.000Z"
             }
           ]
         },
@@ -2152,7 +2470,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 39,
+              "codigo": 42,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -2502,7 +2820,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 42,
+              "codigo": 45,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -2682,7 +3000,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 45,
+              "codigo": 48,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -3201,7 +3519,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 48,
+              "codigo": 51,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -3377,7 +3695,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 51,
+              "codigo": 54,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -3557,7 +3875,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 54,
+              "codigo": 57,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -4601,7 +4919,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 36,
+              "codigo": 39,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -4819,5 +5137,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784070037185
+  "timestamp_ms": 1784073621957
 }
