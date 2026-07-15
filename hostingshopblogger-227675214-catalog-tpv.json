@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:13:55.105Z",
+  "generated_at": "2026-07-15T02:28:54.092Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -3391,7 +3391,7 @@
       "ageGroup": "",
       "grupo_edad": "",
       "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1ayhQsEEOzaBJ6TN9vGF86vUDHO927Z4-&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA&sz=s600-rw",
       "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
       "woo_id": "",
       "variations": [
@@ -5601,5 +5601,5 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1784081722339
+  "timestamp_ms": 1784082616288
 }
