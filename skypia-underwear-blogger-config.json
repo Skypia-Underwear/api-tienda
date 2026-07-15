@@ -1739,35 +1739,13 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG&sz=s600-rw",
-                  "archivo_id": "1H5_LgEfYaWTXsmxyBarRBbX-blPNCJKG",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 5,
-                  "fecha_carga": "2026-07-12T01:05:13.189Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3&sz=s600-rw",
-                  "archivo_id": "1GK7QLHdyIAxyXvPAxdt8RQeW4rw_m7e3",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
-                  "orden": 6,
-                  "fecha_carga": "2026-07-12T01:05:13.189Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA&sz=s600-rw",
                   "archivo_id": "1VsYlNUT5gD6DPD42TQXAn4ArWLkPFOlA",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 7,
                   "fecha_carga": "2026-07-12T01:05:13.189Z"
                 },
@@ -5137,5 +5115,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784076338109
+  "timestamp_ms": 1784082630882
 }
