@@ -2221,7 +2221,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "598",
+                  "valor": "586",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2411,7 +2411,7 @@
                       "talles": [
                         {
                           "talle": "L",
-                          "stock": "50"
+                          "stock": "38"
                         },
                         {
                           "talle": "M",
@@ -4171,7 +4171,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1787",
+                  "valor": "1786",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -4367,7 +4367,7 @@
                         },
                         {
                           "talle": "4XL",
-                          "stock": "10"
+                          "stock": "9"
                         },
                         {
                           "talle": "L",
@@ -4984,7 +4984,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "384",
+                  "valor": "383",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -5067,7 +5067,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "384"
+                          "stock": "383"
                         }
                       ]
                     }
@@ -5084,7 +5084,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "384"
+                          "stock": "383"
                         }
                       ]
                     }
@@ -5101,7 +5101,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "384"
+                          "stock": "383"
                         }
                       ]
                     }
@@ -5149,5 +5149,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784295078355
+  "timestamp_ms": 1784306772036
 }
