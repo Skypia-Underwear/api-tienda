@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:28:55.303Z",
+  "generated_at": "2026-07-17T02:43:54.488Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5605,8 +5605,9 @@
   "appSheet": {
     "appName": "HOSTINGSHOPBLOGGER-227675214",
     "appId": "e68c5895-f29e-4b39-a968-8423d172a050",
+    "inventoryListView": "BD_INVENTARIO",
     "inventoryDetailView": "BD_INVENTARIO_Detail",
-    "inventoryFormView": "BD_MOVIMIENTOS_INVENTARIO_Form"
+    "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784255471870
+  "timestamp_ms": 1784256365770
 }
