@@ -819,16 +819,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "2XL"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Amarillo mostaza",
+                      "hex": "#E3B439"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "99",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -842,7 +849,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP8564%0A%F0%9F%94%B9%20Modelo%3A%20Universitario%20Peluche%0A%F0%9F%94%B9%20Marca%3A%20RAW%20VOGUE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP8564%0A%F0%9F%94%B9%20Modelo%3A%20Universitario%20Peluche%0A%F0%9F%94%B9%20Marca%3A%20RAW%20VOGUE%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%202XL"
                 }
               },
               "guia_talles_img": "https://drive.google.com/thumbnail?id=1j7BBXRu8vRlhYTAb54Rp3E6hZ0L9zNKs&sz=s1600-rw",
@@ -938,7 +945,17 @@
                   "precio": 27000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Amarillo mostaza": {
+                      "color": "#E3B439",
+                      "talles": [
+                        {
+                          "talle": "2XL",
+                          "stock": "99"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-06-08T03:00:00.000Z"
@@ -5115,5 +5132,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784251869664
+  "timestamp_ms": 1784256365377
 }
