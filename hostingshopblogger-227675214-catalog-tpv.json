@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T01:13:54.459Z",
+  "generated_at": "2026-07-17T01:28:53.961Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12,6 +12,7 @@
         "minorSurcharge": 0,
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
+        "allowNegativeStock": true,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia",
@@ -5601,5 +5602,11 @@
       "name": "Bryan Colque Fernandez"
     }
   ],
-  "timestamp_ms": 1784250930189
+  "appSheet": {
+    "appName": "HOSTINGSHOPBLOGGER-227675214",
+    "appId": "e68c5895-f29e-4b39-a968-8423d172a050",
+    "inventoryDetailView": "BD_INVENTARIO_Detail",
+    "inventoryFormView": "BD_MOVIMIENTOS_INVENTARIO_Form"
+  },
+  "timestamp_ms": 1784251825961
 }
