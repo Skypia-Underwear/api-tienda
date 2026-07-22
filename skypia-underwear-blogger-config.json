@@ -800,6 +800,202 @@
             {
               "codigo": 18,
               "categoria": "Campera",
+              "nombre": "CAMP7014",
+              "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "MOTO HARSH RACING"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "YD"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Bordado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "CIRE"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP7014%0A%F0%9F%94%B9%20Modelo%3A%20MOTO%20HARSH%20RACING%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=1BC1WehkD7wZ1V1VDWKuHbilP2MnNjomj&sz=s1600-rw",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1KQqQC01LS0_zbgwQBqxgAHOtWDNAWay9&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1KQqQC01LS0_zbgwQBqxgAHOtWDNAWay9&sz=s600-rw",
+                  "archivo_id": "1KQqQC01LS0_zbgwQBqxgAHOtWDNAWay9",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=170tnQFPTGoBag0JE1OMBj_Smzo2TqvzA&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=170tnQFPTGoBag0JE1OMBj_Smzo2TqvzA&sz=s600-rw",
+                  "archivo_id": "170tnQFPTGoBag0JE1OMBj_Smzo2TqvzA",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Ifsg4qF6QijQ8TLC1lQ8uSj7ucMrSZPT&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Ifsg4qF6QijQ8TLC1lQ8uSj7ucMrSZPT&sz=s600-rw",
+                  "archivo_id": "1Ifsg4qF6QijQ8TLC1lQ8uSj7ucMrSZPT",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1vb6c4kBqNQJfIHa5hloiIje4MTZyC2Xs&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vb6c4kBqNQJfIHa5hloiIje4MTZyC2Xs&sz=s600-rw",
+                  "archivo_id": "1vb6c4kBqNQJfIHa5hloiIje4MTZyC2Xs",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=18cJdyX759cqj1XDYsnalhA550M7Xnd4E&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18cJdyX759cqj1XDYsnalhA550M7Xnd4E&sz=s600-rw",
+                  "archivo_id": "18cJdyX759cqj1XDYsnalhA550M7Xnd4E",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1qxAYSN5dES88ZCQvP5Z-Bph9zzrCl5oR&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qxAYSN5dES88ZCQvP5Z-Bph9zzrCl5oR&sz=s600-rw",
+                  "archivo_id": "1qxAYSN5dES88ZCQvP5Z-Bph9zzrCl5oR",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1FrkOndTIrXZ0MthB2kSvhj4ODXkmT6cw&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1FrkOndTIrXZ0MthB2kSvhj4ODXkmT6cw&sz=s600-rw",
+                  "archivo_id": "1FrkOndTIrXZ0MthB2kSvhj4ODXkmT6cw",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1BC1WehkD7wZ1V1VDWKuHbilP2MnNjomj&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1BC1WehkD7wZ1V1VDWKuHbilP2MnNjomj&sz=s600-rw",
+                  "archivo_id": "1BC1WehkD7wZ1V1VDWKuHbilP2MnNjomj",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 8,
+                  "fecha_carga": "2026-07-22T19:52:07.837Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 60200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 77400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-07-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 20,
+              "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
               "descripcion": {
@@ -978,7 +1174,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 20,
+              "codigo": 22,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -1126,7 +1322,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 22,
+              "codigo": 24,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -1274,7 +1470,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 24,
+              "codigo": 26,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -1526,7 +1722,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 27,
+              "codigo": 29,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -1706,7 +1902,7 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 30,
+              "codigo": 32,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -1883,7 +2079,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 33,
+              "codigo": 35,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -2157,7 +2353,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 36,
+              "codigo": 38,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -2482,7 +2678,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 42,
+              "codigo": 44,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -2662,7 +2858,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 45,
+              "codigo": 47,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -3012,7 +3208,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 48,
+              "codigo": 50,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -3192,7 +3388,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 51,
+              "codigo": 53,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -3711,7 +3907,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 54,
+              "codigo": 56,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -3892,7 +4088,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 57,
+              "codigo": 59,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -4072,7 +4268,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 60,
+              "codigo": 62,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -5116,7 +5312,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 39,
+              "codigo": 41,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -5334,5 +5530,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784749537232
+  "timestamp_ms": 1784750434166
 }
