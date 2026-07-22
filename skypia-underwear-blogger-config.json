@@ -2484,6 +2484,149 @@
             {
               "codigo": 42,
               "categoria": "Pantalon",
+              "nombre": "PANT3853",
+              "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Tactico Ripstop Cargo 38-44"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELT"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "FAJINA"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3853%0A%F0%9F%94%B9%20Modelo%3A%20Tactico%20Ripstop%20Cargo%2038-44%0A%F0%9F%94%B9%20Marca%3A%20ELT%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1b24nlqW1zfP39n0aOW0jz4cqA-IHniIk&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1b24nlqW1zfP39n0aOW0jz4cqA-IHniIk&sz=s600-rw",
+                  "archivo_id": "1b24nlqW1zfP39n0aOW0jz4cqA-IHniIk",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-22T19:27:43.902Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1_xYHFgaqoXX7-SVGFBwJ-QvehMMs0GiA&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1_xYHFgaqoXX7-SVGFBwJ-QvehMMs0GiA&sz=s600-rw",
+                  "archivo_id": "1_xYHFgaqoXX7-SVGFBwJ-QvehMMs0GiA",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-22T19:27:43.902Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1xNLAMXiqCzjt-LWBK0Wn4MweU_fIlyyG&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1xNLAMXiqCzjt-LWBK0Wn4MweU_fIlyyG&sz=s600-rw",
+                  "archivo_id": "1xNLAMXiqCzjt-LWBK0Wn4MweU_fIlyyG",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-22T19:27:43.902Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1X9v67fG3_7BpHA4ZAULIfOW1Al_kSnA0&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1X9v67fG3_7BpHA4ZAULIfOW1Al_kSnA0&sz=s600-rw",
+                  "archivo_id": "1X9v67fG3_7BpHA4ZAULIfOW1Al_kSnA0",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-22T19:27:43.902Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1PcctpMtgt-kxlnOn6wff9AqDEqZx-gdF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1PcctpMtgt-kxlnOn6wff9AqDEqZx-gdF&sz=s600-rw",
+                  "archivo_id": "1PcctpMtgt-kxlnOn6wff9AqDEqZx-gdF",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-22T19:27:43.902Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 42000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 45000,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 54000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 45,
+              "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
               "descripcion": {
@@ -2832,7 +2975,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 45,
+              "codigo": 48,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -3012,7 +3155,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 48,
+              "codigo": 51,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -3531,7 +3674,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 51,
+              "codigo": 54,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -3712,7 +3855,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 54,
+              "codigo": 57,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -3892,7 +4035,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 57,
+              "codigo": 60,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -5154,5 +5297,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784733639255
+  "timestamp_ms": 1784748623549
 }
