@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:58:54.640Z",
+  "generated_at": "2026-07-22T20:13:54.650Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5336,6 +5336,33 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG1309",
+      "sku": "426",
+      "model": "Polar Soft",
+      "price": 11000,
+      "display_price": 15400,
+      "minor_surcharge": 0,
+      "category_id": "Jogging",
+      "categoryName": "Jogging",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "GELUFEI",
+      "style": "Liso",
+      "material": "Polar Soft",
+      "sizes": "Surtido,38,40,42",
+      "talles": "Surtido,38,40,42",
+      "TALLES": "Surtido,38,40,42",
+      "ageGroup": "",
+      "grupo_edad": "",
+      "GRUPO_EDAD": "",
+      "image": "https://drive.google.com/thumbnail?id=1oGxZsEn55PyE1WLpxV0Ulit5b-74Dujy&sz=s600-rw",
+      "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
+      "woo_id": "",
+      "variations": [],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5973,6 +6000,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "JOGG1309": [
+      {
+        "variedad_id": "JOGG1309-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 15400,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG1309-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 16500,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "JOGG1309-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 19800,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6130,5 +6180,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784750456995
+  "timestamp_ms": 1784751352516
 }
