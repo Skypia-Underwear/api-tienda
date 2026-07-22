@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:28:57.246Z",
+  "generated_at": "2026-07-22T19:43:56.851Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -4879,7 +4879,218 @@
       "image": "https://drive.google.com/thumbnail?id=1b24nlqW1zfP39n0aOW0jz4cqA-IHniIk&sz=s600-rw",
       "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Surtido-38-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Negro-38-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Negro-40-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Negro-42-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Negro-44-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde Militar-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde Militar-38-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde Militar-40-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde Militar-42-Skypia Underwear"
+        },
+        {
+          "color": "Verde Militar",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde Militar-44-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris-38-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris-40-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris-42-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris-44-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Beige-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Beige-38-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Beige-40-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Beige-42-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Beige-44-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde-38-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde-40-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde-42-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Verde-44-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris claro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris claro-38-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris claro-40-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris claro-42-Skypia Underwear"
+        },
+        {
+          "color": "Gris claro",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PANT3853-Gris claro-44-Skypia Underwear"
+        }
+      ],
       "fecha_creacion": ""
     }
   ],
@@ -5659,5 +5870,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784748663471
+  "timestamp_ms": 1784749538875
 }
