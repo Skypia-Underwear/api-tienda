@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:43:56.851Z",
+  "generated_at": "2026-07-22T19:58:54.640Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5092,6 +5092,250 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP7014",
+      "sku": "242",
+      "model": "MOTO HARSH RACING",
+      "price": 43000,
+      "display_price": 60200,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Bordado",
+      "material": "CIRE",
+      "sizes": "Surtido,M,L,XL,2XL,3XL",
+      "talles": "Surtido,M,L,XL,2XL,3XL",
+      "TALLES": "Surtido,M,L,XL,2XL,3XL",
+      "ageGroup": "",
+      "grupo_edad": "",
+      "GRUPO_EDAD": "",
+      "image": "https://drive.google.com/thumbnail?id=1KQqQC01LS0_zbgwQBqxgAHOtWDNAWay9&sz=s600-rw",
+      "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-M-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-L-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Verde",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Verde-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-M-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-L-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo anaranjado",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo anaranjado-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-M-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-L-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Rojo",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Rojo-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-M-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-L-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-2XL-Skypia Underwear"
+        },
+        {
+          "color": "Gris",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP7014-Gris-3XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5713,6 +5957,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP7014": [
+      {
+        "variedad_id": "CAMP7014-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 60200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP7014-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 77400,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5870,5 +6130,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784749538875
+  "timestamp_ms": 1784750456995
 }
