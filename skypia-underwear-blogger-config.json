@@ -3570,7 +3570,8 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido"
+                    "Surtido",
+                    "2XL"
                   ]
                 },
                 "colores": {
@@ -3584,7 +3585,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "142",
+                  "valor": "342",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3594,7 +3595,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME4798%0A%F0%9F%94%B9%20Modelo%3A%20Basica%20Algodon%20T.Especial%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME4798%0A%F0%9F%94%B9%20Modelo%3A%20Basica%20Algodon%20T.Especial%0A%F0%9F%94%B9%20Marca%3A%20I-RUN%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%202XL"
                 }
               },
               "guia_talles_img": "https://drive.google.com/thumbnail?id=1uLW_U2kJFbS18tRMa54uYpE3UnbiqAN2&sz=s1600-rw",
@@ -3656,7 +3657,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "142"
+                          "stock": "342"
                         }
                       ]
                     }
@@ -3691,6 +3692,10 @@
                         {
                           "talle": "Surtido",
                           "stock": "142"
+                        },
+                        {
+                          "talle": "2XL",
+                          "stock": "200"
                         }
                       ]
                     }
@@ -5149,5 +5154,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784690138169
+  "timestamp_ms": 1784693761870
 }
