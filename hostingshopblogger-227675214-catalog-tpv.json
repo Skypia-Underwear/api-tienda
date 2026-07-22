@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:13:54.650Z",
+  "generated_at": "2026-07-22T20:28:54.694Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5361,6 +5361,202 @@
       "image": "https://drive.google.com/thumbnail?id=1oGxZsEn55PyE1WLpxV0Ulit5b-74Dujy&sz=s600-rw",
       "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
       "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Surtido-38-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Rosa fuerte",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Rosa fuerte-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Rosa fuerte",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Rosa fuerte-38-Skypia Underwear"
+        },
+        {
+          "color": "Rosa fuerte",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Rosa fuerte-40-Skypia Underwear"
+        },
+        {
+          "color": "Rosa fuerte",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Rosa fuerte-42-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Marron-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Marron-38-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Marron-40-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Marron-42-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Negro-38-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Negro-40-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Negro-42-Skypia Underwear"
+        },
+        {
+          "color": "Violeta",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Violeta-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Violeta",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Violeta-38-Skypia Underwear"
+        },
+        {
+          "color": "Violeta",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Violeta-40-Skypia Underwear"
+        },
+        {
+          "color": "Violeta",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Violeta-42-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Celeste-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Celeste-38-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Celeste-40-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Celeste-42-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Azul pizarra-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "38",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Azul pizarra-38-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Azul pizarra-40-Skypia Underwear"
+        },
+        {
+          "color": "Azul pizarra",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "JOGG1309-Azul pizarra-42-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BOXE8078",
+      "sku": "Boxe005",
+      "model": "RACING",
+      "price": 2000,
+      "display_price": 2800,
+      "minor_surcharge": 0,
+      "category_id": "Boxer",
+      "categoryName": "Boxer",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "UOMO",
+      "style": "Estampado",
+      "material": "Algodon",
+      "sizes": "Surtido,S,M,L,XL,XXL,3XL,4XL",
+      "talles": "Surtido,S,M,L,XL,XXL,3XL,4XL",
+      "TALLES": "Surtido,S,M,L,XL,XXL,3XL,4XL",
+      "ageGroup": "Teens , Adulto",
+      "grupo_edad": "Teens , Adulto",
+      "GRUPO_EDAD": "Teens , Adulto",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
       "variations": [],
       "fecha_creacion": ""
     }
@@ -6023,6 +6219,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BOXE8078": [
+      {
+        "variedad_id": "BOXE8078-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2800,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE8078-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 3400,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE8078-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 3600,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6180,5 +6399,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784751352516
+  "timestamp_ms": 1784752265654
 }
