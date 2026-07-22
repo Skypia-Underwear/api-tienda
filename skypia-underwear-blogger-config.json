@@ -2081,6 +2081,160 @@
             {
               "codigo": 35,
               "categoria": "Jogging",
+              "nombre": "JOGG1309",
+              "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Polar Soft"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "GELUFEI"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Polar Soft"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG1309%0A%F0%9F%94%B9%20Modelo%3A%20Polar%20Soft%0A%F0%9F%94%B9%20Marca%3A%20GELUFEI%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1oGxZsEn55PyE1WLpxV0Ulit5b-74Dujy&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1oGxZsEn55PyE1WLpxV0Ulit5b-74Dujy&sz=s600-rw",
+                  "archivo_id": "1oGxZsEn55PyE1WLpxV0Ulit5b-74Dujy",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1oqp-j4aJt0dWxGcPOooDdQhoUOKwni_p&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1oqp-j4aJt0dWxGcPOooDdQhoUOKwni_p&sz=s600-rw",
+                  "archivo_id": "1oqp-j4aJt0dWxGcPOooDdQhoUOKwni_p",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1vFbAYnFaWGj0FrYVZokaEx8H3CUzP562&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vFbAYnFaWGj0FrYVZokaEx8H3CUzP562&sz=s600-rw",
+                  "archivo_id": "1vFbAYnFaWGj0FrYVZokaEx8H3CUzP562",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1DTS2sauakdPMhXGveSPUDBldOcyGru9Z&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1DTS2sauakdPMhXGveSPUDBldOcyGru9Z&sz=s600-rw",
+                  "archivo_id": "1DTS2sauakdPMhXGveSPUDBldOcyGru9Z",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1oUV1Ejw5D45ZoAoUqQsD6pYFVHKz61vM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1oUV1Ejw5D45ZoAoUqQsD6pYFVHKz61vM&sz=s600-rw",
+                  "archivo_id": "1oUV1Ejw5D45ZoAoUqQsD6pYFVHKz61vM",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=17os8WN1aIrxV0Cc7vair1gLH_wnucJR5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17os8WN1aIrxV0Cc7vair1gLH_wnucJR5&sz=s600-rw",
+                  "archivo_id": "17os8WN1aIrxV0Cc7vair1gLH_wnucJR5",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "RESELLER_SYNC",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-22T20:11:36.610Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 15400,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 16500,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19800,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 38,
+              "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
               "descripcion": {
@@ -2353,7 +2507,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 38,
+              "codigo": 41,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -2678,7 +2832,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 44,
+              "codigo": 47,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -2858,7 +3012,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 47,
+              "codigo": 50,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -3208,7 +3362,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 50,
+              "codigo": 53,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -3388,7 +3542,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 53,
+              "codigo": 56,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -3907,7 +4061,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 56,
+              "codigo": 59,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -4088,7 +4242,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 59,
+              "codigo": 62,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -4268,7 +4422,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 62,
+              "codigo": 65,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -5312,7 +5466,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 41,
+              "codigo": 44,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -5530,5 +5684,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784750434166
+  "timestamp_ms": 1784751360144
 }
