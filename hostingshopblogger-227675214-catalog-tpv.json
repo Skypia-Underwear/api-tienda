@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:13:55.375Z",
+  "generated_at": "2026-07-22T19:28:57.246Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -4854,6 +4854,33 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3853",
+      "sku": "529",
+      "model": "Tactico Ripstop Cargo 38-44",
+      "price": 30000,
+      "display_price": 42000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon",
+      "categoryName": "Pantalon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELT",
+      "style": "Liso",
+      "material": "FAJINA",
+      "sizes": "Surtido,38,40,42,44",
+      "talles": "Surtido,38,40,42,44",
+      "TALLES": "Surtido,38,40,42,44",
+      "ageGroup": "",
+      "grupo_edad": "",
+      "GRUPO_EDAD": "",
+      "image": "https://drive.google.com/thumbnail?id=1b24nlqW1zfP39n0aOW0jz4cqA-IHniIk&sz=s600-rw",
+      "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
+      "woo_id": "",
+      "variations": [],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5452,6 +5479,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT3853": [
+      {
+        "variedad_id": "PANT3853-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 42000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3853-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 45000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3853-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 54000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5609,5 +5659,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784747901599
+  "timestamp_ms": 1784748663471
 }
