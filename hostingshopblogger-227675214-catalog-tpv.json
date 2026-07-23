@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:13:54.375Z",
+  "generated_at": "2026-07-23T00:28:53.937Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5536,9 +5536,9 @@
     {
       "id": "BOXE8078",
       "sku": "Boxe005",
-      "model": "RACING",
-      "price": 2000,
-      "display_price": 2800,
+      "model": "Racing",
+      "price": 2200,
+      "display_price": 3080,
       "minor_surcharge": 0,
       "category_id": "Boxer",
       "categoryName": "Boxer",
@@ -5554,10 +5554,59 @@
       "ageGroup": "Teens , Adulto",
       "grupo_edad": "Teens , Adulto",
       "GRUPO_EDAD": "Teens , Adulto",
-      "image": "",
-      "carpeta_id": "",
+      "image": "https://drive.google.com/thumbnail?id=1XOVrd0yQPHNi0geTk832qtPI7zZUy3JO&sz=s600-rw",
+      "carpeta_id": "1kPxr_s5tHdBWT0aLQq1_fyQxXyQI_sM3",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8078-Surtido-4XL-Skypia Underwear"
+        }
+      ],
       "fecha_creacion": ""
     }
   ],
@@ -6224,21 +6273,21 @@
       {
         "variedad_id": "BOXE8078-Docena",
         "nombre": "Docena",
-        "precio_unitario": 2800,
+        "precio_unitario": 3080,
         "cantidad_minima": 12,
         "visible": true
       },
       {
         "variedad_id": "BOXE8078-Pack x3",
         "nombre": "Pack x3",
-        "precio_unitario": 3400,
+        "precio_unitario": 3740,
         "cantidad_minima": 3,
         "visible": true
       },
       {
         "variedad_id": "BOXE8078-Menor",
         "nombre": "Menor",
-        "precio_unitario": 3600,
+        "precio_unitario": 3960,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -6399,5 +6448,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784765751942
+  "timestamp_ms": 1784766639008
 }
