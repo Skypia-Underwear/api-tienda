@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:58:54.338Z",
+  "generated_at": "2026-07-23T02:13:54.585Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5686,8 +5686,8 @@
       "price": 19000,
       "display_price": 26600,
       "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
+      "category_id": "Short",
+      "categoryName": "Short",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Hombre",
@@ -6634,5 +6634,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784772052829
+  "timestamp_ms": 1784772936615
 }
