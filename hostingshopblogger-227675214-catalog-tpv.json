@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:58:54.933Z",
+  "generated_at": "2026-07-23T17:13:55.044Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -6634,5 +6634,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784826026129
+  "timestamp_ms": 1784826977637
 }
