@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:43:54.474Z",
+  "generated_at": "2026-07-23T01:58:54.338Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5678,6 +5678,76 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR2420",
+      "sku": "Berm002",
+      "model": "Clasic",
+      "price": 19000,
+      "display_price": 26600,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,42,43,44,46,48",
+      "talles": "Surtido,40,42,43,44,46,48",
+      "TALLES": "Surtido,40,42,43,44,46,48",
+      "ageGroup": "Teens , Adulto",
+      "grupo_edad": "Teens , Adulto",
+      "GRUPO_EDAD": "Teens , Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
+      "carpeta_id": "1N5Hu9tPPo-Sq29EKn0VTjH2rU0hcnIux",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "43",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-43-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-46-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "SHOR2420-Surtido-48-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6384,6 +6454,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "SHOR2420": [
+      {
+        "variedad_id": "SHOR2420-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 26600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR2420-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28500,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR2420-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34200,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6541,5 +6634,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784771133680
+  "timestamp_ms": 1784772052829
 }
