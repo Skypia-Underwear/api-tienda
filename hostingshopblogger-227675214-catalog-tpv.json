@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:43:56.493Z",
+  "generated_at": "2026-07-23T00:58:54.461Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5608,6 +5608,33 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BERM2366",
+      "sku": "Berm001",
+      "model": "Cargo",
+      "price": 21000,
+      "display_price": 29400,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Gabardina",
+      "sizes": "Surtido,40,42,43,44,46,48",
+      "talles": "Surtido,40,42,43,44,46,48",
+      "TALLES": "Surtido,40,42,43,44,46,48",
+      "ageGroup": "Teens , Adulto",
+      "grupo_edad": "Teens , Adulto",
+      "GRUPO_EDAD": "Teens , Adulto",
+      "image": "",
+      "carpeta_id": "15Kim0ITMtzjIoI66wI8MNidcKaFIYngT",
+      "woo_id": "",
+      "variations": [],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6291,6 +6318,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BERM2366": [
+      {
+        "variedad_id": "BERM2366-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 29400,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM2366-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 31500,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM2366-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 37800,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6448,5 +6498,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784767555998
+  "timestamp_ms": 1784768421867
 }
