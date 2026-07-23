@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:58:54.461Z",
+  "generated_at": "2026-07-23T01:13:54.660Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5630,10 +5630,53 @@
       "ageGroup": "Teens , Adulto",
       "grupo_edad": "Teens , Adulto",
       "GRUPO_EDAD": "Teens , Adulto",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1dbL0yxC_qCOXzZUL-vwlUJlmvqtPVE4B&sz=s600-rw",
       "carpeta_id": "15Kim0ITMtzjIoI66wI8MNidcKaFIYngT",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "40",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-40-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "42",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-42-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "43",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-43-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "44",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-44-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "46",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-46-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "48",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BERM2366-Surtido-48-Skypia Underwear"
+        }
+      ],
       "fecha_creacion": ""
     }
   ],
@@ -6498,5 +6541,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784768421867
+  "timestamp_ms": 1784769331014
 }
