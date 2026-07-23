@@ -5132,11 +5132,11 @@
               "codigo": 4,
               "categoria": "Boxer",
               "nombre": "BOXE8078",
-              "carpeta_id": "",
+              "carpeta_id": "1kPxr_s5tHdBWT0aLQq1_fyQxXyQI_sM3",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
-                  "valor": "RACING"
+                  "valor": "Racing"
                 },
                 "marca": {
                   "label": "Marca",
@@ -5185,35 +5185,96 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE8078%0A%F0%9F%94%B9%20Modelo%3A%20RACING%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE8078%0A%F0%9F%94%B9%20Modelo%3A%20Racing%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
                 }
               },
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1XOVrd0yQPHNi0geTk832qtPI7zZUy3JO&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XOVrd0yQPHNi0geTk832qtPI7zZUy3JO&sz=s600-rw",
+                  "archivo_id": "1XOVrd0yQPHNi0geTk832qtPI7zZUy3JO",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Qfg-WcTZotx4BpdhbkT0VhF8_1XMVTlb&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Qfg-WcTZotx4BpdhbkT0VhF8_1XMVTlb&sz=s600-rw",
+                  "archivo_id": "1Qfg-WcTZotx4BpdhbkT0VhF8_1XMVTlb",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1yk1jVY0ooYaw3K8Uj9XI--JfoxpoU1EQ&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1yk1jVY0ooYaw3K8Uj9XI--JfoxpoU1EQ&sz=s600-rw",
+                  "archivo_id": "1yk1jVY0ooYaw3K8Uj9XI--JfoxpoU1EQ",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1EVZdTdqc5fu2fIHq1oFpS5v0oPul6lxC&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1EVZdTdqc5fu2fIHq1oFpS5v0oPul6lxC&sz=s600-rw",
+                  "archivo_id": "1EVZdTdqc5fu2fIHq1oFpS5v0oPul6lxC",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1IlPScmQ6aIhQ4aZJ80DqIHXnVcKtsAK7&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1IlPScmQ6aIhQ4aZJ80DqIHXnVcKtsAK7&sz=s600-rw",
+                  "archivo_id": "1IlPScmQ6aIhQ4aZJ80DqIHXnVcKtsAK7",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1o4Sh6gAuVd9Pu4LXIIqqFnmNkOphyISa&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1o4Sh6gAuVd9Pu4LXIIqqFnmNkOphyISa&sz=s600-rw",
+                  "archivo_id": "1o4Sh6gAuVd9Pu4LXIIqqFnmNkOphyISa",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-23T00:22:07.463Z"
                 }
               ],
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 2800,
+                  "precio": 3080,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 3400,
+                  "precio": 3740,
                   "variedad": "Pack x3",
                   "minima": 3,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 3600,
+                  "precio": 3960,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -5814,5 +5875,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784755865569
+  "timestamp_ms": 1784766646395
 }
