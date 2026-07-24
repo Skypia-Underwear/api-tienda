@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T16:29:01.892Z",
+  "generated_at": "2026-07-24T16:43:56.154Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -5748,6 +5748,70 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CHOM6216",
+      "sku": "Chom001",
+      "model": "Clasic",
+      "price": 13000,
+      "display_price": 18200,
+      "minor_surcharge": 0,
+      "category_id": "Chomba",
+      "categoryName": "Chomba",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "I-RUN",
+      "style": "Liso",
+      "material": "Algodon",
+      "sizes": "Surtido,S,M,L,XL,2XL",
+      "talles": "Surtido,S,M,L,XL,2XL",
+      "TALLES": "Surtido,S,M,L,XL,2XL",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "1a3ELwB6UH0OiGj5SuIiN0wIE4x22c95b",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHOM6216-Surtido-2XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6477,6 +6541,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CHOM6216": [
+      {
+        "variedad_id": "CHOM6216-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 18200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CHOM6216-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19500,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "CHOM6216-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 23400,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6634,5 +6721,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784910693243
+  "timestamp_ms": 1784911583021
 }
