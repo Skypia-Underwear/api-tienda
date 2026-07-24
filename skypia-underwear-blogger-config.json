@@ -391,7 +391,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Hq2KJ7UG94Y8l_37bTR6n7SXTJts3yB6&sz=s1600-rw",
@@ -402,7 +402,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=13z10u8vs84YhW_Kqh2EHEMn69Yn7wMFk&sz=s1600-rw",
@@ -413,7 +413,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=10GyAQLUdJEywAgDE31rnok1QPcfmun1e&sz=s1600-rw",
@@ -424,7 +424,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WZL6KtSh0rBDCjFSYe7zdtn-mRRM4xOn&sz=s1600-rw",
@@ -435,7 +435,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1eOvVX74P4G7qCa8Z0WOoJbzAQ7aDpfBx&sz=s1600-rw",
@@ -446,7 +446,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=16T1F2GMYO5hfPOMbsIE0mhwDem1V_Ja9&sz=s1600-rw",
@@ -457,7 +457,7 @@
                   "fuente": "IA - Guía de Talles",
                   "rol": "GUIA_TALLES",
                   "orden": 8,
-                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                  "fecha_carga": "2026-07-24T04:47:17.678Z"
                 }
               ],
               "variedad": [
@@ -6322,5 +6322,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784864731355
+  "timestamp_ms": 1784869267149
 }
