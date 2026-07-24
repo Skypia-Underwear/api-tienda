@@ -1920,7 +1920,7 @@
               "codigo": 35,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
-              "carpeta_id": "1a3ELwB6UH0OiGj5SuIiN0wIE4x22c95b",
+              "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -1970,6 +1970,11 @@
                   "label": "UPD",
                   "valor": "24-07-2026"
                 },
+                "video": {
+                  "label": "Video",
+                  "url": "https://drive.google.com/file/d/1VA_dVp8FIRnJrE_2xysU3XaT5gEqCGQd/preview",
+                  "thumbnail": "https://drive.google.com/thumbnail?id=1VA_dVp8FIRnJrE_2xysU3XaT5gEqCGQd&sz=s600-rw"
+                },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
@@ -1979,9 +1984,114 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw",
+                  "archivo_id": "10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1a_BgwQsV8jNa1H34R4L9MPD_doXfd6qL&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1a_BgwQsV8jNa1H34R4L9MPD_doXfd6qL&sz=s600-rw",
+                  "archivo_id": "1a_BgwQsV8jNa1H34R4L9MPD_doXfd6qL",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1GbzKn8VuD5rymot6WKZ_sBkTdaBqw5k_&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1GbzKn8VuD5rymot6WKZ_sBkTdaBqw5k_&sz=s600-rw",
+                  "archivo_id": "1GbzKn8VuD5rymot6WKZ_sBkTdaBqw5k_",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Vm_29SJoxFGz9kv5iY-Ss1S9r6NNdz0D&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Vm_29SJoxFGz9kv5iY-Ss1S9r6NNdz0D&sz=s600-rw",
+                  "archivo_id": "1Vm_29SJoxFGz9kv5iY-Ss1S9r6NNdz0D",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1EQznQ-XhejWwLRWAz69l2u5i5JFvLIf3&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1EQznQ-XhejWwLRWAz69l2u5i5JFvLIf3&sz=s600-rw",
+                  "archivo_id": "1EQznQ-XhejWwLRWAz69l2u5i5JFvLIf3",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=15RFGcTqBcAU5FrXKBolu1DIxyV396Z8X&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=15RFGcTqBcAU5FrXKBolu1DIxyV396Z8X&sz=s600-rw",
+                  "archivo_id": "15RFGcTqBcAU5FrXKBolu1DIxyV396Z8X",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1S9usDNZhp_xfBjY9Gew67YoyEVql0bTQ&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1S9usDNZhp_xfBjY9Gew67YoyEVql0bTQ&sz=s600-rw",
+                  "archivo_id": "1S9usDNZhp_xfBjY9Gew67YoyEVql0bTQ",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1GIFm5XgyPcJwFZbDW_hgvJwXYANV3Afu&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1GIFm5XgyPcJwFZbDW_hgvJwXYANV3Afu&sz=s600-rw",
+                  "archivo_id": "1GIFm5XgyPcJwFZbDW_hgvJwXYANV3Afu",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=10_ItPaQxYRucwKyBfBuPzUETu6iZ8Q5I&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=10_ItPaQxYRucwKyBfBuPzUETu6iZ8Q5I&sz=s600-rw",
+                  "archivo_id": "10_ItPaQxYRucwKyBfBuPzUETu6iZ8Q5I",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 10,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13Q4138L2KTjnxlAWbDQ6DxP_IHj6_74O&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13Q4138L2KTjnxlAWbDQ6DxP_IHj6_74O&sz=s600-rw",
+                  "archivo_id": "13Q4138L2KTjnxlAWbDQ6DxP_IHj6_74O",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 11,
+                  "fecha_carga": "2026-07-24T16:56:40.354Z"
                 }
               ],
               "variedad": [
@@ -6422,5 +6532,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784911568299
+  "timestamp_ms": 1784912419899
 }
