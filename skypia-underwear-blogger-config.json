@@ -380,7 +380,7 @@
                   "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR2420%0A%F0%9F%94%B9%20Modelo%3A%20Clasic%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2043%2C%2044%2C%2046%2C%2048"
                 }
               },
-              "guia_talles_img": "",
+              "guia_talles_img": "https://drive.google.com/thumbnail?id=16T1F2GMYO5hfPOMbsIE0mhwDem1V_Ja9&sz=s1600-rw",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s1600-rw",
@@ -391,7 +391,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Hq2KJ7UG94Y8l_37bTR6n7SXTJts3yB6&sz=s1600-rw",
@@ -402,7 +402,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=13z10u8vs84YhW_Kqh2EHEMn69Yn7wMFk&sz=s1600-rw",
@@ -413,7 +413,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=10GyAQLUdJEywAgDE31rnok1QPcfmun1e&sz=s1600-rw",
@@ -424,7 +424,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WZL6KtSh0rBDCjFSYe7zdtn-mRRM4xOn&sz=s1600-rw",
@@ -435,7 +435,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1eOvVX74P4G7qCa8Z0WOoJbzAQ7aDpfBx&sz=s1600-rw",
@@ -446,7 +446,18 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-07-23T01:46:56.330Z"
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=16T1F2GMYO5hfPOMbsIE0mhwDem1V_Ja9&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16T1F2GMYO5hfPOMbsIE0mhwDem1V_Ja9&sz=s600-rw",
+                  "archivo_id": "16T1F2GMYO5hfPOMbsIE0mhwDem1V_Ja9",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA - Guía de Talles",
+                  "rol": "GUIA_TALLES",
+                  "orden": 8,
+                  "fecha_carga": "2026-07-24T02:27:15.586Z"
                 }
               ],
               "variedad": [
@@ -6311,5 +6322,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1784842240886
+  "timestamp_ms": 1784860258928
 }
