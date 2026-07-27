@@ -4900,6 +4900,50 @@
           "desactivarRecargoTransferencia": false
         }
       ]
+    },
+    "TIENDA_PRINCIPAL": {
+      "CAJA_WEB": [
+        {
+          "id": "PED-CRM-MS3EDQSX",
+          "fecha": "2026-07-27 12:44",
+          "origen": "Pedido Local",
+          "estado": "COTIZADO",
+          "total": 722400,
+          "clienteId": "LEAD-664461",
+          "nombreCliente": "Publico General",
+          "tiendaId": "TIENDA_PRINCIPAL",
+          "metodoPago": "A_CONVENIR",
+          "cajaId": "CAJA_WEB",
+          "asesor": "CHATBOT_CRM",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "PED-CRM-MS3EDQSX-333",
+              "descripcion": "Docena",
+              "cantidad": 12,
+              "precioUnitario": 60200,
+              "subtotal": 722400,
+              "tipoPrecio": "Docena",
+              "productoId": "CAMP7014",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "Docena"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 722400,
+          "subtotal": 722400,
+          "tipoVenta": "COTIZACION_CRM",
+          "compraMinima": 0,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
+      ]
     }
   },
   "cajasMetadata": {
@@ -4972,13 +5016,20 @@
       "fecha": "2026-07-17",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO"
+    },
+    "CAJA_WEB": {
+      "fecha": "N/A",
+      "tienda": "TIENDA_PRINCIPAL",
+      "asesor": "CHATBOT_CRM"
     }
   },
   "filterOptions": {
     "origenes": [
-      "Skypia Underwear"
+      "Skypia Underwear",
+      "TIENDA_PRINCIPAL"
     ],
     "metodosPago": [
+      "A_CONVENIR",
       "Efectivo",
       "Presupuesto",
       "Tarjeta Credito",
@@ -5051,5 +5102,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1784912750055
+  "timestamp_ms": 1785168352832
 }
