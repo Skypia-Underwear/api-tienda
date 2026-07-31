@@ -53,7 +53,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-62C482D0",
@@ -93,7 +95,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-91115FBD",
@@ -133,7 +137,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-6882CAB9",
@@ -173,7 +179,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-4127BE61",
@@ -213,7 +221,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-F5A20A32",
@@ -253,7 +263,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-208B8D3A",
@@ -293,7 +305,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-5B4D9B19",
@@ -333,7 +347,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-8C69F1C3",
@@ -373,7 +389,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-E6511C1C",
@@ -413,7 +431,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-9425CEC0",
@@ -453,7 +473,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-610AA139",
@@ -493,7 +515,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-648167D1",
@@ -533,7 +557,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-B3A5F6A5",
@@ -573,7 +599,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-A69970E8",
@@ -613,7 +641,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-20F4E9BF",
@@ -653,7 +683,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-43347AB9",
@@ -693,7 +725,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-FAF8E953",
@@ -733,7 +767,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-86E86F2D",
@@ -773,7 +809,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-B44BD735",
@@ -813,7 +851,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-27D3D7FD",
@@ -853,7 +893,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-0547C10A",
@@ -893,7 +935,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-E5CDCF12",
@@ -933,7 +977,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-D81A0FA1",
@@ -973,7 +1019,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-7A1E2053",
@@ -1013,7 +1061,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-73D4D3C0",
@@ -1053,7 +1103,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-57640F66",
@@ -1093,7 +1145,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-6DAD4E48",
@@ -1133,7 +1187,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-740EAD61",
@@ -1197,7 +1253,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-4F4252A5",
@@ -1273,7 +1331,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-7AE07812",
@@ -1325,7 +1385,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-EEE0FD7B",
@@ -1389,7 +1451,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-D24D3AB3",
@@ -1513,7 +1577,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-367BB90B",
@@ -1601,7 +1667,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-597F4BC1",
@@ -1665,7 +1733,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-9923C8E8",
@@ -1705,7 +1775,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-698E1C51",
@@ -1745,7 +1817,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-40FB7BF1",
@@ -1797,7 +1871,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-420BF3D6",
@@ -1837,7 +1913,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-B813084C",
@@ -1877,7 +1955,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "B-E97E7E9A",
@@ -1917,7 +1997,9 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-41331950-5777-45c8-b8ba-dca88b99ce6c": [
@@ -1959,7 +2041,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-c1ca7197-e34f-403e-a0f8-7766a2bb660f": [
@@ -2001,7 +2085,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1781651637908",
@@ -2077,7 +2163,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1781652835051",
@@ -2165,7 +2253,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1781653620741",
@@ -2217,7 +2307,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "0f4a5c04": [
@@ -2259,7 +2351,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 3,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-e1990ba0-5a86-45ed-b3ca-3b077c9860d6": [
@@ -2325,7 +2419,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1781667620871",
@@ -2389,7 +2485,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1781669258833",
@@ -2441,7 +2539,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-44543d5a-74b0-41a3-9717-5459bd59e49c": [
@@ -2495,7 +2595,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782014491133",
@@ -2547,7 +2649,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782014510020",
@@ -2599,7 +2703,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782014729164",
@@ -2687,7 +2793,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-0b4326d9-1fcc-428e-9d6f-7a7a2c829f81": [
@@ -2753,7 +2861,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782182179985",
@@ -2805,7 +2915,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782182960533",
@@ -2881,7 +2993,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782183180358",
@@ -2957,7 +3071,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-96a06aa0-ebb0-4059-8c15-10c842051e54": [
@@ -3011,7 +3127,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-2890fc2f-fc7d-4cbe-813e-34c4b0089fc2": [
@@ -3077,7 +3195,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782317111601",
@@ -3141,7 +3261,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-7ce9cb9f-49a6-463f-835d-f9ba7caa0c50": [
@@ -3219,7 +3341,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782696573622",
@@ -3379,7 +3503,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782700466180",
@@ -3575,7 +3701,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782701721958",
@@ -3783,7 +3911,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1782701879237",
@@ -3967,7 +4097,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-2e0568a6-02d5-4c5d-a4b5-de463a20f741": [
@@ -4153,7 +4285,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-2cb32992-871f-4fff-8887-eb92299102d7": [
@@ -4231,7 +4365,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1783391762882",
@@ -4307,7 +4443,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-dd76310d-e38f-40a4-8d3f-203bae057348": [
@@ -4373,7 +4511,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1783439998633",
@@ -4473,7 +4613,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1783451960683",
@@ -4573,7 +4715,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1783453198991",
@@ -4637,7 +4781,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 6,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-11fe2119-f187-4728-b27e-03d95b99905b": [
@@ -4691,7 +4837,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ],
       "CR-9488c823-7c99-4797-8820-18c499feee56": [
@@ -4757,7 +4905,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1784305976780",
@@ -4833,7 +4983,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         },
         {
           "id": "TPV-1784326693920",
@@ -4897,7 +5049,9 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -4941,7 +5095,9 @@
           "tipoVenta": "COTIZACION_CRM",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": "Retiro local"
         }
       ]
     }
@@ -5102,5 +5258,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785168352832
+  "timestamp_ms": 1785470756894
 }
