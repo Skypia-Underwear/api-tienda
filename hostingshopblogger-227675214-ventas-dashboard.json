@@ -50,8 +50,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -144,8 +144,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -191,8 +191,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -238,8 +238,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -379,8 +379,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -567,8 +567,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -661,8 +661,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -708,8 +708,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -755,8 +755,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -802,8 +802,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -896,8 +896,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -990,8 +990,8 @@
               "color": "Surtido",
               "talle": "Surtido",
               "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
-              "categoriaPadre": "General",
-              "categoria": "General",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
               "inversion": 0,
               "ganancia": 252000
             }
@@ -6070,7 +6070,7 @@
               "talle": "N/A",
               "variedadId": "Docena",
               "categoriaPadre": "INDUMENTARIA",
-              "categoria": "Campera",
+              "categoria": "MOTO HARSH RACING (Docena)",
               "inversion": 0,
               "ganancia": 722400
             }
@@ -6244,5 +6244,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785611160112
+  "timestamp_ms": 1785621950355
 }
