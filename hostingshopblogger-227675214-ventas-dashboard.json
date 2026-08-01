@@ -33,7 +33,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "B-1D937AFF-1",
@@ -45,7 +49,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -88,7 +96,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -131,7 +143,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -174,7 +190,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -217,7 +237,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -260,7 +284,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -303,7 +331,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -346,7 +378,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -389,7 +425,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -432,7 +472,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -475,7 +519,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -518,7 +566,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -561,7 +613,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -604,7 +660,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -647,7 +707,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -690,7 +754,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -733,7 +801,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -776,7 +848,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -819,7 +895,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -862,7 +942,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -905,7 +989,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             }
           ],
           "pagoEfectivo": 0,
@@ -948,7 +1036,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -991,7 +1083,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -1034,7 +1130,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -1077,7 +1177,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -1120,7 +1224,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -1163,7 +1271,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -1206,7 +1318,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             }
           ],
           "pagoEfectivo": 0,
@@ -1249,7 +1365,11 @@
               "productoId": "PANT2685",
               "color": "Gris",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Gris-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Gris-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 150000
             },
             {
               "id": "B-740EAD61-32",
@@ -1261,7 +1381,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 150000
             },
             {
               "id": "B-740EAD61-33",
@@ -1273,7 +1397,11 @@
               "productoId": "PANT2685",
               "color": "Amarillo mostaza",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Amarillo mostaza-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Amarillo mostaza-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 150000
             }
           ],
           "pagoEfectivo": 0,
@@ -1316,7 +1444,11 @@
               "productoId": "PANT7095",
               "color": "Negro",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Negro-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Negro-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 60000
             },
             {
               "id": "B-4F4252A5-35",
@@ -1328,7 +1460,11 @@
               "productoId": "PANT7095",
               "color": "Gris",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Gris-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Gris-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 60000
             },
             {
               "id": "B-4F4252A5-36",
@@ -1340,7 +1476,11 @@
               "productoId": "PANT7095",
               "color": "Bordo",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Bordo-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Bordo-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 60000
             },
             {
               "id": "B-4F4252A5-37",
@@ -1352,7 +1492,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 60000
             }
           ],
           "pagoEfectivo": 0,
@@ -1395,7 +1539,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 150000
             },
             {
               "id": "B-7AE07812-39",
@@ -1407,7 +1555,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": 40,
-              "variedadId": "PANT2685-Arena-40-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-40-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 45000
             }
           ],
           "pagoEfectivo": 0,
@@ -1450,7 +1602,11 @@
               "productoId": "BERM9381",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BERM9381-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BERM9381-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 126000
             },
             {
               "id": "B-EEE0FD7B-41",
@@ -1462,7 +1618,11 @@
               "productoId": "BERM1416",
               "color": "null",
               "talle": "Surtido",
-              "variedadId": "BERM1416-null-Surtido-Skypia Underwear"
+              "variedadId": "BERM1416-null-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 74700
             },
             {
               "id": "B-EEE0FD7B-42",
@@ -1474,7 +1634,11 @@
               "productoId": "BERM3702",
               "color": "null",
               "talle": "Surtido",
-              "variedadId": "BERM3702-null-Surtido-Skypia Underwear"
+              "variedadId": "BERM3702-null-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 228000
             }
           ],
           "pagoEfectivo": 0,
@@ -1517,7 +1681,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "B-D24D3AB3-44",
@@ -1529,7 +1697,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "B-D24D3AB3-45",
@@ -1541,7 +1713,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             },
             {
               "id": "B-D24D3AB3-46",
@@ -1553,7 +1729,11 @@
               "productoId": "JOGG1168",
               "color": "Negro",
               "talle": "XL",
-              "variedadId": "JOGG1168-Negro-XL-Skypia Underwear"
+              "variedadId": "JOGG1168-Negro-XL-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 27000
             },
             {
               "id": "B-D24D3AB3-47",
@@ -1565,7 +1745,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 150000
             },
             {
               "id": "B-D24D3AB3-48",
@@ -1577,7 +1761,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": 38,
-              "variedadId": "PANT2685-Arena-38-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-38-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 45000
             },
             {
               "id": "B-D24D3AB3-49",
@@ -1589,7 +1777,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "XXL",
-              "variedadId": "BOXE4797-Surtido-XXL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-XXL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "B-D24D3AB3-50",
@@ -1601,7 +1793,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "XXL",
-              "variedadId": "BOXE4793-Surtido-XXL-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-XXL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             }
           ],
           "pagoEfectivo": 0,
@@ -1644,7 +1840,11 @@
               "productoId": "JOGG1168",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "JOGG1168-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 252000
             },
             {
               "id": "B-367BB90B-52",
@@ -1656,7 +1856,11 @@
               "productoId": "PANT7095",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 134400
             },
             {
               "id": "B-367BB90B-53",
@@ -1668,7 +1872,11 @@
               "productoId": "PANT2685",
               "color": "Arena",
               "talle": "Surtido",
-              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear"
+              "variedadId": "PANT2685-Arena-Surtido-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 90000
             },
             {
               "id": "B-367BB90B-54",
@@ -1680,7 +1888,11 @@
               "productoId": "PANT2685",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "PANT2685-Gris-40-Skypia Underwear"
+              "variedadId": "PANT2685-Gris-40-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 90000
             },
             {
               "id": "B-367BB90B-55",
@@ -1692,7 +1904,11 @@
               "productoId": "PANT2685",
               "color": "Amarillo mostaza",
               "talle": 42,
-              "variedadId": "PANT2685-Amarillo mostaza-42-Skypia Underwear"
+              "variedadId": "PANT2685-Amarillo mostaza-42-Skypia Underwear",
+              "categoriaPadre": "General",
+              "categoria": "General",
+              "inversion": 0,
+              "ganancia": 90000
             }
           ],
           "pagoEfectivo": 0,
@@ -1735,7 +1951,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "B-597F4BC1-57",
@@ -1747,7 +1967,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "B-597F4BC1-58",
@@ -1759,7 +1983,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             }
           ],
           "pagoEfectivo": 0,
@@ -1802,7 +2030,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 0,
@@ -1845,7 +2077,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 0,
@@ -1888,7 +2124,11 @@
               "productoId": "BOXE5151",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 43680
             },
             {
               "id": "B-40FB7BF1-62",
@@ -1900,7 +2140,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "XL",
-              "variedadId": "BOXE4793-Surtido-XL-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             }
           ],
           "pagoEfectivo": 0,
@@ -1943,7 +2187,11 @@
               "productoId": "REME4798",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "REME4798-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "REME4798-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Remera",
+              "inversion": 0,
+              "ganancia": 25200
             }
           ],
           "pagoEfectivo": 0,
@@ -1986,7 +2234,11 @@
               "productoId": "CAMP5671",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5671-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP5671-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 638400
             }
           ],
           "pagoEfectivo": 0,
@@ -2029,7 +2281,11 @@
               "productoId": "CHAL1354",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Chaleco",
+              "inversion": 0,
+              "ganancia": 72000
             }
           ],
           "pagoEfectivo": 0,
@@ -2074,7 +2330,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             }
           ],
           "pagoEfectivo": 4000,
@@ -2119,7 +2379,11 @@
               "productoId": "CAMP2546",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 2419200
             }
           ],
           "pagoEfectivo": 0,
@@ -2162,7 +2426,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781651637908-174",
@@ -2174,7 +2442,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781651637908-175",
@@ -2186,7 +2458,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781651637908-176",
@@ -2198,7 +2474,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "3XL",
-              "variedadId": "BOXE4797-Surtido-3XL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-3XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             }
           ],
           "pagoEfectivo": 0,
@@ -2241,7 +2521,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1781652835051-178",
@@ -2253,7 +2537,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781652835051-179",
@@ -2265,7 +2553,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781652835051-180",
@@ -2277,7 +2569,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "3XL",
-              "variedadId": "BOXE4793-Surtido-3XL-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-3XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781652835051-181",
@@ -2289,7 +2585,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             }
           ],
           "pagoEfectivo": 0,
@@ -2332,7 +2632,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1781653620741-183",
@@ -2344,7 +2648,11 @@
               "productoId": "BOXE5151",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE5151-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE5151-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 13260
             }
           ],
           "pagoEfectivo": 0,
@@ -2389,7 +2697,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 30000,
+              "ganancia": 12000
             }
           ],
           "pagoEfectivo": 0,
@@ -2434,7 +2746,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1781667548981-186",
@@ -2446,7 +2762,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 84000
             },
             {
               "id": "TPV-1781667548981-187",
@@ -2458,7 +2778,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "XL",
-              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 0,
@@ -2501,7 +2825,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1781667620871-189",
@@ -2513,7 +2841,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1781667620871-190",
@@ -2525,7 +2857,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             }
           ],
           "pagoEfectivo": 0,
@@ -2568,7 +2904,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1781669258833-192",
@@ -2580,7 +2920,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 4000,
@@ -2625,7 +2969,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 67200
             },
             {
               "id": "TPV-1782014460394-194",
@@ -2637,7 +2985,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 14400
             }
           ],
           "pagoEfectivo": 25000,
@@ -2680,7 +3032,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 7200
             },
             {
               "id": "TPV-1782014491133-196",
@@ -2692,7 +3048,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 33600
             }
           ],
           "pagoEfectivo": 0,
@@ -2735,7 +3095,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 3600
             },
             {
               "id": "TPV-1782014510020-198",
@@ -2747,7 +3111,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 100800
             }
           ],
           "pagoEfectivo": 0,
@@ -2790,7 +3158,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782014729164-200",
@@ -2802,7 +3174,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782014729164-201",
@@ -2814,7 +3190,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782014729164-202",
@@ -2826,7 +3206,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782014729164-203",
@@ -2838,7 +3222,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 51000,
@@ -2883,7 +3271,11 @@
               "productoId": "CAMP2546",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 64800
             },
             {
               "id": "TPV-1782181628853-205",
@@ -2895,7 +3287,11 @@
               "productoId": "CAMP5784",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 180000
             },
             {
               "id": "TPV-1782181628853-206",
@@ -2907,7 +3303,11 @@
               "productoId": "CAMP9305",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP9305-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP9305-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 68400
             }
           ],
           "pagoEfectivo": 0,
@@ -2950,7 +3350,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782182179985-208",
@@ -2962,7 +3366,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 25500
             }
           ],
           "pagoEfectivo": 0,
@@ -3005,7 +3413,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "4XL",
-              "variedadId": "BOXE4797-Surtido-4XL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-4XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782182960533-210",
@@ -3017,7 +3429,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782182960533-211",
@@ -3029,7 +3445,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782182960533-212",
@@ -3041,7 +3461,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 25500
             }
           ],
           "pagoEfectivo": 50000,
@@ -3084,7 +3508,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782183180358-214",
@@ -3096,7 +3524,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 33600
             },
             {
               "id": "TPV-1782183180358-215",
@@ -3108,7 +3540,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782183180358-216",
@@ -3120,7 +3556,11 @@
               "productoId": "CAMP5784",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 840000
             }
           ],
           "pagoEfectivo": 500000,
@@ -3165,7 +3605,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782184314483-218",
@@ -3177,7 +3621,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 84000
             }
           ],
           "pagoEfectivo": 0,
@@ -3222,7 +3670,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "M",
-              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             },
             {
               "id": "TPV-1782310458525-220",
@@ -3234,7 +3686,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 25500
             },
             {
               "id": "TPV-1782310458525-221",
@@ -3246,7 +3702,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 12750
             }
           ],
           "pagoEfectivo": 0,
@@ -3289,7 +3749,11 @@
               "productoId": "PANT7095",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1782317111601-223",
@@ -3301,7 +3765,11 @@
               "productoId": "CAMP2546",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP2546-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 64800
             },
             {
               "id": "TPV-1782317111601-224",
@@ -3313,7 +3781,11 @@
               "productoId": "SUET1224",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "SUET1224-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "SUET1224-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Sueter",
+              "inversion": 0,
+              "ganancia": 369600
             }
           ],
           "pagoEfectivo": 0,
@@ -3358,7 +3830,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782694502377-226",
@@ -3370,7 +3846,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1782694502377-227",
@@ -3382,7 +3862,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1782694502377-228",
@@ -3394,7 +3878,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "S",
-              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             }
           ],
           "pagoEfectivo": 0,
@@ -3437,7 +3925,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782696573622-230",
@@ -3449,7 +3941,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             },
             {
               "id": "TPV-1782696573622-231",
@@ -3461,7 +3957,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-232",
@@ -3473,7 +3973,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-233",
@@ -3485,7 +3989,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 48,
-              "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-234",
@@ -3497,7 +4005,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-235",
@@ -3509,7 +4021,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-236",
@@ -3521,7 +4037,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-237",
@@ -3533,7 +4053,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-238",
@@ -3545,7 +4069,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782696573622-239",
@@ -3557,7 +4085,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             }
           ],
           "pagoEfectivo": 25000,
@@ -3600,7 +4132,11 @@
               "productoId": "BOXE5151",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 43680
             },
             {
               "id": "TPV-1782700466180-241",
@@ -3612,7 +4148,11 @@
               "productoId": "BOXE5151",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE5151-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE5151-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4680
             },
             {
               "id": "TPV-1782700466180-242",
@@ -3624,7 +4164,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782700466180-243",
@@ -3636,7 +4180,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": "Surtido",
-              "variedadId": "JOGG2883-Gris-Surtido-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782700466180-244",
@@ -3648,7 +4196,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             },
             {
               "id": "TPV-1782700466180-245",
@@ -3660,7 +4212,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-246",
@@ -3672,7 +4228,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-247",
@@ -3684,7 +4244,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 48,
-              "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-248",
@@ -3696,7 +4260,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-249",
@@ -3708,7 +4276,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-250",
@@ -3720,7 +4292,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-251",
@@ -3732,7 +4308,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-252",
@@ -3744,7 +4324,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782700466180-253",
@@ -3756,7 +4340,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             }
           ],
           "pagoEfectivo": 50000,
@@ -3799,7 +4387,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782701721958-255",
@@ -3811,7 +4403,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             },
             {
               "id": "TPV-1782701721958-256",
@@ -3823,7 +4419,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-257",
@@ -3835,7 +4435,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-258",
@@ -3847,7 +4451,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 48,
-              "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-259",
@@ -3859,7 +4467,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-260",
@@ -3871,7 +4483,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-261",
@@ -3883,7 +4499,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-262",
@@ -3895,7 +4515,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-263",
@@ -3907,7 +4531,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-264",
@@ -3919,7 +4547,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701721958-265",
@@ -3931,7 +4563,11 @@
               "productoId": "BOXE5151",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE5151-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 43680
             },
             {
               "id": "TPV-1782701721958-266",
@@ -3943,7 +4579,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "XL",
-              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782701721958-267",
@@ -3955,7 +4595,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 33600
             },
             {
               "id": "TPV-1782701721958-268",
@@ -3967,7 +4611,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 3600
             }
           ],
           "pagoEfectivo": 50000,
@@ -4010,7 +4658,11 @@
               "productoId": "PANT7095",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 134400
             },
             {
               "id": "TPV-1782701879237-270",
@@ -4022,7 +4674,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-271",
@@ -4034,7 +4690,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-272",
@@ -4046,7 +4706,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-273",
@@ -4058,7 +4722,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-274",
@@ -4070,7 +4738,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-275",
@@ -4082,7 +4754,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-276",
@@ -4094,7 +4770,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-277",
@@ -4106,7 +4786,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-278",
@@ -4118,7 +4802,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 48,
-              "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 15000
             },
             {
               "id": "TPV-1782701879237-279",
@@ -4130,7 +4818,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "3XL",
-              "variedadId": "BOXE4797-Surtido-3XL-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-3XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1782701879237-280",
@@ -4142,7 +4834,11 @@
               "productoId": "CAMI9176",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMI9176-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMI9176-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Camiseta",
+              "inversion": 0,
+              "ganancia": 151200
             },
             {
               "id": "TPV-1782701879237-281",
@@ -4154,7 +4850,11 @@
               "productoId": "CHAL1354",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Chaleco",
+              "inversion": 0,
+              "ganancia": 14400
             }
           ],
           "pagoEfectivo": 50000,
@@ -4199,7 +4899,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 168000
             },
             {
               "id": "TPV-1782744157061-283",
@@ -4211,7 +4915,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 40,
-              "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-284",
@@ -4223,7 +4931,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 44,
-              "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-285",
@@ -4235,7 +4947,11 @@
               "productoId": "JOGG2883",
               "color": "Gris",
               "talle": 48,
-              "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Gris-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-286",
@@ -4247,7 +4963,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-287",
@@ -4259,7 +4979,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 44,
-              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-288",
@@ -4271,7 +4995,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 48,
-              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-289",
@@ -4283,7 +5011,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 40,
-              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-290",
@@ -4295,7 +5027,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-291",
@@ -4307,7 +5043,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 48,
-              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-48-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 30000
             },
             {
               "id": "TPV-1782744157061-292",
@@ -4319,7 +5059,11 @@
               "productoId": "CAMP9305",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP9305-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP9305-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 638400
             },
             {
               "id": "TPV-1782744157061-293",
@@ -4331,7 +5075,11 @@
               "productoId": "CAMP5784",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP5784-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 90000
             },
             {
               "id": "TPV-1782744157061-294",
@@ -4343,7 +5091,11 @@
               "productoId": "SUET1224",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "SUET1224-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "SUET1224-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Sueter",
+              "inversion": 0,
+              "ganancia": 39600
             }
           ],
           "pagoEfectivo": 0,
@@ -4388,7 +5140,11 @@
               "productoId": "REME4798",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "REME4798-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "REME4798-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Remera",
+              "inversion": 0,
+              "ganancia": 50400
             },
             {
               "id": "TPV-1783391673842-296",
@@ -4400,7 +5156,11 @@
               "productoId": "CAMI9176",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMI9176-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMI9176-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Camiseta",
+              "inversion": 0,
+              "ganancia": 151200
             },
             {
               "id": "TPV-1783391673842-297",
@@ -4412,7 +5172,11 @@
               "productoId": "CHAL1354",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CHAL1354-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Chaleco",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783391673842-298",
@@ -4424,7 +5188,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             }
           ],
           "pagoEfectivo": 0,
@@ -4467,7 +5235,11 @@
               "productoId": "CONJ6330",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CONJ6330-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CONJ6330-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjunto 2",
+              "inversion": 0,
+              "ganancia": 756000
             },
             {
               "id": "TPV-1783391762882-300",
@@ -4479,7 +5251,11 @@
               "productoId": "CONJ6330",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CONJ6330-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CONJ6330-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjunto 2",
+              "inversion": 0,
+              "ganancia": 70000
             },
             {
               "id": "TPV-1783391762882-301",
@@ -4491,7 +5267,11 @@
               "productoId": "CAMP5671",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5671-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "CAMP5671-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 638400
             },
             {
               "id": "TPV-1783391762882-302",
@@ -4503,7 +5283,11 @@
               "productoId": "PANT5738",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "PANT5738-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "PANT5738-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 436800
             }
           ],
           "pagoEfectivo": 0,
@@ -4548,7 +5332,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1783439713890-304",
@@ -4560,7 +5348,11 @@
               "productoId": "BOXE4793",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1783439713890-305",
@@ -4572,7 +5364,11 @@
               "productoId": "JOGG2883",
               "color": "Surtido",
               "talle": 40,
-              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
+              "variedadId": "JOGG2883-Surtido-40-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 18000
             }
           ],
           "pagoEfectivo": 0,
@@ -4615,7 +5411,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "2XL",
-              "variedadId": "PANT7095-Azul marino-2XL-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783439998633-307",
@@ -4627,7 +5427,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "L",
-              "variedadId": "PANT7095-Azul marino-L-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-L-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783439998633-308",
@@ -4639,7 +5443,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "M",
-              "variedadId": "PANT7095-Azul marino-M-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-M-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783439998633-309",
@@ -4651,7 +5459,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "S",
-              "variedadId": "PANT7095-Azul marino-S-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-S-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783439998633-310",
@@ -4663,7 +5475,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783439998633-311",
@@ -4675,7 +5491,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "XL",
-              "variedadId": "PANT7095-Azul marino-XL-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             }
           ],
           "pagoEfectivo": 0,
@@ -4718,7 +5538,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "2XL",
-              "variedadId": "PANT7095-Azul marino-2XL-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783451960683-313",
@@ -4730,7 +5554,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "L",
-              "variedadId": "PANT7095-Azul marino-L-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-L-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783451960683-314",
@@ -4742,7 +5570,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "M",
-              "variedadId": "PANT7095-Azul marino-M-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-M-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783451960683-315",
@@ -4754,7 +5586,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "S",
-              "variedadId": "PANT7095-Azul marino-S-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-S-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783451960683-316",
@@ -4766,7 +5602,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "Surtido",
-              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-Surtido-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             },
             {
               "id": "TPV-1783451960683-317",
@@ -4778,7 +5618,11 @@
               "productoId": "PANT7095",
               "color": "Azul marino",
               "talle": "XL",
-              "variedadId": "PANT7095-Azul marino-XL-Skypia Underwear"
+              "variedadId": "PANT7095-Azul marino-XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon",
+              "inversion": 0,
+              "ganancia": 14400
             }
           ],
           "pagoEfectivo": 0,
@@ -4821,7 +5665,11 @@
               "productoId": "JOGG9403",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "JOGG9403-Surtido-L-Skypia Underwear"
+              "variedadId": "JOGG9403-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 13000
             },
             {
               "id": "TPV-1783453198991-319",
@@ -4833,7 +5681,11 @@
               "productoId": "JOGG2883",
               "color": "Verde Militar",
               "talle": 44,
-              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
+              "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 10000
             },
             {
               "id": "TPV-1783453198991-320",
@@ -4845,7 +5697,11 @@
               "productoId": "JOGG9403",
               "color": "Surtido",
               "talle": "XL",
-              "variedadId": "JOGG9403-Surtido-XL-Skypia Underwear"
+              "variedadId": "JOGG9403-Surtido-XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 13000
             }
           ],
           "pagoEfectivo": 0,
@@ -4890,7 +5746,11 @@
               "productoId": "CAMP8564",
               "color": "Amarillo mostaza",
               "talle": "2XL",
-              "variedadId": "CAMP8564-Amarillo mostaza-2XL-Skypia Underwear"
+              "variedadId": "CAMP8564-Amarillo mostaza-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 27000
             },
             {
               "id": "TPV-1784255945325-322",
@@ -4902,7 +5762,11 @@
               "productoId": "CAMP8564",
               "color": "Amarillo mostaza",
               "talle": "3XL",
-              "variedadId": "CAMP8564-Amarillo mostaza-3XL-Skypia Underwear"
+              "variedadId": "CAMP8564-Amarillo mostaza-3XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 27000
             }
           ],
           "pagoEfectivo": 0,
@@ -4947,7 +5811,11 @@
               "productoId": "BOXE7915",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "BOXE7915-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BOXE7915-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             },
             {
               "id": "TPV-1784305811415-324",
@@ -4959,7 +5827,11 @@
               "productoId": "BOXE5151",
               "color": "Azul",
               "talle": "4XL",
-              "variedadId": "BOXE5151-Azul-4XL-Skypia Underwear"
+              "variedadId": "BOXE5151-Azul-4XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4680
             },
             {
               "id": "TPV-1784305811415-325",
@@ -4971,7 +5843,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
             }
           ],
           "pagoEfectivo": 0,
@@ -5014,7 +5890,11 @@
               "productoId": "BOXE4797",
               "color": "Surtido",
               "talle": "L",
-              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1784305976780-327",
@@ -5026,7 +5906,11 @@
               "productoId": "CONJ6330",
               "color": "Surtido",
               "talle": "2XL",
-              "variedadId": "CONJ6330-Surtido-2XL-Skypia Underwear"
+              "variedadId": "CONJ6330-Surtido-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjunto 2",
+              "inversion": 0,
+              "ganancia": 70000
             },
             {
               "id": "TPV-1784305976780-328",
@@ -5038,7 +5922,11 @@
               "productoId": "MEDI4227",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 3600
             },
             {
               "id": "TPV-1784305976780-329",
@@ -5050,7 +5938,11 @@
               "productoId": "JOGG9403",
               "color": "Gris claro",
               "talle": "L",
-              "variedadId": "JOGG9403-Gris claro-L-Skypia Underwear"
+              "variedadId": "JOGG9403-Gris claro-L-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 218400
             }
           ],
           "pagoEfectivo": 0,
@@ -5093,7 +5985,11 @@
               "productoId": "BOXE7915",
               "color": "Azul acero",
               "talle": "3XL",
-              "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
+              "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1784326693920-331",
@@ -5105,7 +6001,11 @@
               "productoId": "BOXE7915",
               "color": "Azul marino",
               "talle": "L",
-              "variedadId": "BOXE7915-Azul marino-L-Skypia Underwear"
+              "variedadId": "BOXE7915-Azul marino-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             },
             {
               "id": "TPV-1784326693920-332",
@@ -5117,7 +6017,11 @@
               "productoId": "BOXE7915",
               "color": "Morado",
               "talle": "S",
-              "variedadId": "BOXE7915-Morado-S-Skypia Underwear"
+              "variedadId": "BOXE7915-Morado-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
             }
           ],
           "pagoEfectivo": 0,
@@ -5164,7 +6068,11 @@
               "productoId": "CAMP7014",
               "color": "N/A",
               "talle": "N/A",
-              "variedadId": "Docena"
+              "variedadId": "Docena",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 722400
             }
           ],
           "pagoEfectivo": 0,
@@ -5336,5 +6244,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785531973589
+  "timestamp_ms": 1785611160112
 }
