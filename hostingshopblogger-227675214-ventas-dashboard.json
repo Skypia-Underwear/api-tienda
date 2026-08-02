@@ -313,12 +313,133 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": [
+        {
+          "id": "TPV-1785705569576",
+          "fecha": "2026-08-02 18:19",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 203588,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-08-02",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
+          "cbuTransferencia": 93242292312,
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 18508,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785705569576-6",
+              "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "XL",
+              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
+            },
+            {
+              "id": "TPV-1785705569576-7",
+              "descripcion": "BOXE5151-Surtido-M-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4680,
+              "subtotal": 4680,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE5151",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "BOXE5151-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4680
+            },
+            {
+              "id": "TPV-1785705569576-8",
+              "descripcion": "CONJ6330-Negro-2XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 70000,
+              "subtotal": 70000,
+              "tipoPrecio": "Menor",
+              "productoId": "CONJ6330",
+              "color": "Negro",
+              "talle": "2XL",
+              "variedadId": "CONJ6330-Negro-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjunto 2",
+              "inversion": 0,
+              "ganancia": 70000
+            },
+            {
+              "id": "TPV-1785705569576-9",
+              "descripcion": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 3600,
+              "subtotal": 3600,
+              "tipoPrecio": "Menor",
+              "productoId": "MEDI4227",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 3600
+            },
+            {
+              "id": "TPV-1785705569576-10",
+              "descripcion": "CAMP2546-Amarillo mostaza-2XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 64800,
+              "subtotal": 64800,
+              "tipoPrecio": "Menor",
+              "productoId": "CAMP2546",
+              "color": "Amarillo mostaza",
+              "talle": "2XL",
+              "variedadId": "CAMP2546-Amarillo mostaza-2XL-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Campera",
+              "inversion": 0,
+              "ganancia": 64800
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 185080,
+          "subtotal": 185080,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     }
   },
   "cajasMetadata": {
     "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": {
       "fecha": "2026-08-01",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO"
+    },
+    "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": {
+      "fecha": "2026-08-02",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO"
     }
@@ -328,7 +449,8 @@
       "Skypia Underwear"
     ],
     "metodosPago": [
-      "Efectivo"
+      "Efectivo",
+      "Transferencia"
     ],
     "metodosPagoIcons": {
       "Efectivo": {
@@ -478,5 +600,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785701156055
+  "timestamp_ms": 1785705903504
 }
