@@ -7,7 +7,7 @@
           "id": "B-4DA7262A",
           "fecha": "2026-08-01 21:08",
           "origen": "Blogger",
-          "estado": "SOLICITADO",
+          "estado": "ENTREGADO",
           "total": 3455400,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
@@ -255,5 +255,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785629403850
+  "timestamp_ms": 1785629956534
 }
