@@ -17,6 +17,7 @@
           "cajaId": "N/A",
           "asesor": "N/A",
           "fechaCaja": "N/A",
+          "datosTransferenciaId": "",
           "bancoTransferencia": "N/A",
           "aliasTransferencia": "N/A",
           "nombreCuentaTransferencia": "N/A",
@@ -197,6 +198,7 @@
           "cajaId": "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df",
           "asesor": "JUAN DIEGO",
           "fechaCaja": "2026-08-01",
+          "datosTransferenciaId": "",
           "bancoTransferencia": "N/A",
           "aliasTransferencia": "N/A",
           "nombreCuentaTransferencia": "N/A",
@@ -329,6 +331,7 @@
           "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
           "asesor": "JUAN DIEGO",
           "fechaCaja": "2026-08-02",
+          "datosTransferenciaId": "0535c0a7",
           "bancoTransferencia": "Mercado Pago",
           "aliasTransferencia": "Ricaldisimo",
           "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
@@ -600,5 +603,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785705903504
+  "timestamp_ms": 1785711949716
 }
