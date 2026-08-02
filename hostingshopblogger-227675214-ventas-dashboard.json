@@ -19,6 +19,9 @@
           "fechaCaja": "N/A",
           "bancoTransferencia": "N/A",
           "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
           "costoEnvio": 0,
           "recargoTransferencia": 0,
           "recargoMenor": 0,
@@ -196,6 +199,9 @@
           "fechaCaja": "2026-08-01",
           "bancoTransferencia": "N/A",
           "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
           "costoEnvio": 0,
           "recargoTransferencia": 0,
           "recargoMenor": 0,
@@ -354,6 +360,88 @@
       "DIRECTA",
       "PEDIDO",
       "WEB"
+    ],
+    "cuentasTransferencia": [
+      {
+        "cuentaId": "0535c0a7",
+        "banco": "Mercado Pago",
+        "nombreCuenta": "Juan Diego Ricaldi SImon",
+        "alias": "Ricaldisimo",
+        "cbu": 93242292312,
+        "color": "Azul",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "MercadoPago - 02",
+        "banco": "MercadoPago",
+        "nombreCuenta": "Julia Miryan Fernandez",
+        "alias": "D.MIRYAN.2946",
+        "cbu": "3100002211800271",
+        "color": "Celeste",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "MercadoPago - 07",
+        "banco": "MercadoPago",
+        "nombreCuenta": "Yamil Colque Fernández",
+        "alias": "huir.pozo.bueno.mp",
+        "cbu": 3100076494873820,
+        "color": "Beige",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "MercadoPago - 08",
+        "banco": "MercadoPago",
+        "nombreCuenta": "Montaño Rodriguez",
+        "alias": "CAST.FER.29",
+        "cbu": "3100054757247427",
+        "color": "Violeta",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "MercadoPago - 09",
+        "banco": "MercadoPago",
+        "nombreCuenta": "Bryan Colque Fernandez",
+        "alias": "br.3295",
+        "cbu": "3100054928135814",
+        "color": "Coral",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "Banco Ciudad - 10",
+        "banco": "Banco Ciudad",
+        "nombreCuenta": "Colque Fernandez Bryan",
+        "alias": "PISADA.MISION.NOVIO",
+        "cbu": "290013110000001919939",
+        "color": "Bordo",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "Banco Frances - 11",
+        "banco": "Banco Frances",
+        "nombreCuenta": "Bryan Colque Fernandez  (BANCO  FRANCES)",
+        "alias": "SUIZA.BANCO.MALTA",
+        "cbu": "170025140000003403231",
+        "color": "Azul",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      },
+      {
+        "cuentaId": "Banco Provincia - 12",
+        "banco": "Banco Provincia",
+        "nombreCuenta": "Bryan Colque Fernandez",
+        "alias": "BOLSA.FOCO.PAMPA",
+        "cbu": "140005203400551895196",
+        "color": "Verde",
+        "tipoCuenta": "PERSONAL",
+        "estado": true
+      }
     ]
   },
   "productImageMap": {
@@ -390,5 +478,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785630833382
+  "timestamp_ms": 1785701156055
 }
