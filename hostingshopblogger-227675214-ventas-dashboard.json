@@ -432,6 +432,142 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": [
+        {
+          "id": "TPV-1785954420999",
+          "fecha": "2026-08-05 15:27",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 42000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-08-05",
+          "datosTransferenciaId": "0535c0a7",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
+          "cbuTransferencia": 93242292312,
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785954420999-11",
+              "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "L",
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 42000,
+          "subtotal": 42000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1785954548703",
+          "fecha": "2026-08-05 15:29",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 783000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-08-05",
+          "datosTransferenciaId": "0535c0a7",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
+          "cbuTransferencia": 93242292312,
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785954548703-12",
+              "descripcion": "CONJ6330-Surtido-M-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 63000,
+              "subtotal": 756000,
+              "tipoPrecio": "Docena",
+              "productoId": "CONJ6330",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "CONJ6330-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Conjunto 2",
+              "inversion": 0,
+              "ganancia": 756000
+            },
+            {
+              "id": "TPV-1785954548703-13",
+              "descripcion": "JOGG9403-Surtido-M-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 23400,
+              "subtotal": 23400,
+              "tipoPrecio": "Menor",
+              "productoId": "JOGG9403",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "JOGG9403-Surtido-M-Skypia Underwear",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Jogging",
+              "inversion": 0,
+              "ganancia": 23400
+            },
+            {
+              "id": "TPV-1785954548703-14",
+              "descripcion": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 3600,
+              "subtotal": 3600,
+              "tipoPrecio": "Menor",
+              "productoId": "MEDI4227",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Medias",
+              "inversion": 0,
+              "ganancia": 3600
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 783000,
+          "subtotal": 783000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     }
   },
@@ -443,6 +579,11 @@
     },
     "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": {
       "fecha": "2026-08-02",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO"
+    },
+    "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": {
+      "fecha": "2026-08-05",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO"
     }
@@ -603,5 +744,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785711949716
+  "timestamp_ms": 1785956753924
 }
