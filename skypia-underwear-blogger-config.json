@@ -1173,17 +1173,6 @@
                   "fecha_carga": "2026-07-03T01:53:25.021Z"
                 },
                 {
-                  "url": "https://drive.google.com/thumbnail?id=17T2OdlLiGPP9qi8EXJ4Iq8rGqsHzwGuc&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17T2OdlLiGPP9qi8EXJ4Iq8rGqsHzwGuc&sz=s600-rw",
-                  "archivo_id": "17T2OdlLiGPP9qi8EXJ4Iq8rGqsHzwGuc",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 12,
-                  "fecha_carga": "2026-07-03T01:53:25.021Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=1rBhz_gtZMoqSRea1taCDk8D3XA0hp_MF&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1rBhz_gtZMoqSRea1taCDk8D3XA0hp_MF&sz=s600-rw",
                   "archivo_id": "1rBhz_gtZMoqSRea1taCDk8D3XA0hp_MF",
@@ -6565,5 +6554,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1785978044183
+  "timestamp_ms": 1785979847798
 }
