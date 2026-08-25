@@ -568,6 +568,59 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": [
+        {
+          "id": "TPV-1787693298411",
+          "fecha": "2026-08-25 18:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 42000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-08-25",
+          "datosTransferenciaId": "0535c0a7",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
+          "cbuTransferencia": 93242292312,
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787693298411-15",
+              "descripcion": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4793",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE4793-Surtido-Surtido-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 42000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 42000,
+          "subtotal": 42000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     }
   },
@@ -584,6 +637,11 @@
     },
     "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": {
       "fecha": "2026-08-05",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO"
+    },
+    "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": {
+      "fecha": "2026-08-25",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO"
     }
@@ -744,5 +802,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1785956753924
+  "timestamp_ms": 1787695554107
 }
