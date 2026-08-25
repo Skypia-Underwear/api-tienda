@@ -670,14 +670,6 @@
       "Tarjeta Credito": {
         "porcentaje": 0.23,
         "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
-      },
-      "Factura IVA": {
-        "porcentaje": 0.21,
-        "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-      },
-      "Presupuesto": {
-        "porcentaje": 0,
-        "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
       }
     },
     "tiposVenta": [
@@ -802,5 +794,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1787695554107
+  "timestamp_ms": 1787699156773
 }
