@@ -1857,7 +1857,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1F-nQyQgcqpuD2opuFXASrOdyXcOYqm5t&sz=s1600-rw",
@@ -1868,7 +1868,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Pz3WrZBveBpk0c7yVuM1wOJCztcsJyls&sz=s1600-rw",
@@ -1879,7 +1879,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1n9X0Y9wSUfjHlfiqwC5yZmavVYsVi9Ym&sz=s1600-rw",
@@ -1890,7 +1890,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 8,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=18-0GvH3Kr19IPmQgG6bgjB4kv6CVBcOE&sz=s1600-rw",
@@ -1901,18 +1901,29 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 9,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1a1tqa8RDfHcua5v3Eter8w_mbEcgOahT&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1a1tqa8RDfHcua5v3Eter8w_mbEcgOahT&sz=s600-rw",
                   "archivo_id": "1a1tqa8RDfHcua5v3Eter8w_mbEcgOahT",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 11,
-                  "fecha_carga": "2026-08-05T18:39:36.419Z"
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1JqoESzq3urAMYZxGHCy2iupMLMCZVybH&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1JqoESzq3urAMYZxGHCy2iupMLMCZVybH&sz=s600-rw",
+                  "archivo_id": "1JqoESzq3urAMYZxGHCy2iupMLMCZVybH",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 12,
+                  "fecha_carga": "2026-08-25T14:27:11.038Z"
                 }
               ],
               "variedad": [
@@ -6587,5 +6598,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1787659277975
+  "timestamp_ms": 1787668227341
 }
