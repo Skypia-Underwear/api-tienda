@@ -180,7 +180,16 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
@@ -313,7 +322,16 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": [
@@ -430,7 +448,16 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": [
@@ -483,7 +510,16 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1785954548703",
@@ -566,7 +602,16 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": [
@@ -619,7 +664,76 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
-          "detalleAuditoriaIA": ""
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "FACTURA_B",
+          "estadoFacturacion": "PENDIENTE_FACTURA",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 34710.74,
+          "montoIva": 7289.26
+        },
+        {
+          "id": "TPV-1787711669558",
+          "fecha": "2026-08-25 23:34",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4500,
+          "clienteId": "CLI004",
+          "nombreCliente": "María Pérez cuéllar",
+          "telefonoCliente": 541143996217,
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-08-25",
+          "datosTransferenciaId": "0535c0a7",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "nombreCuentaTransferencia": "Juan Diego Ricaldi SImon",
+          "cbuTransferencia": 93242292312,
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787711669558-16",
+              "descripcion": "BOXE4797-Surtido-S-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "S",
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear",
+              "categoriaPadre": "ROPA INTERIOR",
+              "categoria": "Boxer",
+              "inversion": 0,
+              "ganancia": 4500
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": "",
+          "tipoComprobante": "FACTURA_C",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     }
@@ -794,5 +908,5 @@
     "SHOR2420": "https://drive.google.com/thumbnail?id=1hD1ekXjawz1wLhOwupIpMNbW7eFlFsAf&sz=s600-rw",
     "CHOM6216": "https://drive.google.com/thumbnail?id=10iFVAHE4jjx6EBXP9AvNS1RJy2M-lENf&sz=s600-rw"
   },
-  "timestamp_ms": 1787699156773
+  "timestamp_ms": 1787711738773
 }
