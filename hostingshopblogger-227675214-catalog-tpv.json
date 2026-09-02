@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:58:57.686Z",
+  "generated_at": "2026-09-02T11:13:54.616Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -191,8 +191,8 @@
   },
   "categories": [
     {
-      "id": "Cinturon",
-      "name": "Cinturon",
+      "id": "CINTURON",
+      "name": "CINTURON",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
     },
     {
@@ -6701,5 +6701,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788346823931
+  "timestamp_ms": 1788347726227
 }
