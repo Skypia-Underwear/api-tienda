@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:43:54.510Z",
+  "generated_at": "2026-09-04T17:58:54.915Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -6426,6 +6426,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "MEDI2973",
+      "sku": "Medi002",
+      "model": "prueba 2",
+      "price": 1800,
+      "display_price": 2520,
+      "minor_surcharge": 0,
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELEMENTO",
+      "style": "Liso",
+      "material": "Algodon y poliester",
+      "sizes": "Surtido,T Unico 38-42",
+      "talles": "Surtido,T Unico 38-42",
+      "TALLES": "Surtido,T Unico 38-42",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1taitZjyreEMncXCmj8O-Ecxgb43frxCz&sz=s600-rw",
+      "carpeta_id": "1YCjlgKO0TU4KnCLYJXBvSstLfn-L7pbK",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "MEDI2973-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "T Unico 38",
+          "store_id": "42-Skypia Underwear",
+          "variation_id": "MEDI2973-Surtido-T Unico 38-42-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -7238,6 +7278,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "MEDI2973": [
+      {
+        "variedad_id": "MEDI2973-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2520,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI2973-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 3060,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI2973-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 3240,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -7375,5 +7438,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788543919939
+  "timestamp_ms": 1788544836918
 }
