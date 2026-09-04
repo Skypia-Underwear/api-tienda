@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:13:54.485Z",
+  "generated_at": "2026-09-04T16:28:54.231Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -6254,6 +6254,178 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BOXE8950",
+      "sku": "",
+      "model": "Dragon ball",
+      "price": 2500,
+      "display_price": 4000,
+      "minor_surcharge": 0,
+      "category_id": "BOXER",
+      "categoryName": "BOXER",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "HOMBRE",
+      "brand": "UOMO",
+      "style": "Estampado",
+      "material": "Algodón",
+      "sizes": "Surtido, S, M, L, XL, XXL, 3XL, 4XL",
+      "talles": "Surtido, S, M, L, XL, XXL, 3XL, 4XL",
+      "TALLES": "Surtido, S, M, L, XL, XXL, 3XL, 4XL",
+      "ageGroup": "ADULTOS",
+      "grupo_edad": "ADULTOS",
+      "GRUPO_EDAD": "ADULTOS",
+      "image": "https://lh3.googleusercontent.com/d/14OIiz5BL4n9I-3FGlNm7a-hHkYjD4PpZ",
+      "carpeta_id": "1-9D6DKXJIPNOt3J6bBqf-KXQ7Uy7d3J0",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Negro-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-S-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-M-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-L-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Azul-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-S-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-M-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-L-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE8950-Blanco-4XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -7043,6 +7215,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BOXE8950": [
+      {
+        "variedad_id": "BOXE8950-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 4000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE8950-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4500,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE8950-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 5500,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -7180,5 +7375,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788538574329
+  "timestamp_ms": 1788539433175
 }
