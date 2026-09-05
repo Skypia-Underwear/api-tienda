@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:28:53.991Z",
+  "generated_at": "2026-09-05T02:43:54.315Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -6506,6 +6506,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "MEDI4292",
+      "sku": "Medi004",
+      "model": "PRUEBA 4",
+      "price": 2500,
+      "display_price": 3500,
+      "minor_surcharge": 0,
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELEMENTO",
+      "style": "Liso",
+      "material": "Algodon y poliester",
+      "sizes": "Surtido,T Unico 38-42",
+      "talles": "Surtido,T Unico 38-42",
+      "TALLES": "Surtido,T Unico 38-42",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1PnNPCCb1L4M2kFaOSawfvyVqm_8BheLS&sz=s600-rw",
+      "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "MEDI4292-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "T Unico 38",
+          "store_id": "42-Skypia Underwear",
+          "variation_id": "MEDI4292-Surtido-T Unico 38-42-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -7364,6 +7404,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "MEDI4292": [
+      {
+        "variedad_id": "MEDI4292-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 3500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI4292-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 4250,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI4292-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 4500,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -7501,5 +7564,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788575424270
+  "timestamp_ms": 1788576346778
 }
