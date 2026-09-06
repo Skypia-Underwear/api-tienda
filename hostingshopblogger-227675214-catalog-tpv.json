@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:58:54.100Z",
+  "generated_at": "2026-09-06T22:13:54.378Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -6586,6 +6586,448 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BOXE7940",
+      "sku": "BOXE008",
+      "model": "123456",
+      "price": 1500,
+      "display_price": 2100,
+      "minor_surcharge": 0,
+      "category_id": "BOXER",
+      "categoryName": "BOXER",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "UOMO",
+      "style": "Estampado",
+      "material": "Algodón",
+      "sizes": "Surtido,1,2,3,4,5,6,7,8,9,10,12,14,16,18,4 al 14,S,M,L,XL,XXL,3XL,4XL",
+      "talles": "Surtido,1,2,3,4,5,6,7,8,9,10,12,14,16,18,4 al 14,S,M,L,XL,XXL,3XL,4XL",
+      "TALLES": "Surtido,1,2,3,4,5,6,7,8,9,10,12,14,16,18,4 al 14,S,M,L,XL,XXL,3XL,4XL",
+      "ageGroup": "ADULTOS",
+      "grupo_edad": "ADULTOS",
+      "GRUPO_EDAD": "ADULTOS",
+      "image": "https://drive.google.com/thumbnail?id=18FWQb_rlD9a5Houc3PLuYzJNWpwZejWH&sz=s600-rw",
+      "carpeta_id": "1wjxvewu7mwLngKgniar58hTv3NgDOizs",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "1",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-1-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "2",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-2-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-3-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-4-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "5",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-5-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-6-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "7",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-7-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-8-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "9",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-9-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-10-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-12-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-14-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "16",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-16-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "18",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-18-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4 al 14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-4 al 14-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Surtido-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "1",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-1-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "2",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-2-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-3-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-4-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "5",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-5-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-6-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "7",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-7-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-8-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "9",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-9-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-10-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-12-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-14-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "16",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-16-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "18",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-18-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4 al 14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-4 al 14-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Negro-4XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "1",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-1-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "2",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-2-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "3",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-3-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-4-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "5",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-5-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-6-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "7",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-7-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-8-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "9",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-9-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-10-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-12-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-14-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "16",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-16-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "18",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-18-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4 al 14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-4 al 14-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-S-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-M-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-L-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XXL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-XXL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "3XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-3XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "BOXE7940-Blanco-4XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -7490,6 +7932,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BOXE7940": [
+      {
+        "variedad_id": "BOXE7940-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 2100,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE7940-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 2550,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "BOXE7940-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 2700,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -7627,5 +8092,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788732069909
+  "timestamp_ms": 1788732927698
 }
