@@ -455,6 +455,105 @@
             {
               "codigo": 18,
               "categoria": "BOXER",
+              "nombre": "BOXE7940",
+              "carpeta_id": "1wjxvewu7mwLngKgniar58hTv3NgDOizs",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "123456"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "UOMO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "ADULTOS",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Estampado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "06-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BOXE7940%0A%F0%9F%94%B9%20Modelo%3A%20123456%0A%F0%9F%94%B9%20Marca%3A%20UOMO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20ADULTOS%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=18FWQb_rlD9a5Houc3PLuYzJNWpwZejWH&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18FWQb_rlD9a5Houc3PLuYzJNWpwZejWH&sz=s600-rw",
+                  "archivo_id": "18FWQb_rlD9a5Houc3PLuYzJNWpwZejWH",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-06T22:10:03.984Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 2100,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 2550,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 2700,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-06T03:00:00.000Z"
+            },
+            {
+              "codigo": 21,
+              "categoria": "BOXER",
               "nombre": "BOXE8950",
               "carpeta_id": "1-9D6DKXJIPNOt3J6bBqf-KXQ7Uy7d3J0",
               "descripcion": {
@@ -1139,7 +1238,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
           "producto": [
             {
-              "codigo": 21,
+              "codigo": 24,
               "categoria": "Calza",
               "nombre": "CALZ3504",
               "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
@@ -1293,7 +1392,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 29,
+              "codigo": 32,
               "categoria": "Campera",
               "nombre": "CAMP2546",
               "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -1506,7 +1605,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 31,
+              "codigo": 34,
               "categoria": "Campera",
               "nombre": "CAMP5671",
               "carpeta_id": "1gc2wDVDGDyEeeAYEercM0Be8Pl4qmSc3",
@@ -1636,7 +1735,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 33,
+              "codigo": 36,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -1826,7 +1925,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 35,
+              "codigo": 38,
               "categoria": "Campera",
               "nombre": "CAMP7014",
               "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
@@ -2022,7 +2121,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 37,
+              "codigo": 40,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -2224,7 +2323,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 39,
+              "codigo": 42,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -2372,7 +2471,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 41,
+              "codigo": 44,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -2564,7 +2663,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chomba.svg",
           "producto": [
             {
-              "codigo": 43,
+              "codigo": 46,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
               "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
@@ -2774,7 +2873,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 49,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -3026,7 +3125,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 49,
+              "codigo": 52,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -3206,7 +3305,7 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 52,
+              "codigo": 55,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -3394,7 +3493,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 55,
+              "codigo": 58,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
@@ -3585,7 +3684,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 58,
+              "codigo": 61,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -3859,7 +3958,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 64,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -4184,7 +4283,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 79,
+              "codigo": 82,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -4364,7 +4463,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 82,
+              "codigo": 85,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -4714,7 +4813,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 88,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -4894,7 +4993,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 88,
+              "codigo": 91,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -5413,7 +5512,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 91,
+              "codigo": 94,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -5594,7 +5693,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 94,
+              "codigo": 97,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -5774,7 +5873,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 100,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -6605,7 +6704,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg",
           "producto": [
             {
-              "codigo": 23,
+              "codigo": 26,
               "categoria": "Camiseta",
               "nombre": "CAMI1911",
               "carpeta_id": "1Q5b7wPHt69aVJZ1fEurBypqmZZcR786V",
@@ -6785,7 +6884,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 26,
+              "codigo": 29,
               "categoria": "Camiseta",
               "nombre": "CAMI9176",
               "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
@@ -6972,7 +7071,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 64,
+              "codigo": 67,
               "categoria": "Medias",
               "nombre": "MEDI2973",
               "carpeta_id": "1YCjlgKO0TU4KnCLYJXBvSstLfn-L7pbK",
@@ -7071,7 +7170,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 67,
+              "codigo": 70,
               "categoria": "Medias",
               "nombre": "MEDI3642",
               "carpeta_id": "1Ope4B15qKT7tyVflAsxlHJFknYGyQCE1",
@@ -7170,7 +7269,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 70,
+              "codigo": 73,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -7350,7 +7449,7 @@
               "upd": "2026-04-21T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 76,
               "categoria": "Medias",
               "nombre": "MEDI4292",
               "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
@@ -7449,7 +7548,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 76,
+              "codigo": 79,
               "categoria": "Medias",
               "nombre": "MEDI7479",
               "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
@@ -7586,5 +7685,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1788726644807
+  "timestamp_ms": 1788732930991
 }
