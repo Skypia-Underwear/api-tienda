@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:13:54.426Z",
+  "generated_at": "2026-09-06T23:28:54.629Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7028,6 +7028,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "MEDI1042",
+      "sku": "Medi006",
+      "model": "1478",
+      "price": 1256,
+      "display_price": 1759,
+      "minor_surcharge": 0,
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELEMENTO",
+      "style": "Liso",
+      "material": "Algodon y poliester",
+      "sizes": "Surtido,T Unico 38-42",
+      "talles": "Surtido,T Unico 38-42",
+      "TALLES": "Surtido,T Unico 38-42",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
+      "carpeta_id": "1CH2pSBBS2EzxQSw1uRIkP-huJKUYMUUy",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "MEDI1042-Surtido-Surtido-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -7955,6 +7989,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "MEDI1042": [
+      {
+        "variedad_id": "MEDI1042-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 1759,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI1042-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 2136,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI1042-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 2261,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -8092,5 +8149,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788736523919
+  "timestamp_ms": 1788737419830
 }
