@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:43:54.300Z",
+  "generated_at": "2026-09-06T23:58:55.351Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7059,6 +7059,52 @@
           "size": "Surtido",
           "store_id": "Skypia Underwear",
           "variation_id": "MEDI1042-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "T Unico 38",
+          "store_id": "42-Skypia Underwear",
+          "variation_id": "MEDI1042-Surtido-T Unico 38-42-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "MEDI1658",
+      "sku": "Medi007",
+      "model": "1265",
+      "price": 1234,
+      "display_price": 1728,
+      "minor_surcharge": 0,
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "ELEMENTO",
+      "style": "Liso",
+      "material": "Algodon y poliester",
+      "sizes": "Surtido,T Unico 38-42",
+      "talles": "Surtido,T Unico 38-42",
+      "TALLES": "Surtido,T Unico 38-42",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw",
+      "carpeta_id": "1VAnq2n6jHVQTvdEUzic7XfElPiixvKzb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "MEDI1658-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "T Unico 38",
+          "store_id": "42-Skypia Underwear",
+          "variation_id": "MEDI1658-Surtido-T Unico 38-42-Skypia Underwear"
         }
       ],
       "fecha_creacion": ""
@@ -8012,6 +8058,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "MEDI1658": [
+      {
+        "variedad_id": "MEDI1658-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 1728,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI1658-Pack x3",
+        "nombre": "Pack x3",
+        "precio_unitario": 2098,
+        "cantidad_minima": 3,
+        "visible": true
+      },
+      {
+        "variedad_id": "MEDI1658-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 2222,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -8149,5 +8218,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788738373133
+  "timestamp_ms": 1788739234990
 }
