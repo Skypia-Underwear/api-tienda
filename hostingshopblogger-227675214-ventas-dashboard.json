@@ -138,6 +138,46 @@
           "compraMinima": 0,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "B-B0675FD1",
+          "fecha": "2026-09-07 23:09",
+          "origen": "Blogger",
+          "estado": "SOLICITADO",
+          "total": 64800,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "N/A",
+          "cajaId": "N/A",
+          "asesor": "N/A",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "B-B0675FD1-9",
+              "descripcion": "CAMP2546 ( Menor - Amarillo mostaza - 2XL )",
+              "cantidad": 1,
+              "precioUnitario": 64800,
+              "subtotal": 64800,
+              "tipoPrecio": "Menor",
+              "productoId": "CAMP2546",
+              "color": "Amarillo mostaza",
+              "talle": "2XL",
+              "variedadId": "CAMP2546-Amarillo mostaza-2XL-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64800,
+          "subtotal": 64800,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 0,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
@@ -717,5 +757,5 @@
     "MEDI1042": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
     "MEDI1658": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw"
   },
-  "timestamp_ms": 1788739554198
+  "timestamp_ms": 1788836749567
 }
