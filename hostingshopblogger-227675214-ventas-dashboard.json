@@ -838,6 +838,126 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788921385780",
+          "fecha": "2026-09-08 23:36",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4500,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788921385780-26",
+              "descripcion": "BOXE7915-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE7915",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE7915-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788922502004",
+          "fecha": "2026-09-08 23:55",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4500,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788922502004-27",
+              "descripcion": "BOXE4793-Surtido-L-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4793",
+              "color": "Surtido",
+              "talle": "L",
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788922550579",
+          "fecha": "2026-09-08 23:55",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4500,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788922550579-28",
+              "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "XL",
+              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     }
@@ -948,5 +1068,5 @@
     "MEDI1042": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
     "MEDI1658": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw"
   },
-  "timestamp_ms": 1788919559130
+  "timestamp_ms": 1788923151621
 }
