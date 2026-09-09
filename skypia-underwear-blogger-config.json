@@ -168,7 +168,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "230",
+                  "valor": "229",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -205,7 +205,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "10"
+                          "stock": "9"
                         },
                         {
                           "talle": "M",
@@ -320,7 +320,7 @@
                         },
                         {
                           "talle": "S",
-                          "stock": "10"
+                          "stock": "9"
                         },
                         {
                           "talle": "M",
@@ -7912,5 +7912,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1788945375847
+  "timestamp_ms": 1788958835108
 }
