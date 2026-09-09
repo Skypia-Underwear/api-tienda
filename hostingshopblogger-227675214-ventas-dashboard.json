@@ -958,6 +958,162 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788923291947",
+          "fecha": "2026-09-09 09:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 11000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "costoEnvio": 0,
+          "recargoTransferencia": 1000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788923291947-29",
+              "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE7915",
+              "color": "Azul acero",
+              "talle": "3XL",
+              "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1788923291947-30",
+              "descripcion": "BOXE7529-Negro-S-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 5500,
+              "subtotal": 5500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE7529",
+              "color": "Negro",
+              "talle": "S",
+              "variedadId": "BOXE7529-Negro-S-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 10000,
+          "subtotal": 10000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788958734283",
+          "fecha": "2026-09-09 09:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 84000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788958734283-31",
+              "descripcion": "BOXE4793-Surtido-M-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4793",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1788958734283-32",
+              "descripcion": "BOXE4793-Surtido-L-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4793",
+              "color": "Surtido",
+              "talle": "L",
+              "variedadId": "BOXE4793-Surtido-L-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 84000,
+          "subtotal": 84000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1788958759811",
+          "fecha": "2026-09-09 09:59",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 160200,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-08",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1788958759811-33",
+              "descripcion": "CAMI1911-Turquesa-S-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 12600,
+              "subtotal": 151200,
+              "tipoPrecio": "Docena",
+              "productoId": "CAMI1911",
+              "color": "Turquesa",
+              "talle": "S",
+              "variedadId": "CAMI1911-Turquesa-S-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1788958759811-34",
+              "descripcion": "CAMI1911-Gris-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 9000,
+              "subtotal": 9000,
+              "tipoPrecio": "-",
+              "productoId": "CAMI1911",
+              "color": "Gris",
+              "talle": "Surtido",
+              "variedadId": "CAMI1911-Gris-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 160200,
+          "subtotal": 160200,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     }
@@ -1068,5 +1224,5 @@
     "MEDI1042": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
     "MEDI1658": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw"
   },
-  "timestamp_ms": 1788923151621
+  "timestamp_ms": 1788959156756
 }
