@@ -612,7 +612,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "240",
+                  "valor": "220",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -689,19 +689,11 @@
                           "stock": "10"
                         },
                         {
-                          "talle": "M",
-                          "stock": "10"
-                        },
-                        {
                           "talle": "L",
                           "stock": "10"
                         },
                         {
                           "talle": "XL",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": "XXL",
                           "stock": "10"
                         },
                         {
@@ -7912,5 +7904,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789075839983
+  "timestamp_ms": 1789083071840
 }
