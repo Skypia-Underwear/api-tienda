@@ -1275,6 +1275,148 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-46a601bc-ff95-48b5-9d58-fd3809287d63": [
+        {
+          "id": "TPV-1789082332026",
+          "fecha": "2026-09-10 20:18",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 447300,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-46a601bc-ff95-48b5-9d58-fd3809287d63",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789082332026-41",
+              "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "L",
+              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789082332026-42",
+              "descripcion": "BOXE4793-Surtido-M-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4793",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789082332026-43",
+              "descripcion": "BERM2366-Surtido-40-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 29400,
+              "subtotal": 352800,
+              "tipoPrecio": "Docena",
+              "productoId": "BERM2366",
+              "color": "Surtido",
+              "talle": 40,
+              "variedadId": "BERM2366-Surtido-40-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789082332026-44",
+              "descripcion": "BOXE8950-Azul-M-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 4000,
+              "subtotal": 48000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE8950",
+              "color": "Azul",
+              "talle": "M",
+              "variedadId": "BOXE8950-Azul-M-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 447300,
+          "subtotal": 447300,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789082361187",
+          "fecha": "2026-09-10 20:19",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 89400,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-46a601bc-ff95-48b5-9d58-fd3809287d63",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789082361187-45",
+              "descripcion": "BOXE7940-Surtido-10-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 2100,
+              "subtotal": 25200,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE7940",
+              "color": "Surtido",
+              "talle": 10,
+              "variedadId": "BOXE7940-Surtido-10-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789082361187-46",
+              "descripcion": "CAMI1911-Negro-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 16200,
+              "subtotal": 16200,
+              "tipoPrecio": "Menor",
+              "productoId": "CAMI1911",
+              "color": "Negro",
+              "talle": "Surtido",
+              "variedadId": "CAMI1911-Negro-Surtido-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789082361187-47",
+              "descripcion": "BOXE8950-Azul-XXL-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 4000,
+              "subtotal": 48000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE8950",
+              "color": "Azul",
+              "talle": "XXL",
+              "variedadId": "BOXE8950-Azul-XXL-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 89400,
+          "subtotal": 89400,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -1344,6 +1486,15 @@
     },
     "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629": {
       "cajaId": "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629",
+      "fecha": "2026-09-10",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
+    },
+    "CR-46a601bc-ff95-48b5-9d58-fd3809287d63": {
+      "cajaId": "CR-46a601bc-ff95-48b5-9d58-fd3809287d63",
       "fecha": "2026-09-10",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
@@ -1455,6 +1606,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sat D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "CR-46a601bc-ff95-48b5-9d58-fd3809287d63",
+        "fecha": "2026-09-10",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       }
     ]
   },
@@ -1500,5 +1660,5 @@
     "MEDI1042": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
     "MEDI1658": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw"
   },
-  "timestamp_ms": 1789013214443
+  "timestamp_ms": 1789082896935
 }
