@@ -1209,6 +1209,72 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629": [
+        {
+          "id": "TPV-1789010743613",
+          "fecha": "2026-09-10 00:25",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 51000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-10",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789010743613-38",
+              "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "XL",
+              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789010743613-39",
+              "descripcion": "BOXE4797-Surtido-M-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "M",
+              "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789010743613-40",
+              "descripcion": "BOXE4797-Surtido-S-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE4797",
+              "color": "Surtido",
+              "talle": "S",
+              "variedadId": "BOXE4797-Surtido-S-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 51000,
+          "subtotal": 51000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -1219,8 +1285,8 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": {
       "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
@@ -1228,8 +1294,8 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": {
       "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
@@ -1237,8 +1303,8 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": {
       "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
@@ -1246,8 +1312,8 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-ca10d867-b745-4907-86cb-56519406d2a4": {
       "cajaId": "CR-ca10d867-b745-4907-86cb-56519406d2a4",
@@ -1255,8 +1321,8 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c": {
       "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
@@ -1264,12 +1330,21 @@
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
     },
     "CR-07b83fda-277e-4679-b361-e8f3e711a999": {
       "cajaId": "CR-07b83fda-277e-4679-b361-e8f3e711a999",
       "fecha": "2026-09-09",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sat D",
+      "estado": "CERRADA"
+    },
+    "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629": {
+      "cajaId": "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629",
+      "fecha": "2026-09-10",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
@@ -1315,8 +1390,8 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
@@ -1324,8 +1399,8 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "Sat D",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
@@ -1333,8 +1408,8 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "Sat D",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
@@ -1342,8 +1417,8 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "Sat D",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-ca10d867-b745-4907-86cb-56519406d2a4",
@@ -1351,8 +1426,8 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "Sat D",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c",
@@ -1360,12 +1435,21 @@
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
       },
       {
         "cajaId": "CR-07b83fda-277e-4679-b361-e8f3e711a999",
         "fecha": "2026-09-09",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sat D",
+        "estado": "CERRADA"
+      },
+      {
+        "cajaId": "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629",
+        "fecha": "2026-09-10",
         "tienda": "Skypia Underwear",
         "asesor": "JUAN DIEGO",
         "horaIniciada": "Sat D",
@@ -1416,5 +1500,5 @@
     "MEDI1042": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
     "MEDI1658": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw"
   },
-  "timestamp_ms": 1789005953729
+  "timestamp_ms": 1789013214443
 }
