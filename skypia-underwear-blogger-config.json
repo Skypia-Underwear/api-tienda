@@ -763,6 +763,248 @@
               "upd": "2026-09-04T16:16:09.843Z"
             }
           ]
+        },
+        {
+          "codigo": 8,
+          "nombre": "CHALECO",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
+          "producto": [
+            {
+              "codigo": 46,
+              "categoria": "CHALECO",
+              "nombre": "CHAL8562",
+              "carpeta_id": "1BLt4zQxlt09leYrwpxNQKTJS1FQW5pSb",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Largo"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "YD"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "MUJER",
+                  "icono": ""
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "ADULTOS",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "CIRE"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    4,
+                    6,
+                    8,
+                    10,
+                    12,
+                    14
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    },
+                    {
+                      "nombre": "Azul",
+                      "hex": "#0000FF"
+                    },
+                    {
+                      "nombre": "Blanco",
+                      "hex": "#FFFFFF"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "210",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "11-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CHAL8562%0A%F0%9F%94%B9%20Modelo%3A%20Largo%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20MUJER%0A%F0%9F%94%B9%20Edad%3A%20ADULTOS%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%204%2C%206%2C%208%2C%2010%2C%2012%2C%2014"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 99000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 4,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 6,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 8,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 10,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 12,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 14,
+                          "stock": "10"
+                        }
+                      ]
+                    },
+                    "Azul": {
+                      "color": "#0000FF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 4,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 6,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 8,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 10,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 12,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 14,
+                          "stock": "10"
+                        }
+                      ]
+                    },
+                    "Blanco": {
+                      "color": "#FFFFFF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 4,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 6,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 8,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 10,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 12,
+                          "stock": "10"
+                        },
+                        {
+                          "talle": 14,
+                          "stock": "10"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 83250,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Negro": {
+                      "color": "#000000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        }
+                      ]
+                    },
+                    "Azul": {
+                      "color": "#0000FF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        }
+                      ]
+                    },
+                    "Blanco": {
+                      "color": "#FFFFFF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "10"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-09-11T20:56:00.230Z"
+            }
+          ]
         }
       ]
     },
@@ -2697,12 +2939,12 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 9,
           "nombre": "Chomba",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chomba.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 48,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
               "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
@@ -2907,12 +3149,12 @@
           ]
         },
         {
-          "codigo": 9,
+          "codigo": 10,
           "nombre": "Conjunto 2",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 49,
+              "codigo": 51,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -3159,12 +3401,12 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 11,
           "nombre": "Joggers",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 52,
+              "codigo": 54,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -3388,7 +3630,7 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 57,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -3582,12 +3824,12 @@
           ]
         },
         {
-          "codigo": 11,
+          "codigo": 12,
           "nombre": "Jogging",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 58,
+              "codigo": 60,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
@@ -3778,7 +4020,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 63,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -4052,7 +4294,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 64,
+              "codigo": 66,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -4372,12 +4614,12 @@
           ]
         },
         {
-          "codigo": 13,
+          "codigo": 14,
           "nombre": "Pantalon",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 88,
+              "codigo": 90,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -4557,7 +4799,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 93,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -4907,7 +5149,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 94,
+              "codigo": 96,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5087,7 +5329,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 99,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -5601,12 +5843,12 @@
           ]
         },
         {
-          "codigo": 14,
+          "codigo": 15,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 100,
+              "codigo": 102,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -5782,12 +6024,12 @@
           ]
         },
         {
-          "codigo": 15,
+          "codigo": 16,
           "nombre": "Sueter",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 103,
+              "codigo": 105,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -5967,7 +6209,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 106,
+              "codigo": 108,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -7171,12 +7413,12 @@
           ]
         },
         {
-          "codigo": 12,
+          "codigo": 13,
           "nombre": "Medias",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 67,
+              "codigo": 69,
               "categoria": "Medias",
               "nombre": "MEDI1042",
               "carpeta_id": "1CH2pSBBS2EzxQSw1uRIkP-huJKUYMUUy",
@@ -7275,7 +7517,7 @@
               "upd": "2026-09-06T03:00:00.000Z"
             },
             {
-              "codigo": 70,
+              "codigo": 72,
               "categoria": "Medias",
               "nombre": "MEDI1658",
               "carpeta_id": "1VAnq2n6jHVQTvdEUzic7XfElPiixvKzb",
@@ -7411,7 +7653,7 @@
               "upd": "2026-09-06T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 75,
               "categoria": "Medias",
               "nombre": "MEDI2973",
               "carpeta_id": "1YCjlgKO0TU4KnCLYJXBvSstLfn-L7pbK",
@@ -7510,7 +7752,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 76,
+              "codigo": 78,
               "categoria": "Medias",
               "nombre": "MEDI3642",
               "carpeta_id": "1Ope4B15qKT7tyVflAsxlHJFknYGyQCE1",
@@ -7609,7 +7851,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 81,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -7789,7 +8031,7 @@
               "upd": "2026-04-21T03:00:00.000Z"
             },
             {
-              "codigo": 82,
+              "codigo": 84,
               "categoria": "Medias",
               "nombre": "MEDI4292",
               "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
@@ -7888,7 +8130,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 87,
               "categoria": "Medias",
               "nombre": "MEDI7479",
               "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
@@ -8025,5 +8267,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789155023435
+  "timestamp_ms": 1789160431848
 }
