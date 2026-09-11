@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:13:54.477Z",
+  "generated_at": "2026-09-11T21:28:55.460Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7130,7 +7130,7 @@
       "ageGroup": "ADULTOS",
       "grupo_edad": "ADULTOS",
       "GRUPO_EDAD": "ADULTOS",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1As5DW0VI1IBN3X97SdBSRsDfI2c_3LKa&sz=s600-rw",
       "carpeta_id": "1BLt4zQxlt09leYrwpxNQKTJS1FQW5pSb",
       "woo_id": "",
       "variations": [
@@ -8388,5 +8388,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789161349608
+  "timestamp_ms": 1789162262881
 }
