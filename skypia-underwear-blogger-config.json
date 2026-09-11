@@ -1458,7 +1458,7 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WWEkHfjiNstN3LjEgef2BSxbeGlE9dRy&sz=s1600-rw",
@@ -1469,7 +1469,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1QsVwAxhQd1tDg-rb6GuG6ed2IzZz1umG&sz=s1600-rw",
@@ -1480,7 +1480,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1xcS45DS47iYraRgRzunDN0NvmahgL6Sl&sz=s1600-rw",
@@ -1491,7 +1491,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=12FOdSArZy6u6CzaAlHbEsPr9VHuV3zhV&sz=s1600-rw",
@@ -1502,7 +1502,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 5,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1zQx1CnNxmcryTzbxPqCEdJnOFfUgoAN7&sz=s1600-rw",
@@ -1513,7 +1513,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1c5P9a3wN1R1tY-bDseuXLZ6KPRRz4G66&sz=s1600-rw",
@@ -1524,7 +1524,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=18mjI2ezIcRms2AQI6OPwXV4URw7ZlnZa&sz=s1600-rw",
@@ -1535,7 +1535,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 8,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1avPbjQiW4_6k3OHwiP0kF4cJFWxWhmVO&sz=s1600-rw",
@@ -1546,7 +1546,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 9,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1p_OBjkB7WNwGaHZ6aOSFgmdAorb8Yvtu&sz=s1600-rw",
@@ -1557,7 +1557,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 10,
-                  "fecha_carga": "2026-07-12T05:19:15.059Z"
+                  "fecha_carga": "2026-09-11T02:19:32.883Z"
                 }
               ],
               "variedad": [
@@ -7904,5 +7904,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789083071840
+  "timestamp_ms": 1789093841836
 }
