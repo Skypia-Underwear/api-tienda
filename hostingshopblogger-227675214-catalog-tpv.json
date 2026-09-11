@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:43:54.234Z",
+  "generated_at": "2026-09-11T20:58:54.647Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7108,6 +7108,160 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CHAL8562",
+      "sku": 1452,
+      "model": "Largo",
+      "price": 45000,
+      "display_price": 83250,
+      "minor_surcharge": 0,
+      "category_id": "CHALECO",
+      "categoryName": "CHALECO",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "MUJER",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "CIRE",
+      "sizes": "Surtido, 4, 6, 8, 10, 12, 14",
+      "talles": "Surtido, 4, 6, 8, 10, 12, 14",
+      "TALLES": "Surtido, 4, 6, 8, 10, 12, 14",
+      "ageGroup": "ADULTOS",
+      "grupo_edad": "ADULTOS",
+      "GRUPO_EDAD": "ADULTOS",
+      "image": "",
+      "carpeta_id": "1BLt4zQxlt09leYrwpxNQKTJS1FQW5pSb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-4-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-6-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-8-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-10-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-12-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Negro-14-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-4-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-6-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-8-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-10-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-12-Skypia Underwear"
+        },
+        {
+          "color": "Azul",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Azul-14-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "4",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-4-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "6",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-6-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "8",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-8-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "10",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-10-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "12",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-12-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "14",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CHAL8562-Blanco-14-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -8081,6 +8235,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CHAL8562": [
+      {
+        "variedad_id": "CHAL8562-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 83250,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "CHAL8562-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 99000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -8218,5 +8388,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789159537143
+  "timestamp_ms": 1789160449913
 }
