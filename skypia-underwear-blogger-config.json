@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "22:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://www.facebook.com/RicaldiSimo",
       "instagram": "https://www.instagram.com/hostingsh0p/",
@@ -853,9 +853,114 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb&sz=s600-rw",
+                  "archivo_id": "1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1KQq9gq7muADqAbKly4KBiukx278KULJg&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1KQq9gq7muADqAbKly4KBiukx278KULJg&sz=s600-rw",
+                  "archivo_id": "1KQq9gq7muADqAbKly4KBiukx278KULJg",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU&sz=s600-rw",
+                  "archivo_id": "1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS&sz=s600-rw",
+                  "archivo_id": "1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2&sz=s600-rw",
+                  "archivo_id": "1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs&sz=s600-rw",
+                  "archivo_id": "1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 6,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX&sz=s600-rw",
+                  "archivo_id": "1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah&sz=s600-rw",
+                  "archivo_id": "1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 8,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD&sz=s600-rw",
+                  "archivo_id": "1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o&sz=s600-rw",
+                  "archivo_id": "1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 10,
+                  "fecha_carga": "2026-09-12T05:27:58.485Z"
                 }
               ],
               "variedad": [
@@ -8267,5 +8372,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789180267627
+  "timestamp_ms": 1789204539572
 }
