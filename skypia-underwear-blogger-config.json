@@ -770,7 +770,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 53,
+              "codigo": 55,
               "categoria": "CHALECO",
               "nombre": "CHAL8562",
               "carpeta_id": "1BLt4zQxlt09leYrwpxNQKTJS1FQW5pSb",
@@ -2327,6 +2327,120 @@
             {
               "codigo": 41,
               "categoria": "Campera",
+              "nombre": "CAMP5312",
+              "carpeta_id": "1l9_C2ZTCiAR7xZib8HBZY7AopubB9pmM",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Clasic 12"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "HHP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Adulto",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Neoprem"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP5312%0A%F0%9F%94%B9%20Modelo%3A%20Clasic%2012%0A%F0%9F%94%B9%20Marca%3A%20HHP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
+                  "archivo_id": "1D7xgAnrSyappWy9weoyYg828VQlaEzbT",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-18T16:50:21.575Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1-hYK6oth8vYEN_SxOGKsF6UkWAUqxURM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1-hYK6oth8vYEN_SxOGKsF6UkWAUqxURM&sz=s600-rw",
+                  "archivo_id": "1-hYK6oth8vYEN_SxOGKsF6UkWAUqxURM",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-18T16:50:21.575Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1qaylIbQKcII7SDdnLcwFimukmyNJDHPW&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qaylIbQKcII7SDdnLcwFimukmyNJDHPW&sz=s600-rw",
+                  "archivo_id": "1qaylIbQKcII7SDdnLcwFimukmyNJDHPW",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-18T16:50:21.575Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 32200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 41400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 43,
+              "categoria": "Campera",
               "nombre": "CAMP5671",
               "carpeta_id": "1gc2wDVDGDyEeeAYEercM0Be8Pl4qmSc3",
               "descripcion": {
@@ -2455,7 +2569,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 45,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -2645,7 +2759,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 45,
+              "codigo": 47,
               "categoria": "Campera",
               "nombre": "CAMP7014",
               "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
@@ -2841,7 +2955,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 47,
+              "codigo": 49,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -3054,7 +3168,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 51,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -3202,7 +3316,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 51,
+              "codigo": 53,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -3405,7 +3519,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chomba.svg",
           "producto": [
             {
-              "codigo": 55,
+              "codigo": 57,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
               "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
@@ -3615,7 +3729,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 58,
+              "codigo": 60,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -3867,7 +3981,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 61,
+              "codigo": 63,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -4091,7 +4205,7 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 64,
+              "codigo": 66,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -4290,7 +4404,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 67,
+              "codigo": 69,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
@@ -4481,7 +4595,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 70,
+              "codigo": 72,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -4755,7 +4869,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 75,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -5080,7 +5194,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 97,
+              "codigo": 99,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -5260,7 +5374,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 100,
+              "codigo": 102,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -5610,7 +5724,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 103,
+              "codigo": 105,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5790,7 +5904,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 106,
+              "codigo": 108,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -6309,7 +6423,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parka.svg",
           "producto": [
             {
-              "codigo": 109,
+              "codigo": 111,
               "categoria": "Parka",
               "nombre": "PARK9180",
               "carpeta_id": "1PWem1DvXAICd6fNK3C26KiJsbCFTNION",
@@ -6437,7 +6551,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 112,
+              "codigo": 114,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -6618,7 +6732,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 115,
+              "codigo": 117,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -6798,7 +6912,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 118,
+              "codigo": 120,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -8007,7 +8121,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 76,
+              "codigo": 78,
               "categoria": "Medias",
               "nombre": "MEDI1042",
               "carpeta_id": "1CH2pSBBS2EzxQSw1uRIkP-huJKUYMUUy",
@@ -8106,7 +8220,7 @@
               "upd": "2026-09-06T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 81,
               "categoria": "Medias",
               "nombre": "MEDI1658",
               "carpeta_id": "1VAnq2n6jHVQTvdEUzic7XfElPiixvKzb",
@@ -8242,7 +8356,7 @@
               "upd": "2026-09-06T03:00:00.000Z"
             },
             {
-              "codigo": 82,
+              "codigo": 84,
               "categoria": "Medias",
               "nombre": "MEDI2973",
               "carpeta_id": "1YCjlgKO0TU4KnCLYJXBvSstLfn-L7pbK",
@@ -8341,7 +8455,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 87,
               "categoria": "Medias",
               "nombre": "MEDI3642",
               "carpeta_id": "1Ope4B15qKT7tyVflAsxlHJFknYGyQCE1",
@@ -8440,7 +8554,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 88,
+              "codigo": 90,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -8620,7 +8734,7 @@
               "upd": "2026-04-21T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 93,
               "categoria": "Medias",
               "nombre": "MEDI4292",
               "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
@@ -8719,7 +8833,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 94,
+              "codigo": 96,
               "categoria": "Medias",
               "nombre": "MEDI7479",
               "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
@@ -8856,5 +8970,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1789748155244
+  "timestamp_ms": 1789750858884
 }
