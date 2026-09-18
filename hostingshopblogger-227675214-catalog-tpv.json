@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:58:54.558Z",
+  "generated_at": "2026-09-18T16:13:55.410Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7772,6 +7772,157 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1011",
+      "sku": "Camp008",
+      "model": "Pruaba 8",
+      "price": 22000,
+      "display_price": 30800,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Liso",
+      "material": "Corderoy",
+      "sizes": "Surtido,XS,S,M,L",
+      "talles": "Surtido,XS,S,M,L",
+      "TALLES": "Surtido,XS,S,M,L",
+      "colors": "Surtido,Beige,Celeste,Marron",
+      "colores": "Surtido,Beige,Celeste,Marron",
+      "COLORES": "Surtido,Beige,Celeste,Marron",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "https://drive.google.com/thumbnail?id=1d_IFxAG8g9vD3FYlp0jRZZTRL-qMogfo&sz=s600-rw",
+      "carpeta_id": "1UuJ0zrQ5TQyu32ggHmesP6vgtg63z2fA",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XS",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Surtido-XS-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Beige-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "XS",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Beige-XS-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Beige-S-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Beige-M-Skypia Underwear"
+        },
+        {
+          "color": "Beige",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Beige-L-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Celeste-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "XS",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Celeste-XS-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Celeste-S-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Celeste-M-Skypia Underwear"
+        },
+        {
+          "color": "Celeste",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Celeste-L-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Marron-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "XS",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Marron-XS-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Marron-S-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Marron-M-Skypia Underwear"
+        },
+        {
+          "color": "Marron",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMP1011-Marron-L-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -8823,6 +8974,22 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP1011": [
+      {
+        "variedad_id": "CAMP1011-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 30800,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1011-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 39600,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -8960,5 +9127,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789747253796
+  "timestamp_ms": 1789748146552
 }
