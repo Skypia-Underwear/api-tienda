@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:58:54.470Z",
+  "generated_at": "2026-09-18T09:13:55.988Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -7391,6 +7391,188 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI5015",
+      "sku": "Cami001",
+      "model": "Clasico 1",
+      "price": 15000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Camisa",
+      "categoryName": "Camisa",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Hombre",
+      "brand": "SAN DIEGO",
+      "style": "Liso",
+      "material": "Modal",
+      "sizes": "Surtido,S,M,L,XL",
+      "talles": "Surtido,S,M,L,XL",
+      "TALLES": "Surtido,S,M,L,XL",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1hPRBmdx5XgMd7-18s7itmRhnBKboT63w&sz=s600-rw",
+      "carpeta_id": "1nzb9gucakM58vmp1OMQqDdGj-kwmEZrw",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI5015-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI5015-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI5015-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI5015-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "CAMI5015-Surtido-XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PARK9180",
+      "sku": "Park001",
+      "model": "Camperon 1",
+      "price": 12500,
+      "display_price": 17500,
+      "minor_surcharge": 0,
+      "category_id": "Parka",
+      "categoryName": "Parka",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "YD",
+      "style": "Estampado",
+      "material": "Corderoy",
+      "sizes": "Surtido,S,M,L,XL",
+      "talles": "Surtido,S,M,L,XL",
+      "TALLES": "Surtido,S,M,L,XL",
+      "colors": "Surtido,Blanco,Negro",
+      "colores": "Surtido,Blanco,Negro",
+      "COLORES": "Surtido,Blanco,Negro",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=12pyIyNLdRjM1BkK0oVSnR5UGkvK9WzMM&sz=s600-rw",
+      "carpeta_id": "1PWem1DvXAICd6fNK3C26KiJsbCFTNION",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Surtido-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Surtido-S-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Surtido-M-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Surtido-L-Skypia Underwear"
+        },
+        {
+          "color": "Surtido",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Surtido-XL-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Blanco-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Blanco-S-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Blanco-M-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Blanco-L-Skypia Underwear"
+        },
+        {
+          "color": "Blanco",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Blanco-XL-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "Surtido",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Negro-Surtido-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "S",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Negro-S-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "M",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Negro-M-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "L",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Negro-L-Skypia Underwear"
+        },
+        {
+          "color": "Negro",
+          "size": "XL",
+          "store_id": "Skypia Underwear",
+          "variation_id": "PARK9180-Negro-XL-Skypia Underwear"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -8380,6 +8562,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMI5015": [
+      {
+        "variedad_id": "CAMI5015-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 21000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMI5015-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22500,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMI5015-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PARK9180": [
+      {
+        "variedad_id": "PARK9180-Docena",
+        "nombre": "Docena",
+        "precio_unitario": 17500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "variedad_id": "PARK9180-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18750,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "PARK9180-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 22500,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -8517,5 +8745,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789700423345
+  "timestamp_ms": 1789722967535
 }
