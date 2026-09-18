@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:13:57.552Z",
+  "generated_at": "2026-09-18T18:28:55.978Z",
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -824,7 +824,7 @@
       "ageGroup": "",
       "grupo_edad": "",
       "GRUPO_EDAD": "",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw",
       "carpeta_id": "1zGudRnzM_JCz9ji9LhL121A9OtH7AcLU",
       "woo_id": 39435,
       "variations": [
@@ -8210,21 +8210,21 @@
         "nombre": "Docena",
         "precio_unitario": 3500,
         "cantidad_minima": 12,
-        "visible": false
+        "visible": true
       },
       {
         "variedad_id": "BOXE7915-Menor",
         "nombre": "Menor",
         "precio_unitario": 4500,
         "cantidad_minima": 1,
-        "visible": false
+        "visible": true
       },
       {
         "variedad_id": "BOXE7915-Pack x3",
         "nombre": "Pack x3",
         "precio_unitario": 4250,
         "cantidad_minima": 3,
-        "visible": false
+        "visible": true
       }
     ],
     "CALZ3504": [
@@ -9282,5 +9282,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789755371399
+  "timestamp_ms": 1789756245423
 }
