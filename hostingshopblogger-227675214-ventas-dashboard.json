@@ -1417,6 +1417,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b": [
+        {
+          "id": "TPV-1789845439882",
+          "fecha": "2026-09-19 16:17",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 36900,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Tarjeta Credito",
+          "cajaId": "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-19",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 6900,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789845439882-48",
+              "descripcion": "PANT5738-Surtido-40-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 46800,
+              "subtotal": 46800,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT5738",
+              "color": "Surtido",
+              "talle": 40,
+              "variedadId": "PANT5738-Surtido-40-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 10000,
+          "montoProductos": 46800,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": true,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -1501,6 +1543,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "Sat D",
       "estado": "CERRADA"
+    },
+    "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b": {
+      "cajaId": "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b",
+      "fecha": "2026-09-19",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -1509,6 +1560,7 @@
     ],
     "metodosPago": [
       "Efectivo",
+      "Tarjeta Credito",
       "Transferencia"
     ],
     "metodosPagoIcons": {
@@ -1615,6 +1667,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "Sat D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b",
+        "fecha": "2026-09-19",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -1667,5 +1728,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1789833950138
+  "timestamp_ms": 1789848356696
 }
