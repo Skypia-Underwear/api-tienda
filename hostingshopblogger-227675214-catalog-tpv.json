@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T15:59:01.828Z",
-  "timestamp_ms": 1789833622169,
+  "generated_at": "2026-09-19T16:13:59.086Z",
+  "timestamp_ms": 1789834557969,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -19520,112 +19520,46 @@
       "MOVIMIENTO_ID": "Efectivo",
       "PORCENTAJE": 0,
       "TERMINOS_CONDICIONES": "",
-      "ICONO": "c8765b1a"
+      "ICONO": "c8765b1a",
+      "id": "Efectivo",
+      "name": "Efectivo",
+      "percent": 0
     },
     {
       "MOVIMIENTO_ID": "Transferencia",
       "PORCENTAJE": 0.1,
       "TERMINOS_CONDICIONES": "",
-      "ICONO": "15abd3d4"
+      "ICONO": "15abd3d4",
+      "id": "Transferencia",
+      "name": "Transferencia",
+      "percent": 0.1
     },
     {
       "MOVIMIENTO_ID": "Tarjeta Debito",
       "PORCENTAJE": 0.1,
       "TERMINOS_CONDICIONES": "",
-      "ICONO": "460e6a76"
+      "ICONO": "460e6a76",
+      "id": "Tarjeta Debito",
+      "name": "Tarjeta Debito",
+      "percent": 0.1
     },
     {
       "MOVIMIENTO_ID": "Tarjeta Credito",
       "PORCENTAJE": 0.23,
       "TERMINOS_CONDICIONES": "",
-      "ICONO": "c9ec11fc"
+      "ICONO": "c9ec11fc",
+      "id": "Tarjeta Credito",
+      "name": "Tarjeta Credito",
+      "percent": 0.23
     }
   ],
   "paymentIcons": {
-    "": ""
+    "Efectivo": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg",
+    "Transferencia": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg",
+    "Tarjeta Debito": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg",
+    "Tarjeta Credito": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
   },
-  "transferAccounts": [
-    {
-      "CUENTA_ID": "0535c0a7",
-      "COLOR": "Azul",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "Mercado Pago",
-      "NOMBRE_CUENTA": "Juan Diego Ricaldi SImon",
-      "ALIAS": "Ricaldisimo",
-      "CBU": 93242292312,
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "MercadoPago - 02",
-      "COLOR": "Celeste",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "MercadoPago",
-      "NOMBRE_CUENTA": "Julia Miryan Fernandez",
-      "ALIAS": "D.MIRYAN.2946",
-      "CBU": "3100002211800271",
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "MercadoPago - 07",
-      "COLOR": "Beige",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "MercadoPago",
-      "NOMBRE_CUENTA": "Yamil Colque Fernández",
-      "ALIAS": "huir.pozo.bueno.mp",
-      "CBU": 3100076494873820,
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "MercadoPago - 08",
-      "COLOR": "Violeta",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "MercadoPago",
-      "NOMBRE_CUENTA": "Montaño Rodriguez",
-      "ALIAS": "CAST.FER.29",
-      "CBU": "3100054757247427",
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "MercadoPago - 09",
-      "COLOR": "Coral",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "MercadoPago",
-      "NOMBRE_CUENTA": "Bryan Colque Fernandez",
-      "ALIAS": "br.3295",
-      "CBU": "3100054928135814",
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "Banco Ciudad - 10",
-      "COLOR": "Bordo",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "Banco Ciudad",
-      "NOMBRE_CUENTA": "Colque Fernandez Bryan",
-      "ALIAS": "PISADA.MISION.NOVIO",
-      "CBU": "290013110000001919939",
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "Banco Frances - 11",
-      "COLOR": "Azul",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "Banco Frances",
-      "NOMBRE_CUENTA": "Bryan Colque Fernandez  (BANCO  FRANCES)",
-      "ALIAS": "SUIZA.BANCO.MALTA",
-      "CBU": "170025140000003403231",
-      "ESTADO": true
-    },
-    {
-      "CUENTA_ID": "Banco Provincia - 12",
-      "COLOR": "Verde",
-      "TIPO_CUENTA": "PERSONAL",
-      "BANCO": "Banco Provincia",
-      "NOMBRE_CUENTA": "Bryan Colque Fernandez",
-      "ALIAS": "BOLSA.FOCO.PAMPA",
-      "CBU": "140005203400551895196",
-      "ESTADO": true
-    }
-  ],
+  "transferAccounts": [],
   "generalConfig": {
     "GENERAL_ID": "Skypia Underwear",
     "RESPONSABLE": "Juan Diego RS",
