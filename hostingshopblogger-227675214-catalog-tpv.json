@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:14:06.078Z",
-  "timestamp_ms": 1789848982548,
+  "generated_at": "2026-09-19T20:29:09.575Z",
+  "timestamp_ms": 1789849888798,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -13456,8 +13456,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 99,
+          "STOCK_ACTUAL": 99
         },
         {
           "variation_id": "BERM2366-Surtido-40-Skypia Underwear",
@@ -13508,8 +13508,8 @@
           "size": "44",
           "size_name": "44",
           "TALLE": "44",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -12,
+          "STOCK_ACTUAL": -12
         },
         {
           "variation_id": "BERM2366-Surtido-46-Skypia Underwear",
@@ -13886,8 +13886,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 200,
+          "STOCK_ACTUAL": 200
         },
         {
           "variation_id": "CHOM6216-Surtido-S-Skypia Underwear",
