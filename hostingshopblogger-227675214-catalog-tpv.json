@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T19:14:00.203Z",
-  "timestamp_ms": 1789845334424,
+  "generated_at": "2026-09-19T19:28:58.835Z",
+  "timestamp_ms": 1789846247629,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -9374,8 +9374,8 @@
           "size": "40",
           "size_name": "40",
           "TALLE": "40",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "PANT5738-Surtido-42-Skypia Underwear",
