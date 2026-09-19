@@ -1458,6 +1458,58 @@
           "compraMinima": 1,
           "pagoMixto": true,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789849660105",
+          "fecha": "2026-09-19 17:27",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 390600,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-09-19",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789849660105-49",
+              "descripcion": "BERM2366-Surtido-44-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 29400,
+              "subtotal": 352800,
+              "tipoPrecio": "Docena",
+              "productoId": "BERM2366",
+              "color": "Surtido",
+              "talle": 44,
+              "variedadId": "BERM2366-Surtido-44-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1789849660105-50",
+              "descripcion": "BERM2366-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 37800,
+              "subtotal": 37800,
+              "tipoPrecio": "Menor",
+              "productoId": "BERM2366",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM2366-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 390600,
+          "subtotal": 390600,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     }
@@ -1728,5 +1780,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1789848356696
+  "timestamp_ms": 1789851951971
 }
