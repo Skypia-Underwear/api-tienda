@@ -183,7 +183,7 @@
           "id": "COT-630271",
           "fecha": "2026-09-24 18:50",
           "origen": "Pedido Local",
-          "estado": "PRESUPUESTADO",
+          "estado": "EN CAMINO",
           "total": 42000,
           "clienteId": "CLI004",
           "nombreCliente": "María Pérez cuéllar",
@@ -1822,5 +1822,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1790287374275
+  "timestamp_ms": 1790287549760
 }
