@@ -178,6 +178,46 @@
           "compraMinima": 0,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "COT-630271",
+          "fecha": "2026-09-24 18:50",
+          "origen": "Pedido Local",
+          "estado": "PRESUPUESTADO",
+          "total": 42000,
+          "clienteId": "CLI004",
+          "nombreCliente": "María Pérez cuéllar",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Presupuesto",
+          "cajaId": "N/A",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "COT-630271-51",
+              "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE7915",
+              "color": "Azul acero",
+              "talle": "3XL",
+              "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 42000,
+          "subtotal": 42000,
+          "tipoVenta": "PRESUPUESTO",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true
         }
       ],
       "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
@@ -1612,6 +1652,7 @@
     ],
     "metodosPago": [
       "Efectivo",
+      "Presupuesto",
       "Tarjeta Credito",
       "Transferencia"
     ],
@@ -1781,5 +1822,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1790280373839
+  "timestamp_ms": 1790287374275
 }
