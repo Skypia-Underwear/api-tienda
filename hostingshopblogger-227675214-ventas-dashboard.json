@@ -589,6 +589,164 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": true
+        },
+        {
+          "id": "PED-446656",
+          "fecha": "2026-09-28 10:17",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 8750,
+          "clienteId": "CLI004",
+          "nombreCliente": "María Pérez cuéllar",
+          "clienteInfo": {
+            "id": "CLI004",
+            "nombre": "María Pérez cuéllar",
+            "celular": "541143996217",
+            "email": "marycielo.perez.cuellar@gmail.com",
+            "cuit": 95318572,
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "DOMICILIO",
+            "agenciaEnvio": "Correo Argentino",
+            "localidad": "Ituzaingó Sur",
+            "provincia": "Buenos Aires",
+            "direccion": "Videla 2206 Dpto 2"
+          },
+          "celularCliente": "541143996217",
+          "emailCliente": "marycielo.perez.cuellar@gmail.com",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Por Coordinar",
+          "cajaId": "N/A",
+          "asesor": "N/A",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "PED-446656-72",
+              "descripcion": "BOXE4797",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE4797"
+            },
+            {
+              "id": "PED-446656-73",
+              "descripcion": "BOXE7940",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE7940"
+            },
+            {
+              "id": "PED-446656-74",
+              "descripcion": "BOXE7940",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE7940"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 8750,
+          "subtotal": 8750,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 0,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "PED-453266",
+          "fecha": "2026-09-28 10:17",
+          "origen": "Pedido Local",
+          "estado": "SOLICITADO",
+          "total": 8750,
+          "clienteId": "CLI004",
+          "nombreCliente": "María Pérez cuéllar",
+          "clienteInfo": {
+            "id": "CLI004",
+            "nombre": "María Pérez cuéllar",
+            "celular": "541143996217",
+            "email": "marycielo.perez.cuellar@gmail.com",
+            "cuit": 95318572,
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "DOMICILIO",
+            "agenciaEnvio": "Correo Argentino",
+            "localidad": "Ituzaingó Sur",
+            "provincia": "Buenos Aires",
+            "direccion": "Videla 2206 Dpto 2"
+          },
+          "celularCliente": "541143996217",
+          "emailCliente": "marycielo.perez.cuellar@gmail.com",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Por Coordinar",
+          "cajaId": "N/A",
+          "asesor": "N/A",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "PED-453266-75",
+              "descripcion": "BOXE4797",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE4797"
+            },
+            {
+              "id": "PED-453266-76",
+              "descripcion": "BOXE7940",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE7940"
+            },
+            {
+              "id": "PED-453266-77",
+              "descripcion": "BOXE7940",
+              "cantidad": 1,
+              "precioUnitario": 0,
+              "subtotal": 0,
+              "tipoPrecio": "N/A",
+              "productoId": "",
+              "color": "N/A",
+              "talle": "N/A",
+              "variedadId": "BOXE7940"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 8750,
+          "subtotal": 8750,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 0,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ],
       "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
@@ -2398,6 +2556,7 @@
     ],
     "metodosPago": [
       "Efectivo",
+      "Por Coordinar",
       "Presupuesto",
       "Tarjeta Credito",
       "Transferencia"
@@ -2568,5 +2727,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1790337951643
+  "timestamp_ms": 1790601474615
 }
