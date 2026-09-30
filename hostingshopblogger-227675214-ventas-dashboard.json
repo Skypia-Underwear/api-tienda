@@ -152,7 +152,16 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "B-B0675FD1",
@@ -207,7 +216,16 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "COT-630271",
@@ -262,7 +280,16 @@
           "tipoVenta": "PRESUPUESTO",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "COT-303672",
@@ -317,7 +344,16 @@
           "tipoVenta": "PRESUPUESTO",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "COT-127998",
@@ -588,7 +624,16 @@
           "tipoVenta": "PRESUPUESTO",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "PED-446656",
@@ -667,7 +712,16 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "PED-453266",
@@ -746,7 +800,16 @@
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "COT-196177",
@@ -981,7 +1044,16 @@
           "tipoVenta": "PRESUPUESTO",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
@@ -1098,7 +1170,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": [
@@ -1203,7 +1284,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": [
@@ -1260,7 +1350,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1785954548703",
@@ -1339,7 +1438,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": [
@@ -1396,7 +1504,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "FACTURA_B",
+          "estadoFacturacion": "PENDIENTE_FACTURA",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 34710.74,
+          "montoIva": 7289.26
         },
         {
           "id": "TPV-1787711669558",
@@ -1451,7 +1568,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "FACTURA_C",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-ca10d867-b745-4907-86cb-56519406d2a4": [
@@ -1508,7 +1634,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1787757588107",
@@ -1575,7 +1710,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": true
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "FACTURA_C",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-723b413a-5c7c-444d-a8a1-bd00b8361a4c": [
@@ -1644,7 +1788,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788918541973",
@@ -1699,7 +1852,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788918705904",
@@ -1766,7 +1928,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788918723656",
@@ -1821,7 +1992,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788921385780",
@@ -1876,7 +2056,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788922502004",
@@ -1931,7 +2120,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788922550579",
@@ -1986,7 +2184,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788923291947",
@@ -2053,7 +2260,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788958734283",
@@ -2120,7 +2336,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1788958759811",
@@ -2187,7 +2412,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-07b83fda-277e-4679-b361-e8f3e711a999": [
@@ -2244,7 +2478,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1789004550268",
@@ -2311,7 +2554,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-3fbcffda-4ebf-40f9-b9e9-1d2b29ff5629": [
@@ -2392,7 +2644,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-46a601bc-ff95-48b5-9d58-fd3809287d63": [
@@ -2485,7 +2746,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1789082361187",
@@ -2564,7 +2834,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ],
       "CR-90c65d5a-41ca-4994-9d6a-bdc98877857b": [
@@ -2621,7 +2900,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": true,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         },
         {
           "id": "TPV-1789849660105",
@@ -2688,7 +2976,16 @@
           "tipoVenta": "DIRECTA",
           "compraMinima": 1,
           "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     }
@@ -2962,5 +3259,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1790604353828
+  "timestamp_ms": 1790809571339
 }
