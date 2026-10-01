@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T19:36:10.585Z",
-  "timestamp_ms": 1790883470830,
+  "generated_at": "2026-10-01T19:51:10.632Z",
+  "timestamp_ms": 1790884356975,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -23,8 +23,8 @@
           "Presupuesto"
         ],
         "printerIp": "192.168.1.35",
-        "puntoVentaAfip": 0,
-        "facturacionHabilitada": false,
+        "puntoVentaAfip": 1,
+        "facturacionHabilitada": true,
         "afipUserToken": "",
         "afipApiKey": "",
         "afipApiToken": "",
