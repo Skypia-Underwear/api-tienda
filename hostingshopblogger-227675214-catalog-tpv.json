@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T16:44:09.838Z",
-  "timestamp_ms": 1790873149171,
+  "generated_at": "2026-10-01T16:59:12.651Z",
+  "timestamp_ms": 1790874061158,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -22,7 +22,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "192.168.0.3",
+        "printerIp": "192.168.1.35",
         "puntoVentaAfip": 0,
         "facturacionHabilitada": false,
         "printSettings": {
