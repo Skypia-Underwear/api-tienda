@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T17:06:14.740Z",
-  "timestamp_ms": 1791220069733,
+  "generated_at": "2026-10-05T17:21:12.157Z",
+  "timestamp_ms": 1791220979746,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -23,7 +23,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "192.168.1.34",
+        "printerIp": "192.168.0.196",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -19221,8 +19221,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         },
         {
           "variation_id": "CAMP5312-Surtido-XS-Skypia Underwear",
