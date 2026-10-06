@@ -228,6 +228,70 @@
           "montoIva": 0
         },
         {
+          "id": "B-E315C04A",
+          "fecha": "2026-10-06 15:47",
+          "origen": "Blogger",
+          "estado": "SOLICITADO",
+          "total": 1915200,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "N/A",
+          "asesor": "N/A",
+          "fechaCaja": "N/A",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "B-E315C04A-10",
+              "descripcion": "CAMP9305 ( Docena - Surtido - Surtido )",
+              "cantidad": 36,
+              "precioUnitario": 53200,
+              "subtotal": 1915200,
+              "tipoPrecio": "Docena",
+              "productoId": "CAMP9305",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP9305-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 1915200,
+          "subtotal": 1915200,
+          "tipoVenta": "PEDIDO",
+          "compraMinima": 0,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "PRESUPUESTO",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": "",
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        },
+        {
           "id": "COT-630271",
           "fecha": "2026-09-24 18:50",
           "origen": "Pedido Local",
@@ -3804,5 +3868,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1791226263212
+  "timestamp_ms": 1791312669162
 }
