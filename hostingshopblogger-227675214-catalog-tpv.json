@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T02:21:12.434Z",
-  "timestamp_ms": 1791685405052,
+  "generated_at": "2026-10-11T02:36:11.936Z",
+  "timestamp_ms": 1791686249571,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1623,8 +1623,8 @@
           "size": "3XL",
           "size_name": "3XL",
           "TALLE": "3XL",
-          "stock": -16,
-          "STOCK_ACTUAL": -16
+          "stock": -17,
+          "STOCK_ACTUAL": -17
         },
         {
           "variation_id": "BOXE7915-Azul acero-L-Skypia Underwear",
@@ -19221,8 +19221,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -3,
-          "STOCK_ACTUAL": -3
+          "stock": -4,
+          "STOCK_ACTUAL": -4
         },
         {
           "variation_id": "CAMP5312-Surtido-XS-Skypia Underwear",
