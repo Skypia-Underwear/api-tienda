@@ -3993,6 +3993,72 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "CR-fcc2a4ee-ea27-43a3-9586-d7e0cd7d8584": [
+        {
+          "id": "TPV-1791839133586",
+          "fecha": "2026-10-12 18:05",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4950,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-fcc2a4ee-ea27-43a3-9586-d7e0cd7d8584",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-10-12",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Ricaldisimo",
+          "costoEnvio": 0,
+          "recargoTransferencia": 450,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1791839133586-120",
+              "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE7915",
+              "color": "Azul acero",
+              "talle": "3XL",
+              "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "FACTURA_B",
+          "estadoFacturacion": "ERROR_AFIP",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     }
   },
@@ -4108,6 +4174,15 @@
     "CR-fa54e305-ff9c-4e55-aec4-c5ff3a9518fe": {
       "cajaId": "CR-fa54e305-ff9c-4e55-aec4-c5ff3a9518fe",
       "fecha": "2026-10-10",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-fcc2a4ee-ea27-43a3-9586-d7e0cd7d8584": {
+      "cajaId": "CR-fcc2a4ee-ea27-43a3-9586-d7e0cd7d8584",
+      "fecha": "2026-10-12",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
@@ -4268,6 +4343,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-fcc2a4ee-ea27-43a3-9586-d7e0cd7d8584",
+        "fecha": "2026-10-12",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -4320,5 +4404,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1791687067170
+  "timestamp_ms": 1791841871347
 }
