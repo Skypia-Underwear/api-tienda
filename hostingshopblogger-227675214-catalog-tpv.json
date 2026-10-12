@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:51:10.893Z",
-  "timestamp_ms": 1791838382361,
+  "generated_at": "2026-10-12T21:06:14.693Z",
+  "timestamp_ms": 1791839304413,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1629,8 +1629,8 @@
           "size": "3XL",
           "size_name": "3XL",
           "TALLE": "3XL",
-          "stock": -17,
-          "STOCK_ACTUAL": -17
+          "stock": -18,
+          "STOCK_ACTUAL": -18
         },
         {
           "variation_id": "BOXE7915-Azul acero-L-Skypia Underwear",
