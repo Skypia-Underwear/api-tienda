@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T00:01:35.310Z",
-  "timestamp_ms": 1791849800572,
+  "generated_at": "2026-10-13T00:16:16.423Z",
+  "timestamp_ms": 1791850682072,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -15,8 +15,8 @@
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "ticketFormat": "Formato Texto Plano",
-        "printerIp": "127.0.0.1",
+        "ticketFormat": "Formato Tabla",
+        "printerIp": "192.168.1.34",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -1621,8 +1621,8 @@
           "size": "3XL",
           "size_name": "3XL",
           "TALLE": "3XL",
-          "stock": -19,
-          "STOCK_ACTUAL": -19
+          "stock": -21,
+          "STOCK_ACTUAL": -21
         },
         {
           "variation_id": "BOXE7915-Azul acero-L-Skypia Underwear",
@@ -18123,8 +18123,8 @@
           "size": "L",
           "size_name": "L",
           "TALLE": "L",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "PARK9180-Surtido-XL-Skypia Underwear",
@@ -18149,8 +18149,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "PARK9180-Blanco-S-Skypia Underwear",
