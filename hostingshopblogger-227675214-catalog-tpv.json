@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T00:31:14.242Z",
-  "timestamp_ms": 1791851584477,
+  "generated_at": "2026-10-13T00:46:13.870Z",
+  "timestamp_ms": 1791852490196,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -18097,8 +18097,8 @@
           "size": "S",
           "size_name": "S",
           "TALLE": "S",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         },
         {
           "variation_id": "PARK9180-Surtido-M-Skypia Underwear",
