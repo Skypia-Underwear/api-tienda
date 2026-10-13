@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T23:46:16.499Z",
-  "timestamp_ms": 1791848903598,
+  "generated_at": "2026-10-13T00:01:35.310Z",
+  "timestamp_ms": 1791849800572,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -15,15 +15,8 @@
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia",
-          "Tarjeta Debito",
-          "Tarjeta Credito",
-          "Factura IVA",
-          "Presupuesto"
-        ],
-        "printerIp": "Formato Tabla",
+        "ticketFormat": "Formato Texto Plano",
+        "printerIp": "127.0.0.1",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -18091,8 +18084,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -8,
-          "STOCK_ACTUAL": -8
+          "stock": -9,
+          "STOCK_ACTUAL": -9
         },
         {
           "variation_id": "PARK9180-Surtido-S-Skypia Underwear",
