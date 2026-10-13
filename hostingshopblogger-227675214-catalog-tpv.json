@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T02:31:20.556Z",
-  "timestamp_ms": 1791858785995,
+  "generated_at": "2026-10-13T02:46:15.894Z",
+  "timestamp_ms": 1791859657185,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1725,8 +1725,8 @@
           "size": "L",
           "size_name": "L",
           "TALLE": "L",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         },
         {
           "variation_id": "BOXE7915-Azul marino-M-Skypia Underwear",
@@ -1738,8 +1738,8 @@
           "size": "M",
           "size_name": "M",
           "TALLE": "M",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "BOXE7915-Azul marino-S-Skypia Underwear",
@@ -18084,8 +18084,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -13,
-          "STOCK_ACTUAL": -13
+          "stock": -15,
+          "STOCK_ACTUAL": -15
         },
         {
           "variation_id": "PARK9180-Surtido-S-Skypia Underwear",
@@ -18097,8 +18097,8 @@
           "size": "S",
           "size_name": "S",
           "TALLE": "S",
-          "stock": -2,
-          "STOCK_ACTUAL": -2
+          "stock": -3,
+          "STOCK_ACTUAL": -3
         },
         {
           "variation_id": "PARK9180-Surtido-M-Skypia Underwear",
@@ -18227,8 +18227,8 @@
           "size": "S",
           "size_name": "S",
           "TALLE": "S",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         },
         {
           "variation_id": "PARK9180-Negro-M-Skypia Underwear",
@@ -19310,8 +19310,8 @@
           "size": "XS",
           "size_name": "XS",
           "TALLE": "XS",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "CAMP5312-Salmon-S-Skypia Underwear",
