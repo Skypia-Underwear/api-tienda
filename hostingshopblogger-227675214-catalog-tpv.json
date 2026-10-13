@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T02:46:15.894Z",
-  "timestamp_ms": 1791859657185,
+  "generated_at": "2026-10-13T09:01:15.121Z",
+  "timestamp_ms": 1791882182346,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1647,8 +1647,8 @@
           "size": "M",
           "size_name": "M",
           "TALLE": "M",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -12,
+          "STOCK_ACTUAL": -12
         },
         {
           "variation_id": "BOXE7915-Azul acero-S-Skypia Underwear",
@@ -2966,8 +2966,8 @@
           "size": "40",
           "size_name": "40",
           "TALLE": "40",
-          "stock": 44,
-          "STOCK_ACTUAL": 44
+          "stock": 43,
+          "STOCK_ACTUAL": 43
         },
         {
           "variation_id": "JOGG2883-Gris-44-Skypia Underwear",
@@ -2979,8 +2979,8 @@
           "size": "44",
           "size_name": "44",
           "TALLE": "44",
-          "stock": 44,
-          "STOCK_ACTUAL": 44
+          "stock": 43,
+          "STOCK_ACTUAL": 43
         },
         {
           "variation_id": "JOGG2883-Gris-48-Skypia Underwear",
@@ -2992,8 +2992,8 @@
           "size": "48",
           "size_name": "48",
           "TALLE": "48",
-          "stock": 44,
-          "STOCK_ACTUAL": 44
+          "stock": 43,
+          "STOCK_ACTUAL": 43
         },
         {
           "variation_id": "JOGG2883-Gris-Surtido-Skypia Underwear",
@@ -3018,8 +3018,8 @@
           "size": "40",
           "size_name": "40",
           "TALLE": "40",
-          "stock": 17,
-          "STOCK_ACTUAL": 17
+          "stock": 16,
+          "STOCK_ACTUAL": 16
         },
         {
           "variation_id": "JOGG2883-Surtido-44-Skypia Underwear",
@@ -3031,8 +3031,8 @@
           "size": "44",
           "size_name": "44",
           "TALLE": "44",
-          "stock": 31,
-          "STOCK_ACTUAL": 31
+          "stock": 30,
+          "STOCK_ACTUAL": 30
         },
         {
           "variation_id": "JOGG2883-Surtido-48-Skypia Underwear",
@@ -3044,8 +3044,8 @@
           "size": "48",
           "size_name": "48",
           "TALLE": "48",
-          "stock": 8,
-          "STOCK_ACTUAL": 8
+          "stock": 7,
+          "STOCK_ACTUAL": 7
         },
         {
           "variation_id": "JOGG2883-Surtido-Surtido-Skypia Underwear",
@@ -3070,8 +3070,8 @@
           "size": "40",
           "size_name": "40",
           "TALLE": "40",
-          "stock": 44,
-          "STOCK_ACTUAL": 44
+          "stock": 43,
+          "STOCK_ACTUAL": 43
         },
         {
           "variation_id": "JOGG2883-Verde Militar-44-Skypia Underwear",
@@ -3083,8 +3083,8 @@
           "size": "44",
           "size_name": "44",
           "TALLE": "44",
-          "stock": 43,
-          "STOCK_ACTUAL": 43
+          "stock": 42,
+          "STOCK_ACTUAL": 42
         },
         {
           "variation_id": "JOGG2883-Verde Militar-48-Skypia Underwear",
@@ -3096,8 +3096,8 @@
           "size": "48",
           "size_name": "48",
           "TALLE": "48",
-          "stock": 43,
-          "STOCK_ACTUAL": 43
+          "stock": 42,
+          "STOCK_ACTUAL": 42
         },
         {
           "variation_id": "JOGG2883-Verde Militar-Surtido-Skypia Underwear",
@@ -17539,8 +17539,8 @@
           "size": "4",
           "size_name": "4",
           "TALLE": "4",
-          "stock": 10,
-          "STOCK_ACTUAL": 10
+          "stock": 9,
+          "STOCK_ACTUAL": 9
         },
         {
           "variation_id": "CHAL8562-Negro-6-Skypia Underwear",
@@ -18084,8 +18084,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -15,
-          "STOCK_ACTUAL": -15
+          "stock": -17,
+          "STOCK_ACTUAL": -17
         },
         {
           "variation_id": "PARK9180-Surtido-S-Skypia Underwear",
@@ -18097,8 +18097,8 @@
           "size": "S",
           "size_name": "S",
           "TALLE": "S",
-          "stock": -3,
-          "STOCK_ACTUAL": -3
+          "stock": -5,
+          "STOCK_ACTUAL": -5
         },
         {
           "variation_id": "PARK9180-Surtido-M-Skypia Underwear",
@@ -18442,8 +18442,8 @@
           "size": "M",
           "size_name": "M",
           "TALLE": "M",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "CAMP4708-Surtido-L-Skypia Underwear",
