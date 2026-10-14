@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T22:31:15.505Z",
-  "timestamp_ms": 1792017169972,
+  "generated_at": "2026-10-14T22:46:16.277Z",
+  "timestamp_ms": 1792018091272,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -13228,8 +13228,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "BOXE8078-Surtido-S-Skypia Underwear",
@@ -18119,8 +18119,8 @@
           "size": "L",
           "size_name": "L",
           "TALLE": "L",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         },
         {
           "variation_id": "PARK9180-Surtido-XL-Skypia Underwear",
