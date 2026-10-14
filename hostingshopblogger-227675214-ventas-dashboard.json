@@ -4990,6 +4990,75 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-7b05c0ab-3922-43c3-8944-18b9972f89b3": [
+        {
+          "id": "TPV-1792017895291",
+          "fecha": "2026-10-14 19:44",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 26460,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-7b05c0ab-3922-43c3-8944-18b9972f89b3",
+          "asesor": "CARLOS ANGEL",
+          "fechaCaja": "2026-10-14",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1792017895291-158",
+              "descripcion": "PARK9180-Surtido-L-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 22500,
+              "subtotal": 22500,
+              "tipoPrecio": "Menor",
+              "productoId": "PARK9180",
+              "color": "Surtido",
+              "talle": "L",
+              "variedadId": "PARK9180-Surtido-L-Skypia Underwear"
+            },
+            {
+              "id": "TPV-1792017895291-159",
+              "descripcion": "BOXE8078-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 3960,
+              "subtotal": 3960,
+              "tipoPrecio": "Menor",
+              "productoId": "BOXE8078",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BOXE8078-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 26460,
+          "subtotal": 26460,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -5125,6 +5194,15 @@
       "fecha": "2026-10-13",
       "tienda": "Skypia Underwear",
       "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-7b05c0ab-3922-43c3-8944-18b9972f89b3": {
+      "cajaId": "CR-7b05c0ab-3922-43c3-8944-18b9972f89b3",
+      "fecha": "2026-10-14",
+      "tienda": "Skypia Underwear",
+      "asesor": "CARLOS ANGEL",
       "horaIniciada": "Sat D",
       "horaFinalizada": "",
       "estado": "ABIERTA"
@@ -5301,6 +5379,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-7b05c0ab-3922-43c3-8944-18b9972f89b3",
+        "fecha": "2026-10-14",
+        "tienda": "Skypia Underwear",
+        "asesor": "CARLOS ANGEL",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -5353,5 +5440,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1792012065270
+  "timestamp_ms": 1792019281552
 }
