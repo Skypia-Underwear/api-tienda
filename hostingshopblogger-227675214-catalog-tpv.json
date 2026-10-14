@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:31:15.609Z",
-  "timestamp_ms": 1792020768362,
+  "generated_at": "2026-10-14T23:46:14.265Z",
+  "timestamp_ms": 1792021699047,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -1734,8 +1734,8 @@
           "size": "M",
           "size_name": "M",
           "TALLE": "M",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -13,
+          "STOCK_ACTUAL": -13
         },
         {
           "variation_id": "BOXE7915-Azul marino-S-Skypia Underwear",
