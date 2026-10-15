@@ -2247,14 +2247,14 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 35000,
+                  "precio": 36000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 45000,
+                  "precio": 46000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -8930,5 +8930,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792089182704
+  "timestamp_ms": 1792091006539
 }
