@@ -8528,7 +8528,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "800",
+                  "valor": "900",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8561,7 +8561,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "800"
+                          "stock": "900"
                         }
                       ]
                     }
@@ -8578,7 +8578,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "400"
+                          "stock": "500"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -8599,7 +8599,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "400"
+                          "stock": "500"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -8750,5 +8750,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792105386573
+  "timestamp_ms": 1792107182937
 }
