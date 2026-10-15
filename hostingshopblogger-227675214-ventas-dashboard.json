@@ -5059,6 +5059,63 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-9925d9e8-badd-44bc-b186-39391382f5e5": [
+        {
+          "id": "TPV-1792021548478",
+          "fecha": "2026-10-14 20:45",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 42000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-9925d9e8-badd-44bc-b186-39391382f5e5",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-10-14",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1792021548478-160",
+              "descripcion": "BOXE7915-Azul marino-M-Skypia Underwear",
+              "cantidad": 12,
+              "precioUnitario": 3500,
+              "subtotal": 42000,
+              "tipoPrecio": "Docena",
+              "productoId": "BOXE7915",
+              "color": "Azul marino",
+              "talle": "M",
+              "variedadId": "BOXE7915-Azul marino-M-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 42000,
+          "subtotal": 42000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -5203,6 +5260,15 @@
       "fecha": "2026-10-14",
       "tienda": "Skypia Underwear",
       "asesor": "CARLOS ANGEL",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-9925d9e8-badd-44bc-b186-39391382f5e5": {
+      "cajaId": "CR-9925d9e8-badd-44bc-b186-39391382f5e5",
+      "fecha": "2026-10-14",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
       "horaIniciada": "Sat D",
       "horaFinalizada": "",
       "estado": "ABIERTA"
@@ -5388,6 +5454,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-9925d9e8-badd-44bc-b186-39391382f5e5",
+        "fecha": "2026-10-14",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -5440,5 +5515,5 @@
     "CAMP5312": "https://drive.google.com/thumbnail?id=1D7xgAnrSyappWy9weoyYg828VQlaEzbT&sz=s600-rw",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1792019281552
+  "timestamp_ms": 1792022870265
 }
