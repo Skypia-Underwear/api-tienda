@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T21:46:13.970Z",
-  "timestamp_ms": 1792100890453,
+  "generated_at": "2026-10-15T22:01:15.276Z",
+  "timestamp_ms": 1792101765440,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -16720,8 +16720,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 100,
+          "STOCK_ACTUAL": 100
         },
         {
           "variation_id": "CAMI5015-Surtido-S-Skypia Underwear",
