@@ -2247,14 +2247,14 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 36000,
+                  "precio": 38000,
                   "variedad": "Docena",
                   "minima": 12,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 46000,
+                  "precio": 48000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -6416,139 +6416,11 @@
         },
         {
           "codigo": 16,
-          "nombre": "Parka",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parka.svg",
-          "producto": [
-            {
-              "codigo": 108,
-              "categoria": "Parka",
-              "nombre": "PARK9180",
-              "carpeta_id": "1PWem1DvXAICd6fNK3C26KiJsbCFTNION",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Camperon 1"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "YD"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Teens",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Estampado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Corderoy"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "18-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PARK9180%0A%F0%9F%94%B9%20Modelo%3A%20Camperon%201%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=12pyIyNLdRjM1BkK0oVSnR5UGkvK9WzMM&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=12pyIyNLdRjM1BkK0oVSnR5UGkvK9WzMM&sz=s600-rw",
-                  "archivo_id": "12pyIyNLdRjM1BkK0oVSnR5UGkvK9WzMM",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-18T04:54:34.946Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1ZwHjIusGcbjUIErvssRGhVNETVOa8qp8&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ZwHjIusGcbjUIErvssRGhVNETVOa8qp8&sz=s600-rw",
-                  "archivo_id": "1ZwHjIusGcbjUIErvssRGhVNETVOa8qp8",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-18T04:54:34.946Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=15kWMhg4bR0qeZD1KJIQhGGkEY3R07f47&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=15kWMhg4bR0qeZD1KJIQhGGkEY3R07f47&sz=s600-rw",
-                  "archivo_id": "15kWMhg4bR0qeZD1KJIQhGGkEY3R07f47",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-18T04:54:34.946Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 17500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 18750,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 22500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-18T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 17,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 111,
+              "codigo": 108,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -6724,12 +6596,12 @@
           ]
         },
         {
-          "codigo": 18,
+          "codigo": 17,
           "nombre": "Sueter",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 114,
+              "codigo": 111,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -6909,7 +6781,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 117,
+              "codigo": 114,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -8930,5 +8802,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792091006539
+  "timestamp_ms": 1792099997457
 }
