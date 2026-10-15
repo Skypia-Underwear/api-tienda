@@ -5000,7 +5000,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 95,
+              "codigo": 98,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -5180,7 +5180,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 98,
+              "codigo": 101,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -5530,7 +5530,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 101,
+              "codigo": 104,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5710,7 +5710,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 104,
+              "codigo": 107,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -6229,7 +6229,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 107,
+              "codigo": 110,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -6410,7 +6410,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 110,
+              "codigo": 113,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -6590,7 +6590,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 113,
+              "codigo": 116,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -8098,6 +8098,99 @@
             {
               "codigo": 80,
               "categoria": "Medias",
+              "nombre": "MEDI3207",
+              "carpeta_id": "1bTlAIXXWh-9z8xftLbVF56YTdyyYCNt1",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "1598"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELEMENTO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon y poliester"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "15-10-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI3207%0A%F0%9F%94%B9%20Modelo%3A%201598%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 1750,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 2125,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 2250,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-10-15T03:00:00.000Z"
+            },
+            {
+              "codigo": 83,
+              "categoria": "Medias",
               "nombre": "MEDI3642",
               "carpeta_id": "1Ope4B15qKT7tyVflAsxlHJFknYGyQCE1",
               "descripcion": {
@@ -8195,7 +8288,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 83,
+              "codigo": 86,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -8375,7 +8468,7 @@
               "upd": "2026-04-21T03:00:00.000Z"
             },
             {
-              "codigo": 86,
+              "codigo": 89,
               "categoria": "Medias",
               "nombre": "MEDI4292",
               "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
@@ -8474,7 +8567,7 @@
               "upd": "2026-09-04T03:00:00.000Z"
             },
             {
-              "codigo": 89,
+              "codigo": 92,
               "categoria": "Medias",
               "nombre": "MEDI4620",
               "carpeta_id": "1-QKQtAjbCw4dXzTKjO4WbFvyEi3CJppW",
@@ -8613,7 +8706,7 @@
               "upd": "2026-10-15T03:00:00.000Z"
             },
             {
-              "codigo": 92,
+              "codigo": 95,
               "categoria": "Medias",
               "nombre": "MEDI7479",
               "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
@@ -8750,5 +8843,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792107182937
+  "timestamp_ms": 1792108082605
 }
