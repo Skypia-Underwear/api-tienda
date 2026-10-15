@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T17:46:17.131Z",
-  "timestamp_ms": 1792086473600,
+  "generated_at": "2026-10-15T18:01:23.251Z",
+  "timestamp_ms": 1792087385144,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -14127,8 +14127,8 @@
           "size": "L",
           "size_name": "L",
           "TALLE": "L",
-          "stock": 10,
-          "STOCK_ACTUAL": 10
+          "stock": 9,
+          "STOCK_ACTUAL": 9
         },
         {
           "variation_id": "BOXE7529-Negro-XL-Skypia Underwear",
@@ -15751,8 +15751,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "MEDI3642-Surtido-T Unico 38-42-Skypia Underwear",
@@ -16302,156 +16302,6 @@
           "precio_unitario": 2136,
           "precio_final": 2136,
           "final_price": 2136,
-          "cantidad_minima": 3,
-          "visible": true
-        }
-      ],
-      "lastUpdate": "2026-09-06T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-09-06T03:00:00.000Z",
-      "fecha_creacion": ""
-    },
-    {
-      "id": "MEDI1658",
-      "sku": "Medi007",
-      "SKU": "Medi007",
-      "secondarySku": "Medi007",
-      "model": "1265",
-      "name": "1265",
-      "nombre": "1265",
-      "price": 1234,
-      "minor_surcharge": 0,
-      "category": "Medias",
-      "category_id": "Medias",
-      "categoryName": "Medias",
-      "parentCategory": "ROPA INTERIOR",
-      "brand": "ELEMENTO",
-      "gender": "Hombre",
-      "season": "SIN-TEMPORADA",
-      "style": "Liso",
-      "material": "Algodon y poliester",
-      "ageGroup": "Adulto",
-      "grupo_edad": "Adulto",
-      "GRUPO_EDAD": "Adulto",
-      "sizes": "Surtido,T Unico 38-42",
-      "talles": "Surtido,T Unico 38-42",
-      "TALLES": "Surtido,T Unico 38-42",
-      "colors": "Surtido",
-      "colores": "Surtido",
-      "COLORES": "Surtido",
-      "image": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw",
-      "imagen": "https://drive.google.com/thumbnail?id=13audJYr_f-SAgk-p4cVuOpfzIaScrCbW&sz=s600-rw",
-      "variations": [
-        {
-          "variation_id": "MEDI1658-Surtido-Surtido-Skypia Underwear",
-          "INVENTARIO_ID": "MEDI1658-Surtido-Surtido-Skypia Underwear",
-          "store_id": "Skypia Underwear",
-          "TIENDA_ID": "Skypia Underwear",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 150,
-          "STOCK_ACTUAL": 150
-        },
-        {
-          "variation_id": "MEDI1658-Surtido-T Unico 38-42-Skypia Underwear",
-          "INVENTARIO_ID": "MEDI1658-Surtido-T Unico 38-42-Skypia Underwear",
-          "store_id": "42-Skypia Underwear",
-          "TIENDA_ID": "42-Skypia Underwear",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "T Unico 38",
-          "size_name": "T Unico 38",
-          "TALLE": "T Unico 38",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
-        }
-      ],
-      "prices": [
-        {
-          "id": "MEDI1658-Menor",
-          "variedad_id": "MEDI1658-Menor",
-          "variety_id": "MEDI1658-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 2222,
-          "precio_unitario": 2222,
-          "precio_final": 2222,
-          "final_price": 2222,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "MEDI1658-Docena",
-          "variedad_id": "MEDI1658-Docena",
-          "variety_id": "MEDI1658-Docena",
-          "nombre": "Docena",
-          "variedad": "Docena",
-          "variety_name": "Docena",
-          "precio": 1728,
-          "precio_unitario": 1728,
-          "precio_final": 1728,
-          "final_price": 1728,
-          "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "MEDI1658-Pack x3",
-          "variedad_id": "MEDI1658-Pack x3",
-          "variety_id": "MEDI1658-Pack x3",
-          "nombre": "Pack x3",
-          "variedad": "Pack x3",
-          "variety_name": "Pack x3",
-          "precio": 2098,
-          "precio_unitario": 2098,
-          "precio_final": 2098,
-          "final_price": 2098,
-          "cantidad_minima": 3,
-          "visible": true
-        }
-      ],
-      "varieties": [
-        {
-          "id": "MEDI1658-Menor",
-          "variedad_id": "MEDI1658-Menor",
-          "variety_id": "MEDI1658-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 2222,
-          "precio_unitario": 2222,
-          "precio_final": 2222,
-          "final_price": 2222,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "MEDI1658-Docena",
-          "variedad_id": "MEDI1658-Docena",
-          "variety_id": "MEDI1658-Docena",
-          "nombre": "Docena",
-          "variedad": "Docena",
-          "variety_name": "Docena",
-          "precio": 1728,
-          "precio_unitario": 1728,
-          "precio_final": 1728,
-          "final_price": 1728,
-          "cantidad_minima": 12,
-          "visible": true
-        },
-        {
-          "id": "MEDI1658-Pack x3",
-          "variedad_id": "MEDI1658-Pack x3",
-          "variety_id": "MEDI1658-Pack x3",
-          "nombre": "Pack x3",
-          "variedad": "Pack x3",
-          "variety_name": "Pack x3",
-          "precio": 2098,
-          "precio_unitario": 2098,
-          "precio_final": 2098,
-          "final_price": 2098,
           "cantidad_minima": 3,
           "visible": true
         }
@@ -21189,50 +21039,6 @@
         "precio_unitario": 2136,
         "precio_final": 2136,
         "final_price": 2136,
-        "cantidad_minima": 3,
-        "visible": true
-      }
-    ],
-    "MEDI1658": [
-      {
-        "id": "MEDI1658-Menor",
-        "variedad_id": "MEDI1658-Menor",
-        "variety_id": "MEDI1658-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 2222,
-        "precio_unitario": 2222,
-        "precio_final": 2222,
-        "final_price": 2222,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "MEDI1658-Docena",
-        "variedad_id": "MEDI1658-Docena",
-        "variety_id": "MEDI1658-Docena",
-        "nombre": "Docena",
-        "variedad": "Docena",
-        "variety_name": "Docena",
-        "precio": 1728,
-        "precio_unitario": 1728,
-        "precio_final": 1728,
-        "final_price": 1728,
-        "cantidad_minima": 12,
-        "visible": true
-      },
-      {
-        "id": "MEDI1658-Pack x3",
-        "variedad_id": "MEDI1658-Pack x3",
-        "variety_id": "MEDI1658-Pack x3",
-        "nombre": "Pack x3",
-        "variedad": "Pack x3",
-        "variety_name": "Pack x3",
-        "precio": 2098,
-        "precio_unitario": 2098,
-        "precio_final": 2098,
-        "final_price": 2098,
         "cantidad_minima": 3,
         "visible": true
       }
