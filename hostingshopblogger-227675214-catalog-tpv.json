@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T23:16:15.398Z",
-  "timestamp_ms": 1792106268999,
+  "generated_at": "2026-10-15T23:31:19.168Z",
+  "timestamp_ms": 1792107172924,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -17265,8 +17265,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 400,
-          "STOCK_ACTUAL": 400
+          "stock": 500,
+          "STOCK_ACTUAL": 500
         },
         {
           "variation_id": "MEDI4620-Surtido-T Unico 38-42-Skypia Underwear",
