@@ -5000,7 +5000,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 98,
+              "codigo": 101,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -5180,7 +5180,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 101,
+              "codigo": 104,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -5530,7 +5530,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 104,
+              "codigo": 107,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5710,7 +5710,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 107,
+              "codigo": 110,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -6229,7 +6229,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 110,
+              "codigo": 113,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -6410,7 +6410,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 113,
+              "codigo": 116,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -6590,7 +6590,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 116,
+              "codigo": 119,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -8720,6 +8720,179 @@
             {
               "codigo": 95,
               "categoria": "Medias",
+              "nombre": "MEDI6504",
+              "carpeta_id": "19BJD_z-jBAdSqQLBiAa8hu7-QB7A6eVU",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "diego"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "ELEMENTO"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Hombre",
+                  "icono": "♂️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodon y poliester"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "T Unico 38-42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Blanco",
+                      "hex": "#FFFFFF"
+                    },
+                    {
+                      "nombre": "Rojo",
+                      "hex": "#FF0000"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1200",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "15-10-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI6504%0A%F0%9F%94%B9%20Modelo%3A%20diego%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2038-42"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 3500,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "400"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 4250,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "200"
+                        },
+                        {
+                          "talle": "T Unico 38-42",
+                          "stock": "200"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 4500,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "200"
+                        },
+                        {
+                          "talle": "T Unico 38-42",
+                          "stock": "200"
+                        }
+                      ]
+                    },
+                    "Blanco": {
+                      "color": "#FFFFFF",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "200"
+                        },
+                        {
+                          "talle": "T Unico 38-42",
+                          "stock": "200"
+                        }
+                      ]
+                    },
+                    "Rojo": {
+                      "color": "#FF0000",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "200"
+                        },
+                        {
+                          "talle": "T Unico 38-42",
+                          "stock": "200"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-10-15T03:00:00.000Z"
+            },
+            {
+              "codigo": 98,
+              "categoria": "Medias",
               "nombre": "MEDI7479",
               "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
               "descripcion": {
@@ -8855,5 +9028,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1792110801119
+  "timestamp_ms": 1792111692277
 }
