@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-16T00:31:25.644Z",
-  "timestamp_ms": 1792110778959,
+  "generated_at": "2026-10-16T00:47:15.292Z",
+  "timestamp_ms": 1792111700411,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
+      "businessName": "Skypia Underwear",
       "address": "Cnel. José María Vilela 2206, B1714JWT Ituzaingó, Provincia de Buenos Aires, Argentina",
       "phone": 1123890659,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
@@ -23,6 +24,16 @@
           "Presupuesto"
         ],
         "printerIp": "192.168.1.34",
+        "puntoVentaAfip": 1,
+        "facturacionHabilitada": true,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "MONOTRIBUTO",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO",
+          "FACTURA_C"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -17523,6 +17534,208 @@
       "lastUpdate": "2026-10-15T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-10-15T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "MEDI6504",
+      "sku": "Medi009",
+      "SKU": "Medi009",
+      "secondarySku": "Medi009",
+      "model": "diego",
+      "name": "diego",
+      "nombre": "diego",
+      "price": 2500,
+      "minor_surcharge": 0,
+      "category": "Medias",
+      "category_id": "Medias",
+      "categoryName": "Medias",
+      "parentCategory": "ROPA INTERIOR",
+      "brand": "ELEMENTO",
+      "gender": "Hombre",
+      "season": "SIN-TEMPORADA",
+      "style": "Liso",
+      "material": "Algodon y poliester",
+      "ageGroup": "",
+      "grupo_edad": "",
+      "GRUPO_EDAD": "",
+      "sizes": "Surtido,T Unico 38-42",
+      "talles": "Surtido,T Unico 38-42",
+      "TALLES": "Surtido,T Unico 38-42",
+      "colors": "Surtido,Blanco,Rojo",
+      "colores": "Surtido,Blanco,Rojo",
+      "COLORES": "Surtido,Blanco,Rojo",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "MEDI6504-Surtido-Surtido-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "MEDI6504-Surtido-T Unico 38-42-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Surtido-T Unico 38-42-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "T Unico 38-42",
+          "size_name": "T Unico 38-42",
+          "TALLE": "T Unico 38-42",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "MEDI6504-Blanco-Surtido-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Blanco-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Blanco",
+          "COLOR": "Blanco",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "MEDI6504-Blanco-T Unico 38-42-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Blanco-T Unico 38-42-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Blanco",
+          "COLOR": "Blanco",
+          "size": "T Unico 38-42",
+          "size_name": "T Unico 38-42",
+          "TALLE": "T Unico 38-42",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "MEDI6504-Rojo-Surtido-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Rojo-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Rojo",
+          "COLOR": "Rojo",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "MEDI6504-Rojo-T Unico 38-42-Skypia Underwear",
+          "INVENTARIO_ID": "MEDI6504-Rojo-T Unico 38-42-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "TIENDA_ID": "Skypia Underwear",
+          "color": "Rojo",
+          "COLOR": "Rojo",
+          "size": "T Unico 38-42",
+          "size_name": "T Unico 38-42",
+          "TALLE": "T Unico 38-42",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        }
+      ],
+      "prices": [
+        {
+          "id": "MEDI6504-Menor",
+          "variedad_id": "MEDI6504-Menor",
+          "variety_id": "MEDI6504-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 4500,
+          "precio_unitario": 4500,
+          "precio_final": 4500,
+          "final_price": 4500,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "MEDI6504-Docena",
+          "variedad_id": "MEDI6504-Docena",
+          "variety_id": "MEDI6504-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 3500,
+          "precio_unitario": 3500,
+          "precio_final": 3500,
+          "final_price": 3500,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "MEDI6504-Pack x3",
+          "variedad_id": "MEDI6504-Pack x3",
+          "variety_id": "MEDI6504-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "variety_name": "Pack x3",
+          "precio": 4250,
+          "precio_unitario": 4250,
+          "precio_final": 4250,
+          "final_price": 4250,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "MEDI6504-Menor",
+          "variedad_id": "MEDI6504-Menor",
+          "variety_id": "MEDI6504-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 4500,
+          "precio_unitario": 4500,
+          "precio_final": 4500,
+          "final_price": 4500,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "MEDI6504-Docena",
+          "variedad_id": "MEDI6504-Docena",
+          "variety_id": "MEDI6504-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "variety_name": "Docena",
+          "precio": 3500,
+          "precio_unitario": 3500,
+          "precio_final": 3500,
+          "final_price": 3500,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "MEDI6504-Pack x3",
+          "variedad_id": "MEDI6504-Pack x3",
+          "variety_id": "MEDI6504-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "variety_name": "Pack x3",
+          "precio": 4250,
+          "precio_unitario": 4250,
+          "precio_final": 4250,
+          "final_price": 4250,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-15T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-15T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -18601,6 +18814,44 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
+  "invoiceTypes": [
+    {
+      "COMPROBANTE_ID": "COMP_A",
+      "NOMBRE": "Factura A",
+      "CODIGO_AFIP": 1,
+      "LETRA": "A",
+      "DISCRIMINA_IVA": true,
+      "REQUIERE_RECEPTOR": true,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_B",
+      "NOMBRE": "Factura B",
+      "CODIGO_AFIP": 6,
+      "LETRA": "B",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_C",
+      "NOMBRE": "Factura C",
+      "CODIGO_AFIP": 11,
+      "LETRA": "C",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_PRESUPUESTO",
+      "NOMBRE": "Presupuesto / No Fiscal",
+      "CODIGO_AFIP": 0,
+      "LETRA": "X",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    }
+  ],
   "allVarieties": {
     "BOXE4793": [
       {
@@ -20422,6 +20673,50 @@
         "precio_unitario": 2125,
         "precio_final": 2125,
         "final_price": 2125,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "MEDI6504": [
+      {
+        "id": "MEDI6504-Menor",
+        "variedad_id": "MEDI6504-Menor",
+        "variety_id": "MEDI6504-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 4500,
+        "precio_unitario": 4500,
+        "precio_final": 4500,
+        "final_price": 4500,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "MEDI6504-Docena",
+        "variedad_id": "MEDI6504-Docena",
+        "variety_id": "MEDI6504-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "variety_name": "Docena",
+        "precio": 3500,
+        "precio_unitario": 3500,
+        "precio_final": 3500,
+        "final_price": 3500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "MEDI6504-Pack x3",
+        "variedad_id": "MEDI6504-Pack x3",
+        "variety_id": "MEDI6504-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "variety_name": "Pack x3",
+        "precio": 4250,
+        "precio_unitario": 4250,
+        "precio_final": 4250,
+        "final_price": 4250,
         "cantidad_minima": 3,
         "visible": true
       }
