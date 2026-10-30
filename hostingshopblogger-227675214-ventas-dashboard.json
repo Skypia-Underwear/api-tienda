@@ -5904,7 +5904,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Tabla",
-        "printerIp": "192.168.1.36",
+        "printerIp": "192.168.1.37",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -6173,5 +6173,5 @@
     "MEDI2696": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
     "MEDI9438": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw"
   },
-  "timestamp_ms": 1793329675063
+  "timestamp_ms": 1793383696620
 }
