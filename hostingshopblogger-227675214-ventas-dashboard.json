@@ -960,132 +960,6 @@
           "montoIva": 0
         }
       ],
-      "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": [
-        {
-          "id": "TPV-1785630452142",
-          "fecha": "2026-08-01 21:27",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 1116600,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "Skypia Underwear",
-          "metodoPago": "Efectivo",
-          "cajaId": "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df",
-          "asesor": "JUAN DIEGO",
-          "fechaCaja": "2026-08-01",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1785630452142-0",
-              "descripcion": "BOXE4797-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 3500,
-              "subtotal": 42000,
-              "tipoPrecio": "Docena",
-              "productoId": "BOXE4797",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "BOXE4797-Surtido-Surtido-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785630452142-1",
-              "descripcion": "MEDI4227-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 2800,
-              "subtotal": 33600,
-              "tipoPrecio": "Docena",
-              "productoId": "MEDI4227",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785630452142-2",
-              "descripcion": "SUET9180-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 35000,
-              "subtotal": 420000,
-              "tipoPrecio": "Docena",
-              "productoId": "SUET9180",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "SUET9180-Surtido-Surtido-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785630452142-3",
-              "descripcion": "REME4798-Surtido-2XL-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 19600,
-              "subtotal": 235200,
-              "tipoPrecio": "Docena",
-              "productoId": "REME4798",
-              "color": "Surtido",
-              "talle": "2XL",
-              "variedadId": "REME4798-Surtido-2XL-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785630452142-4",
-              "descripcion": "CAMI1911-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 16200,
-              "subtotal": 16200,
-              "tipoPrecio": "Menor",
-              "productoId": "CAMI1911",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "CAMI1911-Surtido-Surtido-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785630452142-5",
-              "descripcion": "JOGG2618-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 30800,
-              "subtotal": 369600,
-              "tipoPrecio": "Docena",
-              "productoId": "JOGG2618",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "JOGG2618-Surtido-Surtido-Skypia Underwear"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 1116600,
-          "subtotal": 1116600,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        }
-      ],
       "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": [
         {
           "id": "TPV-1785705569576",
@@ -5723,15 +5597,6 @@
     }
   },
   "cajasMetadata": {
-    "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df": {
-      "cajaId": "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df",
-      "fecha": "2026-08-01",
-      "tienda": "Skypia Underwear",
-      "asesor": "JUAN DIEGO",
-      "horaIniciada": "",
-      "horaFinalizada": "Sat D",
-      "estado": "CERRADA"
-    },
     "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": {
       "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
       "fecha": "2026-08-02",
@@ -5962,15 +5827,6 @@
     ],
     "cajasLista": [
       {
-        "cajaId": "CR-490e3213-aae7-46b9-a37d-1bdcb72cc6df",
-        "fecha": "2026-08-01",
-        "tienda": "Skypia Underwear",
-        "asesor": "JUAN DIEGO",
-        "horaIniciada": "",
-        "horaFinalizada": "Sat D",
-        "estado": "CERRADA"
-      },
-      {
         "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
         "fecha": "2026-08-02",
         "tienda": "Skypia Underwear",
@@ -6173,5 +6029,5 @@
     "MEDI2696": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
     "MEDI9438": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw"
   },
-  "timestamp_ms": 1793383696620
+  "timestamp_ms": 1793444859864
 }
