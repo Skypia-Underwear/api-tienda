@@ -960,120 +960,6 @@
           "montoIva": 0
         }
       ],
-      "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": [
-        {
-          "id": "TPV-1785705569576",
-          "fecha": "2026-08-02 18:19",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 203588,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "Skypia Underwear",
-          "metodoPago": "Transferencia",
-          "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
-          "asesor": "JUAN DIEGO",
-          "fechaCaja": "2026-08-02",
-          "bancoTransferencia": "Mercado Pago",
-          "aliasTransferencia": "Ricaldisimo",
-          "costoEnvio": 0,
-          "recargoTransferencia": 18508,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1785705569576-6",
-              "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 3500,
-              "subtotal": 42000,
-              "tipoPrecio": "Docena",
-              "productoId": "BOXE4797",
-              "color": "Surtido",
-              "talle": "XL",
-              "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785705569576-7",
-              "descripcion": "BOXE5151-Surtido-M-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 4680,
-              "subtotal": 4680,
-              "tipoPrecio": "Menor",
-              "productoId": "BOXE5151",
-              "color": "Surtido",
-              "talle": "M",
-              "variedadId": "BOXE5151-Surtido-M-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785705569576-8",
-              "descripcion": "CONJ6330-Negro-2XL-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 70000,
-              "subtotal": 70000,
-              "tipoPrecio": "Menor",
-              "productoId": "CONJ6330",
-              "color": "Negro",
-              "talle": "2XL",
-              "variedadId": "CONJ6330-Negro-2XL-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785705569576-9",
-              "descripcion": "MEDI4227-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 3600,
-              "subtotal": 3600,
-              "tipoPrecio": "Menor",
-              "productoId": "MEDI4227",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785705569576-10",
-              "descripcion": "CAMP2546-Amarillo mostaza-2XL-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 64800,
-              "subtotal": 64800,
-              "tipoPrecio": "Menor",
-              "productoId": "CAMP2546",
-              "color": "Amarillo mostaza",
-              "talle": "2XL",
-              "variedadId": "CAMP2546-Amarillo mostaza-2XL-Skypia Underwear"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 185080,
-          "subtotal": 185080,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        }
-      ],
       "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": [
         {
           "id": "TPV-1785954420999",
@@ -5597,15 +5483,6 @@
     }
   },
   "cajasMetadata": {
-    "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a": {
-      "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
-      "fecha": "2026-08-02",
-      "tienda": "Skypia Underwear",
-      "asesor": "JUAN DIEGO",
-      "horaIniciada": "Sat D",
-      "horaFinalizada": "Sat D",
-      "estado": "CERRADA"
-    },
     "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": {
       "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
       "fecha": "2026-08-05",
@@ -5827,15 +5704,6 @@
     ],
     "cajasLista": [
       {
-        "cajaId": "CR-1ff636a6-89ba-48dc-b7a5-62b9f3d7ce2a",
-        "fecha": "2026-08-02",
-        "tienda": "Skypia Underwear",
-        "asesor": "JUAN DIEGO",
-        "horaIniciada": "Sat D",
-        "horaFinalizada": "Sat D",
-        "estado": "CERRADA"
-      },
-      {
         "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
         "fecha": "2026-08-05",
         "tienda": "Skypia Underwear",
@@ -6029,5 +5897,5 @@
     "MEDI2696": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
     "MEDI9438": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw"
   },
-  "timestamp_ms": 1793444859864
+  "timestamp_ms": 1793491662911
 }
