@@ -5479,6 +5479,136 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "CR-941f321a-d322-4131-bb64-c9d1648f7ae3": [
+        {
+          "id": "TPV-1793679823348",
+          "fecha": "2026-11-03 01:23",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 2400,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-941f321a-d322-4131-bb64-c9d1648f7ae3",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-11-03",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1793679823348-164",
+              "descripcion": "MEDI3207-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 2400,
+              "subtotal": 2400,
+              "tipoPrecio": "Menor",
+              "productoId": "MEDI3207",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI3207-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 2400,
+          "subtotal": 2400,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        },
+        {
+          "id": "TPV-1793679940866",
+          "fecha": "2026-11-03 01:25",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 4500,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "Skypia Underwear",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-941f321a-d322-4131-bb64-c9d1648f7ae3",
+          "asesor": "JUAN DIEGO",
+          "fechaCaja": "2026-11-03",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1793679940866-165",
+              "descripcion": "MEDI6504-Surtido-Surtido-Skypia Underwear",
+              "cantidad": 1,
+              "precioUnitario": 4500,
+              "subtotal": 4500,
+              "tipoPrecio": "Menor",
+              "productoId": "MEDI6504",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "MEDI6504-Surtido-Surtido-Skypia Underwear"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 4500,
+          "subtotal": 4500,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 1,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     }
   },
@@ -5626,6 +5756,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "",
       "estado": "ABIERTA"
+    },
+    "CR-941f321a-d322-4131-bb64-c9d1648f7ae3": {
+      "cajaId": "CR-941f321a-d322-4131-bb64-c9d1648f7ae3",
+      "fecha": "2026-11-03",
+      "tienda": "Skypia Underwear",
+      "asesor": "JUAN DIEGO",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     }
   },
   "stores": {
@@ -5639,7 +5778,19 @@
       "phone": 1123890659,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
       "logoUrl": "BD_TIENDAS_Images/Skypia Underwear.LOGOTIPO.220950.png",
-      "qrData": "BLOGGER",
+      "qrData": "https://skypia-underwear.blogspot.com/",
+      "qrKey": "BLOGGER",
+      "qrOptions": {
+        "BLOGGER": "https://skypia-underwear.blogspot.com/",
+        "CATALOGO": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
+        "SITIO_WEB": "",
+        "INSTAGRAM": "https://www.instagram.com/hostingsh0p/",
+        "FACEBOOK": "https://www.facebook.com/RicaldiSimo",
+        "TIKTOK": "https://tiktok.com/hostingshop",
+        "MAPS": "https://maps.google.com/?q=ChIJqRVNNA7JvJURQxU7WrDOz4o",
+        "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=client_form",
+        "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk"
+      },
       "config": {
         "minorSurcharge": 0,
         "minimumPurchase": 3,
@@ -5846,6 +5997,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-941f321a-d322-4131-bb64-c9d1648f7ae3",
+        "fecha": "2026-11-03",
+        "tienda": "Skypia Underwear",
+        "asesor": "JUAN DIEGO",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -5897,5 +6057,5 @@
     "MEDI2696": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
     "MEDI9438": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw"
   },
-  "timestamp_ms": 1793581664644
+  "timestamp_ms": 1793714862705
 }
