@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T17:31:17.069Z",
-  "timestamp_ms": 1793554384718,
+  "generated_at": "2026-11-03T06:01:22.720Z",
+  "timestamp_ms": 1793685792743,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -12,7 +12,19 @@
       "phone": 1123890659,
       "policies": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
       "logoUrl": "BD_TIENDAS_Images/Skypia Underwear.LOGOTIPO.220950.png",
-      "qrData": "BLOGGER",
+      "qrData": "https://skypia-underwear.blogspot.com/",
+      "qrKey": "BLOGGER",
+      "qrOptions": {
+        "BLOGGER": "https://skypia-underwear.blogspot.com/",
+        "CATALOGO": "https://drive.google.com/drive/folders/1cnYl0-OqtQgdROuT8KvyUBtPVmuBY_66?usp=drive_link",
+        "SITIO_WEB": "",
+        "INSTAGRAM": "https://www.instagram.com/hostingsh0p/",
+        "FACEBOOK": "https://www.facebook.com/RicaldiSimo",
+        "TIKTOK": "https://tiktok.com/hostingshop",
+        "MAPS": "https://maps.google.com/?q=ChIJqRVNNA7JvJURQxU7WrDOz4o",
+        "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbyNBifMp803od61SuOQx6MtnlzCPyFO-famdi_3QIXYuOeQxkVCmqjWUypoWEkJlHkn/exec?view=client_form",
+        "FORMULARIO_COMPROBANTE": "https://docs.google.com/forms/d/1KKSTE9-6Vl4AXLz-WSX3qCGnN1raKeUhI7WQW8Iq0fE/edit?usp=drivesdk"
+      },
       "config": {
         "minorSurcharge": 0,
         "minimumPurchase": 3,
@@ -17272,8 +17284,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 200,
-          "STOCK_ACTUAL": 200
+          "stock": 199,
+          "STOCK_ACTUAL": 199
         },
         {
           "variation_id": "MEDI3207-Surtido-T Unico 38-42-Skypia Underwear",
@@ -17422,8 +17434,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 200,
-          "STOCK_ACTUAL": 200
+          "stock": 199,
+          "STOCK_ACTUAL": 199
         },
         {
           "variation_id": "MEDI6504-Surtido-T Unico 38-42-Skypia Underwear",
