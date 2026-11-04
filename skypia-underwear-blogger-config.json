@@ -8036,8 +8036,8 @@
                 "talles": {
                   "label": "Talles",
                   "valores": [
-                    "Surtido",
-                    "T Unico 38-42"
+                    "T Unico 38-42",
+                    "Surtido"
                   ]
                 },
                 "colores": {
@@ -8063,7 +8063,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "63",
+                  "valor": "60",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8073,7 +8073,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI2696%0A%F0%9F%94%B9%20Modelo%3A%20diego%201%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2038-42"
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI2696%0A%F0%9F%94%B9%20Modelo%3A%20diego%201%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20T%20Unico%2038-42%2C%20Surtido"
                 }
               },
               "guia_talles_img": "",
@@ -8113,7 +8113,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "12"
+                          "stock": "10"
                         }
                       ]
                     }
@@ -8128,10 +8128,6 @@
                     "Surtido": {
                       "color": "#FF69B4-800080",
                       "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "2"
-                        },
                         {
                           "talle": "T Unico 38-42",
                           "stock": "10"
@@ -8150,10 +8146,6 @@
                       "color": "#FF69B4-800080",
                       "talles": [
                         {
-                          "talle": "Surtido",
-                          "stock": "2"
-                        },
-                        {
                           "talle": "T Unico 38-42",
                           "stock": "10"
                         }
@@ -8164,7 +8156,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "10"
+                          "stock": "9"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -8888,7 +8880,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1199",
+                  "valor": "1197",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8927,7 +8919,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "399"
+                          "stock": "397"
                         }
                       ]
                     }
@@ -8944,7 +8936,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "199"
+                          "stock": "197"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -8965,7 +8957,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "199"
+                          "stock": "197"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -9304,5 +9296,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793701984999
+  "timestamp_ms": 1793788420356
 }
