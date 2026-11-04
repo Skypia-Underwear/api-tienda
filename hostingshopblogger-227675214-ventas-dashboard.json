@@ -166,7 +166,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "COT-630271-51",
+              "id": "COT-630271-36",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -230,7 +230,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "COT-303672-52",
+              "id": "COT-303672-37",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -294,7 +294,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "COT-127998-53",
+              "id": "COT-127998-38",
               "descripcion": "CAMP5312-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 41400,
@@ -306,7 +306,7 @@
               "variedadId": "CAMP5312-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "COT-127998-54",
+              "id": "COT-127998-39",
               "descripcion": "CHAL8562-Negro-4-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -318,7 +318,7 @@
               "variedadId": "CHAL8562-Negro-4-Skypia Underwear"
             },
             {
-              "id": "COT-127998-55",
+              "id": "COT-127998-40",
               "descripcion": "CHAL8562-Negro-6-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -330,7 +330,7 @@
               "variedadId": "CHAL8562-Negro-6-Skypia Underwear"
             },
             {
-              "id": "COT-127998-56",
+              "id": "COT-127998-41",
               "descripcion": "CHAL8562-Negro-8-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -342,7 +342,7 @@
               "variedadId": "CHAL8562-Negro-8-Skypia Underwear"
             },
             {
-              "id": "COT-127998-57",
+              "id": "COT-127998-42",
               "descripcion": "CHAL8562-Negro-10-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -354,7 +354,7 @@
               "variedadId": "CHAL8562-Negro-10-Skypia Underwear"
             },
             {
-              "id": "COT-127998-58",
+              "id": "COT-127998-43",
               "descripcion": "CHAL8562-Negro-12-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -366,7 +366,7 @@
               "variedadId": "CHAL8562-Negro-12-Skypia Underwear"
             },
             {
-              "id": "COT-127998-59",
+              "id": "COT-127998-44",
               "descripcion": "CHAL8562-Negro-14-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -378,7 +378,7 @@
               "variedadId": "CHAL8562-Negro-14-Skypia Underwear"
             },
             {
-              "id": "COT-127998-60",
+              "id": "COT-127998-45",
               "descripcion": "CHAL8562-Azul-4-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -390,7 +390,7 @@
               "variedadId": "CHAL8562-Azul-4-Skypia Underwear"
             },
             {
-              "id": "COT-127998-61",
+              "id": "COT-127998-46",
               "descripcion": "CHAL8562-Azul-6-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -402,7 +402,7 @@
               "variedadId": "CHAL8562-Azul-6-Skypia Underwear"
             },
             {
-              "id": "COT-127998-62",
+              "id": "COT-127998-47",
               "descripcion": "CHAL8562-Azul-8-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -414,7 +414,7 @@
               "variedadId": "CHAL8562-Azul-8-Skypia Underwear"
             },
             {
-              "id": "COT-127998-63",
+              "id": "COT-127998-48",
               "descripcion": "CHAL8562-Azul-10-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -426,7 +426,7 @@
               "variedadId": "CHAL8562-Azul-10-Skypia Underwear"
             },
             {
-              "id": "COT-127998-64",
+              "id": "COT-127998-49",
               "descripcion": "CHAL8562-Azul-12-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -438,7 +438,7 @@
               "variedadId": "CHAL8562-Azul-12-Skypia Underwear"
             },
             {
-              "id": "COT-127998-65",
+              "id": "COT-127998-50",
               "descripcion": "CHAL8562-Azul-14-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -450,7 +450,7 @@
               "variedadId": "CHAL8562-Azul-14-Skypia Underwear"
             },
             {
-              "id": "COT-127998-66",
+              "id": "COT-127998-51",
               "descripcion": "CHAL8562-Blanco-4-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -462,7 +462,7 @@
               "variedadId": "CHAL8562-Blanco-4-Skypia Underwear"
             },
             {
-              "id": "COT-127998-67",
+              "id": "COT-127998-52",
               "descripcion": "CHAL8562-Blanco-6-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -474,7 +474,7 @@
               "variedadId": "CHAL8562-Blanco-6-Skypia Underwear"
             },
             {
-              "id": "COT-127998-68",
+              "id": "COT-127998-53",
               "descripcion": "CHAL8562-Blanco-8-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -486,7 +486,7 @@
               "variedadId": "CHAL8562-Blanco-8-Skypia Underwear"
             },
             {
-              "id": "COT-127998-69",
+              "id": "COT-127998-54",
               "descripcion": "CHAL8562-Blanco-10-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -498,7 +498,7 @@
               "variedadId": "CHAL8562-Blanco-10-Skypia Underwear"
             },
             {
-              "id": "COT-127998-70",
+              "id": "COT-127998-55",
               "descripcion": "CHAL8562-Blanco-12-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 83250,
@@ -510,7 +510,7 @@
               "variedadId": "CHAL8562-Blanco-12-Skypia Underwear"
             },
             {
-              "id": "COT-127998-71",
+              "id": "COT-127998-56",
               "descripcion": "CHAL8562-Blanco-14-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 83250,
@@ -574,7 +574,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "PED-446656-72",
+              "id": "PED-446656-57",
               "descripcion": "BOXE4797",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -586,7 +586,7 @@
               "variedadId": "BOXE4797"
             },
             {
-              "id": "PED-446656-73",
+              "id": "PED-446656-58",
               "descripcion": "BOXE7940",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -598,7 +598,7 @@
               "variedadId": "BOXE7940"
             },
             {
-              "id": "PED-446656-74",
+              "id": "PED-446656-59",
               "descripcion": "BOXE7940",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -662,7 +662,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "PED-453266-75",
+              "id": "PED-453266-60",
               "descripcion": "BOXE4797",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -674,7 +674,7 @@
               "variedadId": "BOXE4797"
             },
             {
-              "id": "PED-453266-76",
+              "id": "PED-453266-61",
               "descripcion": "BOXE7940",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -686,7 +686,7 @@
               "variedadId": "BOXE7940"
             },
             {
-              "id": "PED-453266-77",
+              "id": "PED-453266-62",
               "descripcion": "BOXE7940",
               "cantidad": 1,
               "precioUnitario": 0,
@@ -750,7 +750,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "COT-196177-78",
+              "id": "COT-196177-63",
               "descripcion": "MEDI3642-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -762,7 +762,7 @@
               "variedadId": "MEDI3642-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "COT-196177-79",
+              "id": "COT-196177-64",
               "descripcion": "BERM2366-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 37800,
@@ -774,7 +774,7 @@
               "variedadId": "BERM2366-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "COT-196177-80",
+              "id": "COT-196177-65",
               "descripcion": "SHOR2420-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 34200,
@@ -786,7 +786,7 @@
               "variedadId": "SHOR2420-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "COT-196177-81",
+              "id": "COT-196177-66",
               "descripcion": "CAMP7014-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 77400,
@@ -798,7 +798,7 @@
               "variedadId": "CAMP7014-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "COT-196177-82",
+              "id": "COT-196177-67",
               "descripcion": "CHAL1354-Surtido-4-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -810,7 +810,7 @@
               "variedadId": "CHAL1354-Surtido-4-Skypia Underwear"
             },
             {
-              "id": "COT-196177-83",
+              "id": "COT-196177-68",
               "descripcion": "CHAL1354-Surtido-6-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -822,7 +822,7 @@
               "variedadId": "CHAL1354-Surtido-6-Skypia Underwear"
             },
             {
-              "id": "COT-196177-84",
+              "id": "COT-196177-69",
               "descripcion": "CHAL1354-Surtido-8-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -834,7 +834,7 @@
               "variedadId": "CHAL1354-Surtido-8-Skypia Underwear"
             },
             {
-              "id": "COT-196177-85",
+              "id": "COT-196177-70",
               "descripcion": "CHAL1354-Surtido-10-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -846,7 +846,7 @@
               "variedadId": "CHAL1354-Surtido-10-Skypia Underwear"
             },
             {
-              "id": "COT-196177-86",
+              "id": "COT-196177-71",
               "descripcion": "CHAL1354-Surtido-12-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -858,7 +858,7 @@
               "variedadId": "CHAL1354-Surtido-12-Skypia Underwear"
             },
             {
-              "id": "COT-196177-87",
+              "id": "COT-196177-72",
               "descripcion": "CHAL1354-Surtido-14-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -870,7 +870,7 @@
               "variedadId": "CHAL1354-Surtido-14-Skypia Underwear"
             },
             {
-              "id": "COT-196177-88",
+              "id": "COT-196177-73",
               "descripcion": "CHAL1354-Celeste-4-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -882,7 +882,7 @@
               "variedadId": "CHAL1354-Celeste-4-Skypia Underwear"
             },
             {
-              "id": "COT-196177-89",
+              "id": "COT-196177-74",
               "descripcion": "CHAL1354-Celeste-6-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -894,7 +894,7 @@
               "variedadId": "CHAL1354-Celeste-6-Skypia Underwear"
             },
             {
-              "id": "COT-196177-90",
+              "id": "COT-196177-75",
               "descripcion": "CHAL1354-Celeste-8-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -906,7 +906,7 @@
               "variedadId": "CHAL1354-Celeste-8-Skypia Underwear"
             },
             {
-              "id": "COT-196177-91",
+              "id": "COT-196177-76",
               "descripcion": "CHAL1354-Celeste-10-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -918,7 +918,7 @@
               "variedadId": "CHAL1354-Celeste-10-Skypia Underwear"
             },
             {
-              "id": "COT-196177-92",
+              "id": "COT-196177-77",
               "descripcion": "CHAL1354-Celeste-12-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -930,7 +930,7 @@
               "variedadId": "CHAL1354-Celeste-12-Skypia Underwear"
             },
             {
-              "id": "COT-196177-93",
+              "id": "COT-196177-78",
               "descripcion": "CHAL1354-Celeste-14-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12000,
@@ -949,160 +949,6 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": true,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        }
-      ],
-      "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": [
-        {
-          "id": "TPV-1785954420999",
-          "fecha": "2026-08-05 15:27",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 42000,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "Skypia Underwear",
-          "metodoPago": "Efectivo",
-          "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
-          "asesor": "JUAN DIEGO",
-          "fechaCaja": "2026-08-05",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1785954420999-11",
-              "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 3500,
-              "subtotal": 42000,
-              "tipoPrecio": "Docena",
-              "productoId": "BOXE4797",
-              "color": "Surtido",
-              "talle": "L",
-              "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 42000,
-          "subtotal": 42000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        },
-        {
-          "id": "TPV-1785954548703",
-          "fecha": "2026-08-05 15:29",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 783000,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "Skypia Underwear",
-          "metodoPago": "Efectivo",
-          "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
-          "asesor": "JUAN DIEGO",
-          "fechaCaja": "2026-08-05",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1785954548703-12",
-              "descripcion": "CONJ6330-Surtido-M-Skypia Underwear",
-              "cantidad": 12,
-              "precioUnitario": 63000,
-              "subtotal": 756000,
-              "tipoPrecio": "Docena",
-              "productoId": "CONJ6330",
-              "color": "Surtido",
-              "talle": "M",
-              "variedadId": "CONJ6330-Surtido-M-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785954548703-13",
-              "descripcion": "JOGG9403-Surtido-M-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 23400,
-              "subtotal": 23400,
-              "tipoPrecio": "Menor",
-              "productoId": "JOGG9403",
-              "color": "Surtido",
-              "talle": "M",
-              "variedadId": "JOGG9403-Surtido-M-Skypia Underwear"
-            },
-            {
-              "id": "TPV-1785954548703-14",
-              "descripcion": "MEDI4227-Surtido-Surtido-Skypia Underwear",
-              "cantidad": 1,
-              "precioUnitario": 3600,
-              "subtotal": 3600,
-              "tipoPrecio": "Menor",
-              "productoId": "MEDI4227",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "MEDI4227-Surtido-Surtido-Skypia Underwear"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 783000,
-          "subtotal": 783000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
           "tipoComprobante": "TICKET_COMUN",
           "estadoFacturacion": "NO_FISCAL",
           "puntoVenta": "",
@@ -1150,7 +996,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1787693298411-15",
+              "id": "TPV-1787693298411-0",
               "descripcion": "BOXE4793-Surtido-Surtido-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -1214,7 +1060,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1787711669558-16",
+              "id": "TPV-1787711669558-1",
               "descripcion": "BOXE4797-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1280,7 +1126,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1787757523499-17",
+              "id": "TPV-1787757523499-2",
               "descripcion": "BOXE4797-Surtido-M-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1344,7 +1190,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1787757588107-18",
+              "id": "TPV-1787757588107-3",
               "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1356,7 +1202,7 @@
               "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1787757588107-19",
+              "id": "TPV-1787757588107-4",
               "descripcion": "BOXE4793-Surtido-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1422,7 +1268,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788918229765-20",
+              "id": "TPV-1788918229765-5",
               "descripcion": "BOXE4793-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1434,7 +1280,7 @@
               "variedadId": "BOXE4793-Surtido-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1788918229765-21",
+              "id": "TPV-1788918229765-6",
               "descripcion": "BERM2366-Surtido-40-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 37800,
@@ -1498,7 +1344,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788918541973-22",
+              "id": "TPV-1788918541973-7",
               "descripcion": "BOXE4797-Surtido-S-Skypia Underwear",
               "cantidad": 3,
               "precioUnitario": 4250,
@@ -1562,7 +1408,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788918705904-23",
+              "id": "TPV-1788918705904-8",
               "descripcion": "BOXE7915-Morado-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1574,7 +1420,7 @@
               "variedadId": "BOXE7915-Morado-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1788918705904-24",
+              "id": "TPV-1788918705904-9",
               "descripcion": "BOXE7529-Negro-2-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 5500,
@@ -1638,7 +1484,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788918723656-25",
+              "id": "TPV-1788918723656-10",
               "descripcion": "BOXE7529-Blanco-S-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 4000,
@@ -1702,7 +1548,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788921385780-26",
+              "id": "TPV-1788921385780-11",
               "descripcion": "BOXE7915-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1766,7 +1612,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788922502004-27",
+              "id": "TPV-1788922502004-12",
               "descripcion": "BOXE4793-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1830,7 +1676,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788922550579-28",
+              "id": "TPV-1788922550579-13",
               "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1894,7 +1740,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788923291947-29",
+              "id": "TPV-1788923291947-14",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -1906,7 +1752,7 @@
               "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1788923291947-30",
+              "id": "TPV-1788923291947-15",
               "descripcion": "BOXE7529-Negro-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 5500,
@@ -1970,7 +1816,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788958734283-31",
+              "id": "TPV-1788958734283-16",
               "descripcion": "BOXE4793-Surtido-M-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -1982,7 +1828,7 @@
               "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
             },
             {
-              "id": "TPV-1788958734283-32",
+              "id": "TPV-1788958734283-17",
               "descripcion": "BOXE4793-Surtido-L-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -2046,7 +1892,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1788958759811-33",
+              "id": "TPV-1788958759811-18",
               "descripcion": "CAMI1911-Turquesa-S-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 12600,
@@ -2058,7 +1904,7 @@
               "variedadId": "CAMI1911-Turquesa-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1788958759811-34",
+              "id": "TPV-1788958759811-19",
               "descripcion": "CAMI1911-Gris-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 9000,
@@ -2124,7 +1970,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789004519255-35",
+              "id": "TPV-1789004519255-20",
               "descripcion": "BOXE4793-Surtido-3XL-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -2188,7 +2034,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789004550268-36",
+              "id": "TPV-1789004550268-21",
               "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -2200,7 +2046,7 @@
               "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1789004550268-37",
+              "id": "TPV-1789004550268-22",
               "descripcion": "BOXE4793-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -2266,7 +2112,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789010743613-38",
+              "id": "TPV-1789010743613-23",
               "descripcion": "BOXE4797-Surtido-XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -2278,7 +2124,7 @@
               "variedadId": "BOXE4797-Surtido-XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1789010743613-39",
+              "id": "TPV-1789010743613-24",
               "descripcion": "BOXE4797-Surtido-M-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -2290,7 +2136,7 @@
               "variedadId": "BOXE4797-Surtido-M-Skypia Underwear"
             },
             {
-              "id": "TPV-1789010743613-40",
+              "id": "TPV-1789010743613-25",
               "descripcion": "BOXE4797-Surtido-S-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -2356,7 +2202,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789082332026-41",
+              "id": "TPV-1789082332026-26",
               "descripcion": "BOXE4797-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -2368,7 +2214,7 @@
               "variedadId": "BOXE4797-Surtido-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1789082332026-42",
+              "id": "TPV-1789082332026-27",
               "descripcion": "BOXE4793-Surtido-M-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -2380,7 +2226,7 @@
               "variedadId": "BOXE4793-Surtido-M-Skypia Underwear"
             },
             {
-              "id": "TPV-1789082332026-43",
+              "id": "TPV-1789082332026-28",
               "descripcion": "BERM2366-Surtido-40-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 29400,
@@ -2392,7 +2238,7 @@
               "variedadId": "BERM2366-Surtido-40-Skypia Underwear"
             },
             {
-              "id": "TPV-1789082332026-44",
+              "id": "TPV-1789082332026-29",
               "descripcion": "BOXE8950-Azul-M-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 4000,
@@ -2456,7 +2302,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789082361187-45",
+              "id": "TPV-1789082361187-30",
               "descripcion": "BOXE7940-Surtido-10-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 2100,
@@ -2468,7 +2314,7 @@
               "variedadId": "BOXE7940-Surtido-10-Skypia Underwear"
             },
             {
-              "id": "TPV-1789082361187-46",
+              "id": "TPV-1789082361187-31",
               "descripcion": "CAMI1911-Negro-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 16200,
@@ -2480,7 +2326,7 @@
               "variedadId": "CAMI1911-Negro-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1789082361187-47",
+              "id": "TPV-1789082361187-32",
               "descripcion": "BOXE8950-Azul-XXL-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 4000,
@@ -2546,7 +2392,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789845439882-48",
+              "id": "TPV-1789845439882-33",
               "descripcion": "PANT5738-Surtido-40-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 46800,
@@ -2610,7 +2456,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1789849660105-49",
+              "id": "TPV-1789849660105-34",
               "descripcion": "BERM2366-Surtido-44-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 29400,
@@ -2622,7 +2468,7 @@
               "variedadId": "BERM2366-Surtido-44-Skypia Underwear"
             },
             {
-              "id": "TPV-1789849660105-50",
+              "id": "TPV-1789849660105-35",
               "descripcion": "BERM2366-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 37800,
@@ -2688,7 +2534,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1790902848465-94",
+              "id": "TPV-1790902848465-79",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -2700,7 +2546,7 @@
               "variedadId": "PARK9180-Surtido-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1790902848465-95",
+              "id": "TPV-1790902848465-80",
               "descripcion": "CAMP5312-Surtido-S-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 32200,
@@ -2764,7 +2610,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1790905722320-96",
+              "id": "TPV-1790905722320-81",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -2776,7 +2622,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1790905722320-97",
+              "id": "TPV-1790905722320-82",
               "descripcion": "CAMP4708-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 45000,
@@ -2840,7 +2686,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1790905769906-98",
+              "id": "TPV-1790905769906-83",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 2500,
@@ -2852,7 +2698,7 @@
               "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1790905769906-99",
+              "id": "TPV-1790905769906-84",
               "descripcion": "CAMP5312-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 41400,
@@ -2918,7 +2764,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791220492890-100",
+              "id": "TPV-1791220492890-85",
               "descripcion": "CAMP5312-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 41400,
@@ -2982,7 +2828,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791225663456-101",
+              "id": "TPV-1791225663456-86",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -2994,7 +2840,7 @@
               "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225663456-102",
+              "id": "TPV-1791225663456-87",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3006,7 +2852,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225663456-103",
+              "id": "TPV-1791225663456-88",
               "descripcion": "CAMP1011-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 39600,
@@ -3018,7 +2864,7 @@
               "variedadId": "CAMP1011-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225663456-104",
+              "id": "TPV-1791225663456-89",
               "descripcion": "PANT3853-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 54000,
@@ -3030,7 +2876,7 @@
               "variedadId": "PANT3853-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225663456-105",
+              "id": "TPV-1791225663456-90",
               "descripcion": "JOGG9403-Gris claro-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 23400,
@@ -3042,7 +2888,7 @@
               "variedadId": "JOGG9403-Gris claro-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225663456-106",
+              "id": "TPV-1791225663456-91",
               "descripcion": "REME4798-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 25200,
@@ -3106,7 +2952,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791225974230-107",
+              "id": "TPV-1791225974230-92",
               "descripcion": "CHAL8562-Negro-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 99000,
@@ -3118,7 +2964,7 @@
               "variedadId": "CHAL8562-Negro-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225974230-108",
+              "id": "TPV-1791225974230-93",
               "descripcion": "BOXE8950-Negro-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 5500,
@@ -3130,7 +2976,7 @@
               "variedadId": "BOXE8950-Negro-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791225974230-109",
+              "id": "TPV-1791225974230-94",
               "descripcion": "BOXE7529-Negro-6-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 5500,
@@ -3196,7 +3042,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791663481848-110",
+              "id": "TPV-1791663481848-95",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3208,7 +3054,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791663481848-111",
+              "id": "TPV-1791663481848-96",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -3272,7 +3118,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791667319931-112",
+              "id": "TPV-1791667319931-97",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3336,7 +3182,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791667377738-113",
+              "id": "TPV-1791667377738-98",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3348,7 +3194,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791667377738-114",
+              "id": "TPV-1791667377738-99",
               "descripcion": "CAMP5312-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 23000,
@@ -3360,7 +3206,7 @@
               "variedadId": "CAMP5312-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791667377738-115",
+              "id": "TPV-1791667377738-100",
               "descripcion": "CAMP4708-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 45000,
@@ -3424,7 +3270,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791685955469-116",
+              "id": "TPV-1791685955469-101",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 2500,
@@ -3436,7 +3282,7 @@
               "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1791685955469-117",
+              "id": "TPV-1791685955469-102",
               "descripcion": "CAMP5312-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 41400,
@@ -3500,7 +3346,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791686186780-118",
+              "id": "TPV-1791686186780-103",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3564,7 +3410,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791686227684-119",
+              "id": "TPV-1791686227684-104",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3630,7 +3476,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791839133586-120",
+              "id": "TPV-1791839133586-105",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -3694,7 +3540,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791844777081-121",
+              "id": "TPV-1791844777081-106",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3758,7 +3604,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791848089446-122",
+              "id": "TPV-1791848089446-107",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -3822,7 +3668,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791849393689-123",
+              "id": "TPV-1791849393689-108",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3886,7 +3732,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791849964774-124",
+              "id": "TPV-1791849964774-109",
               "descripcion": "PARK9180-Blanco-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -3898,7 +3744,7 @@
               "variedadId": "PARK9180-Blanco-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791849964774-125",
+              "id": "TPV-1791849964774-110",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -3962,7 +3808,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791850359549-126",
+              "id": "TPV-1791850359549-111",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -3974,7 +3820,7 @@
               "variedadId": "BOXE7915-Azul acero-3XL-Skypia Underwear"
             },
             {
-              "id": "TPV-1791850359549-127",
+              "id": "TPV-1791850359549-112",
               "descripcion": "PARK9180-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4038,7 +3884,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791852238607-128",
+              "id": "TPV-1791852238607-113",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4102,7 +3948,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791853747987-129",
+              "id": "TPV-1791853747987-114",
               "descripcion": "BOXE7915-Azul acero-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -4114,7 +3960,7 @@
               "variedadId": "BOXE7915-Azul acero-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1791853747987-130",
+              "id": "TPV-1791853747987-115",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4178,7 +4024,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791854100945-131",
+              "id": "TPV-1791854100945-116",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 2,
               "precioUnitario": 22500,
@@ -4242,7 +4088,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791855041271-132",
+              "id": "TPV-1791855041271-117",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4254,7 +4100,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791855041271-133",
+              "id": "TPV-1791855041271-118",
               "descripcion": "BOXE7915-Azul acero-3XL-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -4318,7 +4164,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791858676514-134",
+              "id": "TPV-1791858676514-119",
               "descripcion": "BOXE7915-Azul marino-M-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -4330,7 +4176,7 @@
               "variedadId": "BOXE7915-Azul marino-M-Skypia Underwear"
             },
             {
-              "id": "TPV-1791858676514-135",
+              "id": "TPV-1791858676514-120",
               "descripcion": "PARK9180-Negro-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4394,7 +4240,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791858708018-136",
+              "id": "TPV-1791858708018-121",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4406,7 +4252,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791858708018-137",
+              "id": "TPV-1791858708018-122",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4470,7 +4316,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791858708018-136",
+              "id": "TPV-1791858708018-121",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4482,7 +4328,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791858708018-137",
+              "id": "TPV-1791858708018-122",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4546,7 +4392,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791859120769-138",
+              "id": "TPV-1791859120769-123",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4558,7 +4404,7 @@
               "variedadId": "PARK9180-Surtido-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1791859120769-139",
+              "id": "TPV-1791859120769-124",
               "descripcion": "CAMP5312-Salmon-XS-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 41400,
@@ -4622,7 +4468,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791859286532-140",
+              "id": "TPV-1791859286532-125",
               "descripcion": "BOXE7915-Azul marino-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -4634,7 +4480,7 @@
               "variedadId": "BOXE7915-Azul marino-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1791859286532-141",
+              "id": "TPV-1791859286532-126",
               "descripcion": "PARK9180-Negro-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -4700,7 +4546,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791860621440-142",
+              "id": "TPV-1791860621440-127",
               "descripcion": "JOGG2883-Surtido-40-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4712,7 +4558,7 @@
               "variedadId": "JOGG2883-Surtido-40-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-143",
+              "id": "TPV-1791860621440-128",
               "descripcion": "JOGG2883-Surtido-44-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4724,7 +4570,7 @@
               "variedadId": "JOGG2883-Surtido-44-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-144",
+              "id": "TPV-1791860621440-129",
               "descripcion": "JOGG2883-Surtido-48-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4736,7 +4582,7 @@
               "variedadId": "JOGG2883-Surtido-48-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-145",
+              "id": "TPV-1791860621440-130",
               "descripcion": "JOGG2883-Gris-40-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4748,7 +4594,7 @@
               "variedadId": "JOGG2883-Gris-40-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-146",
+              "id": "TPV-1791860621440-131",
               "descripcion": "JOGG2883-Gris-44-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4760,7 +4606,7 @@
               "variedadId": "JOGG2883-Gris-44-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-147",
+              "id": "TPV-1791860621440-132",
               "descripcion": "JOGG2883-Gris-48-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4772,7 +4618,7 @@
               "variedadId": "JOGG2883-Gris-48-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-148",
+              "id": "TPV-1791860621440-133",
               "descripcion": "JOGG2883-Verde Militar-40-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4784,7 +4630,7 @@
               "variedadId": "JOGG2883-Verde Militar-40-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-149",
+              "id": "TPV-1791860621440-134",
               "descripcion": "JOGG2883-Verde Militar-44-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4796,7 +4642,7 @@
               "variedadId": "JOGG2883-Verde Militar-44-Skypia Underwear"
             },
             {
-              "id": "TPV-1791860621440-150",
+              "id": "TPV-1791860621440-135",
               "descripcion": "JOGG2883-Verde Militar-48-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 15000,
@@ -4860,7 +4706,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791861473293-151",
+              "id": "TPV-1791861473293-136",
               "descripcion": "BOXE7915-Azul acero-M-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -4872,7 +4718,7 @@
               "variedadId": "BOXE7915-Azul acero-M-Skypia Underwear"
             },
             {
-              "id": "TPV-1791861473293-152",
+              "id": "TPV-1791861473293-137",
               "descripcion": "CHAL8562-Negro-4-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 99000,
@@ -4936,7 +4782,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791864080902-153",
+              "id": "TPV-1791864080902-138",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -5000,7 +4846,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791864164412-154",
+              "id": "TPV-1791864164412-139",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12500,
@@ -5012,7 +4858,7 @@
               "variedadId": "PARK9180-Surtido-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1791864164412-155",
+              "id": "TPV-1791864164412-140",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12500,
@@ -5076,7 +4922,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791864164412-154",
+              "id": "TPV-1791864164412-139",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12500,
@@ -5088,7 +4934,7 @@
               "variedadId": "PARK9180-Surtido-S-Skypia Underwear"
             },
             {
-              "id": "TPV-1791864164412-155",
+              "id": "TPV-1791864164412-140",
               "descripcion": "PARK9180-Surtido-S-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 12500,
@@ -5152,7 +4998,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1791864341660-156",
+              "id": "TPV-1791864341660-141",
               "descripcion": "PARK9180-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -5164,7 +5010,7 @@
               "variedadId": "PARK9180-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1791864341660-157",
+              "id": "TPV-1791864341660-142",
               "descripcion": "CAMP4708-Surtido-M-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 45000,
@@ -5230,7 +5076,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1792017895291-158",
+              "id": "TPV-1792017895291-143",
               "descripcion": "PARK9180-Surtido-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 22500,
@@ -5242,7 +5088,7 @@
               "variedadId": "PARK9180-Surtido-L-Skypia Underwear"
             },
             {
-              "id": "TPV-1792017895291-159",
+              "id": "TPV-1792017895291-144",
               "descripcion": "BOXE8078-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 3960,
@@ -5308,7 +5154,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1792021548478-160",
+              "id": "TPV-1792021548478-145",
               "descripcion": "BOXE7915-Azul marino-M-Skypia Underwear",
               "cantidad": 12,
               "precioUnitario": 3500,
@@ -5374,7 +5220,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1792086878718-161",
+              "id": "TPV-1792086878718-146",
               "descripcion": "MEDI3642-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -5386,7 +5232,7 @@
               "variedadId": "MEDI3642-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "TPV-1792086878718-162",
+              "id": "TPV-1792086878718-147",
               "descripcion": "BOXE7529-Negro-L-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 5500,
@@ -5450,7 +5296,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1792113692519-163",
+              "id": "TPV-1792113692519-148",
               "descripcion": "MEDI2696-Surtido-Surtido-Skypia Underwear",
               "cantidad": 8,
               "precioUnitario": 6300,
@@ -5516,7 +5362,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1793679823348-164",
+              "id": "TPV-1793679823348-149",
               "descripcion": "MEDI3207-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 2400,
@@ -5580,7 +5426,7 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "TPV-1793679940866-165",
+              "id": "TPV-1793679940866-150",
               "descripcion": "MEDI6504-Surtido-Surtido-Skypia Underwear",
               "cantidad": 1,
               "precioUnitario": 4500,
@@ -5613,15 +5459,6 @@
     }
   },
   "cajasMetadata": {
-    "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a": {
-      "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
-      "fecha": "2026-08-05",
-      "tienda": "Skypia Underwear",
-      "asesor": "JUAN DIEGO",
-      "horaIniciada": "Sat D",
-      "horaFinalizada": "Sat D",
-      "estado": "CERRADA"
-    },
     "CR-46166f01-0e7e-4b2d-a00d-d339d728c444": {
       "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
       "fecha": "2026-08-25",
@@ -5797,7 +5634,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Tabla",
-        "printerIp": "192.168.1.35",
+        "printerIp": "192.168.1.36",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -5854,15 +5691,6 @@
       "PRESUPUESTO"
     ],
     "cajasLista": [
-      {
-        "cajaId": "CR-26cf8285-b79e-4bed-ac68-2c2599303c9a",
-        "fecha": "2026-08-05",
-        "tienda": "Skypia Underwear",
-        "asesor": "JUAN DIEGO",
-        "horaIniciada": "Sat D",
-        "horaFinalizada": "Sat D",
-        "estado": "CERRADA"
-      },
       {
         "cajaId": "CR-46166f01-0e7e-4b2d-a00d-d339d728c444",
         "fecha": "2026-08-25",
@@ -6057,5 +5885,5 @@
     "MEDI2696": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
     "MEDI9438": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw"
   },
-  "timestamp_ms": 1793714862705
+  "timestamp_ms": 1793758065477
 }
