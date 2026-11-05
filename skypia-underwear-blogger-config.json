@@ -8063,7 +8063,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "60",
+                  "valor": "59",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8113,7 +8113,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "10"
+                          "stock": "9"
                         }
                       ]
                     }
@@ -8130,7 +8130,7 @@
                       "talles": [
                         {
                           "talle": "T Unico 38-42",
-                          "stock": "10"
+                          "stock": "9"
                         }
                       ]
                     }
@@ -8147,7 +8147,7 @@
                       "talles": [
                         {
                           "talle": "T Unico 38-42",
-                          "stock": "10"
+                          "stock": "9"
                         }
                       ]
                     },
@@ -8880,7 +8880,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1197",
+                  "valor": "1185",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8919,7 +8919,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "397"
+                          "stock": "385"
                         }
                       ]
                     }
@@ -8936,7 +8936,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "197"
+                          "stock": "185"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -8957,7 +8957,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "197"
+                          "stock": "185"
                         },
                         {
                           "talle": "T Unico 38-42",
@@ -9296,5 +9296,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793788420356
+  "timestamp_ms": 1793875676411
 }
