@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T18:31:20.231Z",
-  "timestamp_ms": 1793817183496,
+  "generated_at": "2026-11-05T06:31:38.032Z",
+  "timestamp_ms": 1793860401900,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -15770,8 +15770,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -14,
+          "STOCK_ACTUAL": -14
         },
         {
           "variation_id": "MEDI3642-Surtido-T Unico 38-42-Skypia Underwear",
@@ -16220,8 +16220,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": -1,
+          "STOCK_ACTUAL": -1
         },
         {
           "variation_id": "MEDI1042-Surtido-T Unico 38-42-Skypia Underwear",
@@ -17434,8 +17434,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 197,
-          "STOCK_ACTUAL": 197
+          "stock": 185,
+          "STOCK_ACTUAL": 185
         },
         {
           "variation_id": "MEDI6504-Surtido-T Unico 38-42-Skypia Underwear",
@@ -17649,8 +17649,8 @@
           "size": "T Unico 38-42",
           "size_name": "T Unico 38-42",
           "TALLE": "T Unico 38-42",
-          "stock": 10,
-          "STOCK_ACTUAL": 10
+          "stock": 9,
+          "STOCK_ACTUAL": 9
         },
         {
           "variation_id": "MEDI2696-Blanco-Surtido-Skypia Underwear",
@@ -19058,8 +19058,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1545",
-    "DOLAR_BLUE_COMPRA": "1565",
+    "DOLAR_BLUE_VENTA": "1540",
+    "DOLAR_BLUE_COMPRA": "1560",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
