@@ -2,11 +2,11 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://skypia-underwear.blogspot.com/",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
   "pagina_tienda": {
     "tienda_id": "Skypia Underwear",
     "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=HOSTINGSHOPBLOGGER-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FSkypia%20Underwear.LOGOTIPO.220950.png",
     "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=Skypia%20Underwear&lastName=JUAN%20DIEGO&email=skypia.underwear%40gmail.com&cellPhone=1123890659&workPhone=1143996217&address=Cnel.%20Jos%C3%A9%20Mar%C3%ADa%20Vilela%202206%2C%20B1714JWT%20Ituzaing%C3%B3%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina&org=Skypia%20Underwear&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DHOSTINGSHOPBLOGGER-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FSkypia%2520Underwear.LOGOTIPO.220950.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "skypia.underwear@gmail.com",
     "telefono": "1123890659",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "22:00:00"
     },
-    "compra_minima": 3,
+    "compra_minima": "3",
     "redes_sociales": {
       "facebook": "https://www.facebook.com/RicaldiSimo",
       "instagram": "https://www.instagram.com/hostingsh0p/",
@@ -662,353 +662,6 @@
                 }
               ],
               "upd": "2026-09-04T16:16:09.843Z"
-            }
-          ]
-        },
-        {
-          "codigo": 9,
-          "nombre": "CHALECO",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
-          "producto": [
-            {
-              "codigo": 51,
-              "categoria": "CHALECO",
-              "nombre": "CHAL8562",
-              "carpeta_id": "1BLt4zQxlt09leYrwpxNQKTJS1FQW5pSb",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Largo"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "YD"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "MUJER",
-                  "icono": ""
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "ADULTOS",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "CIRE"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "INVIERNO",
-                  "icono": "❄️"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    4,
-                    6,
-                    8,
-                    10,
-                    12,
-                    14
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Negro",
-                      "hex": "#000000"
-                    },
-                    {
-                      "nombre": "Azul",
-                      "hex": "#0000FF"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#FFFFFF"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "208",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "11-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CHAL8562%0A%F0%9F%94%B9%20Modelo%3A%20Largo%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20MUJER%0A%F0%9F%94%B9%20Edad%3A%20ADULTOS%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%204%2C%206%2C%208%2C%2010%2C%2012%2C%2014"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb&sz=s600-rw",
-                  "archivo_id": "1hymRuAyt4mcPTorCW-ATsYDXgZdxwSxb",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1KQq9gq7muADqAbKly4KBiukx278KULJg&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1KQq9gq7muADqAbKly4KBiukx278KULJg&sz=s600-rw",
-                  "archivo_id": "1KQq9gq7muADqAbKly4KBiukx278KULJg",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU&sz=s600-rw",
-                  "archivo_id": "1t0c3LNWXm8p9l8zWECFUCfvzbB046kUU",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS&sz=s600-rw",
-                  "archivo_id": "1lBQHQDmvu8lqUDxeUZXUfqJJCVNrhgRS",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 4,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2&sz=s600-rw",
-                  "archivo_id": "1y5W_O0Na2sw2fz8TiSWRdc5FYXHsksU2",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 5,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs&sz=s600-rw",
-                  "archivo_id": "1qXPt-KjvVTKxAYWvlf-PZpUfPYkmDvCs",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 6,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX&sz=s600-rw",
-                  "archivo_id": "1S0fFO6-MyFLLFpJkuP9L-2VuSARZ60hX",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 7,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah&sz=s600-rw",
-                  "archivo_id": "1Emxlo3dV4FM6ZDrqI7GxQAEtCeyWPkah",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 8,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD&sz=s600-rw",
-                  "archivo_id": "1jK4Q9vou0U2qeb6oxydzYn83D8VDzdGD",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 9,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o&sz=s600-rw",
-                  "archivo_id": "1RIXMWVoLmVKUX8lGNsv1N70hfyUMkj1o",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 10,
-                  "fecha_carga": "2026-09-12T05:27:58.485Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 99000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "9"
-                        },
-                        {
-                          "talle": 4,
-                          "stock": "9"
-                        },
-                        {
-                          "talle": 6,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 8,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 10,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 12,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 14,
-                          "stock": "10"
-                        }
-                      ]
-                    },
-                    "Azul": {
-                      "color": "#0000FF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 4,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 6,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 8,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 10,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 12,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 14,
-                          "stock": "10"
-                        }
-                      ]
-                    },
-                    "Blanco": {
-                      "color": "#FFFFFF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 4,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 6,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 8,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 10,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 12,
-                          "stock": "10"
-                        },
-                        {
-                          "talle": 14,
-                          "stock": "10"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 83250,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Negro": {
-                      "color": "#000000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "9"
-                        }
-                      ]
-                    },
-                    "Azul": {
-                      "color": "#0000FF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        }
-                      ]
-                    },
-                    "Blanco": {
-                      "color": "#FFFFFF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-09-11T20:56:00.230Z"
             }
           ]
         }
@@ -1689,291 +1342,12 @@
           ]
         },
         {
-          "codigo": 5,
-          "nombre": "Camisa",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camisa.svg",
-          "producto": [
-            {
-              "codigo": 26,
-              "categoria": "Camisa",
-              "nombre": "CAMI5015",
-              "carpeta_id": "1nzb9gucakM58vmp1OMQqDdGj-kwmEZrw",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Clasico 1"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "SAN DIEGO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Teens",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Modal"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "18-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI5015%0A%F0%9F%94%B9%20Modelo%3A%20Clasico%201%0A%F0%9F%94%B9%20Marca%3A%20SAN%20DIEGO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1hPRBmdx5XgMd7-18s7itmRhnBKboT63w&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1hPRBmdx5XgMd7-18s7itmRhnBKboT63w&sz=s600-rw",
-                  "archivo_id": "1hPRBmdx5XgMd7-18s7itmRhnBKboT63w",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-18T03:13:24.002Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1QvxXAdcvShAgz9PrazHuDY4zP7viG2yT&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1QvxXAdcvShAgz9PrazHuDY4zP7viG2yT&sz=s600-rw",
-                  "archivo_id": "1QvxXAdcvShAgz9PrazHuDY4zP7viG2yT",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-18T03:13:24.002Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1WUAiobvtz-By33x8yf7dFXH-iCi_hSnk&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1WUAiobvtz-By33x8yf7dFXH-iCi_hSnk&sz=s600-rw",
-                  "archivo_id": "1WUAiobvtz-By33x8yf7dFXH-iCi_hSnk",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-18T03:13:24.002Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 22500,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-09-18T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 7,
+          "codigo": 6,
           "nombre": "Campera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 35,
-              "categoria": "Campera",
-              "nombre": "CAMP1011",
-              "carpeta_id": "1UuJ0zrQ5TQyu32ggHmesP6vgtg63z2fA",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Pruaba 8"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "YD"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Corderoy"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "18-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP1011%0A%F0%9F%94%B9%20Modelo%3A%20Pruaba%208%0A%F0%9F%94%B9%20Marca%3A%20YD%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1d_IFxAG8g9vD3FYlp0jRZZTRL-qMogfo&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1d_IFxAG8g9vD3FYlp0jRZZTRL-qMogfo&sz=s600-rw",
-                  "archivo_id": "1d_IFxAG8g9vD3FYlp0jRZZTRL-qMogfo",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-18T16:04:21.804Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=18e3geY2b7BdBp1fZIwuE_peX_xa8Uyyj&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18e3geY2b7BdBp1fZIwuE_peX_xa8Uyyj&sz=s600-rw",
-                  "archivo_id": "18e3geY2b7BdBp1fZIwuE_peX_xa8Uyyj",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-09-18T16:04:21.804Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1BOf6xxwVFMmAdKo2KRMIX7ERattmiCcA&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1BOf6xxwVFMmAdKo2KRMIX7ERattmiCcA&sz=s600-rw",
-                  "archivo_id": "1BOf6xxwVFMmAdKo2KRMIX7ERattmiCcA",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 3,
-                  "fecha_carga": "2026-09-18T16:04:21.804Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 30800,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 39600,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-18T03:00:00.000Z"
-            },
-            {
-              "codigo": 37,
+              "codigo": 32,
               "categoria": "Campera",
               "nombre": "CAMP2546",
               "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -2186,7 +1560,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 39,
+              "codigo": 34,
               "categoria": "Campera",
               "nombre": "CAMP5671",
               "carpeta_id": "1gc2wDVDGDyEeeAYEercM0Be8Pl4qmSc3",
@@ -2316,7 +1690,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 41,
+              "codigo": 36,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -2506,7 +1880,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 38,
               "categoria": "Campera",
               "nombre": "CAMP7014",
               "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
@@ -2702,7 +2076,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 45,
+              "codigo": 40,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -2915,7 +2289,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 47,
+              "codigo": 42,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -3058,12 +2432,12 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 7,
           "nombre": "Chaleco",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 49,
+              "codigo": 44,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -3261,12 +2635,12 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 8,
           "nombre": "Chomba",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chomba.svg",
           "producto": [
             {
-              "codigo": 53,
+              "codigo": 46,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
               "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
@@ -3508,12 +2882,12 @@
           ]
         },
         {
-          "codigo": 11,
+          "codigo": 9,
           "nombre": "Conjunto 2",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 56,
+              "codigo": 49,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -3760,12 +3134,12 @@
           ]
         },
         {
-          "codigo": 12,
+          "codigo": 10,
           "nombre": "Joggers",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 59,
+              "codigo": 52,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -3989,7 +3363,7 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 62,
+              "codigo": 55,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -4183,12 +3557,12 @@
           ]
         },
         {
-          "codigo": 13,
+          "codigo": 11,
           "nombre": "Jogging",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 65,
+              "codigo": 58,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
@@ -4401,7 +3775,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 68,
+              "codigo": 61,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -4675,7 +4049,7 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 71,
+              "codigo": 64,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -4995,12 +4369,12 @@
           ]
         },
         {
-          "codigo": 15,
+          "codigo": 13,
           "nombre": "Pantalon",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 104,
+              "codigo": 70,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -5180,7 +4554,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 107,
+              "codigo": 73,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -5530,7 +4904,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 110,
+              "codigo": 76,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5710,7 +5084,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 113,
+              "codigo": 79,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -6224,12 +5598,12 @@
           ]
         },
         {
-          "codigo": 16,
+          "codigo": 14,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 116,
+              "codigo": 82,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -6405,12 +5779,12 @@
           ]
         },
         {
-          "codigo": 17,
+          "codigo": 15,
           "nombre": "Sueter",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 119,
+              "codigo": 85,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -6590,7 +5964,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 122,
+              "codigo": 88,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -7526,12 +6900,12 @@
           ]
         },
         {
-          "codigo": 6,
+          "codigo": 5,
           "nombre": "Camiseta",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg",
           "producto": [
             {
-              "codigo": 29,
+              "codigo": 26,
               "categoria": "Camiseta",
               "nombre": "CAMI1911",
               "carpeta_id": "1Q5b7wPHt69aVJZ1fEurBypqmZZcR786V",
@@ -7711,7 +7085,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 32,
+              "codigo": 29,
               "categoria": "Camiseta",
               "nombre": "CAMI9176",
               "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
@@ -7893,653 +7267,12 @@
           ]
         },
         {
-          "codigo": 14,
+          "codigo": 12,
           "nombre": "Medias",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 74,
-              "categoria": "Medias",
-              "nombre": "MEDI1042",
-              "carpeta_id": "1CH2pSBBS2EzxQSw1uRIkP-huJKUYMUUy",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "1478"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI1042%0A%F0%9F%94%B9%20Modelo%3A%201478%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF&sz=s600-rw",
-                  "archivo_id": "1Vbz_ht1du8LBL8dokalbUiCSMAycYOnF",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-06T23:51:25.694Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 1759,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2136,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2261,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-06T03:00:00.000Z"
-            },
-            {
-              "codigo": 77,
-              "categoria": "Medias",
-              "nombre": "MEDI2696",
-              "carpeta_id": "1D6wLSk83J-S5F3vW0BfkL2JTkeIi2NmS",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "diego 1"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "T Unico 38-42",
-                    "Surtido"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#FFFFFF"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#FF0000"
-                    },
-                    {
-                      "nombre": "Verde",
-                      "hex": "#00FF00"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "59",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "15-10-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI2696%0A%F0%9F%94%B9%20Modelo%3A%20diego%201%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20T%20Unico%2038-42%2C%20Surtido"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ&sz=s600-rw",
-                  "archivo_id": "1fHcKDc5nVTiDiqTewYGJZ1O1kfN5oqjZ",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-10-16T01:19:11.607Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1fqkYrtmGX151o3J3ZdD-489STyFeheBY&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1fqkYrtmGX151o3J3ZdD-489STyFeheBY&sz=s600-rw",
-                  "archivo_id": "1fqkYrtmGX151o3J3ZdD-489STyFeheBY",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-10-16T01:19:11.607Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 4900,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "9"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 5950,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "9"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 6300,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "9"
-                        }
-                      ]
-                    },
-                    "Blanco": {
-                      "color": "#FFFFFF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "9"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "10"
-                        }
-                      ]
-                    },
-                    "Rojo": {
-                      "color": "#FF0000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "10"
-                        }
-                      ]
-                    },
-                    "Verde": {
-                      "color": "#00FF00",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "10"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "1"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-10-15T03:00:00.000Z"
-            },
-            {
-              "codigo": 80,
-              "categoria": "Medias",
-              "nombre": "MEDI2973",
-              "carpeta_id": "1YCjlgKO0TU4KnCLYJXBvSstLfn-L7pbK",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "prueba 2"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "04-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI2973%0A%F0%9F%94%B9%20Modelo%3A%20prueba%202%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1taitZjyreEMncXCmj8O-Ecxgb43frxCz&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1taitZjyreEMncXCmj8O-Ecxgb43frxCz&sz=s600-rw",
-                  "archivo_id": "1taitZjyreEMncXCmj8O-Ecxgb43frxCz",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-04T17:48:04.764Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 2520,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 3060,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 3240,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-04T03:00:00.000Z"
-            },
-            {
-              "codigo": 83,
-              "categoria": "Medias",
-              "nombre": "MEDI3207",
-              "carpeta_id": "1bTlAIXXWh-9z8xftLbVF56YTdyyYCNt1",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "1598"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "T Unico 38-42"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "387",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "15-10-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI3207%0A%F0%9F%94%B9%20Modelo%3A%201598%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2038-42"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1RPNYGlfr8oU92zjMklCtJBb8YvPf9050&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RPNYGlfr8oU92zjMklCtJBb8YvPf9050&sz=s600-rw",
-                  "archivo_id": "1RPNYGlfr8oU92zjMklCtJBb8YvPf9050",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-10-15T23:46:58.316Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 1800,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "387"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2200,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "187"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2400,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "187"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-10-15T03:00:00.000Z"
-            },
-            {
-              "codigo": 86,
-              "categoria": "Medias",
-              "nombre": "MEDI3642",
-              "carpeta_id": "1Ope4B15qKT7tyVflAsxlHJFknYGyQCE1",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "prueb3"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "04-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI3642%0A%F0%9F%94%B9%20Modelo%3A%20prueb3%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1PMKbASGOFW15coNTTBhmedhQi1KP6NUv&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1PMKbASGOFW15coNTTBhmedhQi1KP6NUv&sz=s600-rw",
-                  "archivo_id": "1PMKbASGOFW15coNTTBhmedhQi1KP6NUv",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-05T01:57:14.124Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-04T03:00:00.000Z"
-            },
-            {
-              "codigo": 89,
+              "codigo": 67,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -8717,545 +7450,6 @@
                 }
               ],
               "upd": "2026-04-21T03:00:00.000Z"
-            },
-            {
-              "codigo": 92,
-              "categoria": "Medias",
-              "nombre": "MEDI4292",
-              "carpeta_id": "1lNv43YMj-MFh_uLMqF9GW30ZCSdc-ysi",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "PRUEBA 4"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "04-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI4292%0A%F0%9F%94%B9%20Modelo%3A%20PRUEBA%204%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1PnNPCCb1L4M2kFaOSawfvyVqm_8BheLS&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1PnNPCCb1L4M2kFaOSawfvyVqm_8BheLS&sz=s600-rw",
-                  "archivo_id": "1PnNPCCb1L4M2kFaOSawfvyVqm_8BheLS",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-05T02:30:59.184Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-04T03:00:00.000Z"
-            },
-            {
-              "codigo": 95,
-              "categoria": "Medias",
-              "nombre": "MEDI6504",
-              "carpeta_id": "19BJD_z-jBAdSqQLBiAa8hu7-QB7A6eVU",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "diego"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "T Unico 38-42"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#FFFFFF"
-                    },
-                    {
-                      "nombre": "Rojo",
-                      "hex": "#FF0000"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "1185",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "15-10-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI6504%0A%F0%9F%94%B9%20Modelo%3A%20diego%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2038-42"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=19w0ZINbm7DFn3Ca7LGnpS_-WtLn54zKA&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=19w0ZINbm7DFn3Ca7LGnpS_-WtLn54zKA&sz=s600-rw",
-                  "archivo_id": "19w0ZINbm7DFn3Ca7LGnpS_-WtLn54zKA",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-10-16T00:50:47.416Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 3500,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "385"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4250,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "185"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 4500,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "185"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    },
-                    "Blanco": {
-                      "color": "#FFFFFF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "200"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    },
-                    "Rojo": {
-                      "color": "#FF0000",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "200"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-10-15T03:00:00.000Z"
-            },
-            {
-              "codigo": 98,
-              "categoria": "Medias",
-              "nombre": "MEDI7479",
-              "carpeta_id": "1MyLldNkTF4-1gOTAD6pk58HC9N6XhSzH",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "prueba 5"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": []
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": []
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "05-09-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI7479%0A%F0%9F%94%B9%20Modelo%3A%20prueba%205%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1gmPL2kYHbEiuOP2AJqRqiOGPTOB-9FME&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1gmPL2kYHbEiuOP2AJqRqiOGPTOB-9FME&sz=s600-rw",
-                  "archivo_id": "1gmPL2kYHbEiuOP2AJqRqiOGPTOB-9FME",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-05T03:07:32.425Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 2100,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2550,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 2700,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-09-05T03:00:00.000Z"
-            },
-            {
-              "codigo": 101,
-              "categoria": "Medias",
-              "nombre": "MEDI9438",
-              "carpeta_id": "1-B-OiLrX4D_LR9Z-Y4w1rN6DJA2kEVxi",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Diego 3"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "ELEMENTO"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Hombre",
-                  "icono": "♂️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Liso"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Algodon y poliester"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "T Unico 38-42"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    },
-                    {
-                      "nombre": "Blanco",
-                      "hex": "#FFFFFF"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "800",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "15-10-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1123890659,
-                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20MEDI9438%0A%F0%9F%94%B9%20Modelo%3A%20Diego%203%0A%F0%9F%94%B9%20Marca%3A%20ELEMENTO%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Hombre%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%20T%20Unico%2038-42"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y&sz=s600-rw",
-                  "archivo_id": "1asMq1FV7klZXLJMK6Lz1gq9dWP84ko7y",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-10-16T01:35:11.090Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 6300,
-                  "variedad": "Docena",
-                  "minima": 12,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "400"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 7650,
-                  "variedad": "Pack x3",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "200"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 8100,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "200"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    },
-                    "Blanco": {
-                      "color": "#FFFFFF",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "200"
-                        },
-                        {
-                          "talle": "T Unico 38-42",
-                          "stock": "200"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-10-15T03:00:00.000Z"
             }
           ]
         }
@@ -9296,5 +7490,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1793966593353
+  "timestamp_ms": 1794053910153
 }
