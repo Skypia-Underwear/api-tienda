@@ -132,11 +132,11 @@
           "montoIva": 0
         },
         {
-          "id": "B-CAB24FC2",
-          "fecha": "2026-11-10 01:15",
+          "id": "B-2DFAA464",
+          "fecha": "2026-11-10 11:58",
           "origen": "Blogger",
           "estado": "SOLICITADO",
-          "total": 790800,
+          "total": 523800,
           "clienteId": "CLI001",
           "nombreCliente": "Publico General",
           "clienteInfo": {
@@ -166,33 +166,33 @@
           "recargoMenor": 0,
           "detalles": [
             {
-              "id": "B-CAB24FC2-2",
-              "descripcion": "CAMP7014 ( Docena - Surtido - Surtido )",
+              "id": "B-2DFAA464-2",
+              "descripcion": "BERM2366 ( Docena - Surtido - Surtido )",
               "cantidad": 12,
-              "precioUnitario": 60200,
-              "subtotal": 722400,
+              "precioUnitario": 29400,
+              "subtotal": 352800,
               "tipoPrecio": "Docena",
-              "productoId": "CAMP7014",
+              "productoId": "BERM2366",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP7014-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "BERM2366-Surtido-Surtido-Skypia Underwear"
             },
             {
-              "id": "B-CAB24FC2-3",
-              "descripcion": "CAMP5671 ( Menor - Surtido - Surtido )",
-              "cantidad": 1,
-              "precioUnitario": 68400,
-              "subtotal": 68400,
-              "tipoPrecio": "Menor",
-              "productoId": "CAMP5671",
+              "id": "B-2DFAA464-3",
+              "descripcion": "SHOR2420 ( Curva - Surtido - Surtido )",
+              "cantidad": 6,
+              "precioUnitario": 28500,
+              "subtotal": 171000,
+              "tipoPrecio": "Curva",
+              "productoId": "SHOR2420",
               "color": "Surtido",
               "talle": "Surtido",
-              "variedadId": "CAMP5671-Surtido-Surtido-Skypia Underwear"
+              "variedadId": "SHOR2420-Surtido-Surtido-Skypia Underwear"
             }
           ],
           "pagoEfectivo": 0,
-          "montoProductos": 790800,
-          "subtotal": 790800,
+          "montoProductos": 523800,
+          "subtotal": 523800,
           "tipoVenta": "PEDIDO",
           "compraMinima": 0,
           "pagoMixto": false,
@@ -3484,5 +3484,5 @@
     "BOXE7529": "https://lh3.googleusercontent.com/d/12pkIAfFcr6w1bQmz0bn1lklhEJbP15x6",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1794301662053
+  "timestamp_ms": 1794348461898
 }
