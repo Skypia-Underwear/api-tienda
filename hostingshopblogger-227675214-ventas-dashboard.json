@@ -3327,7 +3327,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Tabla",
-        "printerIp": "192.168.1.35",
+        "printerIp": "192.168.1.34",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -3484,5 +3484,5 @@
     "BOXE7529": "https://lh3.googleusercontent.com/d/12pkIAfFcr6w1bQmz0bn1lklhEJbP15x6",
     "BOXE7915": "https://drive.google.com/thumbnail?id=1t6WiDGO5wiFbdlMz8LHaQwkpLflqxMpO&sz=s600-rw"
   },
-  "timestamp_ms": 1794348461898
+  "timestamp_ms": 1794438496382
 }
