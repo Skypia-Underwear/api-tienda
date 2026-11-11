@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T19:46:16.295Z",
-  "timestamp_ms": 1794253682375,
+  "generated_at": "2026-11-11T20:16:14.747Z",
+  "timestamp_ms": 1794428269447,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -31,7 +31,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Tabla",
-        "printerIp": "192.168.1.35",
+        "printerIp": "192.168.1.34",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -9386,8 +9386,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1535",
-    "DOLAR_BLUE_COMPRA": "1555",
+    "DOLAR_BLUE_VENTA": "1550",
+    "DOLAR_BLUE_COMPRA": "1570",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
