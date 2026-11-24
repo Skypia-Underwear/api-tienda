@@ -1167,11 +1167,315 @@
         },
         {
           "codigo": 4,
+          "nombre": "Buzo",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg",
+          "producto": [
+            {
+              "codigo": 24,
+              "categoria": "Buzo",
+              "nombre": "BUZO3000",
+              "carpeta_id": "1DS9Dw2KLuiTuEpRzX1AZC-2EebeeitDH",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Canguro Clásico con Capucha y Bolsillo Frontal"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Friza de Algodón"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BUZO3000%0A%F0%9F%94%B9%20Modelo%3A%20Canguro%20Cl%C3%A1sico%20con%20Capucha%20y%20Bolsillo%20Frontal%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1nGmP04TUv9XtZWqEFQNjbk5XZcI61tve&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1nGmP04TUv9XtZWqEFQNjbk5XZcI61tve&sz=s600-rw",
+                  "archivo_id": "1nGmP04TUv9XtZWqEFQNjbk5XZcI61tve",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:09:44.951Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 27,
+              "categoria": "Buzo",
+              "nombre": "BUZO5374",
+              "carpeta_id": "1aMRSe4KmxC7rS5SC-b1dOtqlCYfhMgqY",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cuello Redondo Clásico Liso Frisado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón con Friza"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BUZO5374%0A%F0%9F%94%B9%20Modelo%3A%20Cuello%20Redondo%20Cl%C3%A1sico%20Liso%20Frisado%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MoY9oSwKWZjWtHXrAd0w-gI3Slildmmd&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MoY9oSwKWZjWtHXrAd0w-gI3Slildmmd&sz=s600-rw",
+                  "archivo_id": "1MoY9oSwKWZjWtHXrAd0w-gI3Slildmmd",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:11:03.718Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19600,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25200,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 30,
+              "categoria": "Buzo",
+              "nombre": "BUZO9207",
+              "carpeta_id": "1maRS0megH-SZhJnzyBTBx5uaa5uKvt4o",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Canguro Liso Clásico con Capucha y Cordón Ajustable"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Friza de Algodón"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BUZO9207%0A%F0%9F%94%B9%20Modelo%3A%20Canguro%20Liso%20Cl%C3%A1sico%20con%20Capucha%20y%20Cord%C3%B3n%20Ajustable%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1lgMZGPa_H5s1yq6b52Unp6ctSUWN9HYM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lgMZGPa_H5s1yq6b52Unp6ctSUWN9HYM&sz=s600-rw",
+                  "archivo_id": "1lgMZGPa_H5s1yq6b52Unp6ctSUWN9HYM",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:15:11.578Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 5,
           "nombre": "Calza",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
           "producto": [
             {
-              "codigo": 24,
+              "codigo": 33,
               "categoria": "Calza",
               "nombre": "CALZ3504",
               "carpeta_id": "1IPj7bgQ8kyKuvhYEC8QhLKpzNfkM-3bP",
@@ -1342,12 +1646,104 @@
           ]
         },
         {
-          "codigo": 6,
+          "codigo": 7,
           "nombre": "Campera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 32,
+              "codigo": 47,
+              "categoria": "Campera",
+              "nombre": "CAMP1147",
+              "carpeta_id": "1UrncL1q-OwBoypAAuIGh68mNsRJOvJ1q",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Canguro Térmica con Cierre Capucha y Forro Soft"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Plush Térmico / Polar Soft con Interior Corderito"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMP1147%0A%F0%9F%94%B9%20Modelo%3A%20Canguro%20T%C3%A9rmica%20con%20Cierre%20Capucha%20y%20Forro%20Soft%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1lt_kAWX8SK6ULptGCD72zhBTL-Lw6lNz&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lt_kAWX8SK6ULptGCD72zhBTL-Lw6lNz&sz=s600-rw",
+                  "archivo_id": "1lt_kAWX8SK6ULptGCD72zhBTL-Lw6lNz",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:09:47.336Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25200,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32400,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 49,
               "categoria": "Campera",
               "nombre": "CAMP2546",
               "carpeta_id": "1bfeFTX3GM9QsKkvwVbtM3tuJaAWebtso",
@@ -1560,7 +1956,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 34,
+              "codigo": 51,
               "categoria": "Campera",
               "nombre": "CAMP5671",
               "carpeta_id": "1gc2wDVDGDyEeeAYEercM0Be8Pl4qmSc3",
@@ -1690,7 +2086,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 36,
+              "codigo": 53,
               "categoria": "Campera",
               "nombre": "CAMP5784",
               "carpeta_id": "1FA-Dfr8ZCu-TuijTi7V9ekhVm-7rHG9_",
@@ -1880,7 +2276,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 38,
+              "codigo": 55,
               "categoria": "Campera",
               "nombre": "CAMP7014",
               "carpeta_id": "1suHZ-cUbaluj8zxOVOhVMagYcTexO-WL",
@@ -2076,7 +2472,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 40,
+              "codigo": 57,
               "categoria": "Campera",
               "nombre": "CAMP8564",
               "carpeta_id": "1Bj_L7LYgS8YW_h90kQ3q04X-nEYHEH9X",
@@ -2289,7 +2685,7 @@
               "upd": "2026-06-08T03:00:00.000Z"
             },
             {
-              "codigo": 42,
+              "codigo": 59,
               "categoria": "Campera",
               "nombre": "CAMP9305",
               "carpeta_id": "13pG99CSpsOnG_NMUx_wTRDlg4NavVmDF",
@@ -2432,12 +2828,12 @@
           ]
         },
         {
-          "codigo": 7,
+          "codigo": 8,
           "nombre": "Chaleco",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
           "producto": [
             {
-              "codigo": 44,
+              "codigo": 61,
               "categoria": "Chaleco",
               "nombre": "CHAL1354",
               "carpeta_id": "1QOtAv33ucadV5gq6iXvXCQjIBXrQTNjc",
@@ -2635,12 +3031,12 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 9,
           "nombre": "Chomba",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chomba.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 63,
               "categoria": "Chomba",
               "nombre": "CHOM6216",
               "carpeta_id": "1apHFgylZPifQYUfu_gfi7YavIIKB_wLG",
@@ -2882,12 +3278,12 @@
           ]
         },
         {
-          "codigo": 9,
+          "codigo": 10,
           "nombre": "Conjunto 2",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/conjunto_2.svg",
           "producto": [
             {
-              "codigo": 49,
+              "codigo": 66,
               "categoria": "Conjunto 2",
               "nombre": "CONJ6330",
               "carpeta_id": "1eWaQIyQstQ1kVVp-RKD_n2maZUQULXud",
@@ -3134,12 +3530,12 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 11,
           "nombre": "Joggers",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/joggers.svg",
           "producto": [
             {
-              "codigo": 52,
+              "codigo": 69,
               "categoria": "Joggers",
               "nombre": "JOGG2618",
               "carpeta_id": "1JqAI1c3GqMPQSrCbiyGZH5gJouryGXIs",
@@ -3363,7 +3759,106 @@
               "upd": "2026-07-13T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 72,
+              "categoria": "Joggers",
+              "nombre": "JOGG3785",
+              "carpeta_id": "1eVDQEvcbmWSwSGt56w72wIO0fTeeevfY",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básico Liso con Puño y Bolsillos Laterales"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Friza de Algodón"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG3785%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sico%20Liso%20con%20Pu%C3%B1o%20y%20Bolsillos%20Laterales%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1wI8daRRQCk08W0tTukiaqHIe4OP8pVd-&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1wI8daRRQCk08W0tTukiaqHIe4OP8pVd-&sz=s600-rw",
+                  "archivo_id": "1wI8daRRQCk08W0tTukiaqHIe4OP8pVd-",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:15:06.519Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 12600,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 13500,
+                  "variedad": "Curva",
+                  "minima": 13,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 16200,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 75,
               "categoria": "Joggers",
               "nombre": "JOGG7126",
               "carpeta_id": "1Rd88vUpB3ok8cMQmEdfN9g733OIW0aFL",
@@ -3557,12 +4052,12 @@
           ]
         },
         {
-          "codigo": 11,
+          "codigo": 12,
           "nombre": "Jogging",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/jogging.svg",
           "producto": [
             {
-              "codigo": 58,
+              "codigo": 78,
               "categoria": "Jogging",
               "nombre": "JOGG1309",
               "carpeta_id": "1_SAhDeS44cEYHAMaQXQs3sPD707iCcWA",
@@ -3775,7 +4270,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 81,
               "categoria": "Jogging",
               "nombre": "JOGG2883",
               "carpeta_id": "1aM5JeuuyjscT7e6BiRyzgO-bIzHxp_zY",
@@ -4049,7 +4544,106 @@
               "upd": "2026-04-06T03:00:00.000Z"
             },
             {
-              "codigo": 64,
+              "codigo": 84,
+              "categoria": "Jogging",
+              "nombre": "JOGG3424",
+              "carpeta_id": "1M4AdkxBYNe5qL1Sl_Kz5-ABBnFc1Sp3n",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básico Recto con Cintura Elastizada y Bolsillos"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón con Friza"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20JOGG3424%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sico%20Recto%20con%20Cintura%20Elastizada%20y%20Bolsillos%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13A6uFFd-gtRz3c_l9JgQK9E8Lsd4eY9J&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13A6uFFd-gtRz3c_l9JgQK9E8Lsd4eY9J&sz=s600-rw",
+                  "archivo_id": "13A6uFFd-gtRz3c_l9JgQK9E8Lsd4eY9J",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:15:09.493Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19600,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 13,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25200,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 87,
               "categoria": "Jogging",
               "nombre": "JOGG9403",
               "carpeta_id": "1jHrGTj9NdAZ0Ibl6zua5ns_BHglsWvr_",
@@ -4369,12 +4963,12 @@
           ]
         },
         {
-          "codigo": 13,
+          "codigo": 14,
           "nombre": "Pantalon",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon.svg",
           "producto": [
             {
-              "codigo": 70,
+              "codigo": 93,
               "categoria": "Pantalon",
               "nombre": "PANT3853",
               "carpeta_id": "1kCR8vYSXg4_fJ4gY8xxNt_LTxCQV7ju4",
@@ -4554,7 +5148,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 96,
               "categoria": "Pantalon",
               "nombre": "PANT4725",
               "carpeta_id": "1h2AJo79m9UKuzAoVQipuuIwlvXgy6-H9",
@@ -4904,7 +5498,7 @@
               "upd": "2026-06-10T03:00:00.000Z"
             },
             {
-              "codigo": 76,
+              "codigo": 99,
               "categoria": "Pantalon",
               "nombre": "PANT5738",
               "carpeta_id": "1NcQmdJ9dA67fF5v5-_9bJhrF3loKX_6f",
@@ -5084,7 +5678,7 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 102,
               "categoria": "Pantalon",
               "nombre": "PANT7095",
               "carpeta_id": "1g2Bkm1pkwMKysNEVwbS_v4d8lQF-Ys_B",
@@ -5598,12 +6192,408 @@
           ]
         },
         {
-          "codigo": 14,
+          "codigo": 15,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 82,
+              "codigo": 105,
+              "categoria": "Remera",
+              "nombre": "REME2161",
+              "carpeta_id": "1FAtxdQ6HPYBpNa13nf__wqNfmK7-qRkA",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Oversize Lisa Cuello Redondo Manga Corta"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Peinado 24/1"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME2161%0A%F0%9F%94%B9%20Modelo%3A%20Oversize%20Lisa%20Cuello%20Redondo%20Manga%20Corta%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1e9pZ-i6VhBkDk9keVGXaS0Q-RhTgJMq7&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1e9pZ-i6VhBkDk9keVGXaS0Q-RhTgJMq7&sz=s600-rw",
+                  "archivo_id": "1e9pZ-i6VhBkDk9keVGXaS0Q-RhTgJMq7",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:04:44.094Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 10500,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 11250,
+                  "variedad": "Curva",
+                  "minima": 9,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 13500,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 108,
+              "categoria": "Remera",
+              "nombre": "REME2271",
+              "carpeta_id": "1TYkHA8wYfZVCoaUXa4nEwFh9vGhMqcsm",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básica Lisa Manga Corta Cuello Redondo"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Peinado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME2271%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sica%20Lisa%20Manga%20Corta%20Cuello%20Redondo%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1UbAGfRvTn8t3vjMAVObtAvl2A6PAJU6X&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1UbAGfRvTn8t3vjMAVObtAvl2A6PAJU6X&sz=s600-rw",
+                  "archivo_id": "1UbAGfRvTn8t3vjMAVObtAvl2A6PAJU6X",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:06:27.386Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 7700,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 8250,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 9900,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 111,
+              "categoria": "Remera",
+              "nombre": "REME4447",
+              "carpeta_id": "1OGTGXoxn8qJHLJCX4f-Z1YNUnUDqG-iL",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básica Lisa Cuello Redondo Clásica"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Básico / Urbano"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Peinado 24/1"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME4447%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sica%20Lisa%20Cuello%20Redondo%20Cl%C3%A1sica%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1IMqbrwmMeoPjqrUCRGFc-kBCii7Y5hto&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1IMqbrwmMeoPjqrUCRGFc-kBCii7Y5hto&sz=s600-rw",
+                  "archivo_id": "1IMqbrwmMeoPjqrUCRGFc-kBCii7Y5hto",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:04:33.412Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 8400,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 9000,
+                  "variedad": "Curva",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 10800,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 114,
+              "categoria": "Remera",
+              "nombre": "REME4544",
+              "carpeta_id": "1zAN-UXMshtGKRmNT2vqo-4Pcl0IW4IvC",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básica Cuello Redondo Lisa Oversize Manga Corta"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Peinado 24/1"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME4544%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sica%20Cuello%20Redondo%20Lisa%20Oversize%20Manga%20Corta%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1czYg0_4LoUX2uC7LjOqrZsW3iJdiO6Of&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1czYg0_4LoUX2uC7LjOqrZsW3iJdiO6Of&sz=s600-rw",
+                  "archivo_id": "1czYg0_4LoUX2uC7LjOqrZsW3iJdiO6Of",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:09:43.023Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 11900,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12750,
+                  "variedad": "Curva",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15300,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 117,
               "categoria": "Remera",
               "nombre": "REME4798",
               "carpeta_id": "1K991Fg48TTQGwMPyX7zwGmh1OsnBodO1",
@@ -5775,16 +6765,412 @@
                 }
               ],
               "upd": "2026-06-28T03:00:00.000Z"
+            },
+            {
+              "codigo": 120,
+              "categoria": "Remera",
+              "nombre": "REME7033",
+              "carpeta_id": "19tpTpI0gSbidsV_sI71W5FemItLeTgHP",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Básica Cuello Redondo Lisa Infantil"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Jersey Peinado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME7033%0A%F0%9F%94%B9%20Modelo%3A%20B%C3%A1sica%20Cuello%20Redondo%20Lisa%20Infantil%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1NEJ-q7dQ9eVgfbYYQM16OEi_-rqqqe1n&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NEJ-q7dQ9eVgfbYYQM16OEi_-rqqqe1n&sz=s600-rw",
+                  "archivo_id": "1NEJ-q7dQ9eVgfbYYQM16OEi_-rqqqe1n",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:09:40.525Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 7000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 7500,
+                  "variedad": "Curva",
+                  "minima": 9,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 9000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 123,
+              "categoria": "Remera",
+              "nombre": "REME7312",
+              "carpeta_id": "1J0vJqqfupOOZ8Zl3GcujnF16ODT3AV7v",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Clásica Cuello Redondo Manga Corta Lisa Básica"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Básico / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón Peinado Jersey"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME7312%0A%F0%9F%94%B9%20Modelo%3A%20Cl%C3%A1sica%20Cuello%20Redondo%20Manga%20Corta%20Lisa%20B%C3%A1sica%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1fWNsNqDpDTBPy3eZ33e3ATzbmyTkM-QU&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1fWNsNqDpDTBPy3eZ33e3ATzbmyTkM-QU&sz=s600-rw",
+                  "archivo_id": "1fWNsNqDpDTBPy3eZ33e3ATzbmyTkM-QU",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:06:40.729Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 6300,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 6750,
+                  "variedad": "Curva",
+                  "minima": 9,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 8100,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 126,
+              "categoria": "Remera",
+              "nombre": "REME8602",
+              "carpeta_id": "1DCvWYgjIGT-uwbCPBMoo5KcnNJHAuw1L",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Manga Larga Cuello Redondo Lisa Básica"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Básico / Primera Piel"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Algodón y Poliéster"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME8602%0A%F0%9F%94%B9%20Modelo%3A%20Manga%20Larga%20Cuello%20Redondo%20Lisa%20B%C3%A1sica%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1pqbVU3OidpE8hBIaW4wVvrv_3n98gkNq&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1pqbVU3OidpE8hBIaW4wVvrv_3n98gkNq&sz=s600-rw",
+                  "archivo_id": "1pqbVU3OidpE8hBIaW4wVvrv_3n98gkNq",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:11:08.853Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 9800,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 10500,
+                  "variedad": "Curva",
+                  "minima": 9,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12600,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 129,
+              "categoria": "Remera",
+              "nombre": "REME9224",
+              "carpeta_id": "1fr3NaJFB4DttKyYZ5GA3cIraSqEfGqb5",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Crop Lisa Manga Corta Cuello Redondo"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Urbano / Casual"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jersey de Algodón"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20REME9224%0A%F0%9F%94%B9%20Modelo%3A%20Crop%20Lisa%20Manga%20Corta%20Cuello%20Redondo%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1AEuzBpDlTnO8lq5MI4tZe9a-st-y0iB9&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1AEuzBpDlTnO8lq5MI4tZe9a-st-y0iB9&sz=s600-rw",
+                  "archivo_id": "1AEuzBpDlTnO8lq5MI4tZe9a-st-y0iB9",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:06:30.633Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 7000,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 7500,
+                  "variedad": "Curva",
+                  "minima": 9,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 9000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
             }
           ]
         },
         {
-          "codigo": 15,
+          "codigo": 16,
           "nombre": "Sueter",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/sueter.svg",
           "producto": [
             {
-              "codigo": 85,
+              "codigo": 132,
               "categoria": "Sueter",
               "nombre": "SUET1224",
               "carpeta_id": "1XOhGX8g3YWaYXnE-FI8RnsNuftF1up-C",
@@ -5964,7 +7350,7 @@
               "upd": "2026-06-09T03:00:00.000Z"
             },
             {
-              "codigo": 88,
+              "codigo": 135,
               "categoria": "Sueter",
               "nombre": "SUET9180",
               "carpeta_id": "17bjU-Qm0UUwxUUWmYYY-pnNpylpaGvMx",
@@ -6911,12 +8297,12 @@
           ]
         },
         {
-          "codigo": 5,
+          "codigo": 6,
           "nombre": "Camiseta",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg",
           "producto": [
             {
-              "codigo": 26,
+              "codigo": 35,
               "categoria": "Camiseta",
               "nombre": "CAMI1911",
               "carpeta_id": "1Q5b7wPHt69aVJZ1fEurBypqmZZcR786V",
@@ -7096,7 +8482,205 @@
               "upd": "2026-06-28T03:00:00.000Z"
             },
             {
-              "codigo": 29,
+              "codigo": 38,
+              "categoria": "Camiseta",
+              "nombre": "CAMI5175",
+              "carpeta_id": "1k62r1vSS9Kx2CM8jEP51tzfImRUs-HSk",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Térmica Media Polera Primera Piel Manga Larga"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Básico / Primera Piel"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Poliéster con Spandex Térmico"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI5175%0A%F0%9F%94%B9%20Modelo%3A%20T%C3%A9rmica%20Media%20Polera%20Primera%20Piel%20Manga%20Larga%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1SBGKZzrtFlG5mRYXYqjGkA8ZvQxz4SHw&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1SBGKZzrtFlG5mRYXYqjGkA8ZvQxz4SHw&sz=s600-rw",
+                  "archivo_id": "1SBGKZzrtFlG5mRYXYqjGkA8ZvQxz4SHw",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:12:31.957Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 6300,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 7650,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 8100,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 41,
+              "categoria": "Camiseta",
+              "nombre": "CAMI7351",
+              "carpeta_id": "1ZU6lGhWmG9CS9wijsh9BFpV1ORckhKA6",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Térmica Cuello Redondo Primera Piel Infantil"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "QP"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Unisex",
+                  "icono": "⚧"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Básico / Primera Piel"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Poliéster con Spandex Térmico Frisado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "INVIERNO",
+                  "icono": "❄️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": []
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": []
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "24-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1123890659,
+                  "url": "https://wa.me/5491123890659?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20CAMI7351%0A%F0%9F%94%B9%20Modelo%3A%20T%C3%A9rmica%20Cuello%20Redondo%20Primera%20Piel%20Infantil%0A%F0%9F%94%B9%20Marca%3A%20QP%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Unisex%0A%F0%9F%94%B9%20Talles%3A%20"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=13mYCslzcdp-Y5weqEEHrX25Wmh6-L5oM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=13mYCslzcdp-Y5weqEEHrX25Wmh6-L5oM&sz=s600-rw",
+                  "archivo_id": "13mYCslzcdp-Y5weqEEHrX25Wmh6-L5oM",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-24T05:12:44.723Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 6300,
+                  "variedad": "Docena",
+                  "minima": 12,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 7650,
+                  "variedad": "Pack x3",
+                  "minima": 3,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 8100,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-24T03:00:00.000Z"
+            },
+            {
+              "codigo": 44,
               "categoria": "Camiseta",
               "nombre": "CAMI9176",
               "carpeta_id": "1tW_QAPfb5ZfjGnEB8j2TLFf3g-2-lkDu",
@@ -7278,12 +8862,12 @@
           ]
         },
         {
-          "codigo": 12,
+          "codigo": 13,
           "nombre": "Medias",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/medias.svg",
           "producto": [
             {
-              "codigo": 67,
+              "codigo": 90,
               "categoria": "Medias",
               "nombre": "MEDI4227",
               "carpeta_id": "1wmL6-fv0O8AYI2w4-K93og-qkdkoagkv",
@@ -7501,5 +9085,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1794521880278
+  "timestamp_ms": 1795511042778
 }
