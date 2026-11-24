@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T04:46:14.731Z",
-  "timestamp_ms": 1795495689664,
+  "generated_at": "2026-11-24T17:01:23.779Z",
+  "timestamp_ms": 1795539827754,
   "stores": {
     "Skypia Underwear": {
       "name": "Skypia Underwear",
@@ -31,7 +31,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Tabla",
-        "printerIp": "192.168.1.34",
+        "printerIp": "192.168.1.35",
         "puntoVentaAfip": 1,
         "facturacionHabilitada": true,
         "afipUserToken": "",
@@ -8326,6 +8326,1783 @@
       ],
       "lastUpdate": "2026-09-04T16:16:08.735Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "REME4447",
+      "sku": "WS-1794015915670-1",
+      "secondarySku": "WS-1794015915670-1",
+      "model": "Básica Lisa Cuello Redondo Clásica",
+      "name": "Básica Lisa Cuello Redondo Clásica",
+      "price": 6000,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "SIN-TEMPORADA",
+      "style": "Básico / Urbano",
+      "material": "Algodón Peinado 24/1",
+      "ageGroup": "",
+      "sizes": "Surtido,S",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1IMqbrwmMeoPjqrUCRGFc-kBCii7Y5hto&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME4447-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME4447-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME4447-Menor",
+          "variedad_id": "REME4447-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 10800,
+          "precio_unitario": 10800,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME4447-Docena",
+          "variedad_id": "REME4447-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 8400,
+          "precio_unitario": 8400,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME4447-Curva",
+          "variedad_id": "REME4447-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 9000,
+          "precio_unitario": 9000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME2161",
+      "sku": "WS-1794015915679-2",
+      "secondarySku": "WS-1794015915679-2",
+      "model": "Oversize Lisa Cuello Redondo Manga Corta",
+      "name": "Oversize Lisa Cuello Redondo Manga Corta",
+      "price": 7500,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "VERANO",
+      "style": "Urbano / Casual",
+      "material": "Algodón Peinado 24/1",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1e9pZ-i6VhBkDk9keVGXaS0Q-RhTgJMq7&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME2161-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2161-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME2161-Menor",
+          "variedad_id": "REME2161-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 13500,
+          "precio_unitario": 13500,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME2161-Docena",
+          "variedad_id": "REME2161-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 10500,
+          "precio_unitario": 10500,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME2161-Curva",
+          "variedad_id": "REME2161-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 11250,
+          "precio_unitario": 11250,
+          "cantidad_minima": 9,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME2271",
+      "sku": "WS-1794015915682-3",
+      "secondarySku": "WS-1794015915682-3",
+      "model": "Básica Lisa Manga Corta Cuello Redondo",
+      "name": "Básica Lisa Manga Corta Cuello Redondo",
+      "price": 5500,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "VERANO",
+      "style": "Urbano / Casual",
+      "material": "Algodón Peinado",
+      "ageGroup": "",
+      "sizes": "Surtido,M,L,XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1UbAGfRvTn8t3vjMAVObtAvl2A6PAJU6X&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME2271-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2271-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2271-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME2271-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME2271-Menor",
+          "variedad_id": "REME2271-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 9900,
+          "precio_unitario": 9900,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME2271-Docena",
+          "variedad_id": "REME2271-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 7700,
+          "precio_unitario": 7700,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME2271-Curva",
+          "variedad_id": "REME2271-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 8250,
+          "precio_unitario": 8250,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME9224",
+      "sku": "WS-1794015915685-4",
+      "secondarySku": "WS-1794015915685-4",
+      "model": "Crop Lisa Manga Corta Cuello Redondo",
+      "name": "Crop Lisa Manga Corta Cuello Redondo",
+      "price": 5000,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Mujer",
+      "season": "VERANO",
+      "style": "Urbano / Casual",
+      "material": "Jersey de Algodón",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1AEuzBpDlTnO8lq5MI4tZe9a-st-y0iB9&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME9224-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME9224-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME9224-Menor",
+          "variedad_id": "REME9224-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 9000,
+          "precio_unitario": 9000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME9224-Docena",
+          "variedad_id": "REME9224-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 7000,
+          "precio_unitario": 7000,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME9224-Curva",
+          "variedad_id": "REME9224-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 7500,
+          "precio_unitario": 7500,
+          "cantidad_minima": 9,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME7312",
+      "sku": "WS-1794015915738-5",
+      "secondarySku": "WS-1794015915738-5",
+      "model": "Clásica Cuello Redondo Manga Corta Lisa Básica",
+      "name": "Clásica Cuello Redondo Manga Corta Lisa Básica",
+      "price": 4500,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "VERANO",
+      "style": "Básico / Casual",
+      "material": "Algodón Peinado Jersey",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1fWNsNqDpDTBPy3eZ33e3ATzbmyTkM-QU&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME7312-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7312-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME7312-Menor",
+          "variedad_id": "REME7312-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 8100,
+          "precio_unitario": 8100,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME7312-Docena",
+          "variedad_id": "REME7312-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 6300,
+          "precio_unitario": 6300,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME7312-Curva",
+          "variedad_id": "REME7312-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 6750,
+          "precio_unitario": 6750,
+          "cantidad_minima": 9,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME7033",
+      "sku": "WS-1794015915767-6",
+      "secondarySku": "WS-1794015915767-6",
+      "model": "Básica Cuello Redondo Lisa Infantil",
+      "name": "Básica Cuello Redondo Lisa Infantil",
+      "price": 5000,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "VERANO",
+      "style": "Urbano / Casual",
+      "material": "Algodón Jersey Peinado",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1NEJ-q7dQ9eVgfbYYQM16OEi_-rqqqe1n&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME7033-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME7033-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME7033-Menor",
+          "variedad_id": "REME7033-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 9000,
+          "precio_unitario": 9000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME7033-Docena",
+          "variedad_id": "REME7033-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 7000,
+          "precio_unitario": 7000,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME7033-Curva",
+          "variedad_id": "REME7033-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 7500,
+          "precio_unitario": 7500,
+          "cantidad_minima": 9,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME4544",
+      "sku": "WS-1794015915778-7",
+      "secondarySku": "WS-1794015915778-7",
+      "model": "Básica Cuello Redondo Lisa Oversize Manga Corta",
+      "name": "Básica Cuello Redondo Lisa Oversize Manga Corta",
+      "price": 8500,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "VERANO",
+      "style": "Urbano / Casual",
+      "material": "Algodón Peinado 24/1",
+      "ageGroup": "",
+      "sizes": "Surtido,3XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1czYg0_4LoUX2uC7LjOqrZsW3iJdiO6Of&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME4544-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME4544-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME4544-Menor",
+          "variedad_id": "REME4544-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 15300,
+          "precio_unitario": 15300,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME4544-Docena",
+          "variedad_id": "REME4544-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 11900,
+          "precio_unitario": 11900,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME4544-Curva",
+          "variedad_id": "REME4544-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 12750,
+          "precio_unitario": 12750,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BUZO3000",
+      "sku": "WS-1794015915784-8",
+      "secondarySku": "WS-1794015915784-8",
+      "model": "Canguro Clásico con Capucha y Bolsillo Frontal",
+      "name": "Canguro Clásico con Capucha y Bolsillo Frontal",
+      "price": 13000,
+      "minor_surcharge": 0,
+      "category": "Buzo",
+      "categoryName": "Buzo",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Friza de Algodón",
+      "ageGroup": "",
+      "sizes": "Surtido,3XL,2XL,XL,L,M,S",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1nGmP04TUv9XtZWqEFQNjbk5XZcI61tve&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "BUZO3000-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO3000-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "BUZO3000-Menor",
+          "variedad_id": "BUZO3000-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 23400,
+          "precio_unitario": 23400,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BUZO3000-Docena",
+          "variedad_id": "BUZO3000-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 18200,
+          "precio_unitario": 18200,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "BUZO3000-Curva",
+          "variedad_id": "BUZO3000-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 19500,
+          "precio_unitario": 19500,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1147",
+      "sku": "WS-1794015915791-9",
+      "secondarySku": "WS-1794015915791-9",
+      "model": "Canguro Térmica con Cierre Capucha y Forro Soft",
+      "name": "Canguro Térmica con Cierre Capucha y Forro Soft",
+      "price": 18000,
+      "minor_surcharge": 0,
+      "category": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Plush Térmico / Polar Soft con Interior Corderito",
+      "ageGroup": "",
+      "sizes": "Surtido,M,18",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1lt_kAWX8SK6ULptGCD72zhBTL-Lw6lNz&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "CAMP1147-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMP1147-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMP1147-Surtido-18-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "18",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "CAMP1147-Menor",
+          "variedad_id": "CAMP1147-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 32400,
+          "precio_unitario": 32400,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "CAMP1147-Docena",
+          "variedad_id": "CAMP1147-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 25200,
+          "precio_unitario": 25200,
+          "cantidad_minima": 12,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BUZO5374",
+      "sku": "WS-1794015915803-10",
+      "secondarySku": "WS-1794015915803-10",
+      "model": "Cuello Redondo Clásico Liso Frisado",
+      "name": "Cuello Redondo Clásico Liso Frisado",
+      "price": 14000,
+      "minor_surcharge": 0,
+      "category": "Buzo",
+      "categoryName": "Buzo",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Algodón con Friza",
+      "ageGroup": "",
+      "sizes": "Surtido,S",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1MoY9oSwKWZjWtHXrAd0w-gI3Slildmmd&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "BUZO5374-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO5374-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "BUZO5374-Menor",
+          "variedad_id": "BUZO5374-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 25200,
+          "precio_unitario": 25200,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BUZO5374-Docena",
+          "variedad_id": "BUZO5374-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 19600,
+          "precio_unitario": 19600,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "BUZO5374-Curva",
+          "variedad_id": "BUZO5374-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME8602",
+      "sku": "WS-1794015915831-11",
+      "secondarySku": "WS-1794015915831-11",
+      "model": "Manga Larga Cuello Redondo Lisa Básica",
+      "name": "Manga Larga Cuello Redondo Lisa Básica",
+      "price": 7000,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "SIN-TEMPORADA",
+      "style": "Básico / Primera Piel",
+      "material": "Algodón y Poliéster",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1pqbVU3OidpE8hBIaW4wVvrv_3n98gkNq&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME8602-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "REME8602-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME8602-Menor",
+          "variedad_id": "REME8602-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 12600,
+          "precio_unitario": 12600,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME8602-Docena",
+          "variedad_id": "REME8602-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 9800,
+          "precio_unitario": 9800,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "REME8602-Curva",
+          "variedad_id": "REME8602-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 10500,
+          "precio_unitario": 10500,
+          "cantidad_minima": 9,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI5175",
+      "sku": "WS-1794015915842-12",
+      "secondarySku": "WS-1794015915842-12",
+      "model": "Térmica Media Polera Primera Piel Manga Larga",
+      "name": "Térmica Media Polera Primera Piel Manga Larga",
+      "price": 4500,
+      "minor_surcharge": 0,
+      "category": "Camiseta",
+      "categoryName": "Camiseta",
+      "parentCategory": "ROPA INTERIOR",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Básico / Primera Piel",
+      "material": "Poliéster con Spandex Térmico",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1SBGKZzrtFlG5mRYXYqjGkA8ZvQxz4SHw&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "CAMI5175-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI5175-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "CAMI5175-Menor",
+          "variedad_id": "CAMI5175-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 8100,
+          "precio_unitario": 8100,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "CAMI5175-Docena",
+          "variedad_id": "CAMI5175-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 6300,
+          "precio_unitario": 6300,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "CAMI5175-Pack x3",
+          "variedad_id": "CAMI5175-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "precio": 7650,
+          "precio_unitario": 7650,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMI7351",
+      "sku": "WS-1794015915858-13",
+      "secondarySku": "WS-1794015915858-13",
+      "model": "Térmica Cuello Redondo Primera Piel Infantil",
+      "name": "Térmica Cuello Redondo Primera Piel Infantil",
+      "price": 4500,
+      "minor_surcharge": 0,
+      "category": "Camiseta",
+      "categoryName": "Camiseta",
+      "parentCategory": "ROPA INTERIOR",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Básico / Primera Piel",
+      "material": "Poliéster con Spandex Térmico Frisado",
+      "ageGroup": "",
+      "sizes": "Surtido,S,M,L,XL,2XL,3XL,4XL,5XL,6XL",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=13mYCslzcdp-Y5weqEEHrX25Wmh6-L5oM&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "CAMI7351-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-4XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "4XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-5XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "5XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "CAMI7351-Surtido-6XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "6XL",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "CAMI7351-Menor",
+          "variedad_id": "CAMI7351-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 8100,
+          "precio_unitario": 8100,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "CAMI7351-Docena",
+          "variedad_id": "CAMI7351-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 6300,
+          "precio_unitario": 6300,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "CAMI7351-Pack x3",
+          "variedad_id": "CAMI7351-Pack x3",
+          "nombre": "Pack x3",
+          "variedad": "Pack x3",
+          "precio": 7650,
+          "precio_unitario": 7650,
+          "cantidad_minima": 3,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG3785",
+      "sku": "WS-1794015915864-14",
+      "secondarySku": "WS-1794015915864-14",
+      "model": "Básico Liso con Puño y Bolsillos Laterales",
+      "name": "Básico Liso con Puño y Bolsillos Laterales",
+      "price": 9000,
+      "minor_surcharge": 0,
+      "category": "Joggers",
+      "categoryName": "Joggers",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Friza de Algodón",
+      "ageGroup": "",
+      "sizes": "Surtido,38,40,42,44,46,48,50,52,54,56,58,60,62",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1wI8daRRQCk08W0tTukiaqHIe4OP8pVd-&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "JOGG3785-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-38-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "38",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-40-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "40",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-42-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "42",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-44-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "44",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-46-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "46",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-48-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "48",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-50-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "50",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-52-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "52",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-54-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "54",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-56-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "56",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-58-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "58",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-60-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "60",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3785-Surtido-62-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "62",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "JOGG3785-Menor",
+          "variedad_id": "JOGG3785-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 16200,
+          "precio_unitario": 16200,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "JOGG3785-Docena",
+          "variedad_id": "JOGG3785-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 12600,
+          "precio_unitario": 12600,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "JOGG3785-Curva",
+          "variedad_id": "JOGG3785-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 13500,
+          "precio_unitario": 13500,
+          "cantidad_minima": 13,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "JOGG3424",
+      "sku": "WS-1794015915872-15",
+      "secondarySku": "WS-1794015915872-15",
+      "model": "Básico Recto con Cintura Elastizada y Bolsillos",
+      "name": "Básico Recto con Cintura Elastizada y Bolsillos",
+      "price": 14000,
+      "minor_surcharge": 0,
+      "category": "Jogging",
+      "categoryName": "Jogging",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Algodón con Friza",
+      "ageGroup": "",
+      "sizes": "Surtido,38,40,42,44,46,48,50,52,54,56,58,60,63",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=13A6uFFd-gtRz3c_l9JgQK9E8Lsd4eY9J&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "JOGG3424-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-38-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "38",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-40-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "40",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-42-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "42",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-44-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "44",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-46-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "46",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-48-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "48",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-50-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "50",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-52-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "52",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-54-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "54",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-56-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "56",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-58-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "58",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-60-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "60",
+          "stock": 0
+        },
+        {
+          "variation_id": "JOGG3424-Surtido-63-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "63",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "JOGG3424-Menor",
+          "variedad_id": "JOGG3424-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 25200,
+          "precio_unitario": 25200,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "JOGG3424-Docena",
+          "variedad_id": "JOGG3424-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 19600,
+          "precio_unitario": 19600,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "JOGG3424-Curva",
+          "variedad_id": "JOGG3424-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "cantidad_minima": 13,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BUZO9207",
+      "sku": "WS-1794015915892-16",
+      "secondarySku": "WS-1794015915892-16",
+      "model": "Canguro Liso Clásico con Capucha y Cordón Ajustable",
+      "name": "Canguro Liso Clásico con Capucha y Cordón Ajustable",
+      "price": 18000,
+      "minor_surcharge": 0,
+      "category": "Buzo",
+      "categoryName": "Buzo",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "QP",
+      "gender": "Unisex",
+      "season": "INVIERNO",
+      "style": "Urbano / Casual",
+      "material": "Friza de Algodón",
+      "ageGroup": "",
+      "sizes": "Surtido,3XL,2XL,XL,L,M,S",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1lgMZGPa_H5s1yq6b52Unp6ctSUWN9HYM&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "BUZO9207-Surtido-Surtido-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-3XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "3XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-2XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "2XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-XL-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "XL",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-L-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-M-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "variation_id": "BUZO9207-Surtido-S-Skypia Underwear",
+          "store_id": "Skypia Underwear",
+          "color": "Surtido",
+          "size": "S",
+          "stock": 0
+        }
+      ],
+      "prices": [
+        {
+          "id": "BUZO9207-Menor",
+          "variedad_id": "BUZO9207-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 32400,
+          "precio_unitario": 32400,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BUZO9207-Docena",
+          "variedad_id": "BUZO9207-Docena",
+          "nombre": "Docena",
+          "variedad": "Docena",
+          "precio": 25200,
+          "precio_unitario": 25200,
+          "cantidad_minima": 12,
+          "visible": true
+        },
+        {
+          "id": "BUZO9207-Curva",
+          "variedad_id": "BUZO9207-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-24T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -9386,8 +11163,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO VARIABLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": false,
-    "DOLAR_BLUE_VENTA": "1655",
-    "DOLAR_BLUE_COMPRA": "1675",
+    "DOLAR_BLUE_VENTA": "1670",
+    "DOLAR_BLUE_COMPRA": "1690",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -10468,6 +12245,508 @@
         "precio": 4500,
         "precio_unitario": 4500,
         "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "REME4447": [
+      {
+        "id": "REME4447-Menor",
+        "variedad_id": "REME4447-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 10800,
+        "precio_unitario": 10800,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME4447-Docena",
+        "variedad_id": "REME4447-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 8400,
+        "precio_unitario": 8400,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME4447-Curva",
+        "variedad_id": "REME4447-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "REME2161": [
+      {
+        "id": "REME2161-Menor",
+        "variedad_id": "REME2161-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 13500,
+        "precio_unitario": 13500,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME2161-Docena",
+        "variedad_id": "REME2161-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 10500,
+        "precio_unitario": 10500,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME2161-Curva",
+        "variedad_id": "REME2161-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 11250,
+        "precio_unitario": 11250,
+        "cantidad_minima": 9,
+        "visible": true
+      }
+    ],
+    "REME2271": [
+      {
+        "id": "REME2271-Menor",
+        "variedad_id": "REME2271-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 9900,
+        "precio_unitario": 9900,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME2271-Docena",
+        "variedad_id": "REME2271-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 7700,
+        "precio_unitario": 7700,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME2271-Curva",
+        "variedad_id": "REME2271-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 8250,
+        "precio_unitario": 8250,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "REME9224": [
+      {
+        "id": "REME9224-Menor",
+        "variedad_id": "REME9224-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME9224-Docena",
+        "variedad_id": "REME9224-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 7000,
+        "precio_unitario": 7000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME9224-Curva",
+        "variedad_id": "REME9224-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 7500,
+        "precio_unitario": 7500,
+        "cantidad_minima": 9,
+        "visible": true
+      }
+    ],
+    "REME7312": [
+      {
+        "id": "REME7312-Menor",
+        "variedad_id": "REME7312-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 8100,
+        "precio_unitario": 8100,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME7312-Docena",
+        "variedad_id": "REME7312-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 6300,
+        "precio_unitario": 6300,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME7312-Curva",
+        "variedad_id": "REME7312-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 6750,
+        "precio_unitario": 6750,
+        "cantidad_minima": 9,
+        "visible": true
+      }
+    ],
+    "REME7033": [
+      {
+        "id": "REME7033-Menor",
+        "variedad_id": "REME7033-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 9000,
+        "precio_unitario": 9000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME7033-Docena",
+        "variedad_id": "REME7033-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 7000,
+        "precio_unitario": 7000,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME7033-Curva",
+        "variedad_id": "REME7033-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 7500,
+        "precio_unitario": 7500,
+        "cantidad_minima": 9,
+        "visible": true
+      }
+    ],
+    "REME4544": [
+      {
+        "id": "REME4544-Menor",
+        "variedad_id": "REME4544-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 15300,
+        "precio_unitario": 15300,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME4544-Docena",
+        "variedad_id": "REME4544-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 11900,
+        "precio_unitario": 11900,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME4544-Curva",
+        "variedad_id": "REME4544-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 12750,
+        "precio_unitario": 12750,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "BUZO3000": [
+      {
+        "id": "BUZO3000-Menor",
+        "variedad_id": "BUZO3000-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 23400,
+        "precio_unitario": 23400,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BUZO3000-Docena",
+        "variedad_id": "BUZO3000-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 18200,
+        "precio_unitario": 18200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "BUZO3000-Curva",
+        "variedad_id": "BUZO3000-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 19500,
+        "precio_unitario": 19500,
+        "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "CAMP1147": [
+      {
+        "id": "CAMP1147-Menor",
+        "variedad_id": "CAMP1147-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 32400,
+        "precio_unitario": 32400,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMP1147-Docena",
+        "variedad_id": "CAMP1147-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 25200,
+        "precio_unitario": 25200,
+        "cantidad_minima": 12,
+        "visible": true
+      }
+    ],
+    "BUZO5374": [
+      {
+        "id": "BUZO5374-Menor",
+        "variedad_id": "BUZO5374-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 25200,
+        "precio_unitario": 25200,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BUZO5374-Docena",
+        "variedad_id": "BUZO5374-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 19600,
+        "precio_unitario": 19600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "BUZO5374-Curva",
+        "variedad_id": "BUZO5374-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "REME8602": [
+      {
+        "id": "REME8602-Menor",
+        "variedad_id": "REME8602-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 12600,
+        "precio_unitario": 12600,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME8602-Docena",
+        "variedad_id": "REME8602-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 9800,
+        "precio_unitario": 9800,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "REME8602-Curva",
+        "variedad_id": "REME8602-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 10500,
+        "precio_unitario": 10500,
+        "cantidad_minima": 9,
+        "visible": true
+      }
+    ],
+    "CAMI5175": [
+      {
+        "id": "CAMI5175-Menor",
+        "variedad_id": "CAMI5175-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 8100,
+        "precio_unitario": 8100,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMI5175-Docena",
+        "variedad_id": "CAMI5175-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 6300,
+        "precio_unitario": 6300,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMI5175-Pack x3",
+        "variedad_id": "CAMI5175-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "precio": 7650,
+        "precio_unitario": 7650,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "CAMI7351": [
+      {
+        "id": "CAMI7351-Menor",
+        "variedad_id": "CAMI7351-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 8100,
+        "precio_unitario": 8100,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "CAMI7351-Docena",
+        "variedad_id": "CAMI7351-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 6300,
+        "precio_unitario": 6300,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "CAMI7351-Pack x3",
+        "variedad_id": "CAMI7351-Pack x3",
+        "nombre": "Pack x3",
+        "variedad": "Pack x3",
+        "precio": 7650,
+        "precio_unitario": 7650,
+        "cantidad_minima": 3,
+        "visible": true
+      }
+    ],
+    "JOGG3785": [
+      {
+        "id": "JOGG3785-Menor",
+        "variedad_id": "JOGG3785-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 16200,
+        "precio_unitario": 16200,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG3785-Docena",
+        "variedad_id": "JOGG3785-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 12600,
+        "precio_unitario": 12600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "JOGG3785-Curva",
+        "variedad_id": "JOGG3785-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 13500,
+        "precio_unitario": 13500,
+        "cantidad_minima": 13,
+        "visible": true
+      }
+    ],
+    "JOGG3424": [
+      {
+        "id": "JOGG3424-Menor",
+        "variedad_id": "JOGG3424-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 25200,
+        "precio_unitario": 25200,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "JOGG3424-Docena",
+        "variedad_id": "JOGG3424-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 19600,
+        "precio_unitario": 19600,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "JOGG3424-Curva",
+        "variedad_id": "JOGG3424-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "cantidad_minima": 13,
+        "visible": true
+      }
+    ],
+    "BUZO9207": [
+      {
+        "id": "BUZO9207-Menor",
+        "variedad_id": "BUZO9207-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 32400,
+        "precio_unitario": 32400,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BUZO9207-Docena",
+        "variedad_id": "BUZO9207-Docena",
+        "nombre": "Docena",
+        "variedad": "Docena",
+        "precio": 25200,
+        "precio_unitario": 25200,
+        "cantidad_minima": 12,
+        "visible": true
+      },
+      {
+        "id": "BUZO9207-Curva",
+        "variedad_id": "BUZO9207-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
         "visible": true
       }
     ]
