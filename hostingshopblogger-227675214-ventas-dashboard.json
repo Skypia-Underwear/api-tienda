@@ -1915,63 +1915,6 @@
           "montoIva": 0
         },
         {
-          "id": "VTA_TEST_SIM_ENT_16_159818",
-          "fecha": "2026-08-29 20:57",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 19500,
-          "clienteId": "CLI_TEST_SIM",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI_TEST_SIM",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "Skypia Underwear",
-          "metodoPago": "TRANSFERENCIA",
-          "cajaId": "CR_TEST_SIM_Q_1_36046e51",
-          "asesor": "skypia.underwear@gmail.com",
-          "fechaCaja": "2026-09-06",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "VTA_TEST_SIM_ENT_16_159818-72",
-              "descripcion": "PRD_TEST_SIM",
-              "cantidad": 1,
-              "precioUnitario": 19500,
-              "subtotal": 19500,
-              "tipoPrecio": "N/A",
-              "productoId": "PRD_TEST_SIM",
-              "color": "N/A",
-              "talle": "N/A",
-              "variedadId": ""
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 19500,
-          "subtotal": 19500,
-          "tipoVenta": "LOCAL",
-          "compraMinima": 0,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        },
-        {
           "id": "VTA_TEST_SIM_CAN_22_e307ad",
           "fecha": "2026-10-13 20:57",
           "origen": "Pedido Local",
@@ -3272,5 +3215,5 @@
     "JOGG3424": "https://drive.google.com/thumbnail?id=13A6uFFd-gtRz3c_l9JgQK9E8Lsd4eY9J&sz=s600-rw",
     "BUZO9207": "https://drive.google.com/thumbnail?id=1lgMZGPa_H5s1yq6b52Unp6ctSUWN9HYM&sz=s600-rw"
   },
-  "timestamp_ms": 1795543712516
+  "timestamp_ms": 1795774059190
 }
